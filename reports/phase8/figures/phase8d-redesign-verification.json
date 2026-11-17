@@ -17,17 +17,17 @@
     "manuscript/phase8/all-contrasts.json": "dfe3ca2ef26bc0596cbf48146ac393a3c2e111b42ce84b6c49452c5fe71614f9",
     "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba",
     "manuscript/phase8/en.bbl": "55555844cdad4c7ba58c9f675e1de9a06dd13aa99c614d1aed5fe39a07e14cab",
-    "manuscript/phase8/en.md": "66effe4593deede8306a4a2f6f34d0e26271aa81cb1d93376820f5e0bd471376",
-    "manuscript/phase8/en.pdf": "7932968e435f080b0933ce19fbf9d70b498f9785b71725fa104a7037cb4fd880",
-    "manuscript/phase8/en.tex": "07b78fe3ea8b78382434a2a6ff17f81b1ef29c11642fef5b0fd41485c00bbe7e",
-    "manuscript/phase8/paper-bilingual-en-zh.html": "58158baeccab9ad63a995e399478295058a7f1a55f771a798bd1df9a190910eb",
+    "manuscript/phase8/en.md": "a07877b92228f16fa330d115af8921ecd3645d2c290957df3dd522cc1fd3fbc0",
+    "manuscript/phase8/en.pdf": "5a25ab07e8b237b92ca03f6db2f5fd30d14419a70eac191d5c0007e86fa18fc3",
+    "manuscript/phase8/en.tex": "3c28ab6f7ad46b9613d9a2815135c14d015c5586c0f4e390b9c50e16882cff88",
+    "manuscript/phase8/paper-bilingual-en-zh.html": "fbffe2490c67974668eef74f069c8da13afafa4ca88b684482502480cece6f34",
     "manuscript/phase8/references.bib": "8f395578e659b03eb31df094961718f874152dbdf332734e3911d96850eef89a",
-    "manuscript/phase8/supplement.pdf": "6aa94e7641da100ddae99d16b591870535b8f468b37d571c9636c32db88c537d",
-    "manuscript/phase8/supplement.tex": "951f733e93e08d18e63694a18b28558d74ba0d364f68e6abb824c7574c838068",
+    "manuscript/phase8/supplement.pdf": "f807230f799272c67735bd6b4d28e978f8e2d176b796873e66096f71431acbcc",
+    "manuscript/phase8/supplement.tex": "fd2cdb6a3befa85168ee3fe6665cc2439117666f8bd157210c908aab74e2b9fd",
     "manuscript/phase8/zh.bbl": "55555844cdad4c7ba58c9f675e1de9a06dd13aa99c614d1aed5fe39a07e14cab",
-    "manuscript/phase8/zh.md": "923a69c75d174d89f73c88f5fa9da9398f816d8ef1625a8cb0e24541222a20e3",
-    "manuscript/phase8/zh.pdf": "0e3812cd049c01e747e3bd18a797581060d3fae6b03178b4d8f8aa69c7ae4721",
-    "manuscript/phase8/zh.tex": "e22464a5068e87d234d18a22ca4e7528b105e50743690825026f273918143ff0"
+    "manuscript/phase8/zh.md": "27338243475788701fa2c1eed8d08dc3a3462f58919a30d85c0d5899ad22c181",
+    "manuscript/phase8/zh.pdf": "d3d6785633b78c669b97875e9d181fcbf7056481edfb6701503565aab678f0fb",
+    "manuscript/phase8/zh.tex": "2ebc6328a24a48f81ecda60dafe07d4f9f1727605a39efb05fe42afcd08f15b7"
   },
   "code_repositories_unchanged": {
     "NUE_PCSE-Gym": {

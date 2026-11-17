@@ -31,8 +31,7 @@ SUPP_FIGS = [
 
 AUTHOR_BLOCK_EN = (
     r'\author{'
-    r'Yongan Zhang$^{a,b,c}$, Yujie Jiang$^{a,b}$, Xiaoyuan Li$^{a,b}$,\\'
-    r'Zhiling Guo$^{a,b,*}$, Yuntian Chen$^{c,d,*}$, Jinyue Yan$^{a,b,*}$\\'
+    r'Yongan Zhang$^{a,b,c}$, Zhiling Guo$^{a,b,*}$\\'
     r'\footnotesize $^{a}$State Key Laboratory of Climate Resilience for Coastal Cities, '
     r'Department of Building Environment and Energy Engineering,\\'
     r'\footnotesize The Hong Kong Polytechnic University, Hong Kong SAR, China\\'
@@ -40,24 +39,19 @@ AUTHOR_BLOCK_EN = (
     r'The Hong Kong Polytechnic University, Hong Kong SAR, China\\'
     r'\footnotesize $^{c}$Zhejiang Key Laboratory of Industrial Intelligence and Digital Twin, '
     r'Eastern Institute of Technology, Ningbo, China\\'
-    r'\footnotesize $^{d}$Ningbo Institute of Digital Twin, Eastern Institute of Technology, '
-    r'Ningbo, Zhejiang, China\\'
-    r'\footnotesize $^{*}$Corresponding authors: guozhiling.polyu@arctura-labs.com, '
-    r'chenyuntian.eit@arctura-labs.com,\\'
-    r'\footnotesize yanjinyue.polyu@arctura-labs.com'
+    r'\footnotesize First author: zhangyongan.polyu@arctura-labs.com; '
+    r'$^{*}$Corresponding author: guozhiling.polyu@arctura-labs.com'
     r'}'
 )
 
 AUTHOR_BLOCK_ZH = (
     r'\author{'
-    r'张永安$^{a,b,c}$，江宇杰$^{a,b}$，李啸远$^{a,b}$，\\'
-    r'郭直灵$^{a,b,*}$，陈云天$^{c,d,*}$，严晋跃$^{a,b,*}$\\'
+    r'张永安$^{a,b,c}$，郭直灵$^{a,b,*}$\\'
     r'\footnotesize $^{a}$香港理工大学 建筑环境与能源工程学系 沿海城市气候韧性国家重点实验室，中国香港\\'
     r'\footnotesize $^{b}$香港理工大学 国际城市能源枢纽中心，中国香港\\'
     r'\footnotesize $^{c}$宁波东方理工大学 浙江省工业智能与数字孪生重点实验室，浙江宁波\\'
-    r'\footnotesize $^{d}$宁波东方理工大学 宁波数字孪生研究院，浙江宁波\\'
-    r'\footnotesize $^{*}$共同通讯作者：guozhiling.polyu@arctura-labs.com，'
-    r'chenyuntian.eit@arctura-labs.com，yanjinyue.polyu@arctura-labs.com'
+    r'\footnotesize 第一作者：zhangyongan.polyu@arctura-labs.com；'
+    r'$^{*}$通讯作者：guozhiling.polyu@arctura-labs.com'
     r'}'
 )
 
@@ -93,6 +87,15 @@ def md_to_latex_inline(text: str) -> str:
     s = re.sub(r'\$\$.*?\$\$', stash, text, flags=re.S)
     s = re.sub(r'\$[^$]+\$', stash, s)
 
+    # Stash URLs before escaping special chars
+    url_tokens = []
+
+    def stash_url(m):
+        url_tokens.append(f'\\url{{{m.group(0)}}}')
+        return f'@@URL{len(url_tokens) - 1}@@'
+
+    s = re.sub(r'https?://[^\s\)\],。，；]+', stash_url, s)
+
     # Convert citation groups [k1, k2] to ~\citep{k1,k2}
     cite_tokens = []
 
@@ -107,6 +110,8 @@ def md_to_latex_inline(text: str) -> str:
 
     for idx, c in enumerate(cite_tokens):
         s = s.replace(f'@@CITE{idx}@@', c)
+    for idx, u in enumerate(url_tokens):
+        s = s.replace(f'@@URL{idx}@@', u)
     for idx, t in enumerate(tokens):
         s = s.replace(f'@@TOK{idx}@@', t)
     return s

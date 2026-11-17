@@ -215,6 +215,33 @@ Important physical assumptions bound these findings and explain remaining cross-
 <!-- id:conc-body -->
 Single-system wheat nitrogen controllers fracture once global warming, strict watershed nitrate caps, volatile fertilizer markets and missing in-situ sensors collide, oscillating between zero-dose feasibility deadlocks and hidden soil organic nitrogen mining. By coupling warming-de-shifted climate analogues, watershed nitrate cap margins, bilateral market-corridor scoring and station-demeaned satellite anomalies separated from hydraulic soil baselines inside a 166.3 KB conformalized neural surrogate, AgroMAS-Global resolves this structural trade-off across five contrasting global wheat regions without heavy black-box ensembles or field hardware. First, replacing brittle tail clipping and profit-only fallbacks with continuous bilateral corridor scoring breaks the deadlock-versus-mining trap, elevating joint compliance 6.27-fold over profit-only control, matching full-budget reinforcement learning under mild climates while leading on the independent Wageningen benchmark, and compressing serialized storage over 1,690-fold below 64-tree ensembles. Second, coupling de-shifted climate branching with bilateral dynamic continuation anticipates heat-compressed crop phenology along the operational 40 kg N ha$^{-1}$ watershed ceiling, overtaking matched reinforcement learning under 1.8 and 3.5 degrees Celsius warming and widening its advantage when fertilizer prices double. Third, decoupling static soil physics from causal site-relative satellite anomalies lifts cross-continental prior gate admission from zero to 60.00 percent while clarifying that gate passage and regional soil calibration govern distinct stages of spatial deployment. Finally, verifying daily carbon-nitrogen conservation across six million transitions exposes persistent single-season humus drawdown alongside a 100 EUR ha$^{-1}$ green-subsidy inflection under moderate warming, demonstrating that durable agri-environmental policies must reward verified nutrient outcomes rather than uncalibrated prior probabilities.
 
+<!-- id:sec-decl -->
+## Declarations and Availability
+
+<!-- id:sec-dcredit -->
+### CRediT Authorship Contribution Statement
+
+<!-- id:avail-credit -->
+Yongan Zhang conceived the study, designed the multi-prior coupled architecture, developed the simulation and surrogate codebase, performed the experiments, drafted the manuscript and curated public data and model artifacts. Zhiling Guo supervised the study, validated the experimental protocol and methodological boundaries, and reviewed and edited the manuscript.
+
+<!-- id:sec-dcomp -->
+### Declaration of Competing Interest and Funding
+
+<!-- id:avail-competing -->
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper. This research received no external funding.
+
+<!-- id:sec-ddata -->
+### Data Availability
+
+<!-- id:avail-data -->
+All daily meteorological forcing datasets from NASA POWER, SoilGrids and HWSD soil hydraulic profiles, annual 64-D satellite embeddings across Australia, the United States, the Netherlands, France and China, independent Wageningen weather sequences, conformal calibration predictions, latent physical-decoding arrays and complete statistical contrast ledgers are openly archived in the project repository at https://github.com/YonganZhang/AgroMAS-Global under the GNU General Public License v3.0.
+
+<!-- id:sec-dcode -->
+### Code Availability
+
+<!-- id:avail-code -->
+All source code for the AgroMAS-Global control modules, surrogate neural network training, conformal calibration, causal satellite adaptation, invariance verification suites, reproducible figure rendering scripts, 72 frozen neural surrogate weights and 245 frozen spatial-temporal adapters, together with the local runtime patch over upstream PCSE, is publicly released under the GNU General Public License v3.0 at https://github.com/YonganZhang/AgroMAS-Global (twelve oversized tree reference binaries omitted due to file-size caps can be reproduced directly via the released reference-fitting script).
+
 <!-- id:sec-app -->
 ## Appendix Supplementary Figures
 

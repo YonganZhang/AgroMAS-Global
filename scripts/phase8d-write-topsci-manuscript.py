@@ -813,6 +813,29 @@ conc_zh = (
 )
 add_block('conc-body', conc_zh, conc_en)
 
+# Author Declarations, Data Availability & Code Availability
+add_block('sec-decl', '## 声明与开源共享', '## Declarations and Availability')
+
+add_block('sec-dcredit', '### 作者贡献', '### CRediT Authorship Contribution Statement')
+avail_credit_en = 'Yongan Zhang conceived the study, designed the multi-prior coupled architecture, developed the simulation and surrogate codebase, performed the experiments, drafted the manuscript and curated public data and model artifacts. Zhiling Guo supervised the study, validated the experimental protocol and methodological boundaries, and reviewed and edited the manuscript.'
+avail_credit_zh = '张永安负责研究构思、多先验协同控制架构设计、模拟与代理代码开发、实验执行、论文撰写与开源数据模型整理，郭直灵负责研究指导、实验方案与边界核验以及论文审阅修订。'
+add_block('avail-credit', avail_credit_zh, avail_credit_en)
+
+add_block('sec-dcomp', '### 利益冲突与基金声明', '### Declaration of Competing Interest and Funding')
+avail_comp_en = 'The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper. This research received no external funding.'
+avail_comp_zh = '作者声明不存在任何可能影响本研究客观性的已知经济利益冲突或个人关系。本研究未获外部资助。'
+add_block('avail-competing', avail_comp_zh, avail_comp_en)
+
+add_block('sec-ddata', '### 数据可用性', '### Data Availability')
+avail_data_en = 'All daily meteorological forcing datasets from NASA POWER, SoilGrids and HWSD soil hydraulic profiles, annual 64-D satellite embeddings across Australia, the United States, the Netherlands, France and China, independent Wageningen weather sequences, conformal calibration predictions, latent physical-decoding arrays and complete statistical contrast ledgers are openly archived in the project repository at https://github.com/YonganZhang/AgroMAS-Global under the GNU General Public License v3.0.'
+avail_data_zh = '本研究涉及澳大利亚、美国、荷兰、法国与中国五大产区的逐日NASA气象驱动数据、SoilGrids水力土壤剖面参数、64维年度卫星表征、瓦赫宁根独立基准气象序列、共形校准输出、隐层物理状态解码数据及全部统计检验台账均已按GNU GPL v3.0协议公开托管于项目仓库 https://github.com/YonganZhang/AgroMAS-Global 。'
+add_block('avail-data', avail_data_zh, avail_data_en)
+
+add_block('sec-dcode', '### 代码可用性', '### Code Availability')
+avail_code_en = 'All source code for the AgroMAS-Global control modules, surrogate neural network training, conformal calibration, causal satellite adaptation, invariance verification suites, reproducible figure rendering scripts, 72 frozen neural surrogate weights and 245 frozen spatial-temporal adapters, together with the local runtime patch over upstream PCSE, is publicly released under the GNU General Public License v3.0 at https://github.com/YonganZhang/AgroMAS-Global (twelve oversized tree reference binaries omitted due to file-size caps can be reproduced directly via the released reference-fitting script).'
+avail_code_zh = 'AgroMAS-Global协同控制模块源码、轻量代理神经网络训练与共形校准流程、因果卫星适配器、不变性测试套件、可复现制图脚本、72个冻结代理权重、245个跨时空线性适配器以及上游PCSE运行时补丁均已依据GNU GPL v3.0协议公开托管于 https://github.com/YonganZhang/AgroMAS-Global （受仓库单文件大小上限略去的12个大型极端随机树基准文件可通过已公开训练脚本直接复现生成）。'
+add_block('avail-code', avail_code_zh, avail_code_en)
+
 # Appendix: Compact Overview + Embedded Supplementary Figs S1-S8 without stub clutter
 add_block('sec-app', '## 附录 补充图表', '## Appendix Supplementary Figures')
 
@@ -839,6 +862,7 @@ def strip_math_and_cites(s):
     s = re.sub(r'\$\$.*?\$\$', ' ', s, flags=re.S)
     s = re.sub(r'\$[^$]*\$', ' ', s)
     s = re.sub(r'\[[^\]]+\]', ' ', s)
+    s = re.sub(r'https?://\S+', ' ', s)
     return s
 
 
