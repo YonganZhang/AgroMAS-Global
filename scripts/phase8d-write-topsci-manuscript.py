@@ -141,7 +141,7 @@ CAPTIONS = {
         '基于因果卫星距平先验的无传感器跨年与跨区迁移表现。图a为五种适配器盈余分布与达标哑铃迁移，图b为籽粒氮RMSE与达标二维泛化轨迹及置信区间，图c为五大产区二维迁移向量与准入率，图d为迁移椭圆对照。'
     ),
     'fig5.txt': (
-        'Factorial climate, policy and economic stress surface across global winter wheat regimes. '
+        'Factorial climate, policy and economic stress surface across global wheat regimes. '
         'Panels show a continuous cap-by-warming advantage contours, b threshold-dependent crossover with embedded win-tie-loss cell counts, c leave-one-region-out sensitivity ranges and d green subsidy Pareto profit-compliance trajectories with invariant native nitrogen loss insets.\n'
         '全球小麦产区气候、生态红线与经济政策全因子压力相图。图a为盈余上限与升温连续优势等值面，图b为阈值交叉曲线与45格胜平负计数，图c为逐区留一敏感区间，图d为绿色补贴Pareto演化轨迹与原生氮损失插图。'
     ),
@@ -200,8 +200,8 @@ def add_block(bid, zh_t, en_t, figs=None):
 # Title
 add_block(
     'title',
-    '# 耦合气候、流域、市场与卫星先验的小麦精准氮肥管理',
-    '# Coupling climate, watershed, market and satellite priors for precision wheat nitrogen management'
+    '# 耦合气候、流域、市场与卫星先验的小麦氮肥管理',
+    '# Coupling climate, watershed, market and satellite priors for wheat nitrogen management'
 )
 
 # Abstract (Five-Step S1-S5, ~245 EN words)
@@ -210,15 +210,15 @@ add_block('sec-abs', '## 摘要', '## Abstract')
 abs_en = (
     'Synchronizing split nitrogen fertilization in global wheat production must sustain farm profitability and grain yield while keeping seasonal efficiency inside a safe bilateral corridor and curbing watershed nitrate surplus. '
     'Conventional process-based reinforcement learning and static split rules remain confined to stationary single-station fields with full in-situ sensors, leaving unresolved how coupled decision systems behave when climate warming, stringent nitrate caps, fertilizer price surges and unseen continental transfers act together. '
-    'This work introduces AgroMAS-Global, a coupled five-specialist control framework unifying compact conformalized response surrogates, station-demeaned satellite anomaly priors and warming-de-shifted weather branching under non-anticipative three-stage planning verified by a mechanistic simulator. '
+    'This work introduces AgroMAS-Global, a coupled five-specialist framework integrating warming-de-shifted climate analogues, watershed nitrate caps, market corridors and station-demeaned satellite priors with compact conformalized surrogates under non-anticipative three-stage planning verified by a mechanistic simulator. '
     f'While remaining statistically equivalent to full-budget reinforcement learning under benign historical baselines (25.06 versus 27.00 percent compliance, 46 of 52 seasons tied, mean difference minus 1.94 percentage points, Holm p equals 1.00) and averaging 0.58 percentage points globally across all 180 factorial stress cells (40 wins, 93 ties and 47 losses), continuous bilateral coupling prevents soil-mining collapse (6.27-fold compliance gain over profit-only relaxation), breaks ahead by 5.15 and 5.61 percentage points along the operational 40 kg N ha$^{{-1}}$ ceiling under 1.8 and 3.5 degrees Celsius warming (7.19 to 8.10 percentage points under doubled prices), edges matched reinforcement learning on a seven-season Wageningen cohort (28.57 versus 19.05 percent), reduces serialized model storage over 1,690-fold versus 64-tree ensembles (166.3 KB versus 275.52 MB) alongside 38.5 percent higher compliance and up to 49.4 percent lower regret, and raises cross-continental prior gate admission from zero to 60.00 percent. '
     'These advances reveal how threshold-dependent coupling prevents both high-price humus depletion and cap-induced deadlocks.'
 )
 
 abs_zh = (
-    '全球小麦全季分期精准施氮必须在稳固产量与农户收益的同时，将表观氮利用效率锁定在双侧安全区间并抑制流域硝态氮盈余超标。'
+    '全球小麦全季分期施氮管理必须在稳固产量与农户收益的同时，将表观氮利用效率锁定在双侧安全区间并抑制流域硝态氮盈余超标。'
     '现有过程强化学习与静态农艺分期规则高度依赖气候平稳与田间传感器完备的孤立试验田，未能揭示气候变暖、严格水源红线、高肥价冲击与无传感器跨洲迁移耦合作用时的调控失效与稳健机制。'
-    '本研究提出AgroMAS-Global多系统耦合协同调控框架，将紧凑共形响应代理、站点去均值卫星距平先验与去升温偏移天气分支整合于三阶段非预知动态规划，并由独立机理引擎开展封闭检验。'
+    '本研究提出AgroMAS-Global多系统耦合五专职协同框架，将去升温偏移气候类比、流域硝态氮红线、市场经济走廊与站点去均值卫星先验融入紧凑共形代理与三阶段非预知动态规划，并由独立机理引擎开展封闭检验。'
     f'在温和历史基准上与充分预算强化学习保持统计等效（联合达标25.06%对比27.00%、52年中有46年一致、配对均值差负1.94个百分点、Holm校正p等于1.00）且180格全因子平均差为0.58个百分点（40胜、93平、47负）的前提下，连续双侧耦合彻底阻断仅收益回退诱发的土壤氮掠夺（达标率跃升6.27倍），在每公顷40千克氮常规红线叠加1.8及3.5摄氏度升温时反超匹配强化学习5.15与5.61个百分点（双倍肥价扩大至7.19至8.10个百分点），并在7季瓦赫宁根独立样本取得28.57%对比19.05%优势，同时较64棵极端随机树实现逾1,690倍存储压缩（166.3千字节对比275.52兆字节）并伴随38.5%相对达标提升与至多49.4%遗憾下降，跨洲先验门控准入率从零升至60.00%。'
     '结果表明，红线阈值依赖的多系统耦合可同步防范高肥价地力透支与严红线无肥死锁。'
 )
@@ -236,8 +236,8 @@ p1_en = (
 )
 p1_zh = (
     '二十世纪中后期以来，全球谷物增产在很大程度上依托化学氮肥投入，然而农田施氮通常不足半数被籽粒有效回收 [zhang2015]。'
-    '流失活性氮持续加剧地下水硝态氮污染、温室气体排放与流域富营养化，使冬小麦管理长期置身于粮食安全与环境减排的双重挤压 [lipper2014]。'
-    '精准配肥的核心诉求也随之从单维高产转向协调作物吸收、边界损失与长期土壤氮库维系 [chen2014]。'
+    '流失活性氮持续加剧地下水硝态氮污染、温室气体排放与流域富营养化，使小麦氮肥管理长期置身于粮食安全与环境减排的双重挤压 [lipper2014]。'
+    '现代麦田配肥的核心诉求也随之从单维高产转向协调作物吸收、边界损失与长期土壤氮库维系 [chen2014]。'
     '即便完全停施化肥，小麦仍可借助土壤有机氮矿化维持短期籽粒移出，故而单纯的低氮盈余并不足以表征生态安全 [vanderpol1992]。'
     '欧洲氮专家组为此确立了双侧养分管理走廊，要求表观氮肥利用效率落入0.50至0.90安全区且净盈余维持非负并低于流域上限 [eunep2015]。'
 )
@@ -285,7 +285,7 @@ p2_en = (
     'In parallel, annual satellite foundation embeddings created a scalable spatial representation layer beyond ground sensors [brown2025, campsvalls2025].'
 )
 p2_zh = (
-    '围绕冬小麦季内精准配肥，学术界形成了三条主要研究脉络，但各自在脱离平稳单点条件后均显露机制局限。'
+    '围绕小麦季内分期施氮管理，学术界形成了三条主要研究脉络，但各自在脱离平稳单点条件后均显露机制局限。'
     '第一条机理建模脉络在日尺度上刻画作物物候与土壤碳氮周转过程 [vandiepen1989]。'
     '早期试验数据集率先支撑了冬小麦水肥动态与氮素平衡校验 [groot1991]。'
     'WOFOST等标准平台系统确立了受水肥限制的谷物干物质生产框架 [dewit2019]。'
@@ -381,12 +381,12 @@ add_block('sec-methods', '## 2 材料与方法', '## 2 Materials and Methods')
 add_block('sec-m21', '### 2.1 问题定义与物理收支边界', '### 2.1 Problem Formulation')
 
 m21_p1_en = (
-    'Winter wheat seasonal fertilization is posed as a finite-horizon non-anticipative control problem across three sequential phenological windows triggered when observable development stage crosses 0.20, 0.55 and 0.82 [ceglar2019, baja2025]. '
+    'Seasonal wheat fertilization is posed as a finite-horizon non-anticipative control problem across three sequential phenological windows triggered when observable development stage crosses 0.20, 0.55 and 0.82 [ceglar2019, baja2025]. '
     'At each event $t \\in \\{1, 2, 3\\}$, controllers choose discrete topdressing nitrogen $u_t \\in \\{0, 10, 20, 40, 60, 80, 100\\}$ kg N ha$^{-1}$ subject to a cumulative seasonal ceiling of 220 kg N ha$^{-1}$, spanning 343 budget-legal action schedules. '
     'In the primary sensorless deployment track, real-time field telemetry of leaf area, soil water and plant nitrogen stays completely masked during online decisions.'
 )
 m21_p1_zh = (
-    '冬小麦全生育期追肥被形式化为三阶段有限时域非预知序贯控制问题，当外部可观测发育阶段依次跨越0.20、0.55与0.82阈值时触发返青、拔节与孕穗决策 [ceglar2019, baja2025]。'
+    '小麦全生育期追肥被形式化为三阶段有限时域非预知序贯控制问题，当外部可观测发育阶段依次跨越0.20、0.55与0.82阈值时触发第一至第三阶段追肥决策 [ceglar2019, baja2025]。'
     '每次决策 $t \\in \\{1, 2, 3\\}$ 仅可从离散剂量集合 $\\{0, 10, 20, 40, 60, 80, 100\\}$ 千克氮每公顷中选取方案并受总上限220千克每公顷制约，共同构成343套合法全季动作计划。'
     '主线无传感器部署轨道全程屏蔽叶面积指数、土壤墒情与植株含氮量实时田间观测，确保迁移方案不依赖昂贵在线硬件。'
 )
@@ -522,7 +522,7 @@ add_block('sec-res', '## 3 实验结果与分析', '## 3 Experimental Results')
 add_block('sec-r31', '### 3.1 数据集、典型麦区特征与代理世界模型校准', '### 3.1 Dataset and Classic Case Description')
 
 r31_p1_en = (
-    'Across four continents, the five winter wheat archetypes segregate into physically distinct climatic warming trends, soil nitrogen endowment pools and dominant EUNEP compliance regimes rather than merely replicating homogeneous field baselines (Table 1 and Fig. 2a to c). '
+    'Across four continents, the five wheat archetypes segregate into physically distinct climatic warming trends, soil nitrogen endowment pools and dominant EUNEP compliance regimes rather than merely replicating homogeneous field baselines (Table 1 and Fig. 2a to c). '
     'As shown in Fig. 2a, historical climate forcing from 1980 to 2026 exhibits pronounced late-period temperature acceleration exceeding 1.5 degrees Celsius across Europe and Australia during the locked test horizon alongside steadily declining Dutch wet ammonium and nitrate deposition [asseng2015, clo2022]. '
     'Sequential chronological splitting (1985 to 1994 spin-up, 1995 to 2009 training, 2010 to 2014 conformal development and 2015 to 2026 testing) cleanly isolates non-stationary test extremes from surrogate fitting.'
 )
@@ -556,7 +556,7 @@ tbl1_zh = (
     '| CN | 中国华北栾城 | 京津冀地下水高压区 | 12 | 5.64 | 3.43 | 0.0 | 高盈余叠加低NUE区 |'
 )
 tbl1_en = (
-    'Table 1 Physical baselines and regional nitrogen regimes across the five urban-breadbasket winter wheat archetypes.\n'
+    'Table 1 Physical baselines and regional nitrogen regimes across the five urban-breadbasket wheat archetypes.\n'
     '| Code | Representative archetype | Climatic and watershed context | Held-out n | Initial organic N (t ha$^{-1}$) | Mean grain yield (t ha$^{-1}$) | Soft-Coupled compliance (%) | Dominant failure regime |\n'
     '|---|---|---|---:|---:|---:|---:|---|\n'
     '| AU | Western Australia Perth belt | Mediterranean dryland warming belt | 11 | 17.37 | 4.87 | 63.6 | Active high-compliance dryland |\n'
@@ -828,7 +828,7 @@ add_block('sec-d53', '### 5.3 物理适用边界、实质权衡与未来展望',
 
 d53_p1_en = (
     'Important physical assumptions bound these findings and explain remaining cross-regime trade-offs. '
-    'First, even compliant seasonal controls extract approximately 221 to 224 kg N ha$^{-1}$ from baseline soil organic nitrogen within an isolated reset winter wheat season, confirming that short-term apparent corridor compliance cannot substitute for multi-year crop-rotation stock stewardship. '
+    'First, even compliant seasonal controls extract approximately 221 to 224 kg N ha$^{-1}$ from baseline soil organic nitrogen within an isolated reset wheat season, confirming that short-term apparent corridor compliance cannot substitute for multi-year crop-rotation stock stewardship. '
     'Second, lifting closed-loop cross-continental anomaly admission under frozen causal linear adapters leaves out-of-region grain nitrogen squared error marginally above static soil Ridge models (517.65 versus 505.15 kg$^2$ ha$^{-2}$), demonstrating that out-of-distribution gate passage does not automatically lower prediction error without regional fine-tuning. Simultaneously, 90 percent macro conformal coverage coexists with conditional undercoverage of 75.19 percent in semi-arid Western Australia, capping direct dryland deployment until region-stratified conformal recalibration is applied. '
     'Third, benchmark experiments rely on historical climate analogues, idealized warming shifts and complete annual prior-year satellite composites over representative regional profiles rather than operational synoptic weather forecasts, cloud-gapped near-real-time imagery, within-field textural transects or whole-farm machinery cost ledgers. Daily carbon-nitrogen balance verification confirms numerical accounting integrity within the simulator-controller pipeline rather than replacing empirical lysimeter observations. '
     'Finally, uncalibrated ecological subsidies tied directly to prior compliance probabilities risk incentivizing borderline surplus dosing without reducing deep nitrate leaching. '
@@ -852,7 +852,7 @@ conc_en = (
     'Finally, full factorial testing quantifies both a 100 EUR ha$^{{-1}}$ moderate-warming subsidy inflection and uncalibrated prior-incentive misalignment, alongside single-season soil drawdown diagnostics and double-precision accounting verification across six million daily transitions for upcoming multi-season field validation.'
 )
 conc_zh = (
-    '通过将紧凑共形响应代理、去升温偏移天气类比集合、流域氮盈余红线、社会经济双侧走廊与三阶段非预知动态规划解耦耦合于AgroMAS-Global，本研究推动小麦精准施氮从理想平稳单田走向多洲际高压协同调控。'
+    '通过将紧凑共形响应代理、去升温偏移天气类比集合、流域氮盈余红线、社会经济双侧走廊与三阶段非预知动态规划解耦耦合于AgroMAS-Global，本研究推动小麦氮肥管理从理想平稳单田走向多洲际高压协同调控。'
     f'跨越五大典型麦区的系统评估证明，连续目标保持型软耦合在温和历史年份与充分预算强化学习统计等效（52年中有46年一致、均值差负1.94个百分点、Holm校正p等于1.00）且180格全因子平均净差为0.58个百分点（40胜、93平、47负），但在关键压力带发挥决定性防塌缩效用，较仅收益回退提升6.27倍至{100*soft["region_equal"]["joint"]:.2f}%，在7季瓦赫宁根基准取得28.57%对比19.05%优势，在1.8与3.5摄氏度升温及每公顷40千克氮主流红线下净胜PPO达5.15与5.61个百分点（肥价翻倍扩至7.19至8.10个百分点），以逾1,690倍存储压缩（166.3千字节对比275.52兆字节）取得高出树基线38.5%的达标表现并削减至多49.4%遗憾，同时把跨洲无传感器先验准入率由零拉升至60.00%。'
     '同期完成的全口径土壤氮动用拆解、适度升温每公顷100欧元补贴拐点与激励错位边界分析，以及逾六百万条日步长双精度质量账面核验，为后续多年多季田间实证提供了严谨基准。'
 )

@@ -1,7 +1,7 @@
 # AgroMAS-Global
 
-**Coupling climate, watershed, market and satellite priors for precision wheat nitrogen management**  
-**耦合气候、流域、市场与卫星先验的小麦精准氮肥管理**
+**Coupling climate, watershed, market and satellite priors for wheat nitrogen management**  
+**耦合气候、流域、市场与卫星先验的小麦氮肥管理**
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
