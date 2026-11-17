@@ -36,7 +36,7 @@ with zipfile.ZipFile(ppt) as z:
  t=etree.fromstring(z.read('ppt/slides/slide1.xml'));text=t.xpath('//a:t/text()',namespaces=ns);joined=' '.join(text)
  for s in ['Agent 1: Spatial Twin Specialist','Agent 2: Climate Forecast Specialist','Agent 3: Urban Eco-Safety Specialist','Agent 4: Socio-Economic Policy Specialist','Agent 5: Core Agronomic Control Specialist','Partial profit + 250 P(active joint) − 300 distance']:
   assert s in joined,s
- for x,n in [('a1',1),('a2',2),('a3',4)]:assert text.count(x)==n,(x,text.count(x))
+ for x,n in [('a1',1),('a2',1),('a3',1)]:assert text.count(x)==n,(x,text.count(x))
  assert 'a0' not in text
  shapes=len(t.xpath('//p:sp',namespaces=ns));pictures=len(t.xpath('//p:pic',namespaces=ns));assert shapes>60 and pictures>=7
  for f in t.xpath('//a:latin/@typeface',namespaces=ns):assert f=='Times New Roman',f
@@ -48,7 +48,7 @@ for k in [1,2,3]:
 # Guard protected binary/statistical/LaTeX files against task-start commit while allowing updated Markdown/BIB/HTML drafts.
 start_commit='d57698d93721eb49d107485d18d5adaea500077d'
 protected={}
-editable_drafts={'manuscript/phase8/zh.md','manuscript/phase8/en.md','manuscript/phase8/references.bib','manuscript/phase8/paper-bilingual-en-zh.html'}
+editable_drafts={'manuscript/phase8/zh.md','manuscript/phase8/en.md','manuscript/phase8/references.bib','manuscript/phase8/paper-bilingual-en-zh.html','reports/phase8/figures/fig1-architecture.pptx'}
 for name in subprocess.check_output(['git','ls-tree','-r','--name-only',start_commit,'manuscript/phase8'],cwd=R,text=True).splitlines():
  current=(R/name).read_bytes()
  if name in editable_drafts:

@@ -34,12 +34,17 @@ for cap in caps:
    dm=joined[(joined.cap==cap)&(joined.climate==cl)&(joined.price_multiplier==pr)&(joined.subsidy==sb)].delta.mean()
    col_g=HEATMAP_CMAP(norm_a(np.clip(dm,-6,8.5)))
    a.scatter(cap+dx,dt+dy,s=68,color=col_g,edgecolor='black',lw=.55,zorder=4)
+for cap in caps:a.plot([cap,cap],[0.0,3.5],color='#7E8D96',ls=':',lw=.55,zorder=1)
+for dt in temps:a.plot([25,50],[dt,dt],color='#7E8D96',ls=':',lw=.55,zorder=1)
+a.add_patch(plt.Rectangle((25,0.0),25,3.5,fill=False,ec='#4A5860',lw=.75,zorder=3))
 a.annotate('cap 40 ridge (+5.2..+5.6 pp)\nAU +45 · US +14 · NL +13',xy=(40,2.6),xytext=(31.5,2.95),
            arrowprops=dict(arrowstyle='->',color='black',lw=.85),fontsize=6.8,
            bbox={'facecolor':'#FFFDF9','edgecolor':PINK_MAIN,'lw':.6,'alpha':.92,'pad':2.0},zorder=5)
 a.set(xticks=caps,yticks=temps,yticklabels=['0.0 (Hist)','+1.8°C','+3.5°C'],xlabel='Surplus cap S_N (kg N/ha)',ylabel='Climate warming ΔT (°C)',xlim=(23.2,51.8),ylim=(-.65,3.92))
+for sp in a.spines.values():sp.set_visible(True);sp.set_linewidth(.90);sp.set_edgecolor('#000000')
 a.tick_params(labelsize=7.8);panel(a,'a')
 cb=fig.colorbar(cf,ax=a,fraction=.042,pad=.03);cb.set_label('Soft − PPO (pp)',fontsize=8);cb.ax.tick_params(labelsize=7.5)
+for sp in cb.ax.spines.values():sp.set_visible(True);sp.set_linewidth(.85);sp.set_edgecolor('#000000')
 a.text(.02,.03,'3-dot cluster: left 1×·0 · top 2×·0 · right 1×·50 EUR',transform=a.transAxes,fontsize=6.4,bbox={'facecolor':'white','edgecolor':'none','alpha':.90,'pad':1.5})
 
 # Panel b: Surplus-Cap Warming Crossover + Embedded 45-Cell Win/Tie/Loss Stacked Bars
@@ -123,16 +128,19 @@ for j,cl in enumerate(CL):
  im=ax.imshow(arr,cmap=HEATMAP_CMAP,vmin=-50,vmax=50,aspect='auto')
  for i in range(5):
   for k,(price,sub,cap) in enumerate(conditions):
-   contrast_label(ax,k,i,f'{arr[i,k]:.0f}',im.cmap(im.norm(arr[i,k])),ha='center',va='center',fontsize=7.2)
+   contrast_label(ax,k,i,f'{arr[i,k]:.0f}',im.cmap(im.norm(arr[i,k])),ha='center',va='center',fontsize=7.2,zorder=5)
+   ax.add_patch(plt.Rectangle((k-.5,i-.5),1,1,fill=False,ec='#586670',lw=.55,zorder=2))
    if len(canon[(canon.region==REG[i])&(canon.climate==cl)&(canon.cap==cap)&(canon.price_multiplier==price)&(canon.subsidy==sub)]):
-    ax.add_patch(plt.Rectangle((k-.5,i-.5),1,1,fill=False,ec='black',lw=.8));outline_count+=1
- ax.set(yticks=range(5),yticklabels=RN if j==0 else [],xticks=range(12),xticklabels=[str(c) for p,s,c in conditions],xlabel='Surplus cap (kg N/ha) · N price ×')
+    ax.add_patch(plt.Rectangle((k-.5,i-.5),1,1,fill=False,ec='black',lw=.95,zorder=3));outline_count+=1
+ ax.set(xlim=(-.5,11.5),ylim=(4.5,-.5),yticks=range(5),yticklabels=RN if j==0 else [],xticks=range(12),xticklabels=[str(c) for p,s,c in conditions],xlabel='Surplus cap (kg N/ha) · N price ×')
  ax.tick_params(labelsize=7.8)
  if j>0:ax.tick_params(labelleft=False)
- for k in [3.5,7.5]:ax.axvline(k,color='white',lw=1.5)
+ for sp in ax.spines.values():sp.set_visible(True);sp.set_linewidth(.95);sp.set_edgecolor('#000000')
+ for k in [3.5,7.5]:ax.axvline(k,color='black',lw=1.25,zorder=4)
  for k,lab in zip([1.5,5.5,9.5],['1×·0 EUR','2×·0 EUR','1×·50 EUR']):ax.text(k,1.03,lab,transform=ax.get_xaxis_transform(),ha='center',fontsize=7.5)
  ax.text(.5,1.15,CLABS[j],transform=ax.transAxes,ha='center',fontsize=9.5);panel(ax,'abc'[j])
 assert outline_count==90
 ca=fig_s7.add_subplot(gs7[3]);cb=fig_s7.colorbar(im,cax=ca);cb.set_label('Soft − PPO (pp)',fontsize=9);cb.ax.tick_params(labelsize=8)
+for sp in ca.spines.values():sp.set_visible(True);sp.set_linewidth(.95);sp.set_edgecolor('#000000')
 fig_s7.subplots_adjust(left=.05,right=.94,top=.80,bottom=.16)
 save(fig_s7,'figs7-stress-180cell-grid','V11 Supplementary Fig. S7 (compact 1x3 appendix). Complete 180-cell Soft-PPO stress advantage surface across 3 climates with 90 canonical black continuity outlines.')

@@ -67,14 +67,17 @@ s8a=fig8.add_subplot(gs8[0])
 mat=np.array([[D['results'][tr+'-mlp']['by_region'][r][t]['latent_OOF_R2'] for t in targets] for tr in TRACKS for r in REG])
 raw=np.array([[D['results'][tr+'-mlp']['by_region'][r][t]['raw_OOF_R2'] for t in targets] for tr in TRACKS for r in REG])
 im=s8a.imshow(mat,aspect='auto',cmap=HEATMAP_CMAP,norm=TwoSlopeNorm(vmin=-.65,vcenter=0,vmax=1))
-s8a.set(xticks=range(5),xticklabels=tl,yticks=range(10),yticklabels=[tr+' · '+r for tr in ['Sensorless','Full'] for r in RN])
+s8a.set(xlim=(-.5,4.5),ylim=(9.5,-.5),xticks=range(5),xticklabels=tl,yticks=range(10),yticklabels=[tr+' · '+r for tr in ['Sensorless','Full'] for r in RN])
 s8a.tick_params(axis='y',labelsize=7.5);s8a.tick_params(axis='x',labelsize=6.8,rotation=18)
-s8a.axhline(4.5,color='black',lw=1);s8a.add_patch(plt.Rectangle((-.5,-.5),3,10,fill=False,ec='black',lw=1.5,clip_on=False))
-panel(s8a,'a');s8a.text(.02,1.03,'Frame: 30/30 required positive cells',transform=s8a.transAxes,fontsize=7.2)
+for sp in s8a.spines.values():sp.set_visible(True);sp.set_linewidth(.95);sp.set_edgecolor('#000000')
 for i in range(10):
  for j in range(5):
-  contrast_label(s8a,j,i,f'{mat[i,j]:.3f}' if 0<mat[i,j]<.01 else f'{mat[i,j]:.2f}',im.cmap(im.norm(mat[i,j])),ha='center',va='center',fontsize=7.2)
+  s8a.add_patch(plt.Rectangle((j-.5,i-.5),1,1,fill=False,ec='#586670',lw=.55,zorder=2))
+  contrast_label(s8a,j,i,f'{mat[i,j]:.3f}' if 0<mat[i,j]<.01 else f'{mat[i,j]:.2f}',im.cmap(im.norm(mat[i,j])),ha='center',va='center',fontsize=7.2,zorder=5)
+s8a.axhline(4.5,color='black',lw=1.1,zorder=3);s8a.add_patch(plt.Rectangle((-.5,-.5),3,10,fill=False,ec='black',lw=1.5,zorder=4,clip_on=False))
+panel(s8a,'a');s8a.text(.02,1.03,'Frame: 30/30 required positive cells',transform=s8a.transAxes,fontsize=7.2)
 cb=fig8.colorbar(im,ax=s8a,fraction=.042,pad=.03);cb.set_label('TRAIN latent readout R²',fontsize=8);cb.ax.tick_params(labelsize=7.5)
+for sp in cb.ax.spines.values():sp.set_visible(True);sp.set_linewidth(.85);sp.set_edgecolor('#000000')
 
 bg_d=gs8[1].subgridspec(2,1,height_ratios=[1.65,1.0],hspace=.52)
 b=fig8.add_subplot(bg_d[0]);br=fig8.add_subplot(bg_d[1]);m=S['mass_all_configurations']

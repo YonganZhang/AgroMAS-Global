@@ -169,18 +169,25 @@ for j,sc in enumerate(['LOYO','LORO']):
   q=D[(D.scheme==sc)&(D.variant==labs[i])].iloc[0];z=cases(p,benchmark='P2',scheme=sc)
   rates=[100*q.prior_acceptance_rows,100*q.prior_acceptance_world_equal,100*z.prior_accepted.sum()/z.prior_decisions.sum()]
   for k,v in enumerate(rates):
-   xx=k+(j-.5)*.32;s6a.scatter(xx,i,s=v*2.8,facecolors=PINK_MAIN if j==0 else 'white',edgecolors=PINK_MAIN if j==0 else SLATE_BLUE,lw=.9,alpha=.80)
-   s6a.text(xx,i+.31,f'{v:.0f}',ha='center',fontsize=6.5)
-s6a.set(xticks=range(3),xticklabels=['Rows','World','Closed'],yticks=range(5),yticklabels=labs,xlim=(-.55,2.55),ylim=(4.7,-.65),xlabel='Prior admission (%) · LOYO rose / LORO open')
+   xx=k+(j-.5)*.32;s6a.scatter(xx,i,s=v*2.8,facecolors=PINK_MAIN if j==0 else 'white',edgecolors=PINK_MAIN if j==0 else SLATE_BLUE,lw=.9,alpha=.80,zorder=3)
+   s6a.text(xx,i+.31,f'{v:.0f}',ha='center',fontsize=6.5,zorder=4)
+for xdiv in [0.5,1.5]:s6a.axvline(xdiv,color='#D0D7DE',lw=.55,zorder=1)
+for ydiv in [0.5,1.5,2.5,3.5]:s6a.axhline(ydiv,color='#D0D7DE',lw=.55,zorder=1)
+s6a.set(xticks=range(3),xticklabels=['Rows','World','Closed'],yticks=range(5),yticklabels=labs,xlim=(-.5,2.5),ylim=(4.5,-.5),xlabel='Prior admission (%) · LOYO rose / LORO open')
+for sp in s6a.spines.values():sp.set_visible(True);sp.set_linewidth(.90);sp.set_edgecolor('#000000')
 s6a.tick_params(labelsize=8);panel(s6a,'a')
 
 mv=np.array([[D[(D.scheme==sc)&(D.variant==p)].iloc[0]['Grain_N_MSE_'+w] for sc in ['LOYO','LORO'] for w in ['world_equal','row_pooled']] for p in labs])
 im=s6b.imshow(mv,cmap=HEATMAP_CMAP,aspect='auto',vmin=420,vmax=800)
-s6b.set(xticks=range(4),xticklabels=['LY W','LY R','LR W','LR R'],yticks=range(5),yticklabels=labs,ylim=(4.6,-.65),xlabel='Grain N MSE ((kg N/ha)²) · LY/LR · W/R')
+s6b.set(xlim=(-.5,3.5),xticks=range(4),xticklabels=['LY W','LY R','LR W','LR R'],yticks=range(5),yticklabels=labs,ylim=(4.5,-.5),xlabel='Grain N MSE ((kg N/ha)²) · LY/LR · W/R')
+for sp in s6b.spines.values():sp.set_visible(True);sp.set_linewidth(.95);sp.set_edgecolor('#000000')
 s6b.tick_params(labelsize=7.5);panel(s6b,'b')
 for i in range(5):
  for j in range(4):
-  contrast_label(s6b,j,i,f'{mv[i,j]:.0f}',im.cmap(im.norm(mv[i,j])),ha='center',va='center',fontsize=7.2)
+  s6b.add_patch(plt.Rectangle((j-.5,i-.5),1,1,fill=False,ec='#4A5860',lw=.60,zorder=2))
+  contrast_label(s6b,j,i,f'{mv[i,j]:.0f}',im.cmap(im.norm(mv[i,j])),ha='center',va='center',fontsize=7.2,zorder=4)
+s6b.axvline(1.5,color='black',lw=1.15,zorder=3)
 cb=fig_s6.colorbar(im,ax=s6b,fraction=.046,pad=.03);cb.set_label('MSE ((kg/ha)²)',fontsize=8)
+for sp in cb.ax.spines.values():sp.set_visible(True);sp.set_linewidth(.85);sp.set_edgecolor('#000000')
 fig_s6.subplots_adjust(left=.10,right=.94,top=.90,bottom=.16)
 save(fig_s6,'figs6-p2-admission-mse','V11 Supplementary Fig. S6 (2-panel compact appendix). Prior admission bubble matrix (a) and 5x4 Grain N MSE matrix (b).')

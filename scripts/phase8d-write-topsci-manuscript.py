@@ -204,181 +204,132 @@ add_block(
     '# Coupling climate, watershed, market and satellite priors for wheat nitrogen management'
 )
 
-# Abstract (Five-Step S1-S5, ~245 EN words)
+# Abstract (Five-Step S1-S5, aligned with Top-SCI exemplar & five-step norm)
 add_block('sec-abs', '## 摘要', '## Abstract')
 
 abs_en = (
-    'Synchronizing split nitrogen fertilization in global wheat production must sustain farm profitability and grain yield while keeping seasonal efficiency inside a safe bilateral corridor and curbing watershed nitrate surplus. '
-    'Conventional process-based reinforcement learning and static split rules remain confined to stationary single-station fields with full in-situ sensors, leaving unresolved how coupled decision systems behave when climate warming, stringent nitrate caps, fertilizer price surges and unseen continental transfers act together. '
-    'This work introduces AgroMAS-Global, a coupled five-specialist framework integrating warming-de-shifted climate analogues, watershed nitrate caps, market corridors and station-demeaned satellite priors with compact conformalized surrogates under non-anticipative three-stage planning verified by a mechanistic simulator. '
-    f'While remaining statistically equivalent to full-budget reinforcement learning under benign historical baselines (25.06 versus 27.00 percent compliance, 46 of 52 seasons tied, mean difference minus 1.94 percentage points, Holm p equals 1.00) and averaging 0.58 percentage points globally across all 180 factorial stress cells (40 wins, 93 ties and 47 losses), continuous bilateral coupling prevents soil-mining collapse (6.27-fold compliance gain over profit-only relaxation), breaks ahead by 5.15 and 5.61 percentage points along the operational 40 kg N ha$^{{-1}}$ ceiling under 1.8 and 3.5 degrees Celsius warming (7.19 to 8.10 percentage points under doubled prices), edges matched reinforcement learning on a seven-season Wageningen cohort (28.57 versus 19.05 percent), reduces serialized model storage over 1,690-fold versus 64-tree ensembles (166.3 KB versus 275.52 MB) alongside 38.5 percent higher compliance and up to 49.4 percent lower regret, and raises cross-continental prior gate admission from zero to 60.00 percent. '
-    'These advances reveal how threshold-dependent coupling prevents both high-price humus depletion and cap-induced deadlocks.'
+    'Global wheat production relies on split nitrogen fertilization to sustain farm profitability and grain yield while keeping seasonal nitrogen use efficiency within a bilateral safety corridor and curbing watershed nitrate surplus. '
+    'However, climate warming variability, stringent drinking-water surplus caps, fertilizer price volatility and sensorless cross-continental adaptation couple non-linearly across agroecosystems, leaving stationary single-field heuristics and unconstrained reinforcement learning vulnerable to zero-dose deadlocks, profit-driven soil nitrogen mining and cross-regional rejection. '
+    'To resolve this multi-system coupling challenge, AgroMAS-Global couples warming-de-shifted climate analogues, watershed nitrate ceilings, bilateral market corridors and station-demeaned satellite priors inside compact conformalized neural surrogates under non-anticipative three-stage planning, validated against an external mechanistic referee across five contrasting global wheat regions, temporal and continental holdouts and a 180-cell factorial stress matrix. '
+    f'Under mild historical baselines, AgroMAS-Global preserves statistical parity with full-budget reinforcement learning ({100*soft["region_equal"]["joint"]:.2f} versus {100*ppo["region_equal"]["joint"]:.2f} percent compliance across 52 farm-years, 46 seasons tied, Holm p equals 1.00), whereas under resource-constrained and unseen seasonal tests it leads matched reinforcement learning across seven independent Wageningen seasons (28.57 versus 19.05 percent), multiplies compliance 6.27-fold over profit-only fallback, compresses serialized storage over 1,690-fold below 64-tree ensembles (166.3 KB versus 275.52 MB) alongside 38.5 percent higher compliance, and cuts ranking regret by 40.8 to 49.4 percent. '
+    'Multi-prior coupling ablations confirm that stripping eco-safety screening, continuous corridor gradients, mining penalties or dynamic continuation forfeits 20.5 to 84.0 percent relative compliance or triggers empty-set zero-dose deadlocks, whereas decoupling static soil baselines from station-demeaned satellite anomalies raises cross-continental prior gate admission from zero to 60.00 percent (20.39 percent out-of-region compliance) with bounded prediction error (517.65 versus 505.15 squared kg N per ha). '
+    'Across the 180-cell climate, watershed and market stress surface (0.58 percentage-point global margin), multi-prior coupling outperforms reinforcement learning by 5.15 and 5.61 percentage points along the operational 40 kg N ha$^{-1}$ ceiling under 1.8 and 3.5 degrees Celsius warming (7.19 to 8.10 percentage points under doubled prices), exposes a 100 EUR ha$^{-1}$ moderate-warming Pareto inflection alongside uncalibrated subsidy misalignment, and verifies daily nitrogen and carbon mass conservation across more than six million transitions. '
+    'AgroMAS-Global establishes a generalizable multi-prior coupling paradigm that reconciles yield stability, watershed protection and farm income resilience without field sensors or heavy black-box networks.'
 )
 
 abs_zh = (
-    '全球小麦全季分期施氮管理必须在稳固产量与农户收益的同时，将表观氮利用效率锁定在双侧安全区间并抑制流域硝态氮盈余超标。'
-    '现有过程强化学习与静态农艺分期规则高度依赖气候平稳与田间传感器完备的孤立试验田，未能揭示气候变暖、严格水源红线、高肥价冲击与无传感器跨洲迁移耦合作用时的调控失效与稳健机制。'
-    '本研究提出AgroMAS-Global多系统耦合五专职协同框架，将去升温偏移气候类比、流域硝态氮红线、市场经济走廊与站点去均值卫星先验融入紧凑共形代理与三阶段非预知动态规划，并由独立机理引擎开展封闭检验。'
-    f'在温和历史基准上与充分预算强化学习保持统计等效（联合达标25.06%对比27.00%、52年中有46年一致、配对均值差负1.94个百分点、Holm校正p等于1.00）且180格全因子平均差为0.58个百分点（40胜、93平、47负）的前提下，连续双侧耦合彻底阻断仅收益回退诱发的土壤氮掠夺（达标率跃升6.27倍），在每公顷40千克氮常规红线叠加1.8及3.5摄氏度升温时反超匹配强化学习5.15与5.61个百分点（双倍肥价扩大至7.19至8.10个百分点），并在7季瓦赫宁根独立样本取得28.57%对比19.05%优势，同时较64棵极端随机树实现逾1,690倍存储压缩（166.3千字节对比275.52兆字节）并伴随38.5%相对达标提升与至多49.4%遗憾下降，跨洲先验门控准入率从零升至60.00%。'
-    '结果表明，红线阈值依赖的多系统耦合可同步防范高肥价地力透支与严红线无肥死锁。'
+    '全球小麦生产依赖分期施氮管理以保障农户收益与籽粒产量，同时必须将表观氮利用效率锁定在双侧安全区间并抑制流域硝态氮盈余超标。'
+    '然而，气候变暖波动、严格水源红线、化肥价格剧变与无传感器跨洲外推在真实农田呈非线性耦合，使平稳单田启发式规则与无约束强化学习极易陷入零追肥死锁、逐利性土壤氮掠夺与跨区拒答。'
+    '为解决这一多系统耦合难题，本研究提出AgroMAS-Global多先验协同控制框架，将去升温偏移气候类比、流域硝态氮红线、市场双侧走廊与站点去均值卫星先验融入紧凑共形神经代理与三阶段非预知动态规划，并在外部机理引擎上跨越五大典型麦区、跨年跨洲盲测与180格全因子压力矩阵开展独立验证。'
+    f'在温和历史基准上，AgroMAS-Global与充分预算强化学习保持统计等效（52个农场年联合达标率{100*soft["region_equal"]["joint"]:.2f}%对比{100*ppo["region_equal"]["joint"]:.2f}%，46年一致，Holm校正p等于1.00），在7季瓦赫宁根独立样本取得28.57%对比19.05%优势，较仅收益回退实现6.27倍达标跃升，同时较64棵极端随机树将序列化存储压缩逾1,690倍（166.3千字节对比275.52兆字节）并高出38.5%达标率、压降40.8%至49.4%排序遗憾。'
+    '多先验耦合消融表明，移除生态安全红线、连续走廊梯度、防透支罚项或动态续策会损失20.5%至84.0%相对达标率甚至引发零肥死锁，而剥离静态土壤基线与站点去均值卫星距平可将跨洲先验门控准入率由零拉升至60.00%（跨洲达标20.39%）并界定出外推预测均方误差边界（517.65对比土壤基线505.15）。'
+    '在180格全因子压力曲面上（全局净差0.58个百分点），多先验耦合于每公顷40千克氮常规红线在1.8与3.5摄氏度升温下领先强化学习5.15与5.61个百分点（双倍肥价扩大至7.19至8.10个百分点），识别出适度升温每公顷100欧元补贴帕累托拐点及无校准补贴激励错位风险，并在逾600万条日状态演替上完成双精度氮碳质量守恒检验。'
+    'AgroMAS-Global确立了一种可推广的多先验协同调控范式，在不依赖田间传感器与重参数黑箱的前提下实现了产量稳固、流域减排与农户收益抗风险能力的统一。'
 )
 add_block('abs-body', abs_zh, abs_en)
 
-# Section 1: Introduction (P1-P5, 80/10/10 citations, zero journal names)
+# Section 1: Introduction (P1-P5, 80/10/10 citations, zero journal names, author-named, NO paper-roadmap sentence)
 add_block('sec-intro', '## 1 引言', '## 1 Introduction')
 
 p1_en = (
-    'Global cereal productivity doubled over the late twentieth century chiefly through synthetic nitrogen inputs, yet less than half of applied fertilizer nitrogen enters harvested grain worldwide [zhang2015]. '
-    'Unrecovered nitrogen accelerates aquifer nitrate contamination, nitrous oxide emissions and coastal eutrophication, tightening the mid-century tension between food security and climate mitigation [lipper2014]. '
-    'Wheat nitrogen management has therefore moved beyond yield maximization to co-regulating crop uptake, hydrological losses and soil organic nitrogen turnover across contrasting agroecosystems [chen2014]. '
-    'Because unfertilized wheat still harvests nitrogen mineralized from native soil humus, a low seasonal surplus by itself never guarantees sustainable stewardship [vanderpol1992]. '
-    'To prevent such disguised soil mining, the European Nitrogen Expert Panel instituted a safe bilateral corridor requiring apparent nitrogen use efficiency between 0.50 and 0.90 alongside nonnegative surplus below watershed limits [eunep2015].'
+    'Over the late twentieth century, widespread adoption of synthetic fertilizers doubled global cereal output, yet global nutrient budgets compiled by Zhang et al. [zhang2015] reveal that less than half of applied fertilizer nitrogen enters harvested grain worldwide. '
+    'Excess reactive nitrogen accelerates aquifer nitrate leaching, nitrous oxide emissions and coastal eutrophication, intensifying the conflict between food security and environmental protection highlighted by Lipper et al. [lipper2014]. '
+    'Wheat nitrogen management has accordingly expanded from single-dimensional yield pursuit to jointly regulating crop uptake, hydrological export and soil organic nitrogen turnover across diverse cropping zones [chen2014]. '
+    'Crucially, field balance diagnostics by Van der Pol [vanderpol1992] established that even unfertilized cereals continue harvesting nitrogen mineralized from native soil humus, meaning that a low or negative seasonal surplus alone hides long-term soil fertility depletion. '
+    'To prevent such disguised soil mining while limiting hydrological runoff, the European Nitrogen Expert Panel [eunep2015] instituted a bilateral safety corridor requiring apparent nitrogen use efficiency between 0.50 and 0.90 alongside nonnegative surplus below catchment ceilings.'
 )
 p1_zh = (
-    '二十世纪中后期以来，全球谷物增产在很大程度上依托化学氮肥投入，然而农田施氮通常不足半数被籽粒有效回收 [zhang2015]。'
-    '流失活性氮持续加剧地下水硝态氮污染、温室气体排放与流域富营养化，使小麦氮肥管理长期置身于粮食安全与环境减排的双重挤压 [lipper2014]。'
-    '现代麦田配肥的核心诉求也随之从单维高产转向协调作物吸收、边界损失与长期土壤氮库维系 [chen2014]。'
-    '即便完全停施化肥，小麦仍可借助土壤有机氮矿化维持短期籽粒移出，故而单纯的低氮盈余并不足以表征生态安全 [vanderpol1992]。'
-    '欧洲氮专家组为此确立了双侧养分管理走廊，要求表观氮肥利用效率落入0.50至0.90安全区且净盈余维持非负并低于流域上限 [eunep2015]。'
+    '二十世纪中后期以来，化学氮肥的广泛施用推动全球谷物单产成倍增长，但Zhang等 [zhang2015] 编制的全球养分收支表明，投入农田的化学氮素不足半数进入收获籽粒。'
+    '未能回收的活性氮持续加剧地下水硝态氮污染、温室气体排放与近海富营养化，使Lipper等 [lipper2014] 揭示的粮食安全与生态环境保护矛盾不断收紧。'
+    '小麦氮肥管理也随之从单维高产转向兼顾作物吸收、水文流失与土壤有机氮库周转的跨产区协同调控 [chen2014]。'
+    '尤为关键的是，Van der Pol [vanderpol1992] 的田间收支诊断证实，即便完全停施化肥，麦田仍会持续吸收原生土壤腐殖质矿化释放的氮素，因此单纯的低盈余甚至负盈余并不能代表生态安全，反而可能掩盖慢性土壤肥力耗竭。'
+    '为同步防范隐蔽性土壤氮透支与流域水体污染，欧洲氮专家组 [eunep2015] 正式确立了双侧安全走廊准则，要求表观氮肥利用效率维持在0.50至0.90之间且净盈余保持非负并低于流域上限。'
 )
 add_block('intro-p1', p1_zh, p1_en)
 
 p2_en = (
-    'Prior investigations toward operationalizing seasonal nitrogen stewardship evolved along three distinct routes, each encountering critical friction outside stationary benchmark plots. '
-    'Along the biophysical modeling route, dynamic process simulators resolve daily phenology, biomass partitioning and coupled soil carbon-nitrogen cycling [vandiepen1989]. '
-    'Foundational field datasets calibrated early winter wheat nitrogen balance routines [groot1991]. '
-    'Mature platforms such as WOFOST standardized water-limited cereal assimilate prediction [dewit2019]. '
-    'Subsequent wheat phenology updates strengthened European cultivar timing accuracy [ceglar2019]. '
-    'Recent soil-nitrogen couplings connected crop uptake directly with mineral and organic nitrogen pools to inform nitrate directives [berghuijs2024]. '
-    'Parallel multi-crop platforms expanded management and soil representation across North American wheat belts [jones2003]. '
-    'CropSyst quantified multi-year cropping sequence nutrient balances [stockle2003]. '
-    'APSIM refined water-nitrogen interactions across drought-prone Mediterranean and subtropical systems [holzworth2014]. '
-    'Regional yield-gap protocols bridged field simulations to strategic intensification assessments [vanittersum2013]. '
-    'Spatial upscaling methods projected point diagnostics onto national production atlases [vanbussel2015]. '
-    'Continental crop monitoring systems operationalized routine in-season forecasting across arable plains [vandervelde2019]. '
-    'Along the agronomic stewardship route, multi-site trials matched split topdressing rates with crop developmental demand [cui2010]. '
-    'Global syntheses established timing and placement rules improving cereal fertilizer recovery [fageria2005]. '
-    'Chinese meta-analyses identified water-fertilizer thresholds optimizing joint productivity [yang2022]. '
-    'Site-specific nutrient advisories raised nitrogen efficiency across intensive smallholder wheat plains [wang2020]. '
-    'Sandy-soil field experiments quantified leaching abatement from reduced split regimes [faber2021]. '
-    'Precision farming reviews cataloged canopy sensors and variable-rate application workflows [fountas2015]. '
-    'Global indicator frameworks harmonized efficiency and surplus reporting across farming systems [norton2015]. '
-    'Commercial farm surveys uncovered wide efficiency dispersion within intensive European arable zones [silva2021]. '
-    'Recent monitoring across northwestern European arable rotations confirmed persistent room to trim excess inputs without yield loss [ravensbergen2024]. '
-    'Regulatory syntheses linked uniform surplus caps to groundwater restoration targets [eu2016, fao2019, klages2020]. '
-    'Long-term soil profiles further documented heavy deep nitrate accumulation under semi-humid plains [zhou2016] and sluggish organic carbon turnover across decades [huang2007]. '
-    'Nevertheless, static split prescriptions falter whenever spring drought or heatwaves compress grain filling and alter soil mineralization [altenbach2003, iizumi2016]. '
-    'Along the sequential optimization route, researchers linked simulators with digital twins and reinforcement learning to automate split timing [pylianidis2021]. '
-    'Methodological reviews mapped sequential control opportunities under environmental stochasticity [gautron2022a]. '
-    'Constrained multi-objective optimization established safety foundations for policy trade-offs [censor1977, roijers2013, achiam2017]. '
-    'Initial gym wrappers turned crop models into reinforcement learning testbeds [overweg2021]. '
-    'Subsequent environments added stochastic weather and rotation variability [gautron2022b]. '
-    'Multi-year platforms like CyclesGym enabled soil nitrogen optimization across rotations [turchetta2022], while modular interfaces separated physical state evolution from noisy observations [maillard2023]. '
-    'Deep reinforcement learning policies curbed inputs in stationary single-site climates [wu2022]. '
-    'Imitation warm-starts accelerated policy discovery in agronomic action spaces [tao2022]. '
-    'Watershed-coupled learners explored downstream nitrate load reductions [madondo2023]. '
-    'Domain randomization countered transition drift across heterogeneous environments [tobin2017]. '
-    'Reward design analyses warned that mis-weighted scalar objectives induce unintended shortcut exploitation [eschmann2021]. '
-    'Safe reinforcement learning suites standardized constraint evaluation protocols [ji2023, sutton2018]. '
-    'Notably, Baja and collaborators applied constrained reinforcement learning within a nitrogen-enabled wheat model to target bilateral efficiency at a single Dutch site [baja2025]. '
-    'Harmonized soil grids supplied continuous physical property priors across unmeasured croplands [poggio2021]. '
-    'In parallel, annual satellite foundation embeddings created a scalable spatial representation layer beyond ground sensors [brown2025, campsvalls2025].'
+    'Existing agricultural nitrogen stewardship studies evolved along three primary routes, yet each encounters critical friction when climate shifts, tight watershed caps, price shocks and sensorless regional transfer interact outside stationary benchmark stations. '
+    'Along the biophysical modeling route, dynamic process simulators resolve daily crop phenology, biomass partitioning and soil nitrogen turnover, beginning with Van Diepen et al. [vandiepen1989] on WOFOST water-limited crop growth and Groot and Verberne [groot1991] on winter wheat nitrogen balance calibration. '
+    'Mature platforms consolidated by De Wit et al. [dewit2019] standardized regional simulation workflows, while Ceglar et al. [ceglar2019] refined European wheat phenology accuracy and Berghuijs et al. [berghuijs2024] coupled crop nitrogen uptake directly with mineral and organic soil pools to evaluate nitrate directives. '
+    'In parallel, multi-crop simulation environments developed by Jones et al. [jones2003] for management diversity, Stockle et al. [stockle2003] for continuous multi-year nutrient accounting and Holzworth et al. [holzworth2014] for semi-arid water-nitrogen coupling broadened field process coverage, whereas Van Ittersum et al. [vanittersum2013], Van Bussel et al. [vanbussel2015] and Van der Velde et al. [vandervelde2019] scaled point simulations to regional yield gaps and continental monitoring. '
+    'Along the agronomic management route, multi-site fertilization rules introduced by Cui et al. [cui2010] and Fageria and Baligar [fageria2005] aligned split topdressing with stage-specific crop nitrogen demand. '
+    'Empirical syntheses by Yang et al. [yang2022] and Wang et al. [wang2020] quantified water-nitrogen thresholds and advisory gains across intensive wheat belts, while light-soil trials by Faber et al. [faber2021] and sensor workflows reviewed by Fountas et al. [fountas2015] improved field placement. '
+    'Using harmonized indicator frameworks [norton2015], farm surveys by Silva et al. [silva2021] and monitoring by Ravensbergen et al. [ravensbergen2024] uncovered substantial room to trim surplus across commercial arable farms, and European and global directives [eu2016, fao2019, klages2020] tied uniform surplus limits to groundwater protection, even as Zhou et al. [zhou2016] and Huang et al. [huang2007] documented multi-decadal deep nitrate retention and slow humus turnover. '
+    'Nevertheless, static calendar prescriptions cannot anticipate within-season droughts or heatwaves that compress grain filling and alter soil mineralization [altenbach2003, iizumi2016]. '
+    'Along the sequential optimization route, digital-twin control reviews by Pylianidis et al. [pylianidis2021] and Gautron et al. [gautron2022a] built on multi-objective constrained optimization foundations [censor1977, roijers2013, achiam2017] to automate dynamic split decisions. '
+    'Process-simulator wrappers by Overweg et al. [overweg2021] and Gautron et al. [gautron2022b], together with multi-year rotation suites by Turchetta et al. [turchetta2022] and modular observation interfaces by Maillard et al. [maillard2023], converted agronomic models into reinforcement learning testbeds. '
+    'Early deep policy learners by Wu et al. [wu2022], imitation warm-starts by Tao et al. [tao2022] and watershed-coupled agents by Madondo et al. [madondo2023] reduced fertilizer inputs across stationary benchmarks, while domain randomization by Tobin et al. [tobin2017], reward analyses by Eschmann [eschmann2021] and safe evaluation suites [ji2023, sutton2018] clarified safety-shortcut trade-offs. '
+    'Most closely related to this work, Baja et al. [baja2025] integrated constrained reinforcement learning into a nitrogen-coupled wheat simulator to target bilateral efficiency at a single Dutch station, yet relied on continuous station sensors and isolated climatic baselines, even as soil grids by Poggio et al. [poggio2021] and annual satellite embeddings [brown2025, campsvalls2025] opened scalable global spatial representations without ground telemetry.'
 )
 p2_zh = (
-    '围绕小麦季内分期施氮管理，学术界形成了三条主要研究脉络，但各自在脱离平稳单点条件后均显露机制局限。'
-    '第一条机理建模脉络在日尺度上刻画作物物候与土壤碳氮周转过程 [vandiepen1989]。'
-    '早期试验数据集率先支撑了冬小麦水肥动态与氮素平衡校验 [groot1991]。'
-    'WOFOST等标准平台系统确立了受水肥限制的谷物干物质生产框架 [dewit2019]。'
-    '物候参数化改进进一步提升了欧洲冬小麦发育期预测精度 [ceglar2019]。'
-    '近年的氮扩展模块则把作物吸收直接耦合至土壤有机与矿质氮库以评估硝酸盐法规 [berghuijs2024]。'
-    '同期DSSAT拓展了北美麦区多元轮作与耕作模拟能力 [jones2003]。'
-    'CropSyst形式化构建了长周期养分连续收支模型 [stockle2003]。'
-    'APSIM则面向地中海型雨养旱作强化了水分硝态氮迁移描述 [holzworth2014]。'
-    '产量差诊断架构打通了田块模拟与区域增产潜力评估之间的桥梁 [vanittersum2013]。'
-    '空间尺度上推规程随即将站点诊断延展至国家粮食图谱 [vanbussel2015]。'
-    '洲际农情系统继而支撑了全欧尺度的季内动态产量预测 [vandervelde2019]。'
-    '第二条农艺试验脉络致力于使分期施肥速率与作物阶段需氮同步 [cui2010]。'
-    '全球农艺评述凝练出通过优化施期与基追比例提升恢复率的关键规律 [fageria2005]。'
-    '中国主产麦区的荟萃分析界定了水氮协同增效的田间管理阈值 [yang2022]。'
-    '养分专家系统推荐帮助广大农户麦田显著提高了化肥利用效率 [wang2020]。'
-    '轻质砂土田间试验定量测得减量分期追肥在削减硝态氮淋洗上的实效 [faber2021]。'
-    '精准农业综述系统分类了冠层光谱与变量施肥装备路径 [fountas2015]。'
-    '国际评价准则统一了效率与净盈余的跨体系核算口径 [norton2015]。'
-    '商业农场调查揭示了同一高产区内集约田块效率参差不齐的普遍现实 [silva2021]。'
-    '西北欧商业地块监测确认不减产前提下仍存在较大降盈余空间 [ravensbergen2024]。'
-    '政策评估进而将统一盈余上限直接锚定于地下水保护红线 [eu2016, fao2019, klages2020]。'
-    '华北长期定位监测同时记录了深层剖面厚重硝态氮滞留 [zhou2016] 与有机氮库缓慢周转规律 [huang2007]。'
-    '但当春季干旱或花后高温打乱物候节律时，静态配方难以动态前瞻修正 [altenbach2003, iizumi2016]。'
-    '第三条序贯优化脉络将过程模拟器、数字孪生与强化学习结合，追求全季自主寻优 [pylianidis2021]。'
-    '方法综述总结了强化学习应对农田随机气象与延迟反馈的独特潜力 [gautron2022a]。'
-    '多目标与约束策略理论奠定了安全序贯权衡的数学基础 [censor1977, roijers2013, achiam2017]。'
-    '初代交互接口首次将机理作物模型改造为强化学习训练环境 [overweg2021]。'
-    '后续平台逐步纳入随机气象生成与轮作序列变异性 [gautron2022b]。'
-    'CyclesGym拓展了多季土壤氮演化控制基准 [turchetta2022]，模块化界面进一步解耦了物理状态与观测噪声 [maillard2023]。'
-    '深度强化学习在单站稳态气候下展现出显著节肥潜力 [wu2022]。'
-    '模仿学习预训练有效缓解了连续农艺空间冷启动收敛慢的难题 [tao2022]。'
-    '流域尺度耦合探索亦开始面向面源硝态氮减排寻优 [madondo2023]。'
-    '域随机化方法缓解了模拟器向目标环境迁移时的动态漂移 [tobin2017]。'
-    '奖励机制研究同时警示不当标量权重极易诱发算法投机取巧 [eschmann2021]。'
-    '安全强化学习基准规范了多约束策略的统计检验流程 [ji2023, sutton2018]。'
-    '代表性工作如Baja等将约束强化学习接入扩展氮平衡小麦模型，率先在荷兰单站检验了双侧效率区间调控 [baja2025]。'
-    '全球土壤物理图谱为未测农田提供了标准化质地与水力基底 [poggio2021]。'
-    '同期年度地球卫星基础表征模型的成熟则开启了不依赖田间传感器实现跨洲泛化的新窗口 [brown2025, campsvalls2025]。'
+    '围绕小麦氮肥协同调控，学术界已沿机理模拟、农艺分期调控与序贯智能优化三条路径深入推进，但走出单一试验田稳态条件后，既有范式在多系统耦合压力下仍普遍失配。'
+    '第一条机理建模路径在日尺度上解析作物物候发育与土壤碳氮周转，始于Van Diepen等 [vandiepen1989] 建立受水肥制约的WOFOST动态生长模型以及Groot等 [groot1991] 构建的冬小麦水氮田间校验数据集。'
+    '随后De Wit等 [dewit2019] 凝练形成标准化定量作物模拟平台，Ceglar等 [ceglar2019] 改进了欧洲小麦物候期参数化精度，Berghuijs等 [berghuijs2024] 则进一步将作物吸氮耦合至土壤矿质氮与有机氮库以评估硝酸盐环境指令。'
+    '同期，Jones等 [jones2003] 拓展的DSSAT平台、Stockle等 [stockle2003] 构建的CropSyst多年轮作养分收支体系以及Holzworth等 [holzworth2014] 面向干旱麦区的APSIM水氮模拟框架完善了多元农作制表达，而Van Ittersum等 [vanittersum2013]、Van Bussel等 [vanbussel2015] 与Van der Velde等 [vandervelde2019] 完成了田块产量差向区域及洲际农情预测的尺度上推。'
+    '第二条农艺调控路径致力于协调分期施肥时间与作物关键生育期需氮节律，Cui等 [cui2010] 与Fageria等 [fageria2005] 确立了高产低污分期施氮基本原则，Yang等 [yang2022] 与Wang等 [wang2020] 分别量化了中国主产麦区的水肥协同阈值及推荐施肥减氮成效，Faber等 [faber2021] 与Fountas等 [fountas2015] 则细化了轻质土减淋洗追肥与冠层变量施肥流程。'
+    '依托统一的国际养分指标体系 [norton2015]，Silva等 [silva2021] 与Ravensbergen等 [ravensbergen2024] 在商业农场大样本调查中揭示出不减产前提下的显著降盈余空间，区域环保指令 [eu2016, fao2019, klages2020] 也据此把统一盈余上限锚定于地下水安全红线，而Zhou等 [zhou2016] 与Huang等 [huang2007] 则记录了深层剖面硝态氮厚重滞留与土壤有机碳数十年尺度的缓慢周转。'
+    '然而，静态农艺配方缺乏季内动态前瞻修正能力，难以应对花前春旱或热害对灌浆期与矿化节奏的突发冲击 [altenbach2003, iizumi2016]。'
+    '第三条序贯智能优化路径将机理模拟器与强化学习相连接，Pylianidis等 [pylianidis2021] 与Gautron等 [gautron2022a] 基于多目标约束优化理论 [censor1977, roijers2013, achiam2017] 系统梳理了随机农业序贯控制前景。'
+    'Overweg等 [overweg2021] 与Gautron等 [gautron2022b] 先后把过程作物模型封装为交互式决策环境，Turchetta等 [turchetta2022] 与Maillard等 [maillard2023] 进一步扩展了多季土壤演替与状态观测分离接口。'
+    'Wu等 [wu2022] 的深度强化学习节肥策略、Tao等 [tao2022] 的模仿热启动以及Madondo等 [madondo2023] 的流域面源协同减排探索验证了静态单站节肥潜力，同时Tobin等 [tobin2017]、Eschmann [eschmann2021] 与安全学习基准研究 [ji2023, sutton2018] 揭示了环境漂移与标量奖励投机风险。'
+    '与本文最为接近的研究是Baja等 [baja2025] 基于含氮扩展小麦模型开展的荷兰单站约束强化学习，但该工作高度依赖连续田间传感器且局限于单一平稳气候，未能把握全球土壤图谱 [poggio2021] 与地球卫星基础表征 [brown2025, campsvalls2025] 带来的无传感器跨洲协同契机。'
 )
 add_block('intro-p2', p2_zh, p2_en)
 
 p3_en = (
-    'Despite these advances, current constrained controllers remain anchored to an isolated single-field formulation exhibiting four coupled structural gaps [baja2025]. '
-    'First, instantaneous policies ignore post-decision weather uncertainty and anthropogenic warming trends, leaving controllers unable to balance impending leaching storms against late-season drought risk [asseng2015]. '
-    'Second, uniform station assumptions overlook tight peri-urban watershed nitrate ceilings where strict hard filtering frequently empties candidate sets and triggers zero-dose deadlock [eu1991, klages2020]. '
-    'Third, uncalibrated scalar rewards fail under input price shocks, allowing profit-seeking agents to boost short-term income by withholding nitrogen and mining soil humus [eschmann2021, tan2005]. '
-    'Fourth, telemetry-dependent learners require expensive continuous field sensors, whereas feeding raw global satellite vectors into models conflates static geographic identity with seasonal dynamics [gaso2023, roberts2017]. '
-    'This motivates two central scientific questions. How do continuous bilateral corridor retention and climate-adjusted forecast uncertainty govern the transition among deadlock, soil nitrogen mining and joint compliance across coupled climate, watershed and price stress. And can causal decomposition of static soil baselines from station-demeaned satellite anomalies enable reliable sensorless adaptation across contrasting continents without inflating predictive error.'
+    'Across heterogeneous wheat production systems, achieving resilient seasonal nitrogen management without in-situ field telemetry is hindered by four coupled structural gaps in existing constrained controllers [baja2025]. '
+    'First, at the climate boundary, reactive controllers omit post-decision rainfall uncertainty and scenario warming shifts, leaving schedules unable to separate leaching storms from heat-compressed grain filling [asseng2015]. '
+    'Second, at the watershed boundary, rigid feasibility filtering collapses under stringent urban nitrate caps where pruning uncertain upper tails empties candidate action sets and forces zero-topdressing deadlocks [eu1991, klages2020]. '
+    'Third, at the market and soil boundary, uncalibrated scalar incentives fail during fertilizer price spikes, enabling profit-driven policies to harvest short-term income by withholding fertilizer and mining soil humus [eschmann2021, tan2005]. '
+    'Fourth, at the spatial observation boundary, feeding raw annual satellite embeddings directly alongside static weather priors conflates fixed station identity with seasonal fertility anomalies [gaso2023, roberts2017]. '
+    'The core scientific question is how continuous bilateral corridor coupling, warming-de-shifted forecast uncertainty and causal satellite-soil separation co-regulate the transition among zero-dose deadlock, humus mining and joint compliance across contrasting global wheat systems without real-time field sensors.'
 )
 p3_zh = (
-    '尽管研究持续深入，既有最前沿约束控制仍被锁定在孤立单试验田假设之中，暴露出四项互为因果的结构性科研缺口 [baja2025]。'
-    '首先，既有策略仅对过往及瞬时状态作被动反应，缺乏前瞻天气分支不确定性与升温偏移校正，无法分辨追肥后降雨究竟有利吸收还是加剧淋洗 [asseng2015]。'
-    '其次，单一稳态田块假设脱离真实城郊水源地生态红线，一旦氮盈余上限收紧，传统硬约束过滤极易陷入无解空集死锁 [eu1991, klages2020]。'
-    '再次，静态奖励缺乏高肥价防透支护栏，经济压力下策略往往靠少施或不施肥换取短期账面收益并悄然掏空土壤有机氮库 [eschmann2021, tan2005]。'
-    '最后，在线遥测策略仰赖昂贵田间监测设备，而把高维全球卫星表征直接喂入模型则会将固定站点身份与年际气象波动混为一谈 [gaso2023, roberts2017]。'
-    '由此凝聚出两个核心科学问题。其一，在气候变暖、流域红线与肥价冲击多重压力下，连续双侧走廊保留与气象不确定性校准如何支配可行域死锁、土壤透支与联合达标之间的机制切换。其二，将静态土壤基线与站点历史去均值卫星距平因果解耦后，无传感器控制能否实现稳健的跨洲迁移而不陷入先验准入与实际误差脱节。'
+    '因此，在缺乏田间连续传感器的现实农区实现稳健小麦氮肥管理，仍受制于现有约束控制架构中的四重耦合科研缺口 [baja2025]。'
+    '首先，在气候先验端，既有被动反应策略忽略了追肥后降水不确定性与气候变暖偏移，难以及时区分淋洗暴雨与热害逼熟风险 [asseng2015]。'
+    '其次，在流域红线端，刚性尾部筛查在严格水源盈余上限下极易将合法候选动作剪裁为空集，进而酿成无差别零追肥死锁 [eu1991, klages2020]。'
+    '再次，在市场经济与土壤碳氮库端，未经防透支校准的标量激励在化肥涨价冲击下纵容算法停施化肥并消耗土壤有机氮以换取账面高收益 [eschmann2021, tan2005]。'
+    '最后，在空间遥感观测端，将高维全球卫星表征直接灌入模型会把固定地理站位标签与季节养分动态混为一谈，导致陌生大洲先验全面失效 [gaso2023, roberts2017]。'
+    '由此凝练出的核心科学问题是，在气候变暖、流域红线与肥价波动并发且无在线传感器的条件下，连续双侧走廊耦合、去升温天气分支校准与因果卫星土壤先验分离如何共同支配零施肥死锁、土壤氮透支与双侧达标之间的机制切换规律。'
 )
 add_block('intro-p3', p3_zh, p3_en)
 
 p4_en = (
-    'Closing these coupled gaps carries direct significance because fertilization failures cascade simultaneously across harvest stability, drinking-water compliance and farm solvency. '
-    'Existing benchmarks focus predominantly on benign historical single-station years where simple heuristics already achieve comparable apparent performance, concealing acute controller fragility under compounding shocks [baja2025]. '
-    'Without explicit bilateral corridor gradients, distributional uncertainty calibration and multi-region verification, advisory systems risk imposing zero-dose stalls in nitrate-vulnerable catchments or encouraging hidden organic nitrogen depletion under market stress [zhou2016, booth2023]. '
-    'Equally important, naive green subsidies linked directly to uncalibrated model probabilities may elevate farm payouts without curbing watershed losses. '
-    'Quantifying failure transitions across contrasting global archetypes therefore gives agronomists and catchment managers transparent operating boundaries prior to deployment [goldenits2024].'
+    'Leaving this four-way coupling gap unresolved imposes compounding agronomic, environmental and fiscal failures across wheat breadbaskets. '
+    'Evaluating controllers solely on tranquil historical single-station plots allows simple static heuristics and brittle constraints to mask acute collapse risk whenever stressors co-occur [baja2025]. '
+    'Without continuous bilateral gradients, strict hard caps halt fertilization inside nitrate-sensitive catchments and depress yields, whereas unconstrained economic maximization silently draws down organic nitrogen pools under market stress [zhou2016, booth2023]. '
+    'Similarly, without calibrated prior bounds, green subsidies linked directly to nominal compliance probabilities inflate farm payouts without reducing subsurface nitrate drainage. '
+    'Resolving these coupled interactions enables agronomists and basin managers to map verified operating boundaries across contrasting climate, policy and price regimes prior to field deployment [goldenits2024].'
 )
 p4_zh = (
-    '回应上述科学问题具有紧迫的农学与环境意义，因为配肥决策失当会同步波及粮食供给、水源达标与农户收入。'
-    '当前领域普遍依赖温和单站历史年份开展基准对决，不同方法在平顺条件下的表面一致严重掩盖了多重胁迫叠加时的策略脆性 [baja2025]。'
-    '若缺少连续双侧走廊梯度、严格校准的预测不确定性边界与跨产区独立验证，决策系统便可能在水源保护区酿成零追肥减产僵局，或在肥价攀升时纵容掠夺土壤氮库的伪最优陷阱 [zhou2016, booth2023]。'
-    '而在公共政策端，直接与未经校准先验概率挂钩的生态补贴极易消耗预算却难以下降深层淋溶。'
-    '因此，跨典型产区刻画调控相变规律，可为农技推广与流域治理提前划定清晰可信的运行安全边界 [goldenits2024]。'
+    '若这一四维耦合科学问题长期悬而未决，小麦主产区将承受产效、水源保护与公共财政的多重失灵风险。'
+    '仅依托温和历史单站年份评测策略，会令不同算法在平顺条件下的表面等效严重掩盖多重压力并发时的崩塌脆性 [baja2025]。'
+    '缺少连续双侧走廊梯度时，偏严的环保红线会在水源保护区引致全季零追肥减产僵局，而缺少防透支护栏的利润寻优则会在高肥价下掏空耕地长期肥力 [zhou2016, booth2023]。'
+    '同样地，若生态补贴直接挂钩未经共形校准的名义先验概率，公共资金支出虽不断攀升却难以压降深层硝态氮淋洗。'
+    '因此，揭示多先验交互相变律并确立可溯源校准边界，能够为气候胁迫与严苛水源红线下的农技推广与政策设计提供定量决策支撑 [goldenits2024]。'
 )
 add_block('intro-p4', p4_zh, p4_en)
 
 p5_en = (
-    'To answer these questions, this study establishes AgroMAS-Global, a coupled five-specialist numerical architecture integrating spatial twin inference, de-shifted warming analogue forecasting, urban watershed safety screening, socio-economic corridor scoring and three-stage non-anticipative dynamic planning over an independent mechanistic crop-soil referee. '
-    'Validation spans five global urban-breadbasket archetypes in Perth, Wichita, Lelystad, Beauce and Luancheng across historical baselines, temporal and cross-continental satellite holdouts, and a complete climate-cap-price-subsidy factorial surface. '
-    'Three primary contributions advance coupled agricultural control. First, continuous bilateral corridor retention combined with non-anticipative continuation remains equivalent to reinforcement learning across mild historical years while preventing profit-driven soil-mining collapse (6.27-fold compliance gain), leading under 1.8 and 3.5 degrees Celsius warming and doubled fertilizer prices at the 40 kg N ha$^{-1}$ cap, and cutting serialized ensemble storage over 1,690-fold versus 64-tree baselines with 38.5 percent higher compliance. Second, conformalized zero-mean residual integration and station-demeaned satellite decomposition raise cross-continental prior gate admission from zero to 60.00 percent while transparently delineating out-of-region error bounds. Third, full factorial stress testing exposes cap-dependent warming crossovers, uncalibrated prior-subsidy misalignment and strict double-precision accounting verification across over six million daily transitions. '
-    'Section 2 formulates the methodology, Section 3 analyzes comparative, ablation and spatial transfer experiments, Section 4 investigates factorial stress regimes and mass closure, and Sections 5 and 6 synthesize mechanisms and conclusions.'
+    'To close these four structural gaps, this study establishes AgroMAS-Global, a coupled control architecture uniting four domain prior specialists for spatial, climate, watershed and market inference with a fifth core agronomic planning specialist evaluated over an independent mechanistic crop-soil referee across five representative wheat benchmarks in Perth, Wichita, Lelystad, Beauce and Luancheng. '
+    'First, to preserve corridor feasibility under tight nitrate limits and high input prices within a minimal memory footprint, compact conformalized three-seed neural surrogates are coupled with continuous bilateral efficiency-surplus utilities inside three-stage non-anticipative continuation. '
+    'Second, to stabilize within-season topdressing under climate warming and uncertain storms, observed meteorological prefixes are de-shifted for scenario warming prior to historical analogue branching while retaining elevated temperature and carbon-dioxide physiology along decision trajectories. '
+    'Third, to unlock sensorless cross-continental adaptation without conflating geography with seasonal dynamics, hydraulic soil physical baselines are separated from causal station-demeaned annual satellite anomalies. '
+    'Comparative, ablation, transfer and 180-cell factorial stress evaluations show that AgroMAS-Global matches full-budget reinforcement learning across stationary historical years while preventing soil-mining collapse (6.27-fold compliance gain), cutting serialized storage over 1,690-fold versus 64-tree ensembles alongside 38.5 percent higher compliance, lifting cross-continental prior gate admission from zero to 60.00 percent, leading by 5.15 and 5.61 percentage points along the 40 kg N ha$^{-1}$ ceiling under warming stress, and upholding daily mass conservation across six million transitions.'
 )
 p5_zh = (
-    '为此，本研究构建了AgroMAS-Global多系统耦合五专职数值协同架构，将空间孪生代理推理、去升温偏移天气类比预报、城市生态安全筛查、社会经济双侧走廊评分与三阶段非预知农艺规划严密耦合并由独立机理引擎封闭校验。'
-    '研究基于澳大利亚珀斯、美国威奇托、荷兰莱利斯塔德、法国巴黎盆地与华北平原栾城五大全球城郊麦区，覆盖历史基准、跨年跨洲无传感器迁移及气候政策经济全因子压力场景开展系统实证。'
-    '本文凝练出三项核心学术贡献。其一，连续双侧走廊保留与三阶段非预知规划在温和历史年与强化学习保持等效并彻底遏制土壤透支塌缩（达标较仅收益回退提升6.27倍），在40千克红线叠加1.8与3.5摄氏度升温及高肥价下实现反超，同时代理序列化存储较集成树缩减逾1,690倍且达标高出38.5%。其二，共形零均值联合残差与站点因果距平分离将跨洲先验门控准入从零拉升至60.00%，并诚实界定准入率与定量预测误差间的边界。其三，全因子压力曲面揭示了红线依赖型升温交叉律与先验补贴激励错位风险，并在逾六百万条日状态记录上完成双精度账面核验。'
-    '第2节阐述方法与校准协议，第3节展示数据、对比、消融与时空迁移结果，第4节剖析全因子压力与物理闭合检验，第5与第6节探讨科学机理与全文结论。'
+    '为弥合上述四重结构性缺口，本研究构建了多先验协同控制框架AgroMAS-Global，将空间孪生、气候类比、城市流域红线与社会经济双侧走廊四大先验模块协同接入第五个核心农艺规划模块，并由独立机理作物土壤裁判跨越澳大利亚珀斯、美国威奇托、荷兰莱利斯塔德、法国巴黎盆地与华北栾城五大典型麦区开展封闭验证。'
+    '第一，面向严格红线与高肥价下的防死锁、防透支与轻量化部署需求，构建共形零均值联合残差校准的三随机种子轻量神经代理与连续双侧走廊三阶段非预知动态规划。'
+    '第二，面向气候变暖与季节暴雨的不确定权衡，在历史天气类比前缀检索阶段剥离情景增温偏移，同时于下游分支完整保留高温与二氧化碳生理胁迫效应。'
+    '第三，面向无传感器跨洲迁移的先验失真瓶颈，将水力土壤物理基线与严格基于历史年份去均值的站点因果卫星距平分离。'
+    '系统的对比、消融、迁移及180格全因子压力试验证实，AgroMAS-Global在温和历史年保持与充分预算强化学习统计等效并较仅收益回退提升6.27倍达标率，较64棵树集成实现逾1,690倍存储压缩且达标高出38.5%，跨洲先验门控准入升至60.00%，在升温与主流40千克红线下净胜强化学习5.15与5.61个百分点，并在逾六百万条日步长上通过双精度质量守恒检验。'
 )
 add_block('intro-p5', p5_zh, p5_en)
 
-# Section 2: Materials and Methods (~1,150 EN words)
-add_block('sec-methods', '## 2 材料与方法', '## 2 Materials and Methods')
+# Section 2: Methodology (Readable 3-section structure with motivation-first sub-sections)
+add_block('sec-methods', '## 2 研究方法', '## 2 Methodology')
 
-add_block('sec-m21', '### 2.1 问题定义与物理收支边界', '### 2.1 Problem Formulation')
+add_block('sec-m21', '### 2.1 问题定义', '### 2.1 Problem Formulation')
 
 m21_p1_en = (
     'Seasonal wheat fertilization is posed as a finite-horizon non-anticipative control problem across three sequential phenological windows triggered when observable development stage crosses 0.20, 0.55 and 0.82 [ceglar2019, baja2025]. '
@@ -420,7 +371,7 @@ m21_p3_zh = (
 )
 add_block('m21-p3', m21_p3_zh, m21_p3_en)
 
-add_block('sec-m22', '### 2.2 AgroMAS-Global 多专职协同架构', '### 2.2 AgroMAS-Global Architecture')
+add_block('sec-m22', '### 2.2 多先验耦合控制架构', '### 2.2 Multi-Prior Coupled Control Architecture')
 
 m22_intro_en = (
     'Collapsing competing meteorological, environmental and economic constraints into an unstructured scalar reward frequently induces shortcut depletion or constraint deadlock whenever stressors interact. '
@@ -432,9 +383,9 @@ m22_intro_zh = (
     '为此，AgroMAS-Global 将决策流程清晰解耦为地空孪生、气候预测、城市生态安全、社会经济政策与核心农艺统筹五大数值专职模块，各模块仅传递公开气象历史与校准概率分布，并与外部只读 WOFOST81-SNOMIN 过程模型保持严格隔离的物理裁判边界（图1）。'
     '跨越完整遥测与无传感器双轨道共30组配对不变性检验（每组覆盖323套合法预算动作组合）实证了五专职协同决策与单体集成求解在动作输出上达成100.0%零偏差严格一致，从而确证系统增益完全来源于因果卫星适应、去升温天气分支、连续双侧走廊评分及非预知动态续策四大物理机理算子。'
 )
-add_block('m22-intro', m22_intro_zh, m22_intro_en, figs=['@fig reports/phase8/figures/fig1-candidates/candidate-b-v4-best.png | reports/phase8/figures/captions-v12/fig1.txt | Fig. 1'])
+add_block('m22-intro', m22_intro_zh, m22_intro_en, figs=['@fig reports/phase8/figures/fig1-architecture.png | reports/phase8/figures/captions-v12/fig1.txt | Fig. 1'])
 
-add_block('sec-m221', '#### 2.2.1 地空孪生响应代理与因果卫星距平解耦', '#### 2.2.1 Spatial Twin Specialist and Causal Satellite Prior Adaptation')
+add_block('sec-m221', '#### 2.2.1 卫星与土壤空间先验耦合', '#### 2.2.1 Satellite and Soil Spatial Prior Coupling')
 
 m221_en = (
     'Online search across hundreds of budget-legal fertilization sequences precludes slow daily mechanistic loops and favors smooth calibrated surrogates running in sub-millisecond batches. '
@@ -461,7 +412,7 @@ m221_zh2 = (
 )
 add_block('m221-p2', m221_zh2, m221_en2)
 
-add_block('sec-m222', '#### 2.2.2 气候预测类比分支与社会经济走廊协同控制', '#### 2.2.2 Climate Analogue Branching, Bilateral Corridor Scoring, and Dynamic Continuation')
+add_block('sec-m222', '#### 2.2.2 气候、流域与市场先验耦合', '#### 2.2.2 Climate, Watershed, and Market Prior Coupling')
 
 m222_en = (
     'To anticipate post-topdressing leaching storms and warming compression without peeking at realized weather, the climate specialist strips scenario warming offsets $\\Delta T_{\\text{scen}}$ from observed prefixes before matching historical weather analogues, thereby preserving daily rainfall clustering statistics while retaining full elevated temperature and carbon-dioxide covariates along physiological branches [asseng2015]. '
@@ -491,7 +442,7 @@ m222_zh2 = (
 )
 add_block('m222-p2', m222_zh2, m222_en2)
 
-add_block('sec-m23', '### 2.3 共形校准与防泄漏时空验证策略', '### 2.3 Conformal Surrogate Calibration and Spatiotemporal Validation Strategy')
+add_block('sec-m23', '### 2.3 模型校准与验证策略', '### 2.3 Calibration and Validation Strategy')
 
 m23_p1_en = (
     'Rather than approximating surrogate error through independent Gaussian variances that break coupling between yield and grain nitrogen uptake, out-of-fold errors are partitioned across five regions and three stages into 15 residual strata, sorted by surplus residual into 32 equiprobable quantile vectors and centered strictly to zero stratum mean to prevent systematic bias. '
@@ -515,11 +466,11 @@ m23_p2_zh = (
 )
 add_block('m23-p2', m23_p2_zh, m23_p2_en)
 
-# Section 3: Experimental Results — Locked Top-SCI 5-Part Structure (3.1 - 3.5)
-add_block('sec-res', '## 3 实验结果与分析', '## 3 Experimental Results')
+# Section 3: Experimental Results — Readable Five-Section Structure (3.1 - 3.5)
+add_block('sec-res', '## 3 实验结果', '## 3 Experimental Results')
 
-# 3.1 Dataset and Classic Case Description (~350 EN words, Table 1 + Fig. 2a-d deep walkthrough)
-add_block('sec-r31', '### 3.1 数据集、典型麦区特征与代理世界模型校准', '### 3.1 Dataset and Classic Case Description')
+# 3.1 Dataset and Benchmark Regions (~350 EN words, Table 1 + Fig. 2a-d deep walkthrough)
+add_block('sec-r31', '### 3.1 数据集与典型麦区说明', '### 3.1 Dataset and Benchmark Regions')
 
 r31_p1_en = (
     'Across four continents, the five wheat archetypes segregate into physically distinct climatic warming trends, soil nitrogen endowment pools and dominant EUNEP compliance regimes rather than merely replicating homogeneous field baselines (Table 1 and Fig. 2a to c). '
@@ -580,7 +531,7 @@ r31_p3_zh = (
 add_block('r31-p3', r31_p3_zh, r31_p3_en, figs=['@fig reports/phase8/figures/fig2-g1.png | reports/phase8/figures/captions-v12/fig2.txt | Fig. 2'])
 
 # 3.2 Experimental Setup and Parameter Configuration (~190 EN words)
-add_block('sec-r32', '### 3.2 实验设置与基线参数规模对比', '### 3.2 Experimental Setup and Parameter Configuration')
+add_block('sec-r32', '### 3.2 实验设置与参数配置', '### 3.2 Experimental Setup and Parameter Configuration')
 
 r32_setup_en = (
     'To test whether lightweight domain-coupled intelligence matches or surpasses heavy tree ensembles and on-policy reinforcement learning without real-time field sensors, AgroMAS-Global (Soft-Coupled) is evaluated against three controller paradigms sharing identical 220 kg N ha$^{-1}$ budgets and legal action masks. '
@@ -598,7 +549,7 @@ r32_setup_zh = (
 add_block('r32-setup', r32_setup_zh, r32_setup_en)
 
 # 3.3 Comparative Experiments — PRIMARY CORE (~560 EN words, Table 2 + Fig. 3a-d deep panel-by-panel walkthrough)
-add_block('sec-r33', '### 3.3 多策略综合对比实验与季内物理机制解析', '### 3.3 Comparative Experiments')
+add_block('sec-r33', '### 3.3 对比实验', '### 3.3 Comparative Experiments')
 
 r33_comp1_en = (
     'Across mild historical baselines, multi-specialist coupling matches full-budget reference controllers in overall frequency while preventing uncoupled soil-mining collapses and outperforming alternative surrogates and degraded planners (Table 2 and Fig. 3). '
@@ -665,8 +616,8 @@ tbl2_en = (
 )
 add_block('tbl-2', tbl2_zh, tbl2_en, figs=['@fig reports/phase8/figures/fig2-p1-regimes.png | reports/phase8/figures/captions-v12/fig3.txt | Fig. 3'])
 
-# 3.4 Ablation Experiments — SECONDARY CORE (Concise causal chain, ~230 EN words, Table 3)
-add_block('sec-r34', '### 3.4 关键机制消融实验与失效路径验证', '### 3.4 Ablation Experiments')
+# 3.4 Multi-Prior Coupling Ablation Experiments — SECONDARY CORE (Concise causal chain, ~230 EN words, Table 3)
+add_block('sec-r34', '### 3.4 多先验耦合消融实验', '### 3.4 Multi-Prior Coupling Ablation Experiments')
 
 r34_p1_en = (
     'Single-module ablations distinguish primary safety guardrails whose removal collapses system compliance from finer predictive couplings that govern edge-regime refinements (Table 3 and Supplementary Figs. S1 and S3 to S5). '
@@ -704,8 +655,8 @@ tbl3_en = (
 )
 add_block('tbl-3', tbl3_zh, tbl3_en)
 
-# 3.5 Sensitivity and Spatiotemporal Transfer Experiments (~390 EN words, Fig. 4a-d deep panel-by-panel walkthrough)
-add_block('sec-r35', '### 3.5 无传感器时空迁移与卫星先验敏感性边界', '### 3.5 Sensitivity and Spatiotemporal Transfer Experiments')
+# 3.5 Coupling Mechanism and Transfer Sensitivity Experiments (~390 EN words, Fig. 4a-d deep panel-by-panel walkthrough)
+add_block('sec-r35', '### 3.5 耦合机理与跨区迁移敏感性实验', '### 3.5 Coupling Mechanism and Transfer Sensitivity Experiments')
 
 r35_p1_en = (
     f'Sensitivity tests across temporal leave-one-year-out and cross-continental leave-one-region-out holdouts (40 unpooled post-2019 seasons) answer the second scientific question by defining exact empirical limits for causal satellite adaptation without field sensors (Fig. 4). '
@@ -730,10 +681,10 @@ r35_p2_zh = (
 )
 add_block('r35-p2', r35_p2_zh, r35_p2_en, figs=['@fig reports/phase8/figures/fig3-p2-transfer.png | reports/phase8/figures/captions-v12/fig4.txt | Fig. 4'])
 
-# Section 4: Progressive 3-Stage Stress & Physical Closure (~820 EN words)
-add_block('sec-stress', '## 4 气候经济压力交叉、绿色政策校准与物理闭合检验', '## 4 Multi-Factor Stress Regimes, Policy Calibration, and Physical Closure')
+# Section 4: Progressive 3-Stage Stress & Nutrient Accounting (~820 EN words)
+add_block('sec-stress', '## 4 多系统压力验证与氮碳收支核算', '## 4 Multi-System Stress Verification and Nutrient Accounting')
 
-add_block('sec-s41', '### 4.1 气候变暖与盈余红线耦合交叉律及高肥价抗逆性', '### 4.1 Cap-Dependent Warming Crossover and Fertilizer Price Resilience')
+add_block('sec-s41', '### 4.1 气候、流域与市场耦合压力评估', '### 4.1 Coupled Climate, Watershed, and Market Stress Evaluation')
 
 s41_p1_en = (
     'Crossing climate warming scenarios, watershed surplus ceilings, fertilizer price shocks and green subsidies across 180 factorial configurations demonstrates that policy ranking depends strongly on coupled threshold-warming regimes rather than uniform dominance (Fig. 5a to c and Supplementary Fig. S7). '
@@ -757,7 +708,7 @@ s41_p2_zh = (
 )
 add_block('s41-p2', s41_p2_zh, s41_p2_en)
 
-add_block('sec-s42', '### 4.2 绿色生态补贴Pareto轨迹与先验激励错位风险', '### 4.2 Green Subsidy Pareto Trajectories and Prior-Incentive Misalignment')
+add_block('sec-s42', '### 4.2 绿色补贴政策响应分析', '### 4.2 Green Subsidy Policy Response Analysis')
 
 s42_p1_en = (
     'Tracing directed multi-objective trajectories in partial profit versus joint compliance across compliance subsidies from zero to 200 EUR ha$^{-1}$ quantifies concrete conditions under which uncalibrated financial incentives misalign controller behavior (Fig. 5d). '
@@ -773,7 +724,7 @@ s42_p1_zh = (
 )
 add_block('s42-p1', s42_p1_zh, s42_p1_en, figs=['@fig reports/phase8/figures/fig4-factorial-stress.png | reports/phase8/figures/captions-v12/fig5.txt | Fig. 5'])
 
-add_block('sec-s43', '### 4.3 土壤库存双账核算、潜在物理解码与质量守恒验证', '### 4.3 Seasonal Soil Nitrogen Budgets, Physical Decoding, and Numerical Mass Closure')
+add_block('sec-s43', '### 4.3 土壤氮库动用与氮碳守恒验证', '### 4.3 Soil Nitrogen Drawdown and Mass Conservation Verification')
 
 s43_p1_en = (
     'Full-profile soil stock accounting, latent feature decoding and numerical mass conservation verify software-level arithmetic integrity and clarify true nitrogen sources across every simulated season (Supplementary Figs. S2 and S8). '
@@ -790,7 +741,7 @@ add_block('s43-p1', s43_p1_zh, s43_p1_en)
 # Section 5: Discussion (~820 EN words, 5.1 -> 5.2 -> 5.3 Top-SCI Abstraction Ladder)
 add_block('sec-disc', '## 5 讨论', '## 5 Discussion')
 
-add_block('sec-d51', '### 5.1 多系统结构耦合与轻量化代理压缩机制', '### 5.1 Domain-Coupled Mechanisms and Surrogate Compression Efficiency')
+add_block('sec-d51', '### 5.1 多先验协同耦合机理', '### 5.1 Multi-Prior Synergistic Coupling Mechanism')
 
 d51_p1_en = (
     'This investigation demonstrates that encoding climate de-shifting, distributional quantile integration and bilateral corridor geometry inside collaborative specialists eliminates the need for oversized black-box networks or real-time field sensors. '
@@ -807,7 +758,7 @@ d51_p1_zh = (
 )
 add_block('d51-p1', d51_p1_zh, d51_p1_en)
 
-add_block('sec-d52', '### 5.2 从单田块僵化约束向跨洲校准智能控制演进', '### 5.2 Evolution from Brittle Single-Field Pruning to Calibrated Regional Control')
+add_block('sec-d52', '### 5.2 小麦氮肥智能管理范式演进', '### 5.2 Paradigm Shift in Wheat Nitrogen Management')
 
 d52_p1_en = (
     'Systematic divergence between strict tail pruning, soft corridor coupling and profit-only relaxation marks an essential conceptual shift for agricultural intelligence under compounding environmental stress. '
@@ -824,7 +775,7 @@ d52_p1_zh = (
 )
 add_block('d52-p1', d52_p1_zh, d52_p1_en)
 
-add_block('sec-d53', '### 5.3 物理适用边界、实质权衡与未来展望', '### 5.3 Mechanistic Boundaries, Trade-Offs, and Future Research Directions')
+add_block('sec-d53', '### 5.3 局限性与未来展望', '### 5.3 Limitations and Future Directions')
 
 d53_p1_en = (
     'Important physical assumptions bound these findings and explain remaining cross-regime trade-offs. '

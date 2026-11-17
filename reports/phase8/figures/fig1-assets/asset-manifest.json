@@ -1,751 +1,599 @@
 {
-  "reference": "reports/phase8/figures/fig1-candidates/candidate-b-v2-best.png",
-  "reference_sha256": "18fbe0b764f3fcbdac03ff8beea4f169cbfb3a564d5f28c83ee72d8643d1b25f",
+  "reference": "reports/phase8/figures/fig1-candidates/candidate-b-v4-best.png",
+  "reference_sha256": "cd816c3fd568f34303b5df007144c29dce4cb70f434fd3ec397dc46b224f7ed8",
   "assets": {
     "weather-field": {
       "source_box": [
         25,
-        50,
-        510,
-        440
+        44,
+        507,
+        432
       ],
-      "sha256": "c2e2299d91a07d41ff75b77aa71ac3a830e32fdc55bfc3cc544955b03902bc75"
+      "sha256": "033dbecbdd62b856a92619555dda97b1b7091b9c8e0f9514852881a74f27bca4"
     },
     "satellite-earth-raster": {
       "source_box": [
-        568,
-        70,
-        877,
-        245
+        562,
+        65,
+        882,
+        242
       ],
-      "sha256": "a62b86bd5bd2ebca560f0c11f5746764ef01b9a519f246c5057eacee95d2ece8"
+      "sha256": "979894c7623cdd5870532ad62a41974d221739e6875b12af146d756285486dbf"
     },
     "private-raster": {
       "source_box": [
-        581,
-        267,
-        656,
-        325
+        576,
+        250,
+        682,
+        322
       ],
-      "sha256": "1fed0c0f8ec46648ade410d613884b828222a3b6d27f8fac2e185526bb747044"
+      "sha256": "6644e9d5ca850296289bb67b51743c51ea82ede0bcc856839ac291f0a70dccfe"
     },
     "soil-static3": {
       "source_box": [
-        581,
-        343,
-        656,
-        405
+        576,
+        326,
+        682,
+        396
       ],
-      "sha256": "d349f2d0434cbe5b7067acafcdfb9c7cef1f978a114747426ecbda0b905a1524"
+      "sha256": "1db675d7427426621226acdc47300acc0a8ed27f7c5a0b0b904dece421a788dd"
     },
     "climate-clouds-fan": {
       "source_box": [
-        28,
-        521,
-        228,
-        649
+        14,
+        512,
+        294,
+        650
       ],
-      "sha256": "2921d7a40ab54d41fdb046d0b44609ed99cb903b45dd146cb9345a1b6b0d076a"
+      "sha256": "49e08e41863bf972bb4a12fd21a0b95436580dd197497a3a4f8e0f2eed467d32"
     },
     "urban-watershed": {
       "source_box": [
-        26,
-        716,
-        269,
-        804
+        14,
+        706,
+        288,
+        808
       ],
-      "sha256": "8a04f742e876bf6d886aeb371088a2ac82ee8b2ef518311f4dfd50e3782f5799"
+      "sha256": "99c1bd86d8b60d1a5c58d3fd74f0ba8daf2e6549a2ba97c9c09ecdfe44eaa376"
     },
     "market-policy-balance": {
       "source_box": [
-        32,
-        878,
-        257,
-        968
+        16,
+        864,
+        274,
+        974
       ],
-      "sha256": "3fbe4d5d8a6eb39d3aef9689ba5f8ebf2b3cca3fb38f6c68585942ffc384ec32"
+      "sha256": "06d8c967de7a99266bdfa4a1753066d6aa515ee4b3e01e0c0a3168e888b52f60"
+    },
+    "agent5-wheat-roots": {
+      "source_box": [
+        578,
+        552,
+        1170,
+        792
+      ],
+      "sha256": "39738d9021ada37d3559c3e7ca962d36b5ccfcd1d062c333459aea62dd6f46b6"
     },
     "tractor-wheat": {
       "source_box": [
-        1328,
-        517,
-        1561,
-        666
+        1332,
+        506,
+        1566,
+        672
       ],
-      "sha256": "1e15820c085ff5f92e6888885b5716be8fff13ba4ece09fafe99c27d595bc770"
+      "sha256": "7462ee9f3858b3bebd1fbbd30ab9e8b90efd0961fe9837d363ceb8543e1e5f7a"
     },
     "referee-root-soil": {
       "source_box": [
-        1138,
-        749,
-        1299,
-        964
+        1198,
+        750,
+        1356,
+        970
       ],
-      "sha256": "4597da67b432f36fe7f4226bf4fa866a958542c39e2e573e2f82381e3e660b7d"
+      "sha256": "64280f9e17f123be3ec26cc17a14be416d9e4af71ba86020d6b23ae8251d8f3a"
     }
   },
   "native_texts": [
-    "Public weather history\nObserved through current day\nT, P, RH, radiation, wind",
-    "Current crop prefix\nStage and dose history\nOptional field telemetry",
-    "Soil physical anchor\nStatic3: field capacity, wilting point and conductivity",
+    "Weather history",
+    "Crop stage &\ndose history",
+    "Soil physical anchor",
     "Agent 1: Spatial Twin Specialist",
-    "PyTorch MLP \u00b7 3 frozen seeds",
-    "36-D \u2192 96 \u2192 96 \u2192 3\n13,155 parameters",
-    "Private raw 64-D\nAlphaEarth\nt \u2212 1 causal anomaly",
-    "Static3 physical\nsoil anchor",
-    "Causal anomaly\nPCA + Ridge",
-    "\u22644-D adapter",
-    "36-D\npublic\nfeatures",
+    "PyTorch MLP\n(3 frozen seeds)",
+    "36 \u2192 96 \u2192 96 \u2192 3\n13,155 parameters",
     "+",
-    "Yield",
-    "Grain N",
-    "Executed N",
-    "15 strata \u00d7 32\nzero-mean joint residuals",
-    "Surplus & NUE\nSeasonal N accounting\nNUE = grain N / N input",
-    "NL     CN     US     FR     AU",
+    "Private\nAlphaEarth\n64-D",
+    "Static3",
+    "t \u2212 1 anomaly\n\u2192 PCA + Ridge\n\u2264 4-D",
+    "NL",
+    "CN",
+    "US",
+    "FR",
+    "AU",
+    "Yield \u00b7 Grain N \u00b7 Executed N",
+    "15 \u00d7 32 residuals",
+    "Surplus & NUE",
     "Agent 2: Climate Forecast Specialist",
-    "TRAIN 1995\u20132009\nCausal \u2212dT analog fan\nHistorical\n+1.8\u00b0C \u00b7 450 ppm\n+3.5\u00b0C \u00b7 550 ppm",
+    "TRAIN 1995\u20132009\nHistorical\n+1.8\u00b0C \u00b7 450 ppm\n+3.5\u00b0C \u00b7 550 ppm\nCausal analogs",
     "Agent 3: Urban Eco-Safety Specialist",
-    "0 \u2264 S_N \u2264 S_cap\nCaps 25, 35, 40, 50\nkg N/ha",
+    "0 \u2264 S_N \u2264 cap\n\n25 / 35 / 40 / 50\nkg N/ha",
     "Agent 4: Socio-Economic Policy Specialist",
-    "Fertilizer 1\u00d7 or 2\u00d7\nSubsidy and tax\n0.50 \u2264 NUE \u2264 0.90\n1.5\u00d7 upper penalty",
-    "Coupling 1\nSpatial",
-    "Coupling 2\nClimate",
-    "Coupling 3\nEco Safety",
-    "Coupling 4\nEconomics",
+    "Price 1\u00d7 / 2\u00d7\nSubsidy / tax\n\n0.50 \u2264 NUE \u2264 0.90",
+    "1   Spatial Coupling",
+    "2",
+    "Climate\nCoupling",
+    "3",
+    "Eco Safety\nCoupling",
+    "4",
+    "Economics\nCoupling",
     "Agent 5: Core Agronomic Control Specialist",
     "a1",
-    "Rain low",
-    "Rain high",
     "a2",
-    "a2",
-    "Temp low",
-    "Temp high",
-    "Temp low",
-    "Temp high",
     "a3",
-    "a3",
-    "a3",
-    "a3",
-    "Soft-Coupled",
+    "Rain:\nlow",
+    "Rain:\nhigh",
+    "Temp:\ncool",
+    "Temp:\nwarm",
+    "Tillering",
+    "Jointing",
+    "Booting",
+    "Nutrient-Safety Corridor Balance Meter",
+    "0.50 \u2264 NUE \u2264 0.90",
     "Tier2-Composite",
+    "Soft-Coupled",
     "Archived bare",
     "Partial profit + 250 P(active joint) \u2212 300 distance\n2 kg/ha margin \u00b7 1.5\u00d7 upper NUE penalty",
     "Execute\ncurrent dose",
     "External WOFOST81-SNOMIN\nReferee",
+    "N",
+    "C",
     "Yield",
     "Native N loss",
-    "Daily C/N closure",
-    "N",
-    "C"
+    "Daily C/N closure"
   ],
   "native_connections": [
     [
       950,
-      143,
-      1009,
-      143,
+      142.0,
+      1018,
+      134.0,
       false
     ],
     [
       950,
-      143,
-      1009,
-      161,
+      142.0,
+      1018,
+      150.0,
       false
     ],
     [
       950,
-      143,
-      1009,
-      179,
+      142.0,
+      1018,
+      166.0,
       false
     ],
     [
       950,
-      143,
-      1009,
-      197,
+      142.0,
+      1018,
+      182.0,
       false
     ],
     [
       950,
-      161,
-      1009,
-      143,
+      158.0,
+      1018,
+      134.0,
       false
     ],
     [
       950,
-      161,
-      1009,
-      161,
+      158.0,
+      1018,
+      150.0,
       false
     ],
     [
       950,
-      161,
-      1009,
-      179,
+      158.0,
+      1018,
+      166.0,
       false
     ],
     [
       950,
-      161,
-      1009,
-      197,
+      158.0,
+      1018,
+      182.0,
       false
     ],
     [
       950,
-      179,
-      1009,
-      143,
+      174.0,
+      1018,
+      134.0,
       false
     ],
     [
       950,
-      179,
-      1009,
-      161,
+      174.0,
+      1018,
+      150.0,
       false
     ],
     [
       950,
-      179,
-      1009,
-      179,
+      174.0,
+      1018,
+      166.0,
       false
     ],
     [
       950,
-      179,
-      1009,
-      197,
+      174.0,
+      1018,
+      182.0,
       false
     ],
     [
-      1015,
-      143,
-      1087,
-      143,
+      1018,
+      134.0,
+      1094,
+      134.0,
       false
     ],
     [
-      1015,
-      143,
-      1087,
-      161,
+      1018,
+      134.0,
+      1094,
+      150.0,
       false
     ],
     [
-      1015,
-      143,
-      1087,
-      179,
+      1018,
+      134.0,
+      1094,
+      166.0,
       false
     ],
     [
-      1015,
-      143,
-      1087,
-      197,
+      1018,
+      134.0,
+      1094,
+      182.0,
       false
     ],
     [
-      1015,
-      161,
-      1087,
-      143,
+      1018,
+      150.0,
+      1094,
+      134.0,
       false
     ],
     [
-      1015,
-      161,
-      1087,
-      161,
+      1018,
+      150.0,
+      1094,
+      150.0,
       false
     ],
     [
-      1015,
-      161,
-      1087,
-      179,
+      1018,
+      150.0,
+      1094,
+      166.0,
       false
     ],
     [
-      1015,
-      161,
-      1087,
-      197,
+      1018,
+      150.0,
+      1094,
+      182.0,
       false
     ],
     [
-      1015,
-      179,
-      1087,
-      143,
+      1018,
+      166.0,
+      1094,
+      134.0,
       false
     ],
     [
-      1015,
-      179,
-      1087,
-      161,
+      1018,
+      166.0,
+      1094,
+      150.0,
       false
     ],
     [
-      1015,
-      179,
-      1087,
-      179,
+      1018,
+      166.0,
+      1094,
+      166.0,
       false
     ],
     [
-      1015,
-      179,
-      1087,
-      197,
+      1018,
+      166.0,
+      1094,
+      182.0,
       false
     ],
     [
-      1015,
-      197,
-      1087,
-      143,
+      1018,
+      182.0,
+      1094,
+      134.0,
       false
     ],
     [
-      1015,
-      197,
-      1087,
-      161,
+      1018,
+      182.0,
+      1094,
+      150.0,
       false
     ],
     [
-      1015,
-      197,
-      1087,
-      179,
+      1018,
+      182.0,
+      1094,
+      166.0,
       false
     ],
     [
-      1015,
-      197,
-      1087,
-      197,
+      1018,
+      182.0,
+      1094,
+      182.0,
       false
     ],
     [
-      1093,
-      143,
-      1160,
-      143,
+      1094,
+      134.0,
+      1166,
+      142.0,
       false
     ],
     [
-      1093,
-      143,
-      1160,
-      161,
+      1094,
+      134.0,
+      1166,
+      158.0,
       false
     ],
     [
-      1093,
-      143,
-      1160,
-      179,
+      1094,
+      134.0,
+      1166,
+      174.0,
       false
     ],
     [
-      1093,
-      161,
-      1160,
-      143,
+      1094,
+      150.0,
+      1166,
+      142.0,
       false
     ],
     [
-      1093,
-      161,
-      1160,
-      161,
+      1094,
+      150.0,
+      1166,
+      158.0,
       false
     ],
     [
-      1093,
-      161,
-      1160,
-      179,
+      1094,
+      150.0,
+      1166,
+      174.0,
       false
     ],
     [
-      1093,
-      179,
-      1160,
-      143,
+      1094,
+      166.0,
+      1166,
+      142.0,
       false
     ],
     [
-      1093,
-      179,
-      1160,
-      161,
+      1094,
+      166.0,
+      1166,
+      158.0,
       false
     ],
     [
-      1093,
-      179,
-      1160,
-      179,
+      1094,
+      166.0,
+      1166,
+      174.0,
       false
     ],
     [
-      1093,
-      197,
-      1160,
-      143,
+      1094,
+      182.0,
+      1166,
+      142.0,
       false
     ],
     [
-      1093,
-      197,
-      1160,
-      161,
+      1094,
+      182.0,
+      1166,
+      158.0,
       false
     ],
     [
-      1093,
-      197,
-      1160,
-      179,
+      1094,
+      182.0,
+      1166,
+      174.0,
       false
     ],
     [
-      820,
-      295,
-      843,
-      295,
-      false
-    ],
-    [
-      843,
-      295,
-      843,
-      322,
-      false
-    ],
-    [
-      843,
-      322,
-      857,
-      322,
+      512,
+      224,
+      544,
+      224,
       true
     ],
     [
-      994,
-      322,
-      1016,
-      322,
-      true
-    ],
-    [
-      1127,
-      322,
-      1254,
-      322,
-      false
-    ],
-    [
-      1254,
-      322,
-      1254,
-      263,
-      true
-    ],
-    [
-      820,
-      371,
-      1254,
-      371,
-      false
-    ],
-    [
-      1254,
-      371,
-      1254,
-      263,
-      true
-    ],
-    [
-      901,
-      227,
-      908,
-      227,
-      true
-    ],
-    [
-      1193,
+      882,
       160,
-      1254,
+      912,
+      160,
+      true
+    ],
+    [
+      1206,
+      160,
+      1242,
       160,
       false
     ],
     [
-      1254,
+      1242,
       160,
-      1254,
-      223,
+      1242,
+      218,
       true
     ],
     [
-      1275,
-      243,
-      1304,
-      243,
+      814,
+      285,
+      852,
+      285,
+      true
+    ],
+    [
+      814,
+      360,
+      1242,
+      360,
       false
     ],
     [
-      1304,
-      243,
-      1304,
-      135,
+      1242,
+      360,
+      1242,
+      254,
       true
     ],
     [
-      1304,
-      95,
-      1304,
-      175,
+      1030,
+      314,
+      1242,
+      314,
       false
     ],
     [
-      1304,
-      95,
-      1328,
-      95,
+      1242,
+      314,
+      1242,
+      254,
       true
     ],
     [
-      1304,
-      135,
-      1328,
-      135,
-      true
-    ],
-    [
-      1304,
-      175,
-      1328,
-      175,
-      true
-    ],
-    [
-      1430,
-      192,
-      1430,
-      215,
-      true
-    ],
-    [
-      1430,
-      274,
-      1430,
-      300,
-      true
-    ],
-    [
-      510,
-      215,
-      550,
-      215,
-      true
-    ],
-    [
-      553,
-      407,
-      577,
-      407,
+      1242,
+      218,
+      1242,
+      117,
       false
     ],
     [
-      577,
-      407,
-      577,
-      532,
-      false
-    ],
-    [
-      577,
-      532,
-      592,
-      532,
+      1242,
+      117,
+      1276,
+      117,
       true
     ],
     [
-      465,
-      630,
-      592,
-      630,
+      1412,
+      138,
+      1412,
+      164,
       true
     ],
     [
-      465,
-      734,
-      535,
-      734,
-      false
-    ],
-    [
-      535,
-      734,
-      535,
-      710,
-      false
-    ],
-    [
-      535,
-      710,
-      592,
-      710,
+      1412,
+      206,
+      1412,
+      254,
       true
     ],
     [
-      465,
-      923,
-      577,
-      923,
-      false
-    ],
-    [
-      577,
-      923,
-      577,
-      854,
-      false
-    ],
-    [
-      577,
-      854,
-      592,
-      854,
+      780,
+      412,
+      780,
+      468,
       true
     ],
     [
-      843,
-      584,
-      747,
-      611,
+      468,
+      562,
+      566,
+      562,
       true
     ],
     [
-      888,
-      584,
-      985,
-      611,
+      468,
+      712,
+      566,
+      712,
       true
     ],
     [
-      748,
-      645,
-      748,
-      669,
+      468,
+      894,
+      566,
+      894,
       true
     ],
     [
-      987,
-      645,
-      987,
-      669,
+      702,
+      533,
+      824,
+      533,
       true
     ],
     [
-      748,
-      704,
-      684,
-      725,
+      904,
+      533,
+      1042,
+      533,
       true
     ],
     [
-      748,
-      704,
-      815,
-      725,
+      1182,
+      596,
+      1196,
+      596,
       true
     ],
     [
-      987,
-      704,
-      950,
-      725,
+      1324,
+      596,
+      1340,
+      596,
       true
     ],
     [
-      987,
-      704,
-      1086,
-      725,
-      true
-    ],
-    [
-      684,
-      759,
-      684,
-      784,
-      true
-    ],
-    [
-      815,
-      759,
-      815,
-      784,
-      true
-    ],
-    [
-      950,
-      759,
-      950,
-      784,
-      true
-    ],
-    [
-      1086,
-      759,
-      1086,
-      784,
-      true
-    ],
-    [
-      1106,
-      592,
-      1156,
-      592,
-      true
-    ],
-    [
-      1304,
-      592,
-      1323,
-      592,
-      true
-    ],
-    [
-      1230,
-      633,
-      1230,
-      697,
+      1260,
+      634,
+      1260,
+      694,
       true
     ]
   ],
   "editable_slide": 1,
   "reference_slide": 2,
-  "total_slide_objects": 206,
-  "count_definitions": "Total includes native simple shapes, native connectors and raster picture assets; verification native_fig1_shapes counts p:sp only.",
+  "total_slide_objects": 195,
   "numerical_specialists_not_LLMs": true,
   "referee_outgoing_edges": 0,
   "action_levels": [
     "a1",
     "a2",
     "a3"
-  ],
-  "executor": "Codex; only Gemini and DeepSeek external reviewers authorized"
+  ]
 }
