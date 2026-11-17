@@ -208,23 +208,21 @@ add_block(
 add_block('sec-abs', '## 摘要', '## Abstract')
 
 abs_en = (
-    'Global wheat production relies on split nitrogen fertilization to sustain farm profitability and grain yield while keeping seasonal nitrogen use efficiency within a bilateral safety corridor and curbing watershed nitrate surplus. '
-    'However, climate warming variability, stringent drinking-water surplus caps, fertilizer price volatility and sensorless cross-continental adaptation couple non-linearly across agroecosystems, leaving stationary single-field heuristics and unconstrained reinforcement learning vulnerable to zero-dose deadlocks, profit-driven soil nitrogen mining and cross-regional rejection. '
-    'To resolve this multi-system coupling challenge, AgroMAS-Global couples warming-de-shifted climate analogues, watershed nitrate ceilings, bilateral market corridors and station-demeaned satellite priors inside compact conformalized neural surrogates under non-anticipative three-stage planning, validated against an external mechanistic referee across five contrasting global wheat regions, temporal and continental holdouts and a 180-cell factorial stress matrix. '
-    f'Under mild historical baselines, AgroMAS-Global preserves statistical parity with full-budget reinforcement learning ({100*soft["region_equal"]["joint"]:.2f} versus {100*ppo["region_equal"]["joint"]:.2f} percent compliance across 52 farm-years, 46 seasons tied, Holm p equals 1.00), whereas under resource-constrained and unseen seasonal tests it leads matched reinforcement learning across seven independent Wageningen seasons (28.57 versus 19.05 percent), multiplies compliance 6.27-fold over profit-only fallback, compresses serialized storage over 1,690-fold below 64-tree ensembles (166.3 KB versus 275.52 MB) alongside 38.5 percent higher compliance, and cuts ranking regret by 40.8 to 49.4 percent. '
-    'Multi-prior coupling ablations confirm that stripping eco-safety screening, continuous corridor gradients, mining penalties or dynamic continuation forfeits 20.5 to 84.0 percent relative compliance or triggers empty-set zero-dose deadlocks, whereas decoupling static soil baselines from station-demeaned satellite anomalies raises cross-continental prior gate admission from zero to 60.00 percent (20.39 percent out-of-region compliance) with bounded prediction error (517.65 versus 505.15 squared kg N per ha). '
-    'Across the 180-cell climate, watershed and market stress surface (0.58 percentage-point global margin), multi-prior coupling outperforms reinforcement learning by 5.15 and 5.61 percentage points along the operational 40 kg N ha$^{-1}$ ceiling under 1.8 and 3.5 degrees Celsius warming (7.19 to 8.10 percentage points under doubled prices), exposes a 100 EUR ha$^{-1}$ moderate-warming Pareto inflection alongside uncalibrated subsidy misalignment, and verifies daily nitrogen and carbon mass conservation across more than six million transitions. '
-    'AgroMAS-Global establishes a generalizable multi-prior coupling paradigm that reconciles yield stability, watershed protection and farm income resilience without field sensors or heavy black-box networks.'
+    'Sustainable wheat production requires keeping seasonal nitrogen use efficiency between 0.50 and 0.90 while holding nitrate surplus positive yet below watershed ceilings, balancing food security against groundwater contamination and long-term humus depletion. '
+    'Across multi-continental agroecosystems, however, compounding climate warming, stricter nitrate caps, fertilizer price surges and missing field sensors trap single-system controllers between two structural failures, as rigid safety filters collapse into zero-dose deadlocks under tight caps, unconstrained profit maximizers mine native soil nitrogen during price shocks, and raw satellite embeddings fail cross-continental transfer by confusing permanent site identity with seasonal fertility anomalies. '
+    'To resolve this dilemma, AgroMAS-Global couples warming-de-shifted climate analogues, continuous watershed cap margins, bilateral market-corridor scoring and station-demeaned satellite anomalies separated from hydraulic soil baselines inside a 166.3 KB conformalized neural surrogate across three split-application stages. '
+    'Across five contrasting global wheat regions, continuous corridor coupling prevents soil-mining collapse (raising joint compliance 6.27-fold over profit-only fallback), preserves statistical parity with full-budget reinforcement learning in mild climates while leading on an independent seven-season Dutch benchmark (28.57 versus 19.05 percent), and compresses serialized storage over 1,690-fold below 64-tree ensembles alongside 38.5 percent higher compliance and up to 49.4 percent lower ranking regret. '
+    'Under 1.8 and 3.5 degrees Celsius warming at the operational 40 kg N ha$^{-1}$ ceiling, climate-market coupling overtakes reinforcement learning by 5.15 and 5.61 percentage points (expanding to 7.19 to 8.10 percentage points when fertilizer prices double) by anticipating heat-compressed phenology without retreating into soil mining. '
+    'Finally, decoupling hydraulic soil baselines from causal satellite anomalies raises cross-continental prior gate admission from zero to 60.00 percent, while full-profile nitrogen accounting exposes 221 to 224 kg N ha$^{-1}$ of single-season soil humus drawdown behind nominal compliance and identifies a 100 EUR ha$^{-1}$ green-subsidy inflection that aligns farm profitability with clean watersheds.'
 )
 
 abs_zh = (
-    '全球小麦生产依赖分期施氮管理以保障农户收益与籽粒产量，同时必须将表观氮利用效率锁定在双侧安全区间并抑制流域硝态氮盈余超标。'
-    '然而，气候变暖波动、严格水源红线、化肥价格剧变与无传感器跨洲外推在真实农田呈非线性耦合，使平稳单田启发式规则与无约束强化学习极易陷入零追肥死锁、逐利性土壤氮掠夺与跨区拒答。'
-    '为解决这一多系统耦合难题，本研究提出AgroMAS-Global多先验协同控制框架，将去升温偏移气候类比、流域硝态氮红线、市场双侧走廊与站点去均值卫星先验融入紧凑共形神经代理与三阶段非预知动态规划，并在外部机理引擎上跨越五大典型麦区、跨年跨洲盲测与180格全因子压力矩阵开展独立验证。'
-    f'在温和历史基准上，AgroMAS-Global与充分预算强化学习保持统计等效（52个农场年联合达标率{100*soft["region_equal"]["joint"]:.2f}%对比{100*ppo["region_equal"]["joint"]:.2f}%，46年一致，Holm校正p等于1.00），在7季瓦赫宁根独立样本取得28.57%对比19.05%优势，较仅收益回退实现6.27倍达标跃升，同时较64棵极端随机树将序列化存储压缩逾1,690倍（166.3千字节对比275.52兆字节）并高出38.5%达标率、压降40.8%至49.4%排序遗憾。'
-    '多先验耦合消融表明，移除生态安全红线、连续走廊梯度、防透支罚项或动态续策会损失20.5%至84.0%相对达标率甚至引发零肥死锁，而剥离静态土壤基线与站点去均值卫星距平可将跨洲先验门控准入率由零拉升至60.00%（跨洲达标20.39%）并界定出外推预测均方误差边界（517.65对比土壤基线505.15）。'
-    '在180格全因子压力曲面上（全局净差0.58个百分点），多先验耦合于每公顷40千克氮常规红线在1.8与3.5摄氏度升温下领先强化学习5.15与5.61个百分点（双倍肥价扩大至7.19至8.10个百分点），识别出适度升温每公顷100欧元补贴帕累托拐点及无校准补贴激励错位风险，并在逾600万条日状态演替上完成双精度氮碳质量守恒检验。'
-    'AgroMAS-Global确立了一种可推广的多先验协同调控范式，在不依赖田间传感器与重参数黑箱的前提下实现了产量稳固、流域减排与农户收益抗风险能力的统一。'
+    '可持续小麦生产必须将季节表观氮肥利用效率稳固在0.50至0.90双侧走廊内并维持非负且不越线的流域净盈余，以协同保障粮食供给、地下水防污与土壤肥力永续。'
+    '然而在跨洲农业生态系统中，气候变暖、严格水源红线、化肥价格暴涨与无在线传感器约束并发叠加，使既有单系统控制陷入两极陷阱，刚性安全滤波在严苛红线下坍缩为零施肥死锁，无护栏逐利策略在高肥价冲击下靠抽支土壤有机氮粉饰账面收益，而原始高维卫星嵌入则因混淆固定站位身份与季节养分变化导致跨洲先验完全拒答。'
+    '为此，本研究构建AgroMAS-Global多先验协同框架，在总计仅166.3千字节的共形神经代理与三阶段非预知动态规划中，耦合去升温偏移气候类比、连续流域红线余量、双侧市场走廊效用以及剥离水力土壤基线后的站点因果卫星距平。'
+    '跨越五大典型麦区的独立机理评测表明，连续双侧走廊耦合彻底阻断土壤氮透支（较仅收益回退提升6.27倍联合达标率），在温和历史年份与充分预算强化学习保持等效并在荷兰7季独立基准以28.57%领先19.05%，同时较64棵树集成实现逾1,690倍存储压缩并取得高出38.5%的达标率与至多49.4%的排序遗憾降幅。'
+    '在每公顷40千克氮主流红线遇1.8与3.5摄氏度升温时，多先验耦合因能前瞻捕捉热害压缩的生育窗口，反超同信息强化学习5.15与5.61个百分点（肥价翻倍时扩至7.19至8.10个百分点）。'
+    '此外，土壤与卫星距平因果解耦将跨洲先验门控准入率由零抬升至60.00%，而全剖面氮收支核算揭示出表观达标背后每公顷221至224千克的隐性土壤有机氮动用，并在适度升温下锁定每公顷100欧元绿色补贴的帕累托最优拐点。'
 )
 add_block('abs-body', abs_zh, abs_en)
 
@@ -277,52 +275,52 @@ p2_zh = (
 add_block('intro-p2', p2_zh, p2_en)
 
 p3_en = (
-    'Across heterogeneous wheat production systems, achieving resilient seasonal nitrogen management without in-situ field telemetry is hindered by four coupled structural gaps in existing constrained controllers [baja2025]. '
-    'First, at the climate boundary, reactive controllers omit post-decision rainfall uncertainty and scenario warming shifts, leaving schedules unable to separate leaching storms from heat-compressed grain filling [asseng2015]. '
-    'Second, at the watershed boundary, rigid feasibility filtering collapses under stringent urban nitrate caps where pruning uncertain upper tails empties candidate action sets and forces zero-topdressing deadlocks [eu1991, klages2020]. '
-    'Third, at the market and soil boundary, uncalibrated scalar incentives fail during fertilizer price spikes, enabling profit-driven policies to harvest short-term income by withholding fertilizer and mining soil humus [eschmann2021, tan2005]. '
-    'Fourth, at the spatial observation boundary, feeding raw annual satellite embeddings directly alongside static weather priors conflates fixed station identity with seasonal fertility anomalies [gaso2023, roberts2017]. '
-    'The core scientific question is how continuous bilateral corridor coupling, warming-de-shifted forecast uncertainty and causal satellite-soil separation co-regulate the transition among zero-dose deadlock, humus mining and joint compliance across contrasting global wheat systems without real-time field sensors.'
+    'Stepping beyond well-monitored single stations reveals that existing paradigms break along four coupled boundaries that trap controllers between starvation and pollution [baja2025]. '
+    'At the climate boundary, reactive schedulers ignore post-topdressing rainstorms and scenario warming shifts, leaving fertilizer plans unable to separate leaching storms from heat-compressed grain filling [asseng2015]. '
+    'At the watershed boundary, rigid feasibility clipping collapses whenever strict urban nitrate ceilings prune noisy tail forecasts, emptying legal candidate sets and locking fields into zero topdressing [eu1991, klages2020]. '
+    'At the market and soil boundary, rising fertilizer prices exploit unguarded profit objectives, allowing controllers to harvest short-term net income by withholding nitrogen and silently mining native soil humus [eschmann2021, tan2005]. '
+    'At the spatial observation boundary, feeding raw annual satellite embeddings directly to downstream predictors conflates fixed geographic station identity with seasonal fertility anomalies, triggering total prior rejection on unseen continents [gaso2023, roberts2017]. '
+    'The central scientific challenge is therefore how climate analogues, continuous bilateral corridor gradients, market resilience penalties and causal soil-satellite decoupling co-govern the regime transitions linking zero-dose deadlock, soil nitrogen mining and joint watershed compliance.'
 )
 p3_zh = (
-    '因此，在缺乏田间连续传感器的现实农区实现稳健小麦氮肥管理，仍受制于现有约束控制架构中的四重耦合科研缺口 [baja2025]。'
-    '首先，在气候先验端，既有被动反应策略忽略了追肥后降水不确定性与气候变暖偏移，难以及时区分淋洗暴雨与热害逼熟风险 [asseng2015]。'
-    '其次，在流域红线端，刚性尾部筛查在严格水源盈余上限下极易将合法候选动作剪裁为空集，进而酿成无差别零追肥死锁 [eu1991, klages2020]。'
-    '再次，在市场经济与土壤碳氮库端，未经防透支校准的标量激励在化肥涨价冲击下纵容算法停施化肥并消耗土壤有机氮以换取账面高收益 [eschmann2021, tan2005]。'
-    '最后，在空间遥感观测端，将高维全球卫星表征直接灌入模型会把固定地理站位标签与季节养分动态混为一谈，导致陌生大洲先验全面失效 [gaso2023, roberts2017]。'
-    '由此凝练出的核心科学问题是，在气候变暖、流域红线与肥价波动并发且无在线传感器的条件下，连续双侧走廊耦合、去升温天气分支校准与因果卫星土壤先验分离如何共同支配零施肥死锁、土壤氮透支与双侧达标之间的机制切换规律。'
+    '走出监测完备的单一平稳试验站后，既有方法在四大相互咬合的系统边界处接连失灵，使控制器陷入作物饥饿与水体污染的两极摇摆 [baja2025]。'
+    '在气候边界，反应式规则忽视追肥后强降水与气候变暖偏移，难以及时区分淋洗暴雨与热害逼熟窗口压缩 [asseng2015]。'
+    '在流域边界，偏严的水源氮盈余红线一旦叠加预测尾部噪声，刚性截断筛选便会将合法动作集剪裁为空集并锁死在零追肥僵局 [eu1991, klages2020]。'
+    '在市场与土壤边界，化肥涨价诱使无防透支护栏的利润目标采取停施化肥策略，靠悄悄掏空土壤腐殖质维持表面高收益 [eschmann2021, tan2005]。'
+    '在空间遥感边界，未经剥离的年度高维卫星表征将固定站位坐标与季节养分动态混为一谈，致使陌生大洲外推时先验完全失效 [gaso2023, roberts2017]。'
+    '由此凝练的核心科学问题，正是如何耦合气候类比、连续双侧走廊梯度、市场防透支惩戒与土壤卫星因果解耦，共同支配零追肥死锁、土壤氮掠夺与流域双侧达标之间的动态切换机制。'
 )
 add_block('intro-p3', p3_zh, p3_en)
 
 p4_en = (
-    'Leaving this four-way coupling gap unresolved imposes compounding agronomic, environmental and fiscal failures across wheat breadbaskets. '
-    'Evaluating controllers solely on tranquil historical single-station plots allows simple static heuristics and brittle constraints to mask acute collapse risk whenever stressors co-occur [baja2025]. '
-    'Without continuous bilateral gradients, strict hard caps halt fertilization inside nitrate-sensitive catchments and depress yields, whereas unconstrained economic maximization silently draws down organic nitrogen pools under market stress [zhou2016, booth2023]. '
-    'Similarly, without calibrated prior bounds, green subsidies linked directly to nominal compliance probabilities inflate farm payouts without reducing subsurface nitrate drainage. '
-    'Resolving these coupled interactions enables agronomists and basin managers to map verified operating boundaries across contrasting climate, policy and price regimes prior to field deployment [goldenits2024].'
+    'Leaving these four boundaries decoupled carries heavy agronomic, ecological and fiscal costs across global breadbaskets. '
+    'When algorithms are benchmarked solely on benign historical seasons, surface equivalence hides acute fragility that only erupts once warming, strict catchment limits and volatile fertilizer markets co-occur [baja2025]. '
+    'Inside drinking-water catchments, brittle hard constraints unnecessarily halt fertilization and penalize harvest stability, whereas profit-maximizing policies trade irreversible long-term soil fertility for temporary cash gains [zhou2016, booth2023]. '
+    'Equally troubling, green subsidies tied directly to uncalibrated nominal probabilities inflate public expenditures without reducing deep nitrate drainage. '
+    'Mapping these coupled failure mechanisms clarifies when low-memory coupled control unlocks reliable regional adaptation before costly multi-year field rollouts begin [goldenits2024].'
 )
 p4_zh = (
-    '若这一四维耦合科学问题长期悬而未决，小麦主产区将承受产效、水源保护与公共财政的多重失灵风险。'
-    '仅依托温和历史单站年份评测策略，会令不同算法在平顺条件下的表面等效严重掩盖多重压力并发时的崩塌脆性 [baja2025]。'
-    '缺少连续双侧走廊梯度时，偏严的环保红线会在水源保护区引致全季零追肥减产僵局，而缺少防透支护栏的利润寻优则会在高肥价下掏空耕地长期肥力 [zhou2016, booth2023]。'
-    '同样地，若生态补贴直接挂钩未经共形校准的名义先验概率，公共资金支出虽不断攀升却难以压降深层硝态氮淋洗。'
-    '因此，揭示多先验交互相变律并确立可溯源校准边界，能够为气候胁迫与严苛水源红线下的农技推广与政策设计提供定量决策支撑 [goldenits2024]。'
+    '若继续孤立对待这重重相互缠绕的边界冲突，主产麦区将付出高昂的稳产、环保与财政代价。'
+    '仅依托温和历史单一气候对比算法表现，表面上的分数持平会严重掩盖多维压力并发时的突发性崩塌脆性 [baja2025]。'
+    '在水源保护区内，刚性超限截断会无差别中断正常追肥并损伤籽粒产能，而放任逐利算法则用不可逆的长期耕地肥力枯竭换取短期账面利润 [zhou2016, booth2023]。'
+    '同样地，若将农业生态补贴直接挂钩未经校准的名义先验概率，财政支出虽层层加码却无法转化为地下水的真实减氮。'
+    '因此，打通四重先验耦合机制并划定严格应用边界，对多压力交织下实现轻量化低成本跨区推广具有重要科学与实践价值 [goldenits2024]。'
 )
 add_block('intro-p4', p4_zh, p4_en)
 
 p5_en = (
-    'To close these four structural gaps, this study establishes AgroMAS-Global, a coupled control architecture uniting four domain prior specialists for spatial, climate, watershed and market inference with a fifth core agronomic planning specialist evaluated over an independent mechanistic crop-soil referee across five representative wheat benchmarks in Perth, Wichita, Lelystad, Beauce and Luancheng. '
-    'First, to preserve corridor feasibility under tight nitrate limits and high input prices within a minimal memory footprint, compact conformalized three-seed neural surrogates are coupled with continuous bilateral efficiency-surplus utilities inside three-stage non-anticipative continuation. '
-    'Second, to stabilize within-season topdressing under climate warming and uncertain storms, observed meteorological prefixes are de-shifted for scenario warming prior to historical analogue branching while retaining elevated temperature and carbon-dioxide physiology along decision trajectories. '
-    'Third, to unlock sensorless cross-continental adaptation without conflating geography with seasonal dynamics, hydraulic soil physical baselines are separated from causal station-demeaned annual satellite anomalies. '
-    'Comparative, ablation, transfer and 180-cell factorial stress evaluations show that AgroMAS-Global matches full-budget reinforcement learning across stationary historical years while preventing soil-mining collapse (6.27-fold compliance gain), cutting serialized storage over 1,690-fold versus 64-tree ensembles alongside 38.5 percent higher compliance, lifting cross-continental prior gate admission from zero to 60.00 percent, leading by 5.15 and 5.61 percentage points along the 40 kg N ha$^{-1}$ ceiling under warming stress, and upholding daily mass conservation across six million transitions.'
+    'To answer this scientific question, AgroMAS-Global integrates four domain priors for climate, watershed, market and causal spatial inference inside a compact three-stage dynamic planner evaluated against an independent crop-soil simulator across Australia, the United States, the Netherlands, France and China. '
+    'First, continuous bilateral corridor scoring inside compact conformalized neural surrogates prevents zero-dose deadlocks and soil-mining collapses (6.27-fold compliance gain over profit-only fallback) while shrinking deployment storage over 1,690-fold below 64-tree ensembles. '
+    'Second, stripping prescribed warming shifts prior to weather-analogue matching while retaining elevated temperature and carbon-dioxide physiology along decision branches overcomes the warming-price trap along the 40 kg N ha$^{-1}$ ceiling, overtaking matched reinforcement learning by 5.15 and 5.61 percentage points under 1.8 and 3.5 degrees Celsius warming. '
+    'Third, separating hydraulic soil baselines from causal station-demeaned satellite anomalies unlocks sensorless cross-continental prior admission from zero to 60.00 percent while isolating where soil calibration remains indispensable for error reduction. '
+    'Fourth, integrating full-profile organic nitrogen accounting with green-subsidy stress surfaces exposes hidden single-season humus drawdown alongside a 100 EUR ha$^{-1}$ moderate-warming policy inflection, establishing a conservation-verified pathway for resilient split fertilization.'
 )
 p5_zh = (
-    '为弥合上述四重结构性缺口，本研究构建了多先验协同控制框架AgroMAS-Global，将空间孪生、气候类比、城市流域红线与社会经济双侧走廊四大先验模块协同接入第五个核心农艺规划模块，并由独立机理作物土壤裁判跨越澳大利亚珀斯、美国威奇托、荷兰莱利斯塔德、法国巴黎盆地与华北栾城五大典型麦区开展封闭验证。'
-    '第一，面向严格红线与高肥价下的防死锁、防透支与轻量化部署需求，构建共形零均值联合残差校准的三随机种子轻量神经代理与连续双侧走廊三阶段非预知动态规划。'
-    '第二，面向气候变暖与季节暴雨的不确定权衡，在历史天气类比前缀检索阶段剥离情景增温偏移，同时于下游分支完整保留高温与二氧化碳生理胁迫效应。'
-    '第三，面向无传感器跨洲迁移的先验失真瓶颈，将水力土壤物理基线与严格基于历史年份去均值的站点因果卫星距平分离。'
-    '系统的对比、消融、迁移及180格全因子压力试验证实，AgroMAS-Global在温和历史年保持与充分预算强化学习统计等效并较仅收益回退提升6.27倍达标率，较64棵树集成实现逾1,690倍存储压缩且达标高出38.5%，跨洲先验门控准入升至60.00%，在升温与主流40千克红线下净胜强化学习5.15与5.61个百分点，并在逾六百万条日步长上通过双精度质量守恒检验。'
+    '针对上述核心科学问题，本研究提出AgroMAS-Global多先验协同调控框架，将气候、流域、市场与因果卫星先验融入三阶段动态规划并由独立作物土壤机理引擎在澳大利亚、美国、荷兰、法国与中国五大典型麦区开展全量封闭验证。'
+    '第一，构建共形校准轻量化神经代理并嵌入连续双侧走廊效用，在避免严苛红线死锁与高肥价土壤透支的同时将联合达标率较仅收益回退提升6.27倍，且比64棵树集成节省逾1,690倍存储空间。'
+    '第二，在历史天气类比匹配阶段先行剥离情景增温偏移并保留后续高温与二氧化碳生理响度，借以攻克气候变暖叠加高肥价陷阱，在每公顷40千克氮常规红线上于1.8与3.5摄氏度升温分别领先强化学习5.15与5.61个百分点。'
+    '第三，将水力土壤物理基线与站点历史去均值因果卫星距平严格剥离，在不依赖田间传感器前提下将跨洲先验门控准入率从零拉升至60.00%，并明晰门控准入与局部定量误差校准的各自角色。'
+    '第四，联立全剖面有机氮库存动用核算与生态补贴响应测试，穿透表面达标掩盖的土壤腐殖质隐性净亏损并锁定适度升温下每公顷100欧元的理想政策拐点，形成兼顾产量、流域水质与长期地力的可扩展范式。'
 )
 add_block('intro-p5', p5_zh, p5_en)
 
@@ -600,7 +598,7 @@ tbl2_zh = (
 )
 tbl2_en = (
     'Table 2 Equal-region benchmark comparison across control architectures under the historical reference setting (cap 40 kg N ha$^{-1}$, baseline fertilizer price, zero subsidy).\n'
-    '| Controller architecture | Observation track | Joint compliance (%) | Partial profit (EUR ha$^{-1}$) | Apparent NUE | Surplus S_N (kg N ha$^{-1}$) | Native N loss (kg N ha$^{-1}$) |\n'
+    '| Controller architecture | Observation track | Joint compliance (%) | Partial profit (EUR ha$^{-1}$) | Apparent NUE | Surplus $S_N$ (kg N ha$^{-1}$) | Native N loss (kg N ha$^{-1}$) |\n'
     '|---|---|---:|---:|---:|---:|---:|\n'
     f'| Matched Sensorless PPO | Sensorless | {100*ppo["region_equal"]["joint"]:.2f} | {ppo["region_equal"]["partial_profit"]:.2f} | {ppo["region_equal"]["NUE"]:.2f} | {ppo["region_equal"]["S_N"]:.2f} | {ppo["region_equal"]["Native_N_loss"]:.2f} |\n'
     f'| DVS-N2 split rule | Full-Telemetry | {100*dvs["region_equal"]["joint"]:.2f} | {dvs["region_equal"]["partial_profit"]:.2f} | {dvs["region_equal"]["NUE"]:.2f} | {dvs["region_equal"]["S_N"]:.2f} | {dvs["region_equal"]["Native_N_loss"]:.2f} |\n'
@@ -798,14 +796,20 @@ add_block('d53-p1', d53_p1_zh, d53_p1_en)
 add_block('sec-conc', '## 6 结论', '## 6 Conclusions')
 
 conc_en = (
-    'Coupling compact conformalized surrogates, warming-de-shifted analogue weather ensembles, watershed surplus safeguards, bilateral socio-economic corridor scoring and three-stage non-anticipative dynamic planning inside AgroMAS-Global advances sequential wheat fertilization from isolated stationary stations to resilient multi-continental management. '
-    f'Across five contrasting archetypes, objective-preserving soft coupling maintains statistical parity with full-budget reinforcement learning across mild historical years (46 of 52 seasons tied, mean difference minus 1.94 percentage points, Holm p equals 1.00) and averages a narrow 0.58 percentage-point margin across all 180 factorial stress cells (40 wins, 93 ties and 47 losses), yet prevents soil-mining collapses (6.27-fold compliance gain over profit-only relaxation to {100*soft["region_equal"]["joint"]:.2f} percent), edges matched reinforcement learning across seven Wageningen seasons (28.57 versus 19.05 percent), leads by 5.15 and 5.61 percentage points under 1.8 and 3.5 degrees Celsius warming along the operational 40 kg N ha$^{{-1}}$ ceiling (7.19 to 8.10 percentage points under doubled fertilizer prices), compresses ensemble storage over 1,690-fold versus tree baselines (166.3 KB versus 275.52 MB) alongside 38.5 percent higher compliance and up to 49.4 percent less regret, and lifts cross-continental sensorless prior gate admission from zero to 60.00 percent. '
-    'Finally, full factorial testing quantifies both a 100 EUR ha$^{{-1}}$ moderate-warming subsidy inflection and uncalibrated prior-incentive misalignment, alongside single-season soil drawdown diagnostics and double-precision accounting verification across six million daily transitions for upcoming multi-season field validation.'
+    'Single-system wheat nitrogen controllers fracture once global warming, strict watershed nitrate caps, volatile fertilizer markets and missing in-situ sensors collide, oscillating between zero-dose feasibility deadlocks and hidden soil organic nitrogen mining. '
+    'By coupling warming-de-shifted climate analogues, watershed nitrate cap margins, bilateral market-corridor scoring and station-demeaned satellite anomalies separated from hydraulic soil baselines inside a 166.3 KB conformalized neural surrogate, AgroMAS-Global resolves this structural trade-off across five contrasting global wheat regions without heavy black-box ensembles or field hardware. '
+    'First, replacing brittle tail clipping and profit-only fallbacks with continuous bilateral corridor scoring breaks the deadlock-versus-mining trap, elevating joint compliance 6.27-fold over profit-only control, matching full-budget reinforcement learning under mild climates while leading on the independent Wageningen benchmark, and compressing serialized storage over 1,690-fold below 64-tree ensembles. '
+    'Second, coupling de-shifted climate branching with bilateral dynamic continuation anticipates heat-compressed crop phenology along the operational 40 kg N ha$^{-1}$ watershed ceiling, overtaking matched reinforcement learning under 1.8 and 3.5 degrees Celsius warming and widening its advantage when fertilizer prices double. '
+    'Third, decoupling static soil physics from causal site-relative satellite anomalies lifts cross-continental prior gate admission from zero to 60.00 percent while clarifying that gate passage and regional soil calibration govern distinct stages of spatial deployment. '
+    'Finally, verifying daily carbon-nitrogen conservation across six million transitions exposes persistent single-season humus drawdown alongside a 100 EUR ha$^{-1}$ green-subsidy inflection under moderate warming, demonstrating that durable agri-environmental policies must reward verified nutrient outcomes rather than uncalibrated prior probabilities.'
 )
 conc_zh = (
-    '通过将紧凑共形响应代理、去升温偏移天气类比集合、流域氮盈余红线、社会经济双侧走廊与三阶段非预知动态规划解耦耦合于AgroMAS-Global，本研究推动小麦氮肥管理从理想平稳单田走向多洲际高压协同调控。'
-    f'跨越五大典型麦区的系统评估证明，连续目标保持型软耦合在温和历史年份与充分预算强化学习统计等效（52年中有46年一致、均值差负1.94个百分点、Holm校正p等于1.00）且180格全因子平均净差为0.58个百分点（40胜、93平、47负），但在关键压力带发挥决定性防塌缩效用，较仅收益回退提升6.27倍至{100*soft["region_equal"]["joint"]:.2f}%，在7季瓦赫宁根基准取得28.57%对比19.05%优势，在1.8与3.5摄氏度升温及每公顷40千克氮主流红线下净胜PPO达5.15与5.61个百分点（肥价翻倍扩至7.19至8.10个百分点），以逾1,690倍存储压缩（166.3千字节对比275.52兆字节）取得高出树基线38.5%的达标表现并削减至多49.4%遗憾，同时把跨洲无传感器先验准入率由零拉升至60.00%。'
-    '同期完成的全口径土壤氮动用拆解、适度升温每公顷100欧元补贴拐点与激励错位边界分析，以及逾六百万条日步长双精度质量账面核验，为后续多年多季田间实证提供了严谨基准。'
+    '走出温和平稳单站试验田后，孤立优化产量、收益或生态上限的单系统氮肥控制必将在气候变暖、严格流域红线、肥价冲击与无在线传感器叠加下全面失稳，在零追肥死锁与隐性土壤氮透支之间剧烈摇摆。'
+    '通过将去升温偏移气候类比、流域红线余量、双侧市场走廊效用及与水力土壤基线解耦的站点因果卫星距平联合嵌入总计166.3千字节的共形轻量化神经代理，AgroMAS-Global在不依赖田间硬件或重参数黑箱的前提下跨五大麦区破解了这一结构性两难困境。'
+    '首先，以连续双侧走廊评分取代刚性截断与裸利润回退，彻底阻断零肥僵局与耗土投机，较仅收益策略实现6.27倍达标跃升，在温和气候下保持与充分预算强化学习等效并于荷兰独立基准领跑，同时较64棵树集成缩减逾1,690倍磁盘存储。'
+    '其次，将去升温分支与双侧动态续策耦合，在每公顷40千克氮常规流域红线下提前捕获热害压缩的发育窗口，在1.8与3.5摄氏度升温及肥价翻倍冲击下稳定反超同信息强化学习。'
+    '再次，因果分离物理土壤基线与站点历史去均值卫星距平将跨洲先验准入由零升至60.00%，并界定出空间门控准入与本地定量校准的分工边界。'
+    '最后，依托逾六百万条日步长的氮碳质量守恒核算，揭示出表观达标背后不容忽视的原生腐殖质净亏损与适度升温下每公顷100欧元补贴最优拐点，证明可持续农业生态政策必须锚定经验证的真实养分结局而非未校准名义概率。'
 )
 add_block('conc-body', conc_zh, conc_en)
 

@@ -1,33 +1,58 @@
-\begin{thebibliography}{8}
+\begin{thebibliography}{68}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Berghuijs et~al.(2024)Berghuijs, Silva, Reidsma, and
-  de~Wit]{berghuijs2024}
-Herman~N.C. Berghuijs, João~Vasco Silva, Pytrik Reidsma, and Allard~J.W.
-  de~Wit.
-\newblock Expanding the wofost crop model to explore options for sustainable
-  nitrogen management: A study for winter wheat in the netherlands.
-\newblock \emph{European Journal of Agronomy}, 154:\penalty0 127099, 2024.
-\newblock \doi{10.1016/j.eja.2024.127099}.
-\newblock URL \url{https://doi.org/10.1016/j.eja.2024.127099}.
+\bibitem[Zhang et~al.(2015)Zhang, Davidson, Mauzerall, Searchinger, Dumas, and
+  Shen]{zhang2015}
+Xin Zhang, Eric~A. Davidson, Denise~L. Mauzerall, Timothy~D. Searchinger,
+  Patrice Dumas, and Ye~Shen.
+\newblock Managing nitrogen for sustainable development.
+\newblock \emph{Nature}, 528\penalty0 (7580):\penalty0 51--59, 2015.
+\newblock \doi{10.1038/nature15743}.
+\newblock URL \url{https://doi.org/10.1038/nature15743}.
 
-\bibitem[Brown et~al.(2025)Brown, Kazmierski, Pasquarella, et~al.]{brown2025}
-C.~F. Brown, M.~R. Kazmierski, V.~J. Pasquarella, et~al.
-\newblock Alphaearth foundations: An embedding field model for accurate and
-  efficient global mapping from sparse label data, 2025.
-\newblock URL \url{https://arxiv.org/abs/2507.22291}.
+\bibitem[Lipper(2014)]{lipper2014}
+Lipper.
+\newblock {Climate-smart agriculture for food security}.
+\newblock \emph{Nat. Clim. Chang.}, 4:\penalty0 1068, 2014.
+\newblock \doi{10.1038/nclimate2437}.
+\newblock URL \url{https://doi.org/10.1038/nclimate2437}.
 
-\bibitem[Cawley and Talbot(2010)]{cawley2010}
-Gavin~C. Cawley and Nicola L.~C. Talbot.
-\newblock On over-fitting in model selection and subsequent selection bias in
-  performance evaluation.
-\newblock \emph{Journal of Machine Learning Research}, 11:\penalty0 2079--2107,
-  2010.
-\newblock URL \url{https://jmlr.org/papers/v11/cawley10a.html}.
+\bibitem[Chen(2014)]{chen2014}
+Chen.
+\newblock {Producing more grain with lower environmental costs}.
+\newblock \emph{Nature}, 514:\penalty0 486, 2014.
+\newblock \doi{10.1038/nature13609}.
+\newblock URL \url{https://doi.org/10.1038/nature13609}.
+
+\bibitem[der Pol(1992)]{vanderpol1992}
+Van der Pol.
+\newblock {Soil mining: An unseen contributor to farm income in southern mali}.
+\newblock \emph{Judge}, page~65, 1992.
+
+\bibitem[{EU Nitrogen Expert Panel}(2015)]{eunep2015}
+{EU Nitrogen Expert Panel}.
+\newblock Nitrogen use efficiency: An indicator for the utilization of nitrogen
+  in agriculture and food systems.
+\newblock Technical report, Wageningen University, 2015.
+\newblock URL
+  \url{https://www.eunep.com/wp-content/uploads/2023/12/Report-NUE-Indicator-Nitrogen-Expert-Panel-18-12-2015.pdf}.
+
+\bibitem[Diepen(1989)]{vandiepen1989}
+Van Diepen.
+\newblock {WOFOST: a simulation model of crop production}.
+\newblock \emph{Soil Use Manag.}, 5:\penalty0 16, 1989.
+\newblock \doi{10.1111/j.1475-2743.1989.tb00755.x}.
+\newblock URL \url{https://doi.org/10.1111/j.1475-2743.1989.tb00755.x}.
+
+\bibitem[Groot(1991)]{groot1991}
+Groot.
+\newblock {Response of wheat to nitrogen fertilization, a data set to validate
+  simulation models for nitrogen dynamics in crop and soil}.
+\newblock page 349, 1991.
 
 \bibitem[de~Wit et~al.(2019)de~Wit, Boogaard, Fumagalli, Janssen, Knapen, van
   Kraalingen, Supit, van~der Wijngaart, and van Diepen]{dewit2019}
@@ -39,19 +64,376 @@ Allard de~Wit, Hendrik Boogaard, Davide Fumagalli, Sander Janssen, Rob Knapen,
 \newblock \doi{10.1016/j.agsy.2018.06.018}.
 \newblock URL \url{https://doi.org/10.1016/j.agsy.2018.06.018}.
 
-\bibitem[{EU Nitrogen Expert Panel}(2015)]{eunep2015}
-{EU Nitrogen Expert Panel}.
-\newblock Nitrogen use efficiency: An indicator for the utilization of nitrogen
-  in agriculture and food systems.
-\newblock Technical report, Wageningen University, 2015.
-\newblock URL
-  \url{https://www.eunep.com/wp-content/uploads/2023/12/Report-NUE-Indicator-Nitrogen-Expert-Panel-18-12-2015.pdf}.
+\bibitem[Ceglar(2019)]{ceglar2019}
+Ceglar.
+\newblock {Improving wofost model to simulate winter wheat phenology in Europe:
+  Evaluation and effects on yield}.
+\newblock \emph{Agricult. Sys.}, 168:\penalty0 168, 2019.
+\newblock \doi{10.1016/j.agsy.2018.05.002}.
+\newblock URL \url{https://doi.org/10.1016/j.agsy.2018.05.002}.
 
-\bibitem[Holm(1979)]{holm1979}
-Sture Holm.
-\newblock A simple sequentially rejective multiple test procedure.
-\newblock \emph{Scandinavian Journal of Statistics}, 6:\penalty0 65--70, 1979.
-\newblock URL \url{https://www.jstor.org/stable/4615733}.
+\bibitem[Berghuijs et~al.(2024)Berghuijs, Silva, Reidsma, and
+  de~Wit]{berghuijs2024}
+Herman~N.C. Berghuijs, João~Vasco Silva, Pytrik Reidsma, and Allard~J.W.
+  de~Wit.
+\newblock Expanding the wofost crop model to explore options for sustainable
+  nitrogen management: A study for winter wheat in the netherlands.
+\newblock \emph{European Journal of Agronomy}, 154:\penalty0 127099, 2024.
+\newblock \doi{10.1016/j.eja.2024.127099}.
+\newblock URL \url{https://doi.org/10.1016/j.eja.2024.127099}.
+
+\bibitem[Jones et~al.(2003)Jones, Hoogenboom, Porter, Boote, Batchelor, Hunt,
+  Wilkens, Singh, Gijsman, and Ritchie]{jones2003}
+J.W Jones, G~Hoogenboom, C.H Porter, K.J Boote, W.D Batchelor, L.A Hunt, P.W
+  Wilkens, U~Singh, A.J Gijsman, and J.T Ritchie.
+\newblock The dssat cropping system model.
+\newblock \emph{European Journal of Agronomy}, 18\penalty0 (3-4):\penalty0
+  235--265, 2003.
+\newblock \doi{10.1016/s1161-0301(02)00107-7}.
+\newblock URL \url{https://doi.org/10.1016/s1161-0301(02)00107-7}.
+
+\bibitem[Stöckle et~al.(2003)Stöckle, Donatelli, and Nelson]{stockle2003}
+Claudio~O. Stöckle, Marcello Donatelli, and Roger Nelson.
+\newblock Cropsyst, a cropping systems simulation model.
+\newblock \emph{European Journal of Agronomy}, 18\penalty0 (3-4):\penalty0
+  289--307, 2003.
+\newblock \doi{10.1016/s1161-0301(02)00109-0}.
+\newblock URL \url{https://doi.org/10.1016/s1161-0301(02)00109-0}.
+
+\bibitem[Holzworth et~al.(2014)Holzworth, Huth, deVoil, Zurcher, Herrmann,
+  McLean, Chenu, van Oosterom, Snow, Murphy, Moore, Brown, Whish, Verrall,
+  Fainges, Bell, Peake, Poulton, Hochman, Thorburn, Gaydon, Dalgliesh,
+  Rodriguez, Cox, Chapman, Doherty, Teixeira, Sharp, Cichota, Vogeler, Li,
+  Wang, Hammer, Robertson, Dimes, Whitbread, Hunt, van Rees, McClelland,
+  Carberry, Hargreaves, MacLeod, McDonald, Harsdorf, Wedgwood, and
+  Keating]{holzworth2014}
+Dean~P. Holzworth, Neil~I. Huth, Peter~G. deVoil, Eric~J. Zurcher, Neville~I.
+  Herrmann, Greg McLean, Karine Chenu, Erik~J. van Oosterom, Val Snow, Chris
+  Murphy, Andrew~D. Moore, Hamish Brown, Jeremy~P.M. Whish, Shaun Verrall,
+  Justin Fainges, Lindsay~W. Bell, Allan~S. Peake, Perry~L. Poulton, Zvi
+  Hochman, Peter~J. Thorburn, Donald~S. Gaydon, Neal~P. Dalgliesh, Daniel
+  Rodriguez, Howard Cox, Scott Chapman, Alastair Doherty, Edmar Teixeira,
+  Joanna Sharp, Rogerio Cichota, Iris Vogeler, Frank~Y. Li, Enli Wang,
+  Graeme~L. Hammer, Michael~J. Robertson, John~P. Dimes, Anthony~M. Whitbread,
+  James Hunt, Harm van Rees, Tim McClelland, Peter~S. Carberry, John~N.G.
+  Hargreaves, Neil MacLeod, Cam McDonald, Justin Harsdorf, Sara Wedgwood, and
+  Brian~A. Keating.
+\newblock Apsim – evolution towards a new generation of agricultural systems
+  simulation.
+\newblock \emph{Environmental Modelling \& Software}, 62:\penalty0 327--350,
+  2014.
+\newblock \doi{10.1016/j.envsoft.2014.07.009}.
+\newblock URL \url{https://doi.org/10.1016/j.envsoft.2014.07.009}.
+
+\bibitem[van Ittersum et~al.(2013)van Ittersum, Cassman, Grassini, Wolf,
+  Tittonell, and Hochman]{vanittersum2013}
+Martin~K. van Ittersum, Kenneth~G. Cassman, Patricio Grassini, Joost Wolf,
+  Pablo Tittonell, and Zvi Hochman.
+\newblock Yield gap analysis with local to global relevance—a review.
+\newblock \emph{Field Crops Research}, 143:\penalty0 4--17, 2013.
+\newblock \doi{10.1016/j.fcr.2012.09.009}.
+\newblock URL \url{https://doi.org/10.1016/j.fcr.2012.09.009}.
+
+\bibitem[van Bussel(2015)]{vanbussel2015}
+van Bussel.
+\newblock {From field to atlas: upscaling of location-specific yield gap
+  estimates}.
+\newblock \emph{Field Crop. Res.}, 177:\penalty0 98, 2015.
+\newblock \doi{10.1016/j.fcr.2015.03.005}.
+\newblock URL \url{https://doi.org/10.1016/j.fcr.2015.03.005}.
+
+\bibitem[der Velde(2019)]{vandervelde2019}
+Van der Velde.
+\newblock {Performance of the MARS-crop yield forecasting system for the
+  European Union: Assessing accuracy, in-season, and year-to-year improvements
+  from 1993 to 2015}.
+\newblock \emph{Agricult. Sys.}, 168:\penalty0 203, 2019.
+\newblock \doi{10.1016/j.agsy.2018.06.009}.
+\newblock URL \url{https://doi.org/10.1016/j.agsy.2018.06.009}.
+
+\bibitem[Cui(2010)]{cui2010}
+Cui.
+\newblock {In-season nitrogen management strategy for winter wheat: Maximizing
+  yields, minimizing environmental impact in an over-fertilization context}.
+\newblock \emph{Field Crop. Res.}, 116:\penalty0 140, 2010.
+\newblock \doi{10.1016/j.fcr.2009.12.004}.
+\newblock URL \url{https://doi.org/10.1016/j.fcr.2009.12.004}.
+
+\bibitem[Fageria(2005)]{fageria2005}
+Fageria.
+\newblock {Enhancing nitrogen use efficiency in crop plants}.
+\newblock \emph{Adv. Agron.}, 88:\penalty0 97, 2005.
+\newblock \doi{10.1016/S0065-2113(05)88004-6}.
+\newblock URL \url{https://doi.org/10.1016/S0065-2113(05)88004-6}.
+
+\bibitem[Yang(2022)]{yang2022}
+Yang.
+\newblock {The thresholds and management of irrigation and fertilization
+  earning yields and water use efficiency in maize, wheat, and rice in China: A
+  meta-analysis (1990–2020)}.
+\newblock \emph{Agronomy}, page~12, 2022.
+
+\bibitem[Wang(2020)]{wang2020}
+Wang.
+\newblock {Agronomic and environmental benefits of nutrient expert on maize and
+  rice in Northeast China}.
+\newblock \emph{Environ. Sci. Pollut. Res.}, page~27, 2020.
+
+\bibitem[Faber(2021)]{faber2021}
+Faber.
+\newblock {Reduction of nitrogen losses in winter wheat grown on light soils}.
+\newblock \emph{Agronomy}, page~11, 2021.
+
+\bibitem[Fountas(2015)]{fountas2015}
+Fountas.
+\newblock {Precision agriculture: Crop management for improved productivity and
+  reduced environmental impact or improved sustainability}.
+\newblock In \emph{Supply Chain Manag. Sustain. Food Netw.}, volume~4, page~1.
+  2015.
+
+\bibitem[Norton(2015)]{norton2015}
+Norton.
+\newblock {Nitrogen Use Efficiency and Nutrient Performance Indicators}.
+\newblock Technical report, European Commission / FAO / International
+  Fertilizer Association, 2015.
+
+\bibitem[Silva(2021)]{silva2021}
+Silva.
+\newblock {Agronomic analysis of nitrogen performance indicators in intensive
+  arable cropping systems: An appraisal of big data from commercial farms}.
+\newblock \emph{Field Crop. Res.}, 269, 2021.
+\newblock \doi{10.1016/j.fcr.2021.108176}.
+\newblock URL \url{https://doi.org/10.1016/j.fcr.2021.108176}.
+
+\bibitem[Ravensbergen(2024)]{ravensbergen2024}
+Ravensbergen.
+\newblock {Field monitoring reveals scope to reduce environmental impact of
+  ware potato cultivation in the Netherlands without compromising yield}.
+\newblock \emph{Agricult. Sys.}, 220, 2024.
+\newblock \doi{10.1016/j.agsy.2024.104091}.
+\newblock URL \url{https://doi.org/10.1016/j.agsy.2024.104091}.
+
+\bibitem[Union(2016)]{eu2016}
+European Union.
+\newblock {Directive (eu) 2016/2284 of the European parliament and of the
+  council of 14 December 2016 on the reduction of national emissions of certain
+  atmospheric pollutants, amending directive 2003/35/ec and repealing directive
+  2001/81/ec}.
+\newblock Off. J. Eur. Communities, 2016.
+
+\bibitem[FAO(2019)]{fao2019}
+FAO.
+\newblock {The International Code of Conduct for the sustainable use and
+  management of fertilizers}.
+\newblock Technical report, Food Agric. Organ., 2019.
+
+\bibitem[Klages(2020)]{klages2020}
+Klages.
+\newblock {Nitrogen surplus—a unified indicator for water pollution in
+  europe?}
+\newblock \emph{Water}, page~12, 2020.
+
+\bibitem[Zhou(2016)]{zhou2016}
+Zhou.
+\newblock {Significant accumulation of nitrate in Chinese semi-humid
+  croplands}.
+\newblock \emph{Sci. Rep.}, 6, 2016.
+
+\bibitem[Huang(2007)]{huang2007}
+Huang.
+\newblock {Temporal and spatial variability of soil organic matter and total
+  nitrogen in an agricultural ecosystem as affected by farming practices}.
+\newblock \emph{Geoderma}, 139:\penalty0 336, 2007.
+\newblock \doi{10.1016/j.geoderma.2007.02.012}.
+\newblock URL \url{https://doi.org/10.1016/j.geoderma.2007.02.012}.
+
+\bibitem[Altenbach(2003)]{altenbach2003}
+Altenbach.
+\newblock {Temperature, water and fertilizer influence the timing of key events
+  during grain development in a us spring wheat}.
+\newblock \emph{J. Cereal Sci.}, 37:\penalty0 9, 2003.
+\newblock \doi{10.1006/jcrs.2002.0483}.
+\newblock URL \url{https://doi.org/10.1006/jcrs.2002.0483}.
+
+\bibitem[Iizumi(2016)]{iizumi2016}
+Iizumi.
+\newblock {Changes in yield variability of major crops for 1981–2010
+  explained by climate change}.
+\newblock \emph{Environ. Res. Lett.}, 11, 2016.
+\newblock \doi{10.1088/1748-9326/11/3/034003}.
+\newblock URL \url{https://doi.org/10.1088/1748-9326/11/3/034003}.
+
+\bibitem[Pylianidis(2021)]{pylianidis2021}
+Pylianidis.
+\newblock {Introducing digital twins to agriculture}.
+\newblock \emph{Comput. Electron. Agric.}, 184, 2021.
+\newblock \doi{10.1016/j.compag.2020.105942}.
+\newblock URL \url{https://doi.org/10.1016/j.compag.2020.105942}.
+
+\bibitem[Gautron(2022{\natexlab{a}})]{gautron2022a}
+Gautron.
+\newblock {Reinforcement learning for crop management support: Review,
+  prospects and challenges}.
+\newblock \emph{Comput. Electron. Agric.}, 200, 2022{\natexlab{a}}.
+\newblock \doi{10.1016/j.compag.2022.107182}.
+\newblock URL \url{https://doi.org/10.1016/j.compag.2022.107182}.
+
+\bibitem[Censor(1977)]{censor1977}
+Censor.
+\newblock {Pareto optimality in multiobjective problems}.
+\newblock \emph{Appl. Math. Optim.}, 4:\penalty0 41, 1977.
+\newblock \doi{10.1007/BF01442131}.
+\newblock URL \url{https://doi.org/10.1007/BF01442131}.
+
+\bibitem[Roijers(2013)]{roijers2013}
+Roijers.
+\newblock {A survey of multi-objective sequential decision-making}.
+\newblock \emph{J. Artificial Intelligence Res.}, page~48, 2013.
+
+\bibitem[Achiam(2017)]{achiam2017}
+Achiam.
+\newblock {Constrained policy optimization}.
+\newblock page~22, 2017.
+
+\bibitem[Overweg(2021)]{overweg2021}
+Overweg.
+\newblock {CropGym: a reinforcement learning environment for crop management}.
+\newblock 2021.
+
+\bibitem[Gautron(2022{\natexlab{b}})]{gautron2022b}
+Gautron.
+\newblock {gym-DSSAT: a crop model turned into a reinforcement learning
+  environment}.
+\newblock 2022{\natexlab{b}}.
+
+\bibitem[Turchetta(2022)]{turchetta2022}
+Turchetta.
+\newblock {Learning long-term crop management strategies with CyclesGym}.
+\newblock \emph{Adv. Neural Inf. Process. Syst.}, 35:\penalty0 11396, 2022.
+
+\bibitem[Maillard(2023)]{maillard2023}
+Maillard.
+\newblock {Farm-gym: A modular reinforcement learning platform for stochastic
+  agronomic games}.
+\newblock page~7, 2023.
+
+\bibitem[Wu(2022)]{wu2022}
+Wu.
+\newblock {Optimizing nitrogen management with deep reinforcement learning and
+  crop simulations}.
+\newblock page 1712, 2022.
+
+\bibitem[Tao(2022)]{tao2022}
+Tao.
+\newblock {Optimizing crop management with reinforcement learning and imitation
+  learning}.
+\newblock 2022.
+
+\bibitem[Madondo(2023)]{madondo2023}
+Madondo.
+\newblock {A SWAT-based reinforcement learning framework for crop management},
+  2023.
+
+\bibitem[Tobin(2017)]{tobin2017}
+Tobin.
+\newblock {Domain randomization for transferring deep neural networks from
+  simulation to the real world}.
+\newblock 2017.
+
+\bibitem[Eschmann(2021)]{eschmann2021}
+Eschmann.
+\newblock {Reward function design in reinforcement learning}.
+\newblock page~25. 2021.
+
+\bibitem[Ji(2023)]{ji2023}
+Ji.
+\newblock {Safety-gymnasium: A unified safe reinforcement learning Benchmark}.
+\newblock 2023.
+
+\bibitem[Sutton(2018)]{sutton2018}
+Sutton.
+\newblock \emph{{Reinforcement Learning: An Introduction}}.
+\newblock 2018.
+
+\bibitem[Baja et~al.(2025)Baja, Kallenberg, Berghuijs, and
+  Athanasiadis]{baja2025}
+Hilmy Baja, Michiel~G.J. Kallenberg, Herman~N.C. Berghuijs, and Ioannis~N.
+  Athanasiadis.
+\newblock Adaptive fertilizer management for optimizing nitrogen use efficiency
+  with constrained reinforcement learning.
+\newblock \emph{Computers and Electronics in Agriculture}, 237:\penalty0
+  110554, 2025.
+\newblock \doi{10.1016/j.compag.2025.110554}.
+\newblock URL \url{https://doi.org/10.1016/j.compag.2025.110554}.
+
+\bibitem[Poggio et~al.(2021)Poggio, de~Sousa, Batjes, Heuvelink, Kempen,
+  Ribeiro, and Rossiter]{poggio2021}
+Laura Poggio, Luis~M. de~Sousa, Niels~H. Batjes, Gerard B.~M. Heuvelink, Bas
+  Kempen, Eloi Ribeiro, and David Rossiter.
+\newblock Soilgrids 2.0: producing soil information for the globe with
+  quantified spatial uncertainty.
+\newblock \emph{SOIL}, 7\penalty0 (1):\penalty0 217--240, 2021.
+\newblock \doi{10.5194/soil-7-217-2021}.
+\newblock URL \url{https://doi.org/10.5194/soil-7-217-2021}.
+
+\bibitem[Brown et~al.(2025)Brown, Kazmierski, Pasquarella, et~al.]{brown2025}
+C.~F. Brown, M.~R. Kazmierski, V.~J. Pasquarella, et~al.
+\newblock Alphaearth foundations: An embedding field model for accurate and
+  efficient global mapping from sparse label data, 2025.
+\newblock URL \url{https://arxiv.org/abs/2507.22291}.
+
+\bibitem[Camps-Valls(2025)]{campsvalls2025}
+Camps-Valls.
+\newblock {Artificial intelligence for modeling and understanding extreme
+  weather and climate events}.
+\newblock \emph{Nat. Commun.}, 16:\penalty0 1919, 2025.
+\newblock \doi{10.1038/s41467-025-56573-8}.
+\newblock URL \url{https://doi.org/10.1038/s41467-025-56573-8}.
+
+\bibitem[Asseng et~al.(2014)Asseng, Ewert, Martre, Rötter, Lobell, Cammarano,
+  Kimball, Ottman, Wall, White, Reynolds, Alderman, Prasad, Aggarwal, Anothai,
+  Basso, Biernath, Challinor, De~Sanctis, Doltra, Fereres, Garcia-Vila, Gayler,
+  Hoogenboom, Hunt, Izaurralde, Jabloun, Jones, Kersebaum, Koehler, Müller,
+  Naresh~Kumar, Nendel, O’Leary, Olesen, Palosuo, Priesack, Eyshi~Rezaei,
+  Ruane, Semenov, Shcherbak, Stöckle, Stratonovitch, Streck, Supit, Tao,
+  Thorburn, Waha, Wang, Wallach, Wolf, Zhao, and Zhu]{asseng2015}
+S.~Asseng, F.~Ewert, P.~Martre, R.~P. Rötter, D.~B. Lobell, D.~Cammarano,
+  B.~A. Kimball, M.~J. Ottman, G.~W. Wall, J.~W. White, M.~P. Reynolds, P.~D.
+  Alderman, P.~V.~V. Prasad, P.~K. Aggarwal, J.~Anothai, B.~Basso, C.~Biernath,
+  A.~J. Challinor, G.~De~Sanctis, J.~Doltra, E.~Fereres, M.~Garcia-Vila,
+  S.~Gayler, G.~Hoogenboom, L.~A. Hunt, R.~C. Izaurralde, M.~Jabloun, C.~D.
+  Jones, K.~C. Kersebaum, A-K. Koehler, C.~Müller, S.~Naresh~Kumar, C.~Nendel,
+  G.~O’Leary, J.~E. Olesen, T.~Palosuo, E.~Priesack, E.~Eyshi~Rezaei, A.~C.
+  Ruane, M.~A. Semenov, I.~Shcherbak, C.~Stöckle, P.~Stratonovitch, T.~Streck,
+  I.~Supit, F.~Tao, P.~J. Thorburn, K.~Waha, E.~Wang, D.~Wallach, J.~Wolf,
+  Z.~Zhao, and Y.~Zhu.
+\newblock Rising temperatures reduce global wheat production.
+\newblock \emph{Nature Climate Change}, 5\penalty0 (2):\penalty0 143--147,
+  2014.
+\newblock \doi{10.1038/nclimate2470}.
+\newblock URL \url{https://doi.org/10.1038/nclimate2470}.
+
+\bibitem[Union(1991)]{eu1991}
+European Union.
+\newblock {Council directive 91/676/eec of 12 December 1991 concerning the
+  protection of waters against pollution caused by nitrates from agricultural
+  sources}.
+\newblock Off. J. Eur. Communities, 1991.
+
+\bibitem[Tan(2005)]{tan2005}
+Tan.
+\newblock {Global soil nutrient depletion and yield reduction}.
+\newblock \emph{J. Sustain. Agric.}, 26:\penalty0 123, 2005.
+\newblock \doi{10.1300/J064v26n01\_10}.
+\newblock URL \url{https://doi.org/10.1300/J064v26n01\_10}.
+
+\bibitem[Gaso(2023)]{gaso2023}
+Gaso.
+\newblock {Efficiency of assimilating leaf area index into a soybean model to
+  assess within-field yield variability}.
+\newblock \emph{Eur. J. Agron.}, 143, 2023.
+\newblock \doi{10.1016/j.eja.2022.126718}.
+\newblock URL \url{https://doi.org/10.1016/j.eja.2022.126718}.
 
 \bibitem[Roberts et~al.(2017)Roberts, Bahn, Ciuti, Boyce, Elith,
   Guillera-Arroita, Hauenstein, Lahoz-Monfort, Schröder, Thuiller, Warton,
@@ -66,13 +448,76 @@ David~R. Roberts, Volker Bahn, Simone Ciuti, Mark~S. Boyce, Jane Elith,
 \newblock \doi{10.1111/ecog.02881}.
 \newblock URL \url{https://doi.org/10.1111/ecog.02881}.
 
-\bibitem[Zhang et~al.(2015)Zhang, Davidson, Mauzerall, Searchinger, Dumas, and
-  Shen]{zhang2015}
-Xin Zhang, Eric~A. Davidson, Denise~L. Mauzerall, Timothy~D. Searchinger,
-  Patrice Dumas, and Ye~Shen.
-\newblock Managing nitrogen for sustainable development.
-\newblock \emph{Nature}, 528\penalty0 (7580):\penalty0 51--59, 2015.
-\newblock \doi{10.1038/nature15743}.
-\newblock URL \url{https://doi.org/10.1038/nature15743}.
+\bibitem[Booth(2023)]{booth2023}
+Booth.
+\newblock {The perils of trial-and-error reward design: Misdesign through
+  overfitting and invalid task specifications}.
+\newblock page 5920, 2023.
+
+\bibitem[Goldenits(2024)]{goldenits2024}
+Goldenits.
+\newblock {Current applications and potential future directions of
+  reinforcement learning-based digital twins in agriculture}.
+\newblock \emph{Smart Agric. Technol.}, 2024.
+\newblock \doi{10.1016/j.atech.2024.100512}.
+\newblock URL \url{https://doi.org/10.1016/j.atech.2024.100512}.
+
+\bibitem[Tessler(2018)]{tessler2018}
+Tessler.
+\newblock {Reward constrained policy optimization}, 2018.
+
+\bibitem[Cawley and Talbot(2010)]{cawley2010}
+Gavin~C. Cawley and Nicola L.~C. Talbot.
+\newblock On over-fitting in model selection and subsequent selection bias in
+  performance evaluation.
+\newblock \emph{Journal of Machine Learning Research}, 11:\penalty0 2079--2107,
+  2010.
+\newblock URL \url{https://jmlr.org/papers/v11/cawley10a.html}.
+
+\bibitem[Schulman et~al.(2017)Schulman, Wolski, Dhariwal, Radford, and
+  Klimov]{ppo2017}
+John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov.
+\newblock Proximal policy optimization algorithms, 2017.
+\newblock URL \url{https://arxiv.org/abs/1707.06347}.
+
+\bibitem[Huang and Onta\~n\'on(2020)]{mask2020}
+Shengyi Huang and Santiago Onta\~n\'on.
+\newblock A closer look at invalid action masking in policy gradient
+  algorithms, 2020.
+\newblock URL \url{https://arxiv.org/abs/2006.14171}.
+
+\bibitem[Fisher(1981)]{fisher1981}
+Fisher.
+\newblock {The lagrangian relaxation method for solving integer programming
+  problems}.
+\newblock \emph{Manag. Sci.}, 27:\penalty0 1, 1981.
+\newblock \doi{10.1287/mnsc.27.1.1}.
+\newblock URL \url{https://doi.org/10.1287/mnsc.27.1.1}.
+
+\bibitem[Geurts et~al.(2006)Geurts, Ernst, and Wehenkel]{geurts2006}
+Pierre Geurts, Damien Ernst, and Louis Wehenkel.
+\newblock Extremely randomized trees.
+\newblock \emph{Machine Learning}, 63\penalty0 (1):\penalty0 3--42, 2006.
+\newblock \doi{10.1007/s10994-006-6226-1}.
+\newblock URL \url{https://doi.org/10.1007/s10994-006-6226-1}.
+
+\bibitem[Holm(1979)]{holm1979}
+Sture Holm.
+\newblock A simple sequentially rejective multiple test procedure.
+\newblock \emph{Scandinavian Journal of Statistics}, 6:\penalty0 65--70, 1979.
+\newblock URL \url{https://www.jstor.org/stable/4615733}.
+
+\bibitem[Phipson and Smyth(2010)]{phipson2010}
+Belinda Phipson and Gordon~K Smyth.
+\newblock Permutation p-values should never be zero: Calculating exact p-values
+  when permutations are randomly drawn.
+\newblock \emph{Statistical Applications in Genetics and Molecular Biology},
+  9\penalty0 (1), 2010.
+\newblock \doi{10.2202/1544-6115.1585}.
+\newblock URL \url{https://doi.org/10.2202/1544-6115.1585}.
+
+\bibitem[CLO(2022)]{clo2022}
+CLO.
+\newblock {Stikstofdepositie}, 2022.
 
 \end{thebibliography}

@@ -48,7 +48,13 @@ for k in [1,2,3]:
 # Guard protected binary/statistical/LaTeX files against task-start commit while allowing updated Markdown/BIB/HTML drafts.
 start_commit='d57698d93721eb49d107485d18d5adaea500077d'
 protected={}
-editable_drafts={'manuscript/phase8/zh.md','manuscript/phase8/en.md','manuscript/phase8/references.bib','manuscript/phase8/paper-bilingual-en-zh.html','reports/phase8/figures/fig1-architecture.pptx'}
+editable_drafts={
+    'manuscript/phase8/zh.md','manuscript/phase8/en.md','manuscript/phase8/references.bib',
+    'manuscript/phase8/paper-bilingual-en-zh.html','reports/phase8/figures/fig1-architecture.pptx',
+    'manuscript/phase8/en.tex','manuscript/phase8/en.pdf','manuscript/phase8/en.bbl',
+    'manuscript/phase8/zh.tex','manuscript/phase8/zh.pdf','manuscript/phase8/zh.bbl',
+    'manuscript/phase8/supplement.tex','manuscript/phase8/supplement.pdf'
+}
 for name in subprocess.check_output(['git','ls-tree','-r','--name-only',start_commit,'manuscript/phase8'],cwd=R,text=True).splitlines():
  current=(R/name).read_bytes()
  if name in editable_drafts:
