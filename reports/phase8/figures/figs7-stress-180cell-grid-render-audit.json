@@ -1,0 +1,65 @@
+{
+  "figure": "figs7-stress-180cell-grid",
+  "sources": {
+    "reports/phase8/phase8d-core-statistics.json": "d5f793084a1d9bc2e9c43d71ef486dffd855e1b0c189da53554d681b87838083",
+    "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+    "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e",
+    "reports/phase8/phase8d-180cell-stress-surface.csv": "8e6fbbbc0f37ab0aab806fcfb8c3002fe5c9744a57098c5360742f5c3d11827b",
+    "reports/phase8/phase8d-closeout-receipt.json": "1ba174ef6e9d42451d6dea49b977f8906be52aad61b9546b04a5c1fd2a068185",
+    "reports/phase8/phase8d-primary-verification.json": "6b8ca50ac3d376f206ab9a1bce61e0363e2731efeacbc93657abc65845d5ecdb",
+    "reports/phase8/phase8d-P2-predictive-cohort-strata.csv": "4ea7c3f0ad892378a113560ce785e23e3b9887095b8eb20e6d8874668b7c1612",
+    "reports/phase8/phase8d-case-metrics-seed-averaged.csv": "c218ce40be31d28be4616353d060e29634111729275b7e6ec7fc4f0ba78643e9",
+    "reports/phase8/phase8d-G1-radius-interpretation.json": "9b564a1680d8726972134ee01c3a8bb62e35cca828607a5904efda3ee0037e7e",
+    "reports/phase8/phase8d-root-cause-verification.json": "0d4a216d0acd197c6cd3fc4a1b3e6a255416916e85c958d284f04be899ffb9a7",
+    "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba"
+  },
+  "palette": [
+    "#162830",
+    "#4C7A99",
+    "#5882A6",
+    "#A4BED1",
+    "#5E9680",
+    "#8E7CA6",
+    "#FFF0C4",
+    "#E8B8AE",
+    "#D67E7D",
+    "#B8525A"
+  ],
+  "font": "Times New Roman",
+  "black_regular_text": true,
+  "contrast_labels": [],
+  "descriptive_titles": false,
+  "axes_count": 4,
+  "axes_bounds": [
+    [
+      30.87049638278061,
+      27.67222222222224,
+      353.42453978941325,
+      357.6477777777777
+    ],
+    [
+      400.9220542941049,
+      27.67222222222224,
+      353.4245397894134,
+      357.6477777777777
+    ],
+    [
+      770.9736122054293,
+      27.67222222222224,
+      353.4245397894134,
+      357.6477777777777
+    ],
+    [
+      1173.154673733973,
+      67.20000000000002,
+      55.81997904380478,
+      268.79999999999995
+    ]
+  ],
+  "notes": "V11 Supplementary Fig. S7 (compact 1x3 appendix). Complete 180-cell Soft-PPO stress advantage surface across 3 climates with 90 canonical black continuity outlines.",
+  "runtime_paths": {
+    "cwd": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53",
+    "style_file": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/scripts/phase8d-plot-style.py",
+    "figure_output": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/reports/phase8/figures"
+  }
+}

@@ -1,0 +1,1223 @@
+{
+  "sources": {
+    "reports/phase8/phase8d-core-statistics.json": "d5f793084a1d9bc2e9c43d71ef486dffd855e1b0c189da53554d681b87838083",
+    "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+    "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e",
+    "reports/phase8/phase8d-180cell-stress-surface.csv": "8e6fbbbc0f37ab0aab806fcfb8c3002fe5c9744a57098c5360742f5c3d11827b",
+    "reports/phase8/phase8d-closeout-receipt.json": "1ba174ef6e9d42451d6dea49b977f8906be52aad61b9546b04a5c1fd2a068185",
+    "reports/phase8/phase8d-primary-verification.json": "6b8ca50ac3d376f206ab9a1bce61e0363e2731efeacbc93657abc65845d5ecdb",
+    "reports/phase8/phase8d-P2-predictive-cohort-strata.csv": "4ea7c3f0ad892378a113560ce785e23e3b9887095b8eb20e6d8874668b7c1612",
+    "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba"
+  },
+  "figures": {
+    "fig2-g1": {
+      "figure": "fig2-g1",
+      "sources": {
+        "reports/phase8/phase8d-core-statistics.json": "d5f793084a1d9bc2e9c43d71ef486dffd855e1b0c189da53554d681b87838083",
+        "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+        "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e",
+        "reports/phase8/phase8d-180cell-stress-surface.csv": "8e6fbbbc0f37ab0aab806fcfb8c3002fe5c9744a57098c5360742f5c3d11827b",
+        "reports/phase8/phase8d-closeout-receipt.json": "1ba174ef6e9d42451d6dea49b977f8906be52aad61b9546b04a5c1fd2a068185",
+        "reports/phase8/phase8d-primary-verification.json": "6b8ca50ac3d376f206ab9a1bce61e0363e2731efeacbc93657abc65845d5ecdb",
+        "reports/phase8/phase8d-P2-predictive-cohort-strata.csv": "4ea7c3f0ad892378a113560ce785e23e3b9887095b8eb20e6d8874668b7c1612",
+        "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba",
+        "reports/phase8/phase8d-case-metrics-seed-averaged.csv": "c218ce40be31d28be4616353d060e29634111729275b7e6ec7fc4f0ba78643e9",
+        "reports/phase8/phase8d-G1-radius-interpretation.json": "9b564a1680d8726972134ee01c3a8bb62e35cca828607a5904efda3ee0037e7e",
+        "reports/phase8/phase8d-root-cause-verification.json": "0d4a216d0acd197c6cd3fc4a1b3e6a255416916e85c958d284f04be899ffb9a7"
+      },
+      "palette": [
+        "#162830",
+        "#4C7A99",
+        "#5882A6",
+        "#A4BED1",
+        "#5E9680",
+        "#8E7CA6",
+        "#FFF0C4",
+        "#E8B8AE",
+        "#D67E7D",
+        "#B8525A"
+      ],
+      "font": "Times New Roman",
+      "black_regular_text": true,
+      "descriptive_titles": false,
+      "axes_bounds": [
+        [
+          61.44736842105263,
+          604.6527051923878,
+          644.078947368421,
+          337.27509848265424
+        ],
+        [
+          810.9210526315787,
+          522.4243672331871,
+          644.078947368421,
+          466.2247555738304
+        ],
+        [
+          61.44736842105263,
+          56.27777777777784,
+          644.078947368421,
+          438.33625730994146
+        ],
+        [
+          810.9210526315787,
+          56.27777777777784,
+          644.078947368421,
+          438.33625730994146
+        ]
+      ],
+      "notes": "Natural Earth Robinson context and exact Europe inset. Initial-soil-N rounded callouts follow task-754910f37ddf0ccd.md declared initialization metadata, not soil observations. Interval widths read from phase8d-G1-radius-interpretation.json; target90 and sub-band AU remain visible. All BSS and regret labels derived from G1 verdict.",
+      "runtime_paths": {
+        "cwd": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4",
+        "style_file": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4/scripts/phase8d-plot-style.py",
+        "figure_output": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4/reports/phase8/figures"
+      },
+      "axes_count": 4
+    },
+    "fig2-p1-regimes": {
+      "figure": "fig2-p1-regimes",
+      "sources": {
+        "reports/phase8/phase8d-core-statistics.json": "d5f793084a1d9bc2e9c43d71ef486dffd855e1b0c189da53554d681b87838083",
+        "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+        "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e",
+        "reports/phase8/phase8d-180cell-stress-surface.csv": "8e6fbbbc0f37ab0aab806fcfb8c3002fe5c9744a57098c5360742f5c3d11827b",
+        "reports/phase8/phase8d-closeout-receipt.json": "1ba174ef6e9d42451d6dea49b977f8906be52aad61b9546b04a5c1fd2a068185",
+        "reports/phase8/phase8d-primary-verification.json": "6b8ca50ac3d376f206ab9a1bce61e0363e2731efeacbc93657abc65845d5ecdb",
+        "reports/phase8/phase8d-P2-predictive-cohort-strata.csv": "4ea7c3f0ad892378a113560ce785e23e3b9887095b8eb20e6d8874668b7c1612",
+        "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba",
+        "reports/phase8/phase8d-case-metrics-seed-averaged.csv": "c218ce40be31d28be4616353d060e29634111729275b7e6ec7fc4f0ba78643e9",
+        "reports/phase8/phase8d-G1-radius-interpretation.json": "9b564a1680d8726972134ee01c3a8bb62e35cca828607a5904efda3ee0037e7e",
+        "reports/phase8/phase8d-root-cause-verification.json": "0d4a216d0acd197c6cd3fc4a1b3e6a255416916e85c958d284f04be899ffb9a7"
+      },
+      "palette": [
+        "#162830",
+        "#4C7A99",
+        "#5882A6",
+        "#A4BED1",
+        "#5E9680",
+        "#8E7CA6",
+        "#FFF0C4",
+        "#E8B8AE",
+        "#D67E7D",
+        "#B8525A"
+      ],
+      "font": "Times New Roman",
+      "black_regular_text": true,
+      "descriptive_titles": false,
+      "axes_bounds": [
+        [
+          62.52777777777777,
+          581.7353801169592,
+          716.9809941520466,
+          492.7580409356725
+        ],
+        [
+          888.1403508771929,
+          601.5409356725147,
+          663.8596491228069,
+          472.95248538011697
+        ],
+        [
+          115.64912280701756,
+          64.27777777777786,
+          663.8596491228069,
+          472.95248538011685
+        ],
+        [
+          888.1403508771929,
+          36.389279513888965,
+          663.8596491228069,
+          500.84098364400575
+        ]
+      ],
+      "notes": "Historical NASA Former n52 equal-region means. Direct bar values are queried, not confidence intervals of policy means. Parity tie counts and Holm p from frozen paired contrasts; missing Full PPO and Sensorless DVS are absent. Dev rescue uses root-cause-verification.json frozen Dev section. Regional tags are descriptive, not superiority claims. Arrows connect 2x to1x, not causal fitted trajectories; price/track and bubble keys separate.",
+      "runtime_paths": {
+        "cwd": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4",
+        "style_file": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4/scripts/phase8d-plot-style.py",
+        "figure_output": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4/reports/phase8/figures"
+      },
+      "axes_count": 4
+    },
+    "figs2-g3-subsidy": {
+      "figure": "figs2-g3-subsidy",
+      "sources": {
+        "reports/phase8/phase8d-core-statistics.json": "d5f793084a1d9bc2e9c43d71ef486dffd855e1b0c189da53554d681b87838083",
+        "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+        "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e",
+        "reports/phase8/phase8d-180cell-stress-surface.csv": "8e6fbbbc0f37ab0aab806fcfb8c3002fe5c9744a57098c5360742f5c3d11827b",
+        "reports/phase8/phase8d-closeout-receipt.json": "1ba174ef6e9d42451d6dea49b977f8906be52aad61b9546b04a5c1fd2a068185",
+        "reports/phase8/phase8d-primary-verification.json": "6b8ca50ac3d376f206ab9a1bce61e0363e2731efeacbc93657abc65845d5ecdb",
+        "reports/phase8/phase8d-P2-predictive-cohort-strata.csv": "4ea7c3f0ad892378a113560ce785e23e3b9887095b8eb20e6d8874668b7c1612",
+        "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba",
+        "reports/phase8/phase8d-case-metrics-seed-averaged.csv": "c218ce40be31d28be4616353d060e29634111729275b7e6ec7fc4f0ba78643e9",
+        "reports/phase8/phase8d-G1-radius-interpretation.json": "9b564a1680d8726972134ee01c3a8bb62e35cca828607a5904efda3ee0037e7e",
+        "reports/phase8/phase8d-root-cause-verification.json": "0d4a216d0acd197c6cd3fc4a1b3e6a255416916e85c958d284f04be899ffb9a7"
+      },
+      "palette": [
+        "#162830",
+        "#4C7A99",
+        "#5882A6",
+        "#A4BED1",
+        "#5E9680",
+        "#8E7CA6",
+        "#FFF0C4",
+        "#E8B8AE",
+        "#D67E7D",
+        "#B8525A"
+      ],
+      "font": "Times New Roman",
+      "black_regular_text": true,
+      "descriptive_titles": false,
+      "axes_bounds": [
+        [
+          70.21739130434781,
+          657.5198830409357,
+          723.608695652174,
+          525.0590643274853
+        ],
+        [
+          925.391304347826,
+          637.2313847770469,
+          731.1711956521742,
+          545.3475625913742
+        ],
+        [
+          70.21739130434781,
+          52.7222222222223,
+          723.608695652174,
+          537.0146198830407
+        ],
+        [
+          769.091304347826,
+          52.4722222222223,
+          879.9086956521742,
+          537.2646198830407
+        ]
+      ],
+      "notes": "a includes warming cap25 and cap35/40; delta references DVS at25 and PPO at40. Inset exact matched31 farm-year inner join; Complete19.39/29.03 versus no-climate17.58/25.81 regional/pooled. b cap50 Sensorless only34.4%; Full and no-eco not evaluated (leader confirmed OptionA); binding caps25\u201340 are evaluated. c all climates cap40, filled1x/translucent2x, subsidy labels actual0/50/100/150/200. d group brackets and NUE/S_N columns. DVS/Legacy Full telemetry, not information-matched claims.",
+      "runtime_paths": {
+        "cwd": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4",
+        "style_file": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4/scripts/phase8d-plot-style.py",
+        "figure_output": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4/reports/phase8/figures"
+      },
+      "axes_count": 4
+    },
+    "fig3-p2-transfer": {
+      "figure": "fig3-p2-transfer",
+      "sources": {
+        "reports/phase8/phase8d-core-statistics.json": "d5f793084a1d9bc2e9c43d71ef486dffd855e1b0c189da53554d681b87838083",
+        "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+        "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e",
+        "reports/phase8/phase8d-180cell-stress-surface.csv": "8e6fbbbc0f37ab0aab806fcfb8c3002fe5c9744a57098c5360742f5c3d11827b",
+        "reports/phase8/phase8d-closeout-receipt.json": "1ba174ef6e9d42451d6dea49b977f8906be52aad61b9546b04a5c1fd2a068185",
+        "reports/phase8/phase8d-primary-verification.json": "6b8ca50ac3d376f206ab9a1bce61e0363e2731efeacbc93657abc65845d5ecdb",
+        "reports/phase8/phase8d-P2-predictive-cohort-strata.csv": "4ea7c3f0ad892378a113560ce785e23e3b9887095b8eb20e6d8874668b7c1612",
+        "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba",
+        "reports/phase8/phase8d-case-metrics-seed-averaged.csv": "c218ce40be31d28be4616353d060e29634111729275b7e6ec7fc4f0ba78643e9",
+        "reports/phase8/phase8d-G1-radius-interpretation.json": "9b564a1680d8726972134ee01c3a8bb62e35cca828607a5904efda3ee0037e7e",
+        "reports/phase8/phase8d-root-cause-verification.json": "0d4a216d0acd197c6cd3fc4a1b3e6a255416916e85c958d284f04be899ffb9a7"
+      },
+      "palette": [
+        "#162830",
+        "#4C7A99",
+        "#5882A6",
+        "#A4BED1",
+        "#5E9680",
+        "#8E7CA6",
+        "#FFF0C4",
+        "#E8B8AE",
+        "#D67E7D",
+        "#B8525A"
+      ],
+      "font": "Times New Roman",
+      "black_regular_text": true,
+      "descriptive_titles": false,
+      "axes_bounds": [
+        [
+          65.54385964912282,
+          606.3654970760234,
+          687.0175438596491,
+          468.0073099415205
+        ],
+        [
+          864.9824561403507,
+          606.3654970760234,
+          687.0175438596491,
+          468.0073099415205
+        ],
+        [
+          65.54385964912282,
+          59.077777777777854,
+          687.017543859649,
+          484.20730994152035
+        ],
+        [
+          816.3413742690057,
+          55.4722222222223,
+          735.6586257309943,
+          487.8128654970759
+        ]
+      ],
+      "notes": "All5 variants and4 cohort-scheme strata; Former40/PublicNL4 kept separate. Panel c predictive acceptance uses31110 predictive rows and world-equal weights; closed-loop ratio sums accepted/decisions in frozen case-metrics (120 decisions per scheme, LOYO93/120,LORO72/120), distinct denominators even when rates coincide. Forest contrasts use equal-region bootstrap CI and pooled-sign full-family Holm p, not superiority claims. Grain-N MSE exposes both world-equal and row-pooled errors and retained LORO degradation.",
+      "runtime_paths": {
+        "cwd": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4",
+        "style_file": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4/scripts/phase8d-plot-style.py",
+        "figure_output": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4/reports/phase8/figures"
+      },
+      "axes_count": 4
+    },
+    "fig4-factorial-stress": {
+      "figure": "fig4-factorial-stress",
+      "sources": {
+        "reports/phase8/phase8d-core-statistics.json": "d5f793084a1d9bc2e9c43d71ef486dffd855e1b0c189da53554d681b87838083",
+        "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+        "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e",
+        "reports/phase8/phase8d-180cell-stress-surface.csv": "8e6fbbbc0f37ab0aab806fcfb8c3002fe5c9744a57098c5360742f5c3d11827b",
+        "reports/phase8/phase8d-closeout-receipt.json": "1ba174ef6e9d42451d6dea49b977f8906be52aad61b9546b04a5c1fd2a068185",
+        "reports/phase8/phase8d-primary-verification.json": "6b8ca50ac3d376f206ab9a1bce61e0363e2731efeacbc93657abc65845d5ecdb",
+        "reports/phase8/phase8d-P2-predictive-cohort-strata.csv": "4ea7c3f0ad892378a113560ce785e23e3b9887095b8eb20e6d8874668b7c1612",
+        "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba",
+        "reports/phase8/phase8d-case-metrics-seed-averaged.csv": "c218ce40be31d28be4616353d060e29634111729275b7e6ec7fc4f0ba78643e9",
+        "reports/phase8/phase8d-G1-radius-interpretation.json": "9b564a1680d8726972134ee01c3a8bb62e35cca828607a5904efda3ee0037e7e",
+        "reports/phase8/phase8d-root-cause-verification.json": "0d4a216d0acd197c6cd3fc4a1b3e6a255416916e85c958d284f04be899ffb9a7"
+      },
+      "palette": [
+        "#162830",
+        "#4C7A99",
+        "#5882A6",
+        "#A4BED1",
+        "#5E9680",
+        "#8E7CA6",
+        "#FFF0C4",
+        "#E8B8AE",
+        "#D67E7D",
+        "#B8525A"
+      ],
+      "font": "Times New Roman",
+      "black_regular_text": true,
+      "descriptive_titles": false,
+      "axes_bounds": [
+        [
+          87.31428571428572,
+          878.3817145831547,
+          447.5428571428572,
+          361.87964710437745
+        ],
+        [
+          595.8857142857142,
+          878.3817145831547,
+          447.5428571428571,
+          361.87964710437745
+        ],
+        [
+          1104.4571428571428,
+          878.3817145831547,
+          447.542857142857,
+          361.87964710437745
+        ],
+        [
+          87.31428571428572,
+          448.1099296787168,
+          447.5428571428572,
+          330.04347454011366
+        ],
+        [
+          595.8857142857142,
+          448.1099296787168,
+          447.5428571428571,
+          330.04347454011366
+        ],
+        [
+          1104.4571428571428,
+          448.1099296787168,
+          447.542857142857,
+          330.04347454011366
+        ],
+        [
+          83.22222222222221,
+          52.38927951388882,
+          451.63492063492066,
+          294.52856143201336
+        ],
+        [
+          576.2107080853175,
+          52.38927951388882,
+          467.21786334325384,
+          294.52856143201336
+        ],
+        [
+          1092.282136656746,
+          52.38927951388882,
+          459.71786334325384,
+          294.52856143201336
+        ],
+        [
+          338.41249999999997,
+          797.7307923169269,
+          1009.4875,
+          65.47983479105926
+        ],
+        [
+          341.59999999999997,
+          367.45900741248886,
+          996.7999999999997,
+          65.47983479105937
+        ]
+      ],
+      "notes": "Rows a-c Historical, +1.8\u00b0C, +3.5\u00b0C; d-f matched differences. Columns within panels are price then subsidy then cap. x markers below show remove-econ at subsidy50 only, not a fitted fan. Complete frozen 180 cells retained. Colorbars centered on the outer plotting-column edges.",
+      "runtime_paths": {
+        "cwd": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4",
+        "style_file": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4/scripts/phase8d-plot-style.py",
+        "figure_output": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4/reports/phase8/figures"
+      },
+      "axes_count": 11
+    },
+    "fig5-deployment-closure": {
+      "figure": "fig5-deployment-closure",
+      "sources": {
+        "reports/phase8/phase8d-core-statistics.json": "d5f793084a1d9bc2e9c43d71ef486dffd855e1b0c189da53554d681b87838083",
+        "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+        "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e",
+        "reports/phase8/phase8d-180cell-stress-surface.csv": "8e6fbbbc0f37ab0aab806fcfb8c3002fe5c9744a57098c5360742f5c3d11827b",
+        "reports/phase8/phase8d-closeout-receipt.json": "1ba174ef6e9d42451d6dea49b977f8906be52aad61b9546b04a5c1fd2a068185",
+        "reports/phase8/phase8d-primary-verification.json": "6b8ca50ac3d376f206ab9a1bce61e0363e2731efeacbc93657abc65845d5ecdb",
+        "reports/phase8/phase8d-P2-predictive-cohort-strata.csv": "4ea7c3f0ad892378a113560ce785e23e3b9887095b8eb20e6d8874668b7c1612",
+        "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba",
+        "reports/phase8/phase8d-case-metrics-seed-averaged.csv": "c218ce40be31d28be4616353d060e29634111729275b7e6ec7fc4f0ba78643e9",
+        "reports/phase8/phase8d-G1-radius-interpretation.json": "9b564a1680d8726972134ee01c3a8bb62e35cca828607a5904efda3ee0037e7e",
+        "reports/phase8/phase8d-root-cause-verification.json": "0d4a216d0acd197c6cd3fc4a1b3e6a255416916e85c958d284f04be899ffb9a7"
+      },
+      "palette": [
+        "#162830",
+        "#4C7A99",
+        "#5882A6",
+        "#A4BED1",
+        "#5E9680",
+        "#8E7CA6",
+        "#FFF0C4",
+        "#E8B8AE",
+        "#D67E7D",
+        "#B8525A"
+      ],
+      "font": "Times New Roman",
+      "black_regular_text": true,
+      "descriptive_titles": false,
+      "axes_bounds": [
+        [
+          39.02777777777777,
+          586.8099415204679,
+          777.2584064327486,
+          487.562865497076
+        ],
+        [
+          891.2031742421646,
+          606.3654970760234,
+          660.7968257578352,
+          468.0073099415205
+        ],
+        [
+          128.27777777777777,
+          149.81286549707605,
+          669.1959064327484,
+          391.7088450292397
+        ],
+        [
+          903.5789473684209,
+          55.7222222222223,
+          648.4210526315788,
+          487.5628654970759
+        ],
+        [
+          295.28070175438586,
+          57.72222222222224,
+          424.4122807017545,
+          62.02339181286551
+        ]
+      ],
+      "notes": "All50 frozen region-track-target readouts shown in10x5 heatmap, including6 negative native-loss values. Black rectangle frames30 required positive cells (min0.005571); exploratory20 mineral/loss cells retained. All50 points in scatter, both5-target shape and2-track color legends explicit. No causal identification, auxiliary neural training skipped. Daily residual tolerances and safety factors are exact maxima over6104146 configuration-day records, not independent trajectories.",
+      "runtime_paths": {
+        "cwd": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4",
+        "style_file": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4/scripts/phase8d-plot-style.py",
+        "figure_output": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.worktrees/fig-cea-v4/reports/phase8/figures"
+      },
+      "axes_count": 5
+    }
+  },
+  "fig1": {
+    "reference": "reports/phase8/figures/fig1-candidates/candidate-b-v2-best.png",
+    "reference_sha256": "18fbe0b764f3fcbdac03ff8beea4f169cbfb3a564d5f28c83ee72d8643d1b25f",
+    "assets": {
+      "weather-field": {
+        "source_box": [
+          25,
+          50,
+          510,
+          440
+        ],
+        "sha256": "c2e2299d91a07d41ff75b77aa71ac3a830e32fdc55bfc3cc544955b03902bc75"
+      },
+      "satellite-earth-raster": {
+        "source_box": [
+          568,
+          70,
+          877,
+          245
+        ],
+        "sha256": "a62b86bd5bd2ebca560f0c11f5746764ef01b9a519f246c5057eacee95d2ece8"
+      },
+      "private-raster": {
+        "source_box": [
+          581,
+          267,
+          656,
+          325
+        ],
+        "sha256": "1fed0c0f8ec46648ade410d613884b828222a3b6d27f8fac2e185526bb747044"
+      },
+      "soil-static3": {
+        "source_box": [
+          581,
+          343,
+          656,
+          405
+        ],
+        "sha256": "d349f2d0434cbe5b7067acafcdfb9c7cef1f978a114747426ecbda0b905a1524"
+      },
+      "climate-clouds-fan": {
+        "source_box": [
+          28,
+          521,
+          228,
+          649
+        ],
+        "sha256": "2921d7a40ab54d41fdb046d0b44609ed99cb903b45dd146cb9345a1b6b0d076a"
+      },
+      "urban-watershed": {
+        "source_box": [
+          26,
+          716,
+          269,
+          804
+        ],
+        "sha256": "8a04f742e876bf6d886aeb371088a2ac82ee8b2ef518311f4dfd50e3782f5799"
+      },
+      "market-policy-balance": {
+        "source_box": [
+          32,
+          878,
+          257,
+          968
+        ],
+        "sha256": "3fbe4d5d8a6eb39d3aef9689ba5f8ebf2b3cca3fb38f6c68585942ffc384ec32"
+      },
+      "tractor-wheat": {
+        "source_box": [
+          1328,
+          517,
+          1561,
+          666
+        ],
+        "sha256": "1e15820c085ff5f92e6888885b5716be8fff13ba4ece09fafe99c27d595bc770"
+      },
+      "referee-root-soil": {
+        "source_box": [
+          1138,
+          749,
+          1299,
+          964
+        ],
+        "sha256": "4597da67b432f36fe7f4226bf4fa866a958542c39e2e573e2f82381e3e660b7d"
+      }
+    },
+    "native_texts": [
+      "Public weather history\nObserved through current day\nT, P, RH, radiation, wind",
+      "Current crop prefix\nStage and dose history\nOptional field telemetry",
+      "Soil physical anchor\nStatic3: field capacity, wilting point and conductivity",
+      "Agent 1: Spatial Twin Specialist",
+      "PyTorch MLP \u00b7 3 frozen seeds",
+      "36-D \u2192 96 \u2192 96 \u2192 3\n13,155 parameters",
+      "Private raw 64-D\nAlphaEarth\nt \u2212 1 causal anomaly",
+      "Static3 physical\nsoil anchor",
+      "Causal anomaly\nPCA + Ridge",
+      "\u22644-D adapter",
+      "36-D\npublic\nfeatures",
+      "+",
+      "Yield",
+      "Grain N",
+      "Executed N",
+      "15 strata \u00d7 32\nzero-mean joint residuals",
+      "Surplus & NUE\nSeasonal N accounting\nNUE = grain N / N input",
+      "NL     CN     US     FR     AU",
+      "Agent 2: Climate Forecast Specialist",
+      "TRAIN 1995\u20132009\nCausal \u2212dT analog fan\nHistorical\n+1.8\u00b0C \u00b7 450 ppm\n+3.5\u00b0C \u00b7 550 ppm",
+      "Agent 3: Urban Eco-Safety Specialist",
+      "0 \u2264 S_N \u2264 S_cap\nCaps 25, 35, 40, 50\nkg N/ha",
+      "Agent 4: Socio-Economic Policy Specialist",
+      "Fertilizer 1\u00d7 or 2\u00d7\nSubsidy and tax\n0.50 \u2264 NUE \u2264 0.90\n1.5\u00d7 upper penalty",
+      "Coupling 1\nSpatial",
+      "Coupling 2\nClimate",
+      "Coupling 3\nEco Safety",
+      "Coupling 4\nEconomics",
+      "Agent 5: Core Agronomic Control Specialist",
+      "a1",
+      "Rain low",
+      "Rain high",
+      "a2",
+      "a2",
+      "Temp low",
+      "Temp high",
+      "Temp low",
+      "Temp high",
+      "a3",
+      "a3",
+      "a3",
+      "a3",
+      "Soft-Coupled",
+      "Tier2-Composite",
+      "Archived bare",
+      "Partial profit + 250 P(active joint) \u2212 300 distance\n2 kg/ha margin \u00b7 1.5\u00d7 upper NUE penalty",
+      "Execute\ncurrent dose",
+      "External WOFOST81-SNOMIN\nReferee",
+      "Yield",
+      "Native N loss",
+      "Daily C/N closure",
+      "N",
+      "C"
+    ],
+    "native_connections": [
+      [
+        950,
+        143,
+        1009,
+        143,
+        false
+      ],
+      [
+        950,
+        143,
+        1009,
+        161,
+        false
+      ],
+      [
+        950,
+        143,
+        1009,
+        179,
+        false
+      ],
+      [
+        950,
+        143,
+        1009,
+        197,
+        false
+      ],
+      [
+        950,
+        161,
+        1009,
+        143,
+        false
+      ],
+      [
+        950,
+        161,
+        1009,
+        161,
+        false
+      ],
+      [
+        950,
+        161,
+        1009,
+        179,
+        false
+      ],
+      [
+        950,
+        161,
+        1009,
+        197,
+        false
+      ],
+      [
+        950,
+        179,
+        1009,
+        143,
+        false
+      ],
+      [
+        950,
+        179,
+        1009,
+        161,
+        false
+      ],
+      [
+        950,
+        179,
+        1009,
+        179,
+        false
+      ],
+      [
+        950,
+        179,
+        1009,
+        197,
+        false
+      ],
+      [
+        1015,
+        143,
+        1087,
+        143,
+        false
+      ],
+      [
+        1015,
+        143,
+        1087,
+        161,
+        false
+      ],
+      [
+        1015,
+        143,
+        1087,
+        179,
+        false
+      ],
+      [
+        1015,
+        143,
+        1087,
+        197,
+        false
+      ],
+      [
+        1015,
+        161,
+        1087,
+        143,
+        false
+      ],
+      [
+        1015,
+        161,
+        1087,
+        161,
+        false
+      ],
+      [
+        1015,
+        161,
+        1087,
+        179,
+        false
+      ],
+      [
+        1015,
+        161,
+        1087,
+        197,
+        false
+      ],
+      [
+        1015,
+        179,
+        1087,
+        143,
+        false
+      ],
+      [
+        1015,
+        179,
+        1087,
+        161,
+        false
+      ],
+      [
+        1015,
+        179,
+        1087,
+        179,
+        false
+      ],
+      [
+        1015,
+        179,
+        1087,
+        197,
+        false
+      ],
+      [
+        1015,
+        197,
+        1087,
+        143,
+        false
+      ],
+      [
+        1015,
+        197,
+        1087,
+        161,
+        false
+      ],
+      [
+        1015,
+        197,
+        1087,
+        179,
+        false
+      ],
+      [
+        1015,
+        197,
+        1087,
+        197,
+        false
+      ],
+      [
+        1093,
+        143,
+        1160,
+        143,
+        false
+      ],
+      [
+        1093,
+        143,
+        1160,
+        161,
+        false
+      ],
+      [
+        1093,
+        143,
+        1160,
+        179,
+        false
+      ],
+      [
+        1093,
+        161,
+        1160,
+        143,
+        false
+      ],
+      [
+        1093,
+        161,
+        1160,
+        161,
+        false
+      ],
+      [
+        1093,
+        161,
+        1160,
+        179,
+        false
+      ],
+      [
+        1093,
+        179,
+        1160,
+        143,
+        false
+      ],
+      [
+        1093,
+        179,
+        1160,
+        161,
+        false
+      ],
+      [
+        1093,
+        179,
+        1160,
+        179,
+        false
+      ],
+      [
+        1093,
+        197,
+        1160,
+        143,
+        false
+      ],
+      [
+        1093,
+        197,
+        1160,
+        161,
+        false
+      ],
+      [
+        1093,
+        197,
+        1160,
+        179,
+        false
+      ],
+      [
+        820,
+        295,
+        843,
+        295,
+        false
+      ],
+      [
+        843,
+        295,
+        843,
+        322,
+        false
+      ],
+      [
+        843,
+        322,
+        857,
+        322,
+        true
+      ],
+      [
+        994,
+        322,
+        1016,
+        322,
+        true
+      ],
+      [
+        1127,
+        322,
+        1254,
+        322,
+        false
+      ],
+      [
+        1254,
+        322,
+        1254,
+        263,
+        true
+      ],
+      [
+        820,
+        371,
+        1254,
+        371,
+        false
+      ],
+      [
+        1254,
+        371,
+        1254,
+        263,
+        true
+      ],
+      [
+        901,
+        227,
+        908,
+        227,
+        true
+      ],
+      [
+        1193,
+        160,
+        1254,
+        160,
+        false
+      ],
+      [
+        1254,
+        160,
+        1254,
+        223,
+        true
+      ],
+      [
+        1275,
+        243,
+        1304,
+        243,
+        false
+      ],
+      [
+        1304,
+        243,
+        1304,
+        135,
+        true
+      ],
+      [
+        1304,
+        95,
+        1304,
+        175,
+        false
+      ],
+      [
+        1304,
+        95,
+        1328,
+        95,
+        true
+      ],
+      [
+        1304,
+        135,
+        1328,
+        135,
+        true
+      ],
+      [
+        1304,
+        175,
+        1328,
+        175,
+        true
+      ],
+      [
+        1430,
+        192,
+        1430,
+        215,
+        true
+      ],
+      [
+        1430,
+        274,
+        1430,
+        300,
+        true
+      ],
+      [
+        510,
+        215,
+        550,
+        215,
+        true
+      ],
+      [
+        553,
+        407,
+        577,
+        407,
+        false
+      ],
+      [
+        577,
+        407,
+        577,
+        532,
+        false
+      ],
+      [
+        577,
+        532,
+        592,
+        532,
+        true
+      ],
+      [
+        465,
+        630,
+        592,
+        630,
+        true
+      ],
+      [
+        465,
+        734,
+        535,
+        734,
+        false
+      ],
+      [
+        535,
+        734,
+        535,
+        710,
+        false
+      ],
+      [
+        535,
+        710,
+        592,
+        710,
+        true
+      ],
+      [
+        465,
+        923,
+        577,
+        923,
+        false
+      ],
+      [
+        577,
+        923,
+        577,
+        854,
+        false
+      ],
+      [
+        577,
+        854,
+        592,
+        854,
+        true
+      ],
+      [
+        843,
+        584,
+        747,
+        611,
+        true
+      ],
+      [
+        888,
+        584,
+        985,
+        611,
+        true
+      ],
+      [
+        748,
+        645,
+        748,
+        669,
+        true
+      ],
+      [
+        987,
+        645,
+        987,
+        669,
+        true
+      ],
+      [
+        748,
+        704,
+        684,
+        725,
+        true
+      ],
+      [
+        748,
+        704,
+        815,
+        725,
+        true
+      ],
+      [
+        987,
+        704,
+        950,
+        725,
+        true
+      ],
+      [
+        987,
+        704,
+        1086,
+        725,
+        true
+      ],
+      [
+        684,
+        759,
+        684,
+        784,
+        true
+      ],
+      [
+        815,
+        759,
+        815,
+        784,
+        true
+      ],
+      [
+        950,
+        759,
+        950,
+        784,
+        true
+      ],
+      [
+        1086,
+        759,
+        1086,
+        784,
+        true
+      ],
+      [
+        1106,
+        592,
+        1156,
+        592,
+        true
+      ],
+      [
+        1304,
+        592,
+        1323,
+        592,
+        true
+      ],
+      [
+        1230,
+        633,
+        1230,
+        697,
+        true
+      ]
+    ],
+    "editable_slide": 1,
+    "reference_slide": 2,
+    "total_slide_objects": 206,
+    "count_definitions": "Total includes native simple shapes, native connectors and raster picture assets; verification native_fig1_shapes counts p:sp only.",
+    "numerical_specialists_not_LLMs": true,
+    "referee_outgoing_edges": 0,
+    "action_levels": [
+      "a1",
+      "a2",
+      "a3"
+    ],
+    "executor": "Codex; only Gemini and DeepSeek external reviewers authorized"
+  },
+  "fig1_v4": {
+    "variants": [
+      {
+        "path": "reports/phase8/figures/fig1-candidates/candidate-b-v4-1.png",
+        "sha256": "0c2b6f517634d780190312c37a3947d0fe5f6fbe8e6c847e3b5e5051f8b0f4ce",
+        "original_imagegen_output": "/mnt/data/yongan-admin-2/.codex-homes/\u9876\u520a\u8bba\u6587-3fa034/generated_images/01a1d8b0-fe44-73f2-80d4-cbc61929a101/exec-8c863a50-84d0-46dd-b06b-4c37dde82afc.png",
+        "prompt_sha256": "961202bc5b1683c89cb20fe07bc6cac3152746797a5267389b1955564ae9d8e8"
+      },
+      {
+        "path": "reports/phase8/figures/fig1-candidates/candidate-b-v4-2.png",
+        "sha256": "cd816c3fd568f34303b5df007144c29dce4cb70f434fd3ec397dc46b224f7ed8",
+        "original_imagegen_output": "/mnt/data/yongan-admin-2/.codex-homes/\u9876\u520a\u8bba\u6587-3fa034/generated_images/01a1d8b0-fe44-73f2-80d4-cbc61929a101/exec-fc487c59-5d1b-45ff-839f-dec805f4e3fe.png",
+        "prompt_sha256": "10e3fc3ed9fbb070aca45d1ca27afab220a4402b32471714aaaf4b51e2fb6e89"
+      }
+    ],
+    "selected": "reports/phase8/figures/fig1-candidates/candidate-b-v4-2.png",
+    "best_sha256": "cd816c3fd568f34303b5df007144c29dce4cb70f434fd3ec397dc46b224f7ed8",
+    "selection_status": "Confirmed by host visual inspection and Gemini Carbon medium native visual QA, job20261116T210443__gemini__2078967 COMPLETE/PASS",
+    "source_reference": "reports/phase8/figures/fig1-candidates/candidate-b-v3-3.png",
+    "source_sha256": "978258b4628f06571b3fe8789b64c1e89e772aadd7e5a48df01bb354fa060676",
+    "no_pptx_conversion": true,
+    "raw_byte_preservation": true,
+    "review_report": "reports/phase8/figures/cea-v4-reviews/gemini-visual-result.md",
+    "inherited_limitations": "Local fan-removal polish preserves chosen raw composition; compressed Static3/adapter wiring and policy labels on the schematic meter remain illustrative, not measured performance."
+  },
+  "limits": "V4 raw candidates preserved; no PPTX conversion. Quantitative plots use frozen sources. Manuscript integration is deferred."
+}

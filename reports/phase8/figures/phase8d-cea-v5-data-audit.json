@@ -1,0 +1,160 @@
+{
+  "matched_climate_n": 31,
+  "matched_region_equal_pct": {
+    "joint_p": 19.39393939393939,
+    "joint_r": 17.57575757575757
+  },
+  "matched_pooled_pct": {
+    "joint_p": 29.03225806451613,
+    "joint_r": 25.806451612903224
+  },
+  "Full_cap50_record_count": 0,
+  "Full_cap50_display": "Not evaluated, OptionA confirmed by leader",
+  "heatmap_shape": [
+    10,
+    5
+  ],
+  "required_positive_cells": 30,
+  "minimum_required_R2": 0.005571150874843278,
+  "negative_exploratory_cells": 6,
+  "geometry": {
+    "fig2-g1": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "fig2-p1-regimes": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "figs2-g3-subsidy": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "fig3-p2-transfer": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "fig4-factorial-stress": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "fig5-deployment-closure": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "figs3-price-subsidy": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "figs4-policy-scorecard": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "figs5-p1-all-regimes": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "figs6-p2-admission-mse": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "figs7-stress-180cell-grid": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "figs8-closure-readout-audit": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    }
+  },
+  "verified_native_budget_sources": 312,
+  "soil_budget": [
+    {
+      "label": "Soft",
+      "Executed_N": 172.8212121212121,
+      "drawdown": 223.5095014138918,
+      "Grain_N": 145.2526330509319,
+      "loss": 22.544928432954503,
+      "NUE": 0.7851706968669322,
+      "adjusted": 0.34946684229597136
+    },
+    {
+      "label": "PPO",
+      "Executed_N": 170.76767676767673,
+      "drawdown": 222.65380344545255,
+      "Grain_N": 145.49936483347702,
+      "loss": 23.19921583385267,
+      "NUE": 0.7964660635541554,
+      "adjusted": 0.3508295611513329
+    },
+    {
+      "label": "DVS \u00b7 Full",
+      "Executed_N": 173.169696969697,
+      "drawdown": 221.12754138086763,
+      "Grain_N": 145.36688588076427,
+      "loss": 23.29849314877828,
+      "NUE": 0.7764469244801327,
+      "adjusted": 0.34964178247576194
+    },
+    {
+      "label": "Bare",
+      "Executed_N": 106.9,
+      "drawdown": 254.06828045371034,
+      "Grain_N": 144.18165441882346,
+      "loss": 20.784502454648415,
+      "NUE": 11.557091737904356,
+      "adjusted": 0.3735207960983914
+    }
+  ],
+  "soil_budget_qualification": "Supply/fate components are not a closed grain-only budget: straw, roots and other boundary transfers are omitted. Native stock diagnostic scope remains unchanged.",
+  "extra_low_NUE_regime_count": 2,
+  "missing_bare_2x": 0
+}

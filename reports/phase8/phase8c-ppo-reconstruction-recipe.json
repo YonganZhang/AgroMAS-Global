@@ -1,0 +1,18 @@
+{
+  "original_script_sha256": "a916c3603a9581e2517f172f4869b3271c91d16560a99fa8c872c6bb494ffebb",
+  "reconstruction_script_sha256": "e6220f6b538b4868b535e07fe61dda49ec0d9239fafb1f86196184b560bed85c",
+  "only_script_change": "versioned output directory",
+  "input_cache": "cache/phase8-ppo-inputs.joblib",
+  "authorization_cache_alias": "cache/phase8b-train-sensorless-ppo-inputs.joblib",
+  "input_sha256": "dcc0e3799b4979a4edd3f8f81b812b5b7a2e49c6d4995e6badc7e57837388a12",
+  "seed_list": [
+    4,
+    17,
+    29
+  ],
+  "timesteps": 151552,
+  "device": "cpu",
+  "torch_threads": 1,
+  "hyperparameter_changes": 0,
+  "no_Dev_or_evaluation_selection": true
+}

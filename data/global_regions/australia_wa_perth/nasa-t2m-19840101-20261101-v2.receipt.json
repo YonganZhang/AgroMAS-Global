@@ -1,0 +1,8 @@
+{
+  "region_id": "australia_wa_perth",
+  "url": "https://power.larc.nasa.gov/api/temporal/daily/point?latitude=-31.95&longitude=115.86&start=19840101&end=20261101&community=AG&format=JSON&parameters=T2M&time-standard=LST",
+  "sha256": "e587fa6c6b7f7a2d68aa1bd7f5be680aa3b06c40b88608b288fa6324edf9f4fc",
+  "timestamp": "2026-11-14T21:40:25.952229+00:00",
+  "reason": "Native PCSE NASA provider uses dailyT2M, not(Tmin+Tmax)/2",
+  "role_policy": "Existing frozen year roles unchanged; date/field validation required before use"
+}

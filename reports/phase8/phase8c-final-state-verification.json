@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "plan_check_exit_code": 0,
+  "plan_warning": "Pre-existing Q2 text-length advisory only",
+  "Q8_4_done": true,
+  "final_cleanup_step_Q8_5_done": true,
+  "primary_tests": 223,
+  "failed": 0,
+  "skipped": 0,
+  "future_weather_checks": 120,
+  "worktree_removed": true,
+  "root_feature_branch_removed": true,
+  "NUE_feature_branch_removed": true,
+  "postmerge_proof": "phase8c-postmerge-promotion-verification.json",
+  "primary_test_proof": "phase8c-primary-postmerge-test-receipt.json",
+  "closeout": "phase8c-closeout-receipt.json",
+  "note": "Final clean git status and exact HEADs are recorded in the worker OUTBOX after this metadata commit."
+}

@@ -1,0 +1,2 @@
+usage: method_diagram.py check [-h] [--project PROJECT] --manifest MANIFEST
+method_diagram.py check: error: the following arguments are required: --manifest

@@ -1,0 +1,105 @@
+{
+  "TRAIN_only": true,
+  "full_result_exact_equality": true,
+  "checks": [
+    {
+      "climate": "Historical",
+      "exact_full_result_equal": true,
+      "public_prefix_recovered_natively": true,
+      "old_policy_decisions_reused": false,
+      "receipt": {
+        "world": [
+          "netherlands_lelystad",
+          2005,
+          "Historical",
+          "NASA"
+        ],
+        "native_simulations": 1,
+        "unique_native_executed_trajectories": 1,
+        "unique_executed_trajectories": 1,
+        "executed_trajectory_sha256": [
+          {
+            "doses": [
+              100.0,
+              40.0,
+              80.0
+            ],
+            "sha256": "6d55cf62ca5a6197273929be1ec8f23756fc1556237a800111f3f64f8531c5cd"
+          }
+        ],
+        "complete_requested_paths": 1,
+        "cases_replayed": 1,
+        "public_prefix_nodes": 3,
+        "prefix_decisions_replayed": 3,
+        "archived_records_verified": 1,
+        "archived_requested_paths": 1
+      }
+    },
+    {
+      "climate": "idealized_mid",
+      "exact_full_result_equal": true,
+      "public_prefix_recovered_natively": true,
+      "old_policy_decisions_reused": false,
+      "receipt": {
+        "world": [
+          "netherlands_lelystad",
+          2005,
+          "idealized_mid",
+          "NASA"
+        ],
+        "native_simulations": 1,
+        "unique_native_executed_trajectories": 1,
+        "unique_executed_trajectories": 1,
+        "executed_trajectory_sha256": [
+          {
+            "doses": [
+              100.0,
+              60.0,
+              60.0
+            ],
+            "sha256": "ac90f616ba317116969be762f3afcd67f2372957ad7758c76a39478f973f782a"
+          }
+        ],
+        "complete_requested_paths": 1,
+        "cases_replayed": 1,
+        "public_prefix_nodes": 3,
+        "prefix_decisions_replayed": 3,
+        "archived_records_verified": 1,
+        "archived_requested_paths": 1
+      }
+    },
+    {
+      "climate": "idealized_high",
+      "exact_full_result_equal": true,
+      "public_prefix_recovered_natively": true,
+      "old_policy_decisions_reused": false,
+      "receipt": {
+        "world": [
+          "netherlands_lelystad",
+          2005,
+          "idealized_high",
+          "NASA"
+        ],
+        "native_simulations": 1,
+        "unique_native_executed_trajectories": 1,
+        "unique_executed_trajectories": 1,
+        "executed_trajectory_sha256": [
+          {
+            "doses": [
+              100.0,
+              20.0,
+              80.0
+            ],
+            "sha256": "0d355bfa28ff5b4b245eb0f57e17825acefd07f90f98078bc1134a2afc63d248"
+          }
+        ],
+        "complete_requested_paths": 1,
+        "cases_replayed": 1,
+        "public_prefix_nodes": 3,
+        "prefix_decisions_replayed": 3,
+        "archived_records_verified": 1,
+        "archived_requested_paths": 1
+      }
+    }
+  ]
+}

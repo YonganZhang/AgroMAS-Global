@@ -1,0 +1,197 @@
+{
+  "world": [
+    "australia_wa_perth",
+    2025,
+    "idealized_mid",
+    "NASA"
+  ],
+  "native_simulations": 13,
+  "unique_native_executed_trajectories": 13,
+  "unique_executed_trajectories": 22,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        100.0,
+        0.0,
+        20.0
+      ],
+      "sha256": "06167f5b27487f58fff9101f6b6fda0c21349f8c2fcfd50a6d32fbd107f546ad"
+    },
+    {
+      "doses": [
+        40.0,
+        10.0,
+        80.0
+      ],
+      "sha256": "25d4a8e72ff2d0121baec51cbaaabcf9906a8e79a91547ba654447e57bde9073"
+    },
+    {
+      "doses": [
+        0.0,
+        40.0,
+        80.0
+      ],
+      "sha256": "676fa1cf101f744eb230453008cf6996020b079ce504c9452624d3c8c74a12f9"
+    },
+    {
+      "doses": [
+        0.0,
+        60.0,
+        80.0
+      ],
+      "sha256": "0ddf398359354d9e98987528ca4a13e7a6e1bab08d9ede56ea412773e964d796"
+    },
+    {
+      "doses": [
+        60.0,
+        10.0,
+        60.0
+      ],
+      "sha256": "861b4fbba52f67bb36c498a1763cd8f370582d9d32e6149a1b4fec4a563e1154"
+    },
+    {
+      "doses": [
+        80.0,
+        10.0,
+        40.0
+      ],
+      "sha256": "cd95409579db93b474cb5305fa602fba3b8afc958c28b5d85d9bf59c35ae14f0"
+    },
+    {
+      "doses": [
+        60.0,
+        40.0,
+        20.0
+      ],
+      "sha256": "a02116b8e06ad9d35dfe08460c908fca1922243223dbe0c2a56775ffcc4fe845"
+    },
+    {
+      "doses": [
+        100.0,
+        0.0,
+        40.0
+      ],
+      "sha256": "4dc594bb554f26fc1395d800b39cc9188751110b6a31600a7e6ea0836d843fc2"
+    },
+    {
+      "doses": [
+        60.0,
+        60.0,
+        10.0
+      ],
+      "sha256": "27a1f0e8826795430a2a43505e244c3cd755ba66e1c4ffefc7e520fd5e699fe4"
+    },
+    {
+      "doses": [
+        100.0,
+        20.0,
+        10.0
+      ],
+      "sha256": "38e79bd9f7419d69f93068690cd797af558a9e994235e06bd4e1db271c9525a0"
+    },
+    {
+      "doses": [
+        60.0,
+        60.0,
+        20.0
+      ],
+      "sha256": "0ba28418cdcc67cc665fe3c12ad42cf0515bd0bc7ad8a0444745590d5d6e1af8"
+    },
+    {
+      "doses": [
+        0.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "fe1c94316c163c9d012ea9ebc3da6999f93997aec20b78170000de16e90d94b3"
+    },
+    {
+      "doses": [
+        0.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "31fd37d65fac38503f982c24a6c2a1b204547d850a19b3b3f1f8e3310be08de1"
+    },
+    {
+      "doses": [
+        0.0,
+        100.0,
+        40.0
+      ],
+      "sha256": "3ecd6f00c54074fd9326ec222c0bf636d821ea9b7ac4a1c01e14417fbf54745d"
+    },
+    {
+      "doses": [
+        40.0,
+        60.0,
+        40.0
+      ],
+      "sha256": "f79e8814702efe49f0c1bf164187c5c016d2b2ff0d0687405744d6fc774d9a91"
+    },
+    {
+      "doses": [
+        10.0,
+        100.0,
+        20.0
+      ],
+      "sha256": "5166288db20814981d56533d320e31d14ccd69f2e9300ea4b4f5188a72f48c05"
+    },
+    {
+      "doses": [
+        10.0,
+        80.0,
+        40.0
+      ],
+      "sha256": "2bc13b1368cedd385e1a4093bc4ba8c49e4120b7146ab651d15eefcae75af5c6"
+    },
+    {
+      "doses": [
+        40.0,
+        80.0,
+        20.0
+      ],
+      "sha256": "f904565404f57fb5fce6f3fbf194cb1bab1d3f4030e618f5ff629775bacb617c"
+    },
+    {
+      "doses": [
+        40.0,
+        100.0,
+        0.0
+      ],
+      "sha256": "0c6dfed3b5761dc8847da5c71f90fd88670dba419f59d8520cb4af78626bd4cf"
+    },
+    {
+      "doses": [
+        10.0,
+        100.0,
+        40.0
+      ],
+      "sha256": "0518873de9608cf9ede80efb02f21e5d177d6996c8ac60e99e8f533d5a52a137"
+    },
+    {
+      "doses": [
+        20.0,
+        100.0,
+        20.0
+      ],
+      "sha256": "a2f8d90d6e1e05a56ee4cc47e04980063fa8019e97c1c2db281dad289e19aa1c"
+    },
+    {
+      "doses": [
+        10.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "437dac843b0ac9d61c9a5f6ba1c06dc4e6c0b58439ffa04b39b48345fed423c4"
+    }
+  ],
+  "complete_requested_paths": 22,
+  "cases_replayed": 77,
+  "public_prefix_nodes": 17,
+  "prefix_decisions_replayed": 253,
+  "archived_records_verified": 90,
+  "archived_requested_paths": 14,
+  "worker": 0,
+  "cases": 90
+}

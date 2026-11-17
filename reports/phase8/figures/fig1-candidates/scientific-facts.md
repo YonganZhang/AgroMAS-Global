@@ -1,0 +1,11 @@
+# Architecture facts for candidate generation
+
+Five typed numerical specialists, not an LLM deliberation or agent-count benefit claim.
+1. SpatialTwinSurrogateAgent owns a frozen36-input PyTorch MLP world model,13155parameters, and a private64D AlphaEarth PCA/Ridge adapter with<=4D bottleneck. P1 uses weather/soil inputs; P2 uses causal t-1annual embeddings and retrospective LOYO/LORO adapters. Raw64never leaves its numerical backend. Neural predictions yield jointly sampled32members of yield,grainN,executedfertilizer, with algebraic surplus/NUE projection.
+2. ClimateForecastAgent samples conditional TRAIN1995-2009 historical analog branches through harvest. These are not operational NWP forecasts. Future target weather is unavailable. Information partitions reveal first7day rain then temperature; no analogidentity or late-season future revealed.
+3. UrbanEcoSafetyAgent handles0<=surplus<=cap and uppertail checks; cap25/35/40/50.
+4. SocioEconomicPolicyAgent handles0.5<=NUE<=0.9 and partial fertilizer-management budgets;prices1x/2x,green subsidies experimental.
+5. CoreAgronomicAgent makes common-root nonanticipative scenario-tree decisions on three real agronomic fertilizer stages. Nodewise DP is not proved globally optimal under coupled chance/CVaR. Output is one dose, replan at next observed stage.
+Objective contrast: explicit archived hard-bare mode uses partial profit; repaired hard composite preserves3tier masks and ranks by partial+200P(activejoint)-200active distance; soft composite bypasses hardtail masks,not physical outcomes. OOD or noallowed hard candidate returns operational dose0,never compliance.
+External WOFOST81-SNOMIN referee is outside online team. One-way action-to-referee. It independently measures daily C/N closure and real yield,Nloss,surplus,NUE. No hidden soil state, future realized weather or physical outcome feeds the decision team. Observed public weather/current prefix can enter new real control step; independent post-season diagnostics do not train or tune.
+Inputs/outputs should be agricultural field/soil/wheat/fertilizer scene grounded. No humanoid LLM dialogue, no fabricated maps or statistical data. All candidate illustrations are conceptual,not evidence plots.

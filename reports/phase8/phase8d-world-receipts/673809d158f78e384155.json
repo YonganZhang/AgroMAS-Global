@@ -1,0 +1,101 @@
+{
+  "world": [
+    "netherlands_lelystad",
+    2017,
+    "Historical",
+    "WUR"
+  ],
+  "native_simulations": 9,
+  "unique_native_executed_trajectories": 9,
+  "unique_executed_trajectories": 10,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        100.0,
+        40.0,
+        80.0
+      ],
+      "sha256": "c2ff527cfb4f1218e1853f0acad6ec6e68ed2dbf25d41717526ea8d5324aff34"
+    },
+    {
+      "doses": [
+        100.0,
+        80.0,
+        40.0
+      ],
+      "sha256": "0089e8122b02ffa4c4ea7bac2984ff582863c0e219ea16bb6d51160c7b5a3a15"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "50e12dfebe2156627e1837ee69d16ee033b2fde568c4379799aac1149ee5e9f3"
+    },
+    {
+      "doses": [
+        100.0,
+        100.0,
+        10.0
+      ],
+      "sha256": "c58437829e7cf824d434f3c55532dd92ea2c732f7022d44dcdc1a430d6f6078a"
+    },
+    {
+      "doses": [
+        100.0,
+        20.0,
+        100.0
+      ],
+      "sha256": "d90db5adbd79fb115fc587835bc0f9b16a0e109f6846cbccbd13065786c844e4"
+    },
+    {
+      "doses": [
+        100.0,
+        20.0,
+        80.0
+      ],
+      "sha256": "227b21ec0c88cffcaf5cacd1c91b1ba17bff7070490575953e62e5f61e9e1347"
+    },
+    {
+      "doses": [
+        20.0,
+        100.0,
+        100.0
+      ],
+      "sha256": "e46701e1e6490d84aed5d58affe56bad3ecec3ab4d34d7ee591814f0e2e339e8"
+    },
+    {
+      "doses": [
+        60.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "264b973de23ca43ea67fe850642cd063ea0881e2667b8a56c445956e951319ac"
+    },
+    {
+      "doses": [
+        60.0,
+        60.0,
+        60.0
+      ],
+      "sha256": "258b6212fa2f9a3b4ee0295261233a977b6300a2cd6cde991c3de0246592e7ec"
+    },
+    {
+      "doses": [
+        60.0,
+        100.0,
+        60.0
+      ],
+      "sha256": "07baf568fde8d60f280754e34bd31e3a2c7bf30118ad8005bbb06eac7e72a6b8"
+    }
+  ],
+  "complete_requested_paths": 10,
+  "cases_replayed": 5,
+  "public_prefix_nodes": 13,
+  "prefix_decisions_replayed": 29,
+  "archived_records_verified": 7,
+  "archived_requested_paths": 4,
+  "worker": 14,
+  "cases": 14
+}

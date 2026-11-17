@@ -1,0 +1,17 @@
+{
+  "v8_source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8c/NUE_PCSE-Gym/pcse_gym/agromas_v8/models.py",
+  "v6_source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8c/NUE_PCSE-Gym/pcse_gym/agromas_v6/core.py",
+  "pcse_source": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/pcse/pcse/__init__.py",
+  "python": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.venv/bin/python",
+  "torch": "2.15.0+cpu",
+  "scope": "canonical active tests/target plus all Phase8 tests; no exclusions or skips",
+  "exit_code": 0,
+  "elapsed_seconds": 59.83775570616126,
+  "crop_caches_restored": true,
+  "passed": 223,
+  "failed": 0,
+  "skipped": 0,
+  "log": "reports/phase8/phase8c-final-tests-driver.log",
+  "log_sha256": "cc93d53af8e0b1764b3d079d274fd9c8c72cc7530bbc8706dc8546031df0e8f6",
+  "elapsed_seconds_pytest": 58.74
+}

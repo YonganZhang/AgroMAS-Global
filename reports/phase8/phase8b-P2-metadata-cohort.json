@@ -1,0 +1,363 @@
+{
+  "status": "verified_metadata_only",
+  "n": 44,
+  "Former_Held_Out": 40,
+  "Public_Reused": 4,
+  "NH": 36,
+  "AU": 8,
+  "rows": [
+    {
+      "region": "australia_wa_perth",
+      "year": 2018,
+      "prior_year": 2017,
+      "hemisphere": "SH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2019,
+      "prior_year": 2018,
+      "hemisphere": "SH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2020,
+      "prior_year": 2019,
+      "hemisphere": "SH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2021,
+      "prior_year": 2020,
+      "hemisphere": "SH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2022,
+      "prior_year": 2021,
+      "hemisphere": "SH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2023,
+      "prior_year": 2022,
+      "hemisphere": "SH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2024,
+      "prior_year": 2023,
+      "hemisphere": "SH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2025,
+      "prior_year": 2024,
+      "hemisphere": "SH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2018,
+      "prior_year": 2017,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2019,
+      "prior_year": 2018,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2020,
+      "prior_year": 2019,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2021,
+      "prior_year": 2020,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2022,
+      "prior_year": 2021,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2023,
+      "prior_year": 2022,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2024,
+      "prior_year": 2023,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2025,
+      "prior_year": 2024,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2026,
+      "prior_year": 2025,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2018,
+      "prior_year": 2017,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2019,
+      "prior_year": 2018,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2020,
+      "prior_year": 2019,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2021,
+      "prior_year": 2020,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2022,
+      "prior_year": 2021,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2023,
+      "prior_year": 2022,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2024,
+      "prior_year": 2023,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2025,
+      "prior_year": 2024,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2026,
+      "prior_year": 2025,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2022,
+      "prior_year": 2021,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2023,
+      "prior_year": 2022,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2024,
+      "prior_year": 2023,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2025,
+      "prior_year": 2024,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2026,
+      "prior_year": 2025,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2018,
+      "prior_year": 2017,
+      "hemisphere": "NH",
+      "cohort": "Public-Reused",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2019,
+      "prior_year": 2018,
+      "hemisphere": "NH",
+      "cohort": "Public-Reused",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2020,
+      "prior_year": 2019,
+      "hemisphere": "NH",
+      "cohort": "Public-Reused",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2021,
+      "prior_year": 2020,
+      "hemisphere": "NH",
+      "cohort": "Public-Reused",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2018,
+      "prior_year": 2017,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2019,
+      "prior_year": 2018,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2020,
+      "prior_year": 2019,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2021,
+      "prior_year": 2020,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2022,
+      "prior_year": 2021,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2023,
+      "prior_year": 2022,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2024,
+      "prior_year": 2023,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2025,
+      "prior_year": 2024,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2026,
+      "prior_year": 2025,
+      "hemisphere": "NH",
+      "cohort": "Former-Held-Out",
+      "role": "retrospective_outer_crossfit_only_if_G1_pass"
+    }
+  ],
+  "no_physical_outcomes_read": true
+}

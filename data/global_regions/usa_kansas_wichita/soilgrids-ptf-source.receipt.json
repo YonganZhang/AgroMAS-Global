@@ -1,0 +1,10 @@
+{
+  "region_id": "usa_kansas_wichita",
+  "soil_latitude": 37.89,
+  "soil_longitude": -97.34,
+  "url": "https://rest.isric.org/soilgrids/v2.0/properties/query?lat=37.89&lon=-97.34&property=sand&property=silt&property=clay&property=bdod&property=soc&property=phh2o&property=cec&property=nitrogen&depth=0-5cm&depth=5-15cm&depth=15-30cm&depth=30-60cm&depth=60-100cm&depth=100-200cm&value=mean",
+  "sha256": "e4712ddfcc8f7b837f05e0a56b504b60d08e58e944373d9bba836e1c44c2ec1a",
+  "timestamp": "2026-11-14T20:27:29.916243+00:00",
+  "source": "ISRIC SoilGrids gridded estimates, not farm observations",
+  "selection": "Point fixed before any regional crop output; city-null alternatives explicitly separate from weather coordinates"
+}

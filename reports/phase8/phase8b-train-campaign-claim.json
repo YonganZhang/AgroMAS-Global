@@ -1,0 +1,14 @@
+{
+  "started": 1794753511.589076,
+  "architectures": [
+    "mlp",
+    "residual-mlp"
+  ],
+  "epochs": 80,
+  "seeds": [
+    20261115,
+    20261116,
+    20261117
+  ],
+  "Dev_accessed": false
+}

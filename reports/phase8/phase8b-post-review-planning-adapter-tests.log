@@ -1,0 +1,45 @@
+.......F....                                                             [100%]
+=================================== FAILURES ===================================
+_ test_frozen_open_loop_rechecks_current_safety_instead_of_reusing_initial_tier _
+
+monkeypatch = <_pytest.monkeypatch.MonkeyPatch object at 0x7f4a73082b50>
+
+    def test_frozen_open_loop_rechecks_current_safety_instead_of_reusing_initial_tier(monkeypatch):
+     from types import SimpleNamespace
+     from pcse_gym.agromas_v8 import policies
+     # Both fixed proposal and zero are predicted above the upper corridor; the
+     # current action must be operational zero/Tier3 despite an initial Tier1.
+     class Model:
+      track='Sensorless';radius=0.
+      def applicability(self,x):return 0.,True
+      def calibration_radius(self,x,context):return 0.
+      def prior_status(self,x,context):return {}
+      def response_tensor(self,x,desc):
+       m=np.zeros((len(x),1,32,6));m[:,:,:,2]=100.;m[:,:,:,3]=.7;return m
+     model=Model();climate=SimpleNamespace(tree=lambda *a,**k:(np.zeros((1,9)),np.ones(1),None,None,None));team=SimpleNamespace(model=model,root='unused',climate=climate)
+     monkeypatch.setattr(policies,'candidate_features',lambda root,prefix,plans,**kw:np.zeros((len(plans),36)))
+     p=policies.TreePolicy(team,mode='open-loop');p.frozen=np.array([60.,80.,80.]);p.frozen_tier=1
+>    d=p.choose(dict(stage=2,n_fert_cum=60.,region_id='fixture',as_of='2001-04-01'),None,{})
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+NUE_PCSE-Gym/tests/test_phase8_planning.py:68: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = <pcse_gym.agromas_v8.policies.TreePolicy object at 0x7f494e75b9d0>
+state = {'stage': 2, 'n_fert_cum': 60.0, 'region_id': 'fixture', 'as_of': '2001-04-01'}
+history = None, case = {}
+
+    def choose(self,state,history,case):
+     if self.mode=='open-loop' and self.frozen is not None:
+      from .planning import distribution_metrics,Regime,choose_tier
+      stage=int(state['stage']);proposal=self.frozen.copy();proposal[:stage-1]=0.;plans=np.unique(np.stack([proposal,np.zeros(3)]),axis=0)
+      prefix=public_state(state,self.team.model.track);x=candidate_features(self.team.root,prefix,plans,history=history);_,applicable=self.team.model.applicability(x)
+      if not applicable:return dict(dose=0.,tier=3,reason='OOD_operational_zero_not_compliance',active_eco=True,active_econ=True)
+>     desc,w,_,_,_=self.team.climate.tree(prefix['region_id'],prefix['as_of'],observed_history=history);tensor=self.team.model.response_tensor(x,desc,adapter_context=self.adapter_context);radius=self.team.model.calibration_radius(x,self.adapter_context);regime=Regime(cap=case.get('cap',40),price_multiplier=case.get('price_multiplier',1),subsidy=case.get('subsidy',0),tax=case.get('tax',0),eco=self.remove!='eco',econ=self.remove!='econ',radius=radius)
+                                                                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+E     TypeError: test_frozen_open_loop_rechecks_current_safety_instead_of_reusing_initial_tier.<locals>.Model.response_tensor() got an unexpected keyword argument 'adapter_context'
+
+NUE_PCSE-Gym/pcse_gym/agromas_v8/policies.py:17: TypeError
+=========================== short test summary info ============================
+FAILED NUE_PCSE-Gym/tests/test_phase8_planning.py::test_frozen_open_loop_rechecks_current_safety_instead_of_reusing_initial_tier
+1 failed, 11 passed in 40.82s

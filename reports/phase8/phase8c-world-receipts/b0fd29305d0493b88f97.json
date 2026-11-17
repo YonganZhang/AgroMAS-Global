@@ -1,0 +1,66 @@
+{
+  "world": [
+    "france_paris_beauce",
+    2017,
+    "idealized_mid",
+    "NASA"
+  ],
+  "native_simulations": 6,
+  "unique_executed_trajectories": 6,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        20.0,
+        100.0,
+        100.0
+      ],
+      "sha256": "d0818af0bd5a4f05703537377a6a52b6561e616b5111ba5371926660c0164722"
+    },
+    {
+      "doses": [
+        80.0,
+        0.0,
+        80.0
+      ],
+      "sha256": "77c8ccefab45e03ecddeee1e89f95c9f7e8c3bbc31d28ee0e54f7b8c18c8c2ad"
+    },
+    {
+      "doses": [
+        60.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "cf07b7cdfe0fe8c93c52364a7213bdf4597bd0fdc747ee6555682a2e05b89fe9"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "a22e7ce6ed08e9d9df9eca5baad19b831fa800dd698a83d0d616cdd380676a93"
+    },
+    {
+      "doses": [
+        100.0,
+        80.0,
+        40.0
+      ],
+      "sha256": "76ac74f9fb1cd2c270ce3f33c40eeb608506663f69813785dcbbbab4b9815be7"
+    },
+    {
+      "doses": [
+        100.0,
+        60.0,
+        60.0
+      ],
+      "sha256": "78f17f859e6a12f0eafe7a5b6b3b32c86bc36c4960e4e5c883d42848fd124e1d"
+    }
+  ],
+  "complete_requested_paths": 6,
+  "cases_replayed": 84,
+  "public_prefix_nodes": 11,
+  "prefix_decisions_replayed": 259,
+  "worker": 13,
+  "cases": 90
+}

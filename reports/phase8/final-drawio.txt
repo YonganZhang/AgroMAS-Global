@@ -1,0 +1,12 @@
+{
+  "path": "reports/phase8/method-framework-v8/diagram.drawio",
+  "pages": [
+    {
+      "page": "AgroMAS-Global目标架构：64维DL代理赋能四专职团队",
+      "nodes": 17,
+      "edges": 21
+    }
+  ],
+  "errors": [],
+  "ok": true
+}

@@ -1,0 +1,8 @@
+{
+  "region_id": "china_ncp_luancheng",
+  "url": "https://power.larc.nasa.gov/api/temporal/daily/point?latitude=37.89&longitude=114.69&start=19840101&end=20261101&community=AG&format=JSON&parameters=T2M&time-standard=LST",
+  "sha256": "65be81429d0acd2b7108157e0ab6918d2fde80e73a1e7f41e1ddc220cda7a9a6",
+  "timestamp": "2026-11-14T21:40:25.237222+00:00",
+  "reason": "Native PCSE NASA provider uses dailyT2M, not(Tmin+Tmax)/2",
+  "role_policy": "Existing frozen year roles unchanged; date/field validation required before use"
+}

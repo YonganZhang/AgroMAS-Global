@@ -1,0 +1,11 @@
+{
+  "job_id": "20261115T225201__deepseek__7040",
+  "provider": "deepseek",
+  "model": "deepseek-flash",
+  "tier": "high",
+  "actual_exit_code": 0,
+  "review_completed": true,
+  "original_review_verdict": "NOT_READY_FOR_DEV at15:05Z snapshot",
+  "result_sha256": "2e7f1fbf876eb8174f4b20bc15aaa88e2ec0d90346b6f11605e1059a62c7fd21",
+  "not_a_post_fix_pass": true
+}

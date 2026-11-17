@@ -1,0 +1,77 @@
+{
+  "files": {
+    "cache/phase5-regional-config/Wofost81_NWLP_CWB_CNB.conf": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/Wofost81_NWLP_CWB_CNB.conf",
+      "sha256": "279899a6a02caebe2d86e42964c93e5e92d07101accf8b2843dfd5156484c504"
+    },
+    "cache/phase5-regional-config/Wofost81_NWLP_MLWB_SNOMIN.conf": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/Wofost81_NWLP_MLWB_SNOMIN.conf",
+      "sha256": "3f3c8df76c6b9e81acab9ef575d5f78f0cc18524051153c06c77dc51b3d3a370"
+    },
+    "cache/phase5-regional-config/Wofost81_NWLP_FD.conf": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/Wofost81_NWLP_FD.conf",
+      "sha256": "b265bc75031266e52faee7db9f2c55b71afdab8868cfc4a8fcad3d2e053cbdfa"
+    },
+    "cache/phase5-regional-config/Wofost8_ML_SNOMIN.conf": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/Wofost8_ML_SNOMIN.conf",
+      "sha256": "6100455cacfb4d0a29f34faeadb3a9cc2f525788e9fd042124d8885a47110e1c"
+    },
+    "cache/phase5-regional-config/Lintul3.conf": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/Lintul3.conf",
+      "sha256": "1b28ee5e0969c32955c8bec7fcf1e377283fcedb06da4346972e3ef33e6f7033"
+    },
+    "cache/phase5-regional-config/crop/crops.yaml": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/crop/crops.yaml",
+      "sha256": "f3af13ddb9a457e5014116abbc5b64fe40ec381305b31021d39c9884be461abb"
+    },
+    "cache/phase5-regional-config/crop/winterwheat.yaml": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/crop/winterwheat.yaml",
+      "sha256": "cb584485bff761997bde182cc4ce963e821c2050d13a1011e5b2361e17ded54b"
+    },
+    "cache/phase5-regional-config/crop/wheat.yaml": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/crop/wheat.yaml",
+      "sha256": "0103efa2e34e835ca1b7e3d107caa5220800e1bcfe1c7de7563360ac1678103e"
+    },
+    "cache/phase5-regional-config/site/arminda_site.yaml": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/site/arminda_site.yaml",
+      "sha256": "9508ee6faa30846e4d0989b2875614bbeb8c0b6e48463539f739151b4a9c11bd"
+    },
+    "cache/phase5-regional-config/soil/EC3-mediumfine_soil.yaml": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/soil/EC3-mediumfine_soil.yaml",
+      "sha256": "d892252066e8274ad6c6e0e1656de2e0bc3926912a402a11e0db24968fb88793"
+    },
+    "cache/phase5-regional-config/soil/EC1-coarse_soil.yaml": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/soil/EC1-coarse_soil.yaml",
+      "sha256": "d9ae46fc9f6ed4fcbfbf298c934317fdb12bf29023eb55b2dcaae19677cd6964"
+    },
+    "cache/phase5-regional-config/soil/EC6-fine_soil.yaml": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/soil/EC6-fine_soil.yaml",
+      "sha256": "8c97c5540bd5da09e1e26f1304f9045d7be9fdd67f47a6f63774e44c7b89de0a"
+    },
+    "cache/phase5-regional-config/soil/arminda_soil.yaml": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/soil/arminda_soil.yaml",
+      "sha256": "f28973feca2849e98d2d39ab87659156fb4c0ac3099dfa0b8e68e5e04347f4de"
+    },
+    "cache/phase5-regional-config/agro/wheat_cropcalendar_cn.yaml": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/agro/wheat_cropcalendar_cn.yaml",
+      "sha256": "391849544952fc1555f8dad157008c45db09433efb635ed97631b2d284431f38"
+    },
+    "cache/phase5-regional-config/agro/sugarbeet_calendar.yaml": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/agro/sugarbeet_calendar.yaml",
+      "sha256": "729c167220d9f16c249dad5009919d2071429ed8f501613e6ebe6b7b907da86c"
+    },
+    "cache/phase5-regional-config/agro/agromanagement_fertilization.yaml": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/agro/agromanagement_fertilization.yaml",
+      "sha256": "95ab105c519d08ae540f4d179fcd9f6dec2f5b2a5d3f0f3d845ed8194d424890"
+    },
+    "cache/phase5-regional-config/agro/wheat_cropcalendar.yaml": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/agro/wheat_cropcalendar.yaml",
+      "sha256": "f8d92266983a0fa968edb4865f72131a6b21c1f0ca2aa9615d2a4e44afdd1ca6"
+    },
+    "cache/phase5-regional-config/agro/potato_cropcalendar.yaml": {
+      "archived_path": "cache/phase8c-frozen-runtime-files/cache/phase5-regional-config/agro/potato_cropcalendar.yaml",
+      "sha256": "ff479dbacc8e29331ad6d377ee4b10ea662e617b3b303de938e9d50085350520"
+    }
+  },
+  "reason": "Preserve all18frozen runtime cache dependencies. One primary config needs output-only activation after exact prior-byte backup;all153registered paths and archived copies will be verified before cleanup."
+}

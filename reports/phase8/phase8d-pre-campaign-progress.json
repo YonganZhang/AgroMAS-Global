@@ -1,0 +1,10 @@
+{
+ "full_campaign_started": false,
+ "unit_tests": {"passed":230,"failed":0,"skipped":0},
+ "TRAIN_warming_alignment_checks":30,
+ "fixed_G1": {"both_tracks_BSS_all_caps":true,"both_tracks_coverage_85_to_95":true,"both_tracks_regret_better_than_ExtraTrees":true,"Full_regret_lower_than_Sensorless":true,"Full_signed_radius_lower_than_Sensorless":false,"Full_actual_interval_width_lower_than_Sensorless":true},
+ "fixed_Dev_control_checks":{"cases":300,"native_trajectories":84,"all_mass_passed":true,"soft_Full_equal5_cap40":0.28,"soft_Sensorless_equal5_cap40":0.24,"soft_AU_cap25_Full":0.4,"soft_AU_cap25_Sensorless":0.2,"NL_Full_N_cap25_35_40":[214,218,218],"tree_AU_Sensorless_cap25":0.0},
+ "physical_decoder_gate":"Not all required region-target cells positive;initial world-sum and row-normalized alpha conventions retained separately",
+ "P2":"Running fixed inner-year alpha selection and purged outer fitting",
+ "decision_preparation":"Do not waive failed gates or launch full campaign before resolving criterion interpretation and remaining failures"
+}

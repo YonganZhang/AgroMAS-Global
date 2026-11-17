@@ -1,0 +1,77 @@
+{
+  "figure": "fig3-p2-transfer",
+  "sources": {
+    "reports/phase8/phase8d-core-statistics.json": "d5f793084a1d9bc2e9c43d71ef486dffd855e1b0c189da53554d681b87838083",
+    "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+    "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e",
+    "reports/phase8/phase8d-180cell-stress-surface.csv": "8e6fbbbc0f37ab0aab806fcfb8c3002fe5c9744a57098c5360742f5c3d11827b",
+    "reports/phase8/phase8d-closeout-receipt.json": "1ba174ef6e9d42451d6dea49b977f8906be52aad61b9546b04a5c1fd2a068185",
+    "reports/phase8/phase8d-primary-verification.json": "6b8ca50ac3d376f206ab9a1bce61e0363e2731efeacbc93657abc65845d5ecdb",
+    "reports/phase8/phase8d-P2-predictive-cohort-strata.csv": "4ea7c3f0ad892378a113560ce785e23e3b9887095b8eb20e6d8874668b7c1612",
+    "reports/phase8/phase8d-case-metrics-seed-averaged.csv": "c218ce40be31d28be4616353d060e29634111729275b7e6ec7fc4f0ba78643e9",
+    "reports/phase8/phase8d-G1-radius-interpretation.json": "9b564a1680d8726972134ee01c3a8bb62e35cca828607a5904efda3ee0037e7e",
+    "reports/phase8/phase8d-root-cause-verification.json": "0d4a216d0acd197c6cd3fc4a1b3e6a255416916e85c958d284f04be899ffb9a7",
+    "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba"
+  },
+  "palette": [
+    "#162830",
+    "#4C7A99",
+    "#5882A6",
+    "#A4BED1",
+    "#5E9680",
+    "#8E7CA6",
+    "#FFF0C4",
+    "#E8B8AE",
+    "#D67E7D",
+    "#B8525A"
+  ],
+  "font": "Times New Roman",
+  "black_regular_text": true,
+  "contrast_labels": [],
+  "descriptive_titles": false,
+  "axes_count": 6,
+  "axes_bounds": [
+    [
+      18.552777777777763,
+      496.44510357815443,
+      383.5630721828481,
+      404.5955743879472
+    ],
+    [
+      424.28611853563854,
+      496.44510357815443,
+      238.54086441469502,
+      414.9074387947269
+    ],
+    [
+      765.9433654558932,
+      682.6465117261201,
+      616.4566345441067,
+      214.03755803935746
+    ],
+    [
+      716.2626554649535,
+      496.44510357815443,
+      666.1373445350464,
+      164.84560715386237
+    ],
+    [
+      28.75730170496663,
+      37.27222222222207,
+      634.069681245367,
+      404.5955743879473
+    ],
+    [
+      765.9433654558932,
+      37.27222222222207,
+      616.4566345441067,
+      404.7963276836159
+    ]
+  ],
+  "notes": "V12 main Fig. 4 (distribution & phase-shift 2x2). Replaced 3 bar tables with S_N raincloud + LOYO/LORO dumbbell (4a), 2D RMSE x Compliance trajectory + CI forest (4b), 5-breadbasket NUE x S_N shift map (4c), and tightened EUNEP frame (4d).",
+  "runtime_paths": {
+    "cwd": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53",
+    "style_file": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/scripts/phase8d-plot-style.py",
+    "figure_output": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/reports/phase8/figures"
+  }
+}

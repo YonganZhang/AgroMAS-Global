@@ -1,0 +1,6 @@
+{"control": "Full-Telemetry-ExtraTrees", "radius": 16.054591922457092, "alpha": 0.1, "calibration_set_coverage": 0.9000505816894284, "no_independent_validation_claim": true, "samples": 19770}
+{"control": "Sensorless-ExtraTrees", "radius": 8.861407142042673, "alpha": 0.1, "calibration_set_coverage": 0.9000505816894284, "no_independent_validation_claim": true, "samples": 19770}
+{"control": "Full-Telemetry-Linear", "radius": 10.465195209176187, "alpha": 0.1, "calibration_set_coverage": 0.9000505816894284, "no_independent_validation_claim": true, "samples": 19770}
+{"control": "Sensorless-Linear", "radius": 13.894906895340739, "alpha": 0.1, "calibration_set_coverage": 0.9000505816894284, "no_independent_validation_claim": true, "samples": 19770}
+{"control": "Sensorless-Weather", "radius": -5.414739385159265, "alpha": 0.1, "calibration_set_coverage": 0.9000505816894284, "no_independent_validation_claim": true, "samples": 19770}
+All comparator calibrators frozen

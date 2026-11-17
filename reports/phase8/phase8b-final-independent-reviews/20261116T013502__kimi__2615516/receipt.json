@@ -1,0 +1,11 @@
+{
+  "job_id": "20261116T013502__kimi__2615516",
+  "process_exit_code": 0,
+  "complete": true,
+  "error_class": "NONE",
+  "proof": [
+    "2026-11-16T01:49:23+08:00\t861\tkimi\tmodel_end\trc=0",
+    "2026-11-16T01:49:23+08:00\t861\tkimi\tcomplete_marker_found\tresult.md complete"
+  ],
+  "original_result_sha256": "10a3f0628b6f562b7a52347a26d1fc0b9faf6e0cb0346d5fff7658b957e766e5"
+}

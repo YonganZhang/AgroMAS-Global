@@ -1,0 +1,11 @@
+{
+  "source_sha256": {
+    "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/data/phase8d-evaluation/eb0a84dc690399cde170/result.json": "40d7cb336c6710f5d7426aa55f298c90b1bb03d98b21d9970b1dedef377d5f15",
+    "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/data/phase8d-evaluation/104ae2caf3b15973dc28/result.json": "51f91cb6860df7b1ff79217dfcab3f6c6b4b29a18719d600089ba53dd3787a1c",
+    "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/data/phase8d-evaluation/d7fb6080d321a7b65bab/result.json": "2cef07803ad94c2dd03f306e6c3d448409092e5ffd216ac80057fbd0dd163851",
+    "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/data/phase8d-evaluation/44c0064eeea425c78561/result.json": "ebe52db4d1617d7b34b26e54da2a249e7765cca99d66020c7ccc23aebe0bbcd6"
+  },
+  "case": "AU Perth 2015, four policies, 349 days each",
+  "zero_residuals": "Exact zeros omitted on logarithmic axes; no positive floor fabricated",
+  "scope": "Illustrative daily traces; all-configurations maxima and record totals are independently frozen aggregate audits"
+}

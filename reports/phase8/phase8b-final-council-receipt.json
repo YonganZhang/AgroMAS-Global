@@ -1,0 +1,52 @@
+{
+  "status": "COMPLETE",
+  "quorum_required": 3,
+  "completed": 3,
+  "models": [
+    "kimi-code/k3.1-pro",
+    "deepseek-flash/high",
+    "gemini-4-carbon-high"
+  ],
+  "skipped": {
+    "claude": "NORMAL,SCOPE_CAP,MODEL_UNSUPPORTED",
+    "codex": "CONSERVE_WEEK,HOST_FAMILY"
+  },
+  "reports": [
+    {
+      "job_id": "20261116T013502__kimi__2615516",
+      "process_exit_code": 0,
+      "complete": true,
+      "error_class": "NONE",
+      "proof": [
+        "2026-11-16T01:49:23+08:00\t861\tkimi\tmodel_end\trc=0",
+        "2026-11-16T01:49:23+08:00\t861\tkimi\tcomplete_marker_found\tresult.md complete"
+      ],
+      "original_result_sha256": "10a3f0628b6f562b7a52347a26d1fc0b9faf6e0cb0346d5fff7658b957e766e5"
+    },
+    {
+      "job_id": "20261116T013502__deepseek__2615517",
+      "process_exit_code": 0,
+      "complete": true,
+      "error_class": "NONE",
+      "proof": [
+        "2026-11-16T01:54:06+08:00\t1144\tdeepseek\tmodel_end\trc=0",
+        "2026-11-16T01:54:06+08:00\t1144\tdeepseek\tcomplete_marker_found\tresult.md complete"
+      ],
+      "original_result_sha256": "d19e5ea8fe172d384807789835163d37ca2538e44adc5b9d61a5bc75d9715f1b"
+    },
+    {
+      "job_id": "20261116T013503__gemini__2615518",
+      "process_exit_code": 0,
+      "complete": true,
+      "error_class": "NONE",
+      "proof": [
+        "2026-11-16T01:50:37+08:00\t934\tgemini\tmodel_attempt_ok\tmodel=gemini-4-carbon-high rc=0",
+        "2026-11-16T01:50:38+08:00\t935\tgemini\tmodel_end\trc=0",
+        "2026-11-16T01:50:38+08:00\t935\tgemini\tcomplete_marker_found\tresult.md complete"
+      ],
+      "original_result_sha256": "0b1b8e55511d4f7e394acf4684bb3df560a97f609140ceea5f357a318e4c04fe"
+    }
+  ],
+  "post_review_numeric_statistics_unchanged": true,
+  "post_review_inference_code_unchanged": true
+}

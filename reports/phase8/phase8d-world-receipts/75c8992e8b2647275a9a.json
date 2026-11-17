@@ -1,0 +1,101 @@
+{
+  "world": [
+    "usa_kansas_wichita",
+    2023,
+    "idealized_high",
+    "NASA"
+  ],
+  "native_simulations": 7,
+  "unique_native_executed_trajectories": 7,
+  "unique_executed_trajectories": 10,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        60.0,
+        0.0,
+        0.0
+      ],
+      "sha256": "b1cd94e616531c1e1863b1aa1a3a31d68abd72bcb0817b74c232d44d0afd924d"
+    },
+    {
+      "doses": [
+        0.0,
+        0.0,
+        20.0
+      ],
+      "sha256": "36bfbd10e4b5ab36b05882f375eae851db98da0f26987d12c63904824749ce12"
+    },
+    {
+      "doses": [
+        0.0,
+        0.0,
+        40.0
+      ],
+      "sha256": "926132fcce20225e829315a7da15787983f421c9fee11f054f0f4e668265e047"
+    },
+    {
+      "doses": [
+        0.0,
+        0.0,
+        60.0
+      ],
+      "sha256": "41b130001a36cf9d31fd029f37578b6c346f682015cd78a887fee44de2a857ff"
+    },
+    {
+      "doses": [
+        20.0,
+        10.0,
+        10.0
+      ],
+      "sha256": "041b9e15574ce2620285cecd03652c66382e1e48d662e5e47841683f771ace22"
+    },
+    {
+      "doses": [
+        20.0,
+        0.0,
+        20.0
+      ],
+      "sha256": "8ecb976dcfad57ed030820932538f3840c6381c8e24d7db67402c4f377b98d66"
+    },
+    {
+      "doses": [
+        40.0,
+        0.0,
+        0.0
+      ],
+      "sha256": "e71b8b58e64565093491e45c361bc37119b5b4994d94e61aaaa8c5401b798072"
+    },
+    {
+      "doses": [
+        10.0,
+        20.0,
+        10.0
+      ],
+      "sha256": "567227aa5229b80b92f919ba098281574770aa8660e160cb3e00e4ce7fb86497"
+    },
+    {
+      "doses": [
+        10.0,
+        0.0,
+        40.0
+      ],
+      "sha256": "c18f6208e65eb05054b3d5d7dd95102e6d500707201e1daf7b4ba222b7362a81"
+    },
+    {
+      "doses": [
+        20.0,
+        20.0,
+        0.0
+      ],
+      "sha256": "75e7f59919fb351762cdef8bb90016219af2181c765ff41a336408d5a15a6483"
+    }
+  ],
+  "complete_requested_paths": 10,
+  "cases_replayed": 83,
+  "public_prefix_nodes": 13,
+  "prefix_decisions_replayed": 257,
+  "archived_records_verified": 90,
+  "archived_requested_paths": 6,
+  "worker": 15,
+  "cases": 90
+}

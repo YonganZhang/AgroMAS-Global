@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "checks": [
+    "all file classes copied",
+    "absolute worktree symlink retargeted",
+    "relative symlink retained",
+    "private absolute and cross-root relative links retargeted",
+    "private permissions",
+    "top-level cache file retained",
+    "source-pointing link rejected",
+    "dangling target rejected without external write",
+    "interrupted copy never published and retry succeeded",
+    "idempotent retry",
+    "different destination rejected without overwrite"
+  ]
+}

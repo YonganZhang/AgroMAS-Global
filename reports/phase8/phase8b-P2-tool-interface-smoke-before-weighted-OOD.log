@@ -1,0 +1,5 @@
+{'variant': 'Full64', 'private_tool_loaded': True, 'TRAIN_fixture_only': True, 'prior_future_rejected': True, 'dose': 0.0, 'radius': -1.2525981458227307}
+{'variant': 'Static3', 'private_tool_loaded': True, 'TRAIN_fixture_only': True, 'prior_future_rejected': False, 'dose': 0.0, 'radius': -3.1071789228584805}
+{'variant': 'Weather', 'private_tool_loaded': True, 'TRAIN_fixture_only': True, 'prior_future_rejected': False, 'dose': 0.0, 'radius': -13.238485347888457}
+{'variant': 'Linear64', 'private_tool_loaded': True, 'TRAIN_fixture_only': True, 'prior_future_rejected': True, 'dose': 0.0, 'radius': 17.25843156061552}
+{'variant': 'ExtraTrees64', 'private_tool_loaded': True, 'TRAIN_fixture_only': True, 'prior_future_rejected': True, 'dose': 0.0, 'radius': 10.755328049497308}

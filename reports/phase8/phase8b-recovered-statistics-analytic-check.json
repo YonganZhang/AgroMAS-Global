@@ -1,0 +1,41 @@
+{
+  "synthetic_only": true,
+  "policy_outcomes_read": false,
+  "source_sha256": "97296b180963da1714c959e819f3489765e46132dd065ddafba165b2bdede044",
+  "cases": [
+    {
+      "n": 5,
+      "n_eff_nonzero": 5,
+      "ties": 0,
+      "mean_difference": 1.0,
+      "CI95": [
+        1.0,
+        1.0
+      ],
+      "exact_two_sided_sign_p": 0.0625,
+      "Wilcoxon_two_sided_p": 0.0625,
+      "Wilcoxon_method": "exact dynamic programming counts all2^n_eff signed-rank allocations; average tied ranks, zeros removed",
+      "tie_absolute_tolerance": 1e-12,
+      "bootstrap_draws": 5000,
+      "bootstrap_seed": 20261115,
+      "NL_n5_minimum_exact_sign_p": 0.0625
+    },
+    {
+      "n": 28,
+      "n_eff_nonzero": 28,
+      "ties": 0,
+      "mean_difference": 1.0,
+      "CI95": [
+        1.0,
+        1.0
+      ],
+      "exact_two_sided_sign_p": 7.450580596923828e-09,
+      "Wilcoxon_two_sided_p": 7.450580596923828e-09,
+      "Wilcoxon_method": "exact dynamic programming counts all2^n_eff signed-rank allocations; average tied ranks, zeros removed",
+      "tie_absolute_tolerance": 1e-12,
+      "bootstrap_draws": 5000,
+      "bootstrap_seed": 20261115,
+      "NL_n5_minimum_exact_sign_p": 0.0625
+    }
+  ]
+}

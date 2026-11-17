@@ -1,0 +1,8 @@
+........                                                                 [100%]
+=============================== warnings summary ===============================
+tests/phase8d/test_root_causes.py::test_full_residual_lookup_uses_known_soil_stage_and_synthetic_global_fallback
+  /mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8d/.venv/lib/python3.11/site-packages/torch/cuda/__init__.py:70: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+    import pynvml  # type: ignore[import]
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+8 passed, 1 warning in 2.48s

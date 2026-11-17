@@ -1,0 +1,25 @@
+{
+  "file": "reports/phase8/figures/fig1-architecture.pptx",
+  "zero_repair_pass": true,
+  "issue_counts": {
+    "zip_directory_entries": 0,
+    "missing_content_type_parts": 0,
+    "missing_default_extensions": 0,
+    "broken_relationship_targets": 0,
+    "dangling_r_ids": 0,
+    "duplicate_cnvpr_ids": 0,
+    "duplicate_creation_ids": 0,
+    "invalid_prst_geom_guides": 0,
+    "empty_ln_elements": 0,
+    "zero_alpha_solid_fills": 0,
+    "bgpr_missing_effect_lst": 0,
+    "child_order_or_duplicate_errors": 0,
+    "python_pptx_errors": 0
+  },
+  "issues": {},
+  "normalized": {
+    "stripped_dir_entries": 0,
+    "content_type_fixes": 0,
+    "xml_part_fixes": 0
+  }
+}

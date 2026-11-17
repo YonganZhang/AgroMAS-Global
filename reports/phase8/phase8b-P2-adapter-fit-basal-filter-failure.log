@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/scripts/phase8-fit-p2-adapters.py", line 22, in <module>
+    itrain=train[years[train]!=innerheld];ival=train[years[train]==innerheld];assert not set(world[itrain])&set(world[ival]);adapter=fit(x,y,raw,weights,context,metadata['priors'],itrain,kind,rank);delta=adapter.predict(x[ival],[context[i] for i in ival]);members=project_executed_members(raw[ival]+delta[:,None,:],x[ival]);truth=y[ival,2]+3.5-y[ival,1];lo=np.quantile(members[:,:,2],.05,axis=1,method='lower');hi=np.quantile(members[:,:,2],.95,axis=1,method='higher');scores.extend(np.maximum(lo-truth,truth-hi));calweights.extend(weights[ival]);inner.append(dict(held_year=int(innerheld),train_worlds=sorted(set(world[itrain])),validation_worlds=sorted(set(world[ival]))))
+                                                                                                                                                                                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/NUE_PCSE-Gym/pcse_gym/agromas_v8/scoring.py", line 15, in project_executed_members
+    if np.any(nominal_remaining_sum<0) or np.any(features[:,3]+nominal_remaining_sum>220+1e-8):raise ValueError("Illegal nominal remaining schedule")
+                                                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Illegal nominal remaining schedule

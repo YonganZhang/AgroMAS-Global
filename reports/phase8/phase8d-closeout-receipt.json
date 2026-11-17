@@ -1,0 +1,51 @@
+{
+  "status": "COMPLETE",
+  "completed_at": "2026-11-16T05:07:31.913923+00:00",
+  "primary": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53",
+  "root_branch": "master",
+  "NUE_branch": "main",
+  "verified_root_code_commit": "848d616be5182b51afc8afbe23c441b76f232398",
+  "verified_NUE_code_commit": "c242b6dd62d853c5888144bab864f9a509599633",
+  "primary_audit_commit": "bbfcc1cd4a8d7b888d8b031577b42cfe8bd26746",
+  "campaign": {
+    "configurations": 18268,
+    "worlds": 170,
+    "actual_native_simulations": 1886,
+    "distinct_native_executed_trajectories": 1815,
+    "trajectory_replays": 16382,
+    "daily_records": 6104146,
+    "max_N": 1.9042545318370685e-11,
+    "max_C": 2.1145751816220582e-10,
+    "all_mass_passed": true
+  },
+  "verification": {
+    "actual_primary_canonical_passed": 232,
+    "canonical_failed": 0,
+    "canonical_skipped": 0,
+    "future_weather_invariance_passed": 120,
+    "TRAIN_warming_alignment": 30,
+    "runtime_promoted_SHA256_files": 55142,
+    "tracked_promoted_SHA256_files": 754,
+    "old_reports_unchanged": 392,
+    "neural_weights_unchanged": 72,
+    "legacy_compatibility_failures": 9,
+    "legacy_failures_also_on_premerge_primary": true
+  },
+  "external_review": "reports/phase8/phase8d-external-review-closure.json",
+  "manuscripts": [
+    "manuscript/phase8/en.pdf",
+    "manuscript/phase8/zh.pdf",
+    "manuscript/phase8/supplement.pdf",
+    "manuscript/phase8/paper-bilingual-en-zh.html"
+  ],
+  "storyline": "storyline-v3.0",
+  "old_storylines_and_Phase8C_publication_archive_preserved": true,
+  "no_post_outcome_Dev_P2_tuning": true,
+  "neural_auxiliary_training": "Explicitly withdrawn; TRAIN-only nested frozen-backbone diagnostic completed",
+  "primary_scientific_boundary": "Sensorless soft25.06% vs PPO27.00%; paired-1.94pp CI-8.55 to+4.09, Holm p1; no superiority claim. P2 LORO predictive error remains worse despite admission improvement; cohorts/source/schemes separate.",
+  "worktree_removed": true,
+  "both_feature_branches_removed": true,
+  "pcse_commit": "d1fe6d29de828033b850ec51d994988d8d6d406f",
+  "pcse_clean": true,
+  "no_submission_or_remote_push_performed": true
+}

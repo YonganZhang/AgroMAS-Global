@@ -1,0 +1,2 @@
+Supplementary latent physical state decoding and daily carbon-nitrogen conservation checks. Panels show a out-of-fold decoding determination across 50 region-target cells with required positive cells framed and b 349-day mass balance residuals across 6.1 million simulated daily records.
+隐藏物理状态解码检验与逐日氮碳质量守恒核验补充图。图a为50格折外解码决定系数及30个必正单元边框，图b为610万条逐日记录质量残差核验。

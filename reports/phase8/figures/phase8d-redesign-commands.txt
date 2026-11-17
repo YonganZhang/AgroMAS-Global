@@ -1,0 +1,11 @@
+Figure-only reproduction; no simulation or manuscript compilation.
+Environment: system Python has numpy/pandas/matplotlib/cartopy. A private venv with python-pptx/Pillow/PyMuPDF is needed for PPTX. LibreOffice and pdftoppm required for exports.
+1. python3 scripts/phase8d-final-figures.py
+2. python3 scripts/phase8d-supplement-figures.py
+3. <figure-python> scripts/phase8d-build-fig1-hybrid.py
+4. <figure-python> scripts/phase8d-export-fig1.py
+5. python3 scripts/phase8d-update-figure-metadata.py
+6. <figure-python> scripts/phase8d-verify-figure-redesign.py
+7. plan check
+Do not regenerate raw Image2 candidates as part of reproduction. Their bytes, individual prompts, reference candidate-b.png and selected refinement are preserved. The second PPTX page is a raster reference comparison; the first page is the editable formal figure. Formal PDF contains the first page only. Paired PDF and reference PNG are in fig1-assets.
+Frozen sources and manuscript prose must remain unchanged. SVG whitespace emitted by Matplotlib is intentional; source-text whitespace check excludes generated SVG path data.

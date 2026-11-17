@@ -1,0 +1,98 @@
+{
+  "world": [
+    "france_paris_beauce",
+    2026,
+    "Historical",
+    "NASA"
+  ],
+  "native_simulations": 10,
+  "unique_executed_trajectories": 10,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        100.0,
+        80.0,
+        40.0
+      ],
+      "sha256": "3a2e231b9e8f3558c76a1085543003e027be3a52571355ea69fcfa9bb67c35bd"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "9c95c7ca610d68cb5bbd47ec13fc0b84405815ddc20034336189c377ed84962d"
+    },
+    {
+      "doses": [
+        20.0,
+        100.0,
+        100.0
+      ],
+      "sha256": "17b6338ae7cffc07d82ba6552e3c1aace8ffb2fdd6d8327d953db057ebfe5322"
+    },
+    {
+      "doses": [
+        100.0,
+        100.0,
+        20.0
+      ],
+      "sha256": "f89af91990e119ba14ddc0c55c746e90e9d7598c3d3d5c070e5ba50682160863"
+    },
+    {
+      "doses": [
+        100.0,
+        20.0,
+        100.0
+      ],
+      "sha256": "239a912941ff1606b55fe452aa929faf7faa03b00c886019e3063bf009349ec3"
+    },
+    {
+      "doses": [
+        100.0,
+        60.0,
+        40.0
+      ],
+      "sha256": "369d71ebcbaf03d0d3235f6c3e21018bb3b9fbe589f38b59e125f80dab8201f1"
+    },
+    {
+      "doses": [
+        100.0,
+        60.0,
+        60.0
+      ],
+      "sha256": "16e3d536e0f30ca2396d4bdc5c4be15e8bed131af2ffdad92f8b7d40828a8200"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        20.0
+      ],
+      "sha256": "c0a02d12a02aa7477f4f817e8f274f54f2e6550a68f6d183203790f45abf4c4a"
+    },
+    {
+      "doses": [
+        60.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "5b8bc87314034824f6dff2e28712f8bddb5b4f4b4f2f715af398294840c85638"
+    },
+    {
+      "doses": [
+        20.0,
+        40.0,
+        80.0
+      ],
+      "sha256": "07d10462c32237af31e6c0d1984d4875886d190a436856bd4f2b688ab1478375"
+    }
+  ],
+  "complete_requested_paths": 10,
+  "cases_replayed": 147,
+  "public_prefix_nodes": 13,
+  "prefix_decisions_replayed": 458,
+  "worker": 6,
+  "cases": 157
+}

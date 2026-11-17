@@ -1,0 +1,24 @@
+[feat/phase8-core-g1-g3 b4fb480] feat: add phase8 frozen world models and guarded nonanticipative planning
+ 22 files changed, 1484 insertions(+)
+ create mode 100644 pcse_gym/agromas_v8/__init__.py
+ create mode 100644 pcse_gym/agromas_v8/agents.py
+ create mode 100644 pcse_gym/agromas_v8/book_policy.py
+ create mode 100644 pcse_gym/agromas_v8/climate.py
+ create mode 100644 pcse_gym/agromas_v8/controller.py
+ create mode 100644 pcse_gym/agromas_v8/data.py
+ create mode 100644 pcse_gym/agromas_v8/joint_model.py
+ create mode 100644 pcse_gym/agromas_v8/ledger.py
+ create mode 100644 pcse_gym/agromas_v8/lightning_container.py
+ create mode 100644 pcse_gym/agromas_v8/models.py
+ create mode 100644 pcse_gym/agromas_v8/online_features.py
+ create mode 100644 pcse_gym/agromas_v8/ood.py
+ create mode 100644 pcse_gym/agromas_v8/planning.py
+ create mode 100644 pcse_gym/agromas_v8/policies.py
+ create mode 100644 pcse_gym/agromas_v8/prior_adapter.py
+ create mode 100644 pcse_gym/agromas_v8/referee.py
+ create mode 100644 pcse_gym/agromas_v8/scoring.py
+ create mode 100644 pcse_gym/agromas_v8/tree_weather.py
+ create mode 100644 tests/test_phase8_climate.py
+ create mode 100644 tests/test_phase8_invariants.py
+ create mode 100644 tests/test_phase8_planning.py
+ create mode 100644 tests/test_phase8_prior_adapter.py

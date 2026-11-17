@@ -1,0 +1,18 @@
+{
+  "_wiki-methodology/_wiki/method.md": {
+    "historical_fulltext_retained": true,
+    "sha256": "601f9cd59427a2e06345c8ff7fe75be09992d4690ee701d1f9bcd12307caedf4"
+  },
+  "_wiki-methodology/_wiki/socratic-logic-and-evolution.md": {
+    "historical_fulltext_retained": true,
+    "sha256": "2089030ae79a381df47a528274f7cbd22b0c8c700e212e3c8703d59b68cd8c1a"
+  },
+  "_codemap.md": {
+    "original_snapshot_exact": true,
+    "current_bytes": 2459
+  },
+  "_meta/_data_sources.md": {
+    "original_snapshot_exact": true,
+    "current_bytes": 3922
+  }
+}

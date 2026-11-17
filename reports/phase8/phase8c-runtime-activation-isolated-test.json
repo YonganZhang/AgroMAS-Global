@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "output_only_AST_guard": true,
+  "prior_bytes_preserved": true,
+  "desired_bytes_exact": true
+}

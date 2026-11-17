@@ -1,0 +1,29 @@
+{
+  "authority": "task-02f07c9642c600fe.md",
+  "active_source": "fig1-assets/asset-manifest.json",
+  "selected_raw": "fig1-candidates/candidate-b-v2-best.png",
+  "selection": "Candidate2 refined by Image2, then native scientific corrections",
+  "formal_pdf_pages": 1,
+  "pptx_slides": {
+    "1": "editable hybrid formal figure",
+    "2": "untouched visual reference"
+  },
+  "total_slide_objects": 206,
+  "native_p_sp_shapes": 112,
+  "raster_domain_assets": 9,
+  "historical_receipt_retained": "phase8d-fig1-edit-receipt.json records the previous Phase8C-derived diagram, not this hybrid; it is preserved unchanged as historical evidence",
+  "Static3_source_proof": {
+    "source": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/NUE_PCSE-Gym/pcse_gym/agromas/features.py",
+    "sha256": "3501e0079d70fed11545eebc2d8da7d532ed6ad32ec8893d22ccc7e8c15712fc",
+    "definition": "soil_context: SMfromPF at pF2 and pF4.2, CONDfromPF at pF-1; field capacity, wilting point, conductivity",
+    "inspected_lines": "19-26",
+    "source_read_only": true
+  },
+  "artifact_sha256": {
+    "reports/phase8/figures/fig1-architecture.png": "f5339a29ce9ae5e1ad9977b30767c1bc97408b801300bb210816c4bc978bf953",
+    "reports/phase8/figures/fig1-architecture.pdf": "1c21e908ec367bf1f803c27ab9b08997f86999511a5034f028304c658d6a0403",
+    "reports/phase8/figures/fig1-architecture.pptx": "85d92e0335b7db2b3e900f8361a52342d428669f13e99a7bdfd1a59b622da6f6",
+    "reports/phase8/figures/fig1-architecture.svg": "e63736a12931adf8a1ab087677af991250cbbda3ffa0999a02c5587604a04218"
+  },
+  "integration": "Figure-only batch; manuscript captions await author selection"
+}

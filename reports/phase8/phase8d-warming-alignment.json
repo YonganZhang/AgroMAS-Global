@@ -1,0 +1,309 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "region": "australia_wa_perth",
+      "stage": 1,
+      "climate": "idealized_high",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 2.498001805406602e-16,
+      "descriptor_shift_error": 8.881784197001252e-15,
+      "passed": true
+    },
+    {
+      "region": "australia_wa_perth",
+      "stage": 2,
+      "climate": "idealized_high",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 1.8041124150158794e-16,
+      "descriptor_shift_error": 3.552713678800501e-15,
+      "passed": true
+    },
+    {
+      "region": "australia_wa_perth",
+      "stage": 3,
+      "climate": "idealized_high",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 0.0,
+      "descriptor_shift_error": 3.552713678800501e-15,
+      "passed": true
+    },
+    {
+      "region": "australia_wa_perth",
+      "stage": 1,
+      "climate": "idealized_mid",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 2.498001805406602e-16,
+      "descriptor_shift_error": 7.771561172376096e-15,
+      "passed": true
+    },
+    {
+      "region": "australia_wa_perth",
+      "stage": 2,
+      "climate": "idealized_mid",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 1.942890293094024e-16,
+      "descriptor_shift_error": 7.771561172376096e-15,
+      "passed": true
+    },
+    {
+      "region": "australia_wa_perth",
+      "stage": 3,
+      "climate": "idealized_mid",
+      "TRAIN_year": 1995,
+      "feature_error": 5.551115123125783e-16,
+      "weight_error": 1.3877787807814457e-16,
+      "descriptor_shift_error": 7.771561172376096e-15,
+      "passed": true
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "stage": 1,
+      "climate": "idealized_high",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 8.326672684688674e-17,
+      "descriptor_shift_error": 1.0658141036401503e-14,
+      "passed": true
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "stage": 2,
+      "climate": "idealized_high",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 4.163336342344337e-17,
+      "descriptor_shift_error": 7.105427357601002e-15,
+      "passed": true
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "stage": 3,
+      "climate": "idealized_high",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 1.5265566588595902e-16,
+      "descriptor_shift_error": 1.0658141036401503e-14,
+      "passed": true
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "stage": 1,
+      "climate": "idealized_mid",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 4.163336342344337e-17,
+      "descriptor_shift_error": 7.771561172376096e-15,
+      "passed": true
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "stage": 2,
+      "climate": "idealized_mid",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 0.0,
+      "descriptor_shift_error": 9.992007221626409e-15,
+      "passed": true
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "stage": 3,
+      "climate": "idealized_mid",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 0.0,
+      "descriptor_shift_error": 7.771561172376096e-15,
+      "passed": true
+    },
+    {
+      "region": "france_paris_beauce",
+      "stage": 1,
+      "climate": "idealized_high",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 0.0,
+      "descriptor_shift_error": 4.440892098500626e-15,
+      "passed": true
+    },
+    {
+      "region": "france_paris_beauce",
+      "stage": 2,
+      "climate": "idealized_high",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 5.551115123125783e-17,
+      "descriptor_shift_error": 5.329070518200751e-15,
+      "passed": true
+    },
+    {
+      "region": "france_paris_beauce",
+      "stage": 3,
+      "climate": "idealized_high",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 1.1102230246251565e-16,
+      "descriptor_shift_error": 5.329070518200751e-15,
+      "passed": true
+    },
+    {
+      "region": "france_paris_beauce",
+      "stage": 1,
+      "climate": "idealized_mid",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 5.551115123125783e-17,
+      "descriptor_shift_error": 7.771561172376096e-15,
+      "passed": true
+    },
+    {
+      "region": "france_paris_beauce",
+      "stage": 2,
+      "climate": "idealized_mid",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 6.938893903907228e-17,
+      "descriptor_shift_error": 4.6629367034256575e-15,
+      "passed": true
+    },
+    {
+      "region": "france_paris_beauce",
+      "stage": 3,
+      "climate": "idealized_mid",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 5.551115123125783e-17,
+      "descriptor_shift_error": 7.771561172376096e-15,
+      "passed": true
+    },
+    {
+      "region": "netherlands_lelystad",
+      "stage": 1,
+      "climate": "idealized_high",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 2.7755575615628914e-17,
+      "descriptor_shift_error": 1.0658141036401503e-14,
+      "passed": true
+    },
+    {
+      "region": "netherlands_lelystad",
+      "stage": 2,
+      "climate": "idealized_high",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 0.0,
+      "descriptor_shift_error": 5.329070518200751e-15,
+      "passed": true
+    },
+    {
+      "region": "netherlands_lelystad",
+      "stage": 3,
+      "climate": "idealized_high",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 0.0,
+      "descriptor_shift_error": 7.105427357601002e-15,
+      "passed": true
+    },
+    {
+      "region": "netherlands_lelystad",
+      "stage": 1,
+      "climate": "idealized_mid",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 2.7755575615628914e-17,
+      "descriptor_shift_error": 6.439293542825908e-15,
+      "passed": true
+    },
+    {
+      "region": "netherlands_lelystad",
+      "stage": 2,
+      "climate": "idealized_mid",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 8.326672684688674e-17,
+      "descriptor_shift_error": 6.439293542825908e-15,
+      "passed": true
+    },
+    {
+      "region": "netherlands_lelystad",
+      "stage": 3,
+      "climate": "idealized_mid",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 0.0,
+      "descriptor_shift_error": 9.992007221626409e-15,
+      "passed": true
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "stage": 1,
+      "climate": "idealized_high",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 0.0,
+      "descriptor_shift_error": 1.0658141036401503e-14,
+      "passed": true
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "stage": 2,
+      "climate": "idealized_high",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 2.7755575615628914e-17,
+      "descriptor_shift_error": 7.105427357601002e-15,
+      "passed": true
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "stage": 3,
+      "climate": "idealized_high",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 0.0,
+      "descriptor_shift_error": 7.105427357601002e-15,
+      "passed": true
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "stage": 1,
+      "climate": "idealized_mid",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 0.0,
+      "descriptor_shift_error": 1.1324274851176597e-14,
+      "passed": true
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "stage": 2,
+      "climate": "idealized_mid",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 0.0,
+      "descriptor_shift_error": 9.992007221626409e-15,
+      "passed": true
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "stage": 3,
+      "climate": "idealized_mid",
+      "TRAIN_year": 1995,
+      "feature_error": 0.0,
+      "weight_error": 1.1102230246251565e-16,
+      "descriptor_shift_error": 9.992007221626409e-15,
+      "passed": true
+    }
+  ],
+  "max_feature_error": 5.551115123125783e-16,
+  "max_weight_error": 2.498001805406602e-16,
+  "TRAIN_only": true,
+  "native_evaluation_seasons": 0
+}

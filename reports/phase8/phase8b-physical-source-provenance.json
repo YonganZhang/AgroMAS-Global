@@ -1,0 +1,8 @@
+{
+  "at_launch_source_archive": "reports/phase8/phase8b-build-physical-books-at-launch.py",
+  "at_launch_sha256": "67e2f662219d7437a11e5bef03dcce0b5a5691a253318ed6d0a56164c80ee43a",
+  "current_reproduction_source": "scripts/phase8-build-physical-books.py",
+  "current_source_sha256": "bd77f06f07008b513637cfdaef833e082f23fe16a2140eaff8fba7ae0e814925",
+  "difference": "Added finite-outcome/native-fertilizer inline assertions after campaign launch; running forked workers retain archived launch implementation. Independent endpoint auditor verifies both conditions on100% saved rows; no repeated physics or changing equations.",
+  "one_time_campaign_recovery": "No automatic resume/rewrite of partial physical files is implemented: exclusive claims prevent accidental repeat. If interrupted, preserve partials and seek an explicit missing-only recovery plan; healthy campaign must complete before G1. No restart occurred."
+}

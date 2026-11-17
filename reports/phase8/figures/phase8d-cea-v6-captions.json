@@ -1,0 +1,90 @@
+{
+  "scope": "De-AI purified classical top-SCI Main Figures (Fig. 1-5, locked 2x2) + 8 compact Supplementary Figures (Fig. S1-S8).",
+  "manuscript_allocation": {
+    "main_text": {
+      "Fig. 1": "reports/phase8/figures/fig1-candidates/candidate-b-v4-best.png (Section 2: Five-specialist AgroMAS-Global architecture)",
+      "Fig. 2": "reports/phase8/figures/fig2-g1.{png,pdf,svg} (Section 3.1: 47-yr climate/deposition, unified 5-regime stacks + Org.N/Yield/NUE bars, tightened [35,248] 1-sigma ellipse EUNEP corridor and dual-scale BSS + width/regret bar G1 dashboard)",
+      "Fig. 3": "reports/phase8/figures/fig2-p1-regimes.{png,pdf,svg} (Section 3.2: tightened [0,252] 1-sigma ellipse EUNEP space, nested 10-policy Joint/Safe-NUE/Either-bound bars, 2-row framed 349-day hydrograph and aligned 2-row NUE/S_N corridor distributions)",
+      "Fig. 4": "reports/phase8/figures/fig3-p2-transfer.{png,pdf,svg} (Section 3.3: 40-case S_N raincloud + LOYO/LORO compliance dumbbell, 2D Grain N RMSE x Compliance trajectory + 95% CI forest plot, 5-breadbasket NUE x S_N regional shift map and tightened [25,248] n40 1-sigma ellipse EUNEP space)",
+      "Fig. 5": "reports/phase8/figures/fig4-factorial-stress.{png,pdf,svg} (Section 4: 2D iso-advantage phase contour + 3-econ glyphs, cap crossover + 45-cell W/T/L, LORO dumbbells and Pareto Profit x Compliance trajectory phase diagram)"
+    },
+    "appendix_supplementary": {
+      "Supplementary Fig. S1": "reports/phase8/figures/figs2-g3-subsidy.{png,pdf,svg} (Appendix: Climate warming + n=31 remove-climate & eco-cap realized S_N rainclouds)",
+      "Supplementary Fig. S2": "reports/phase8/figures/fig5-deployment-closure.{png,pdf,svg} (Appendix: Soil N supply/fate + NUE and 349-day AU Perth 2015 organic/mineral N traces)",
+      "Supplementary Fig. S3": "reports/phase8/figures/figs3-price-subsidy.{png,pdf,svg} (Appendix: 1x->2x price shock bars and Historical/+1.8C dual-axis subsidy response)",
+      "Supplementary Fig. S4": "reports/phase8/figures/figs4-policy-scorecard.{png,pdf,svg} (Appendix: 9-policy bootstrap 95% CIs & apparent NUE + 4-metric SCORE_CMAP scorecard)",
+      "Supplementary Fig. S5": "reports/phase8/figures/figs5-p1-all-regimes.{png,pdf,svg} (Appendix: Full 8-policy apparent NUE rainclouds & 32-year 1995-2026 trajectories)",
+      "Supplementary Fig. S6": "reports/phase8/figures/figs6-p2-admission-mse.{png,pdf,svg} (Appendix: P2 prior admission bubble matrix & 5x4 Grain N MSE heatmap)",
+      "Supplementary Fig. S7": "reports/phase8/figures/figs7-stress-180cell-grid.{png,pdf,svg} (Appendix: Complete 180-cell Soft-PPO factorial stress heatmaps with 90 canonical black outlines)",
+      "Supplementary Fig. S8": "reports/phase8/figures/figs8-closure-readout-audit.{png,pdf,svg} (Appendix: 50-cell TRAIN physical readout R2 heatmap & 6,104,146-record daily C/N mass closure audit)"
+    }
+  },
+  "shared": "All statistics are sealed descriptive outputs. Model-gap ribbons are not confidence intervals. Daily profiles are illustrative AU Perth 2015, 349 days; PPO uses labeled seed 4. Clean classical top-SCI plot primitives enforced throughout.",
+  "fig2-g1": {
+    "role": "Main Text Fig. 2 (2x2 a-d)",
+    "a": "NASA POWER Jan-Oct temperature anomalies (1984-2026) over neutral era dividers with NL CLO NH4-N/NOx-N deposition trends (1980-2026) on the right axis.",
+    "b": "Unified five-breadbasket 5-regime stacks (Compliant, Surplus only, Surplus+Low NUE, NUE >0.90, Low NUE) paired with Org.N, Yield and Apparent NUE attribute bars.",
+    "c": "Tightly framed [35, 248] EUNEP Safe-Corridor phase space showing 52 farm-years with 1-sigma covariance ellipses (or 1D error bars where N input is fixed) and regional centroids.",
+    "d": "Two-row G1 scorecard: regional/macro 90% coverage (top), dual-scale BSS vs ExtraTrees (%) + raw Brier score across caps 25-50 (bottom left), and grouped width/regret reduction horizontal bars (bottom right)."
+  },
+  "fig2-p1-regimes": {
+    "role": "Main Text Fig. 3 (2x2 a-d)",
+    "a": "Tightly framed [0, 252] EUNEP phase space contrasting Soft-Coupled, PPO, DVS Full and Archived bare (52 farm-years each) with 1-sigma covariance ellipses and centroids.",
+    "b": "Nested 10-policy compliance tracks showing regional-stacked Joint compliance + 95% bootstrap CIs overlaid against Safe NUE (0.50-0.90) and Either-bound reach.",
+    "c": "Classical 2-row framed 349-day AU Perth 2015 dynamics: top soil mineral N + cumulative N loss; bottom daily rainfall + S1/S2/S3 N doses.",
+    "d": "Aligned 2-row bilateral corridor distributions across 6 core policies: Apparent NUE [0.50, 0.90] (top) and Realized Surplus S_N [0, 40 kg/ha] (bottom)."
+  },
+  "fig3-p2-transfer": {
+    "role": "Main Text Fig. 4 (2x2 a-d)",
+    "a": "Coupled 40-case held-out Realized Surplus S_N rainclouds (LORO density + LOYO median/IQR) alongside LOYO->LORO compliance dumbbells and Public NL n=4 diamonds.",
+    "b": "2D generalization trajectories (World-Equal Grain N RMSE x Compliance, LOYO->LORO arrows with pooled-RMSE ticks, top) and paired-contrast 95% CI forest plot (Holm p = 1.00, bottom).",
+    "c": "Five-breadbasket bivariate (Realized S_N x Apparent NUE) transfer phase map showing Full64 LOYO->LORO centroid shifts, 1-sigma ellipses, Static3/ET64 markers and prior admission rates.",
+    "d": "Tightly framed [25, 248] Held-Out n=40 EUNEP phase space comparing LOYO (pink ellipse) vs LORO (slate-blue dashed ellipse) across Full64, Static3 and ExtraTrees64."
+  },
+  "fig4-factorial-stress": {
+    "role": "Main Text Fig. 5 (2x2 a-d)",
+    "a": "2D continuous iso-advantage phase contour across Surplus Cap (25-50 kg N/ha) x Warming (0 to +3.5C) showing 0 pp parity and +4/+5 pp cap-40 ridge with 12x3 econ glyphs.",
+    "b": "Cap-dependent warming crossover across Historical, +1.8C and +3.5C with LORO-region range envelopes and bottom-embedded 45-cell win/tie/loss strips.",
+    "c": "Five-regime Leave-One-Region-Out (LORO-Region) sensitivity dumbbells shaded across regional-drop envelopes.",
+    "d": "Directed 2D Pareto phase-plane trajectories (Partial Profit x Joint Compliance, 0->200 EUR/ha) highlighting the +1.8C 100 EUR peak (34.4%, 773 EUR/ha) and upper-right invariant Native N loss inset."
+  },
+  "figs2-g3-subsidy": {
+    "role": "Supplementary Fig. S1 (Compact 2-Panel Appendix)",
+    "a": "Climate warming trajectories and 31 matched remove-climate comparisons (28 ties).",
+    "b": "Eco-cap 25 Full and 35/40 Sensorless bars paired with realized S_N rainclouds (cap 50 Sensorless 34.4%)."
+  },
+  "fig5-deployment-closure": {
+    "role": "Supplementary Fig. S2 (Compact 2-Panel Appendix)",
+    "a": "Regional-equal Test N supply/selected fate bars and apparent vs stock-adjusted symlog NUE.",
+    "b": "Illustrative 349-day AU Perth 2015 organic N stock drawdown (solid) and mineral N (dashed) trajectories."
+  },
+  "figs3-price-subsidy": {
+    "role": "Supplementary Fig. S3 (Compact 2-Panel Appendix)",
+    "a": "1x solid vs 2x hatched fertilizer price-shock compliance bars across warming (Bare 2x not evaluated).",
+    "b": "Dual-axis subsidy compliance and profit response curves under Historical and +1.8C."
+  },
+  "figs4-policy-scorecard": {
+    "role": "Supplementary Fig. S4 (Compact 2-Panel Appendix)",
+    "a": "Two-group 9-policy typology with bootstrap 95% CIs (5,000 resamples, seed 20261115) and apparent NUE lollipops.",
+    "b": "Four-metric physical scorecard (0-8 t/ha, 0-250 kg/ha, -60-120 kg/ha, 0-1200 EUR/ha) in SCORE_CMAP."
+  },
+  "figs5-p1-all-regimes": {
+    "role": "Supplementary Fig. S5 (Compact 2-Panel Appendix)",
+    "a": "Full 8-policy apparent NUE rainclouds against the 0.50-0.90 EUNEP band.",
+    "b": "32-year (1995-2026) Train/Dev zero-split reference vs Held-Out Soft/Bare NUE and surplus trajectories."
+  },
+  "figs6-p2-admission-mse": {
+    "role": "Supplementary Fig. S6 (Compact 2-Panel Appendix)",
+    "a": "Three-column prior admission bubble matrix across Rows/World/Closed acceptance rules.",
+    "b": "5x4 Grain N MSE ((kg N/ha)^2) heatmap across LOYO/LORO and world-equal/row-pooled metrics."
+  },
+  "figs7-stress-180cell-grid": {
+    "role": "Supplementary Fig. S7 (Compact 1x3 Appendix)",
+    "a-c": "Complete 180-cell Soft-PPO advantage surface across Historical, +1.8C and +3.5C with contrast-checked cell labels and all 90 canonical black continuity outlines."
+  },
+  "figs8-closure-readout-audit": {
+    "role": "Supplementary Fig. S8 (Compact 2-Panel Appendix)",
+    "a": "All 50 TRAIN physical readouts in HEATMAP_CMAP (30/30 required positive cells framed).",
+    "b": "349-day daily |N| and |C| mass-balance residuals, aggregate tolerance gauges (4.73x/5.25x) and 6,104,146-record zero-violation replay audit."
+  }
+}

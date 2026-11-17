@@ -1,0 +1,10 @@
+{
+  "authority": "continue-bb8a9d7bf95ea830.md: phase8d_calibration_tightness = A",
+  "criterion": "Valid cross-year macro coverage and actual calibrated 90-percent interval width, alongside ranking regret. Signed CQR correction is retained as an audit field, not a sharpness ordering.",
+  "Full_macro_calibrated_width": 62.50357756,
+  "Sensorless_macro_calibrated_width": 69.53316531,
+  "new_Dev_accesses": 0,
+  "model_changes": 0,
+  "original_verdict_path": "reports/phase8/phase8d-G1-verdict-before-width-amendment.json",
+  "original_verdict_sha256": "9fb22a44c5a3e877fe5c972f95edcb5dc70c9e522208382d62297f78175f0f69"
+}

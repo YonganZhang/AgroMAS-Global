@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8d/scripts/phase8d-run-campaign.py", line 101, in <module>
+    (P/'phase8d-campaign-receipt.json').write_text(json.dumps(receipt,indent=2));assert not any(exits) and receipt['results']==receipt['expected'];print(json.dumps(receipt))
+                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

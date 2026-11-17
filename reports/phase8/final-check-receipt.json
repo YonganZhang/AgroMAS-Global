@@ -1,0 +1,140 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "check": "plan-check",
+      "command": [
+        "plan",
+        "check"
+      ],
+      "exit_code": 0,
+      "stdout": "自己-智慧农业-精准施肥智能体（问答格式，v1）：有提醒\n  提醒 QA_TEXT_LONG：给人看的文字偏长：问题 Q2(29 字), Q8(48 字)\n    → 问题 ≤20 字、答案 ≤40 字、目标 ≤80 字是建议；细节放进工作本的尝试和笔记（plan rename / plan answer 改说法）\n",
+      "stderr": ""
+    },
+    {
+      "check": "plan-validate",
+      "command": [
+        "python3",
+        "/mnt/data/yongan-admin-2/.ai-shared/skills/share-top/scripts/sixone-cli.py",
+        "plan",
+        "validate",
+        "."
+      ],
+      "exit_code": 0,
+      "stdout": "{\n  \"schema_version\": \"sixone-plan/v1\",\n  \"tool\": \"plan-validate\",\n  \"format\": \"qa\",\n  \"project\": \"/mnt/data/yongan-admin-2/projects/自己-智慧农业-精准施肥智能体\",\n  \"task_plan\": \"_wiki-methodology/_top/_task_plan.md\",\n  \"top_version\": 1,\n  \"top_version_current\": 1,\n  \"verdict\": \"warn\",\n  \"errors\": [],\n  \"warnings\": [\n    {\n      \"code\": \"QA_TEXT_LONG\",\n      \"message\": \"给人看的文字偏长：问题 Q2(29 字), Q8(48 字)\",\n      \"hint\": \"问题 ≤20 字、答案 ≤40 字、目标 ≤80 字是建议；细节放进工作本的尝试和笔记（plan rename / plan answer 改说法）\"\n    }\n  ],\n  \"revision\": \"ce298b89d65f91c2975cb1dfdb28836a61e10a0f0b7b74984c10c85fa81ffb28\",\n  \"next_hint\": \"按 warnings 的 hint 改说法\"\n}\n",
+      "stderr": "",
+      "parsed": {
+        "schema_version": "sixone-plan/v1",
+        "tool": "plan-validate",
+        "format": "qa",
+        "project": "/mnt/data/yongan-admin-2/projects/自己-智慧农业-精准施肥智能体",
+        "task_plan": "_wiki-methodology/_top/_task_plan.md",
+        "top_version": 1,
+        "top_version_current": 1,
+        "verdict": "warn",
+        "errors": [],
+        "warnings": [
+          {
+            "code": "QA_TEXT_LONG",
+            "message": "给人看的文字偏长：问题 Q2(29 字), Q8(48 字)",
+            "hint": "问题 ≤20 字、答案 ≤40 字、目标 ≤80 字是建议；细节放进工作本的尝试和笔记（plan rename / plan answer 改说法）"
+          }
+        ],
+        "revision": "ce298b89d65f91c2975cb1dfdb28836a61e10a0f0b7b74984c10c85fa81ffb28",
+        "next_hint": "按 warnings 的 hint 改说法"
+      }
+    },
+    {
+      "check": "doctor",
+      "command": [
+        "python3",
+        "/mnt/data/yongan-admin-2/.ai-shared/skills/share-top/scripts/sixone-cli.py",
+        "doctor",
+        "."
+      ],
+      "exit_code": 0,
+      "stdout": "{\n  \"schema_version\": \"sixone-doctor/v1\",\n  \"tool\": \"topic-doctor\",\n  \"project\": \"/mnt/data/yongan-admin-2/projects/自己-智慧农业-精准施肥智能体\",\n  \"verdict\": \"ok\",\n  \"summary\": {\n    \"block\": 0,\n    \"warn\": 0,\n    \"info\": 2\n  },\n  \"issues\": [\n    {\n      \"severity\": \"info\",\n      \"code\": \"QA_TEXT_LONG\",\n      \"path\": \"_wiki-methodology/_top/_task_plan.md\",\n      \"message\": \"给人看的文字偏长：问题 Q2(29 字), Q8(48 字) → 问题 ≤20 字、答案 ≤40 字、目标 ≤80 字是建议；细节放进工作本的尝试和笔记（plan rename / plan answer 改说法）\"\n    },\n    {\n      \"severity\": \"info\",\n      \"code\": \"REF_SCHEMA\",\n      \"path\": \".\",\n      \"message\": \"declared_refs=13\"\n    }\n  ],\n  \"codebook\": {\n    \"skipped\": \"only with --full\"\n  },\n  \"pipelines\": {\n    \"skipped\": \"only with --full\"\n  }\n}\n",
+      "stderr": "",
+      "parsed": {
+        "schema_version": "sixone-doctor/v1",
+        "tool": "topic-doctor",
+        "project": "/mnt/data/yongan-admin-2/projects/自己-智慧农业-精准施肥智能体",
+        "verdict": "ok",
+        "summary": {
+          "block": 0,
+          "warn": 0,
+          "info": 2
+        },
+        "issues": [
+          {
+            "severity": "info",
+            "code": "QA_TEXT_LONG",
+            "path": "_wiki-methodology/_top/_task_plan.md",
+            "message": "给人看的文字偏长：问题 Q2(29 字), Q8(48 字) → 问题 ≤20 字、答案 ≤40 字、目标 ≤80 字是建议；细节放进工作本的尝试和笔记（plan rename / plan answer 改说法）"
+          },
+          {
+            "severity": "info",
+            "code": "REF_SCHEMA",
+            "path": ".",
+            "message": "declared_refs=13"
+          }
+        ],
+        "codebook": {
+          "skipped": "only with --full"
+        },
+        "pipelines": {
+          "skipped": "only with --full"
+        }
+      }
+    },
+    {
+      "check": "drawio",
+      "command": [
+        "python3",
+        "/mnt/data/yongan-admin-2/.ai-shared/skills/share-technical-roadmap/scripts/validate_drawio.py",
+        "reports/phase8/method-framework-v8/diagram.drawio"
+      ],
+      "exit_code": 0,
+      "stdout": "{\n  \"path\": \"reports/phase8/method-framework-v8/diagram.drawio\",\n  \"pages\": [\n    {\n      \"page\": \"AgroMAS-Global目标架构：64维DL代理赋能四专职团队\",\n      \"nodes\": 17,\n      \"edges\": 21\n    }\n  ],\n  \"errors\": [],\n  \"ok\": true\n}\n",
+      "stderr": "",
+      "parsed": {
+        "path": "reports/phase8/method-framework-v8/diagram.drawio",
+        "pages": [
+          {
+            "page": "AgroMAS-Global目标架构：64维DL代理赋能四专职团队",
+            "nodes": 17,
+            "edges": 21
+          }
+        ],
+        "errors": [],
+        "ok": true
+      }
+    },
+    {
+      "check": "diagram-freshness",
+      "command": [
+        "python3",
+        "/mnt/data/yongan-admin-2/.ai-shared/skills/share-technical-roadmap/scripts/method_diagram.py",
+        "check",
+        "--project",
+        ".",
+        "--manifest",
+        "reports/phase8/method-framework-v8/manifest.json"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"ok\": true, \"rendered\": true, \"issues\": [], \"scope\": \"file freshness only; no scientific or visual correctness claim\"}\n",
+      "stderr": "",
+      "parsed": {
+        "ok": true,
+        "rendered": true,
+        "issues": [],
+        "scope": "file freshness only; no scientific or visual correctness claim"
+      }
+    }
+  ],
+  "Q8_1_done": true,
+  "Q8_2_to_4_pending": true,
+  "Q8_waiting_corrected_plan_approval": true,
+  "Q1_Q7_and_v1_unchanged": true,
+  "no_training_no_manuscript_edits": true
+}

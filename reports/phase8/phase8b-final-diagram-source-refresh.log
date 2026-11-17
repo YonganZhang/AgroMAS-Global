@@ -1,0 +1,8 @@
+method_diagram: ValueError: Output directory must be empty; preserve approved diagrams and prior evidence
+{"ok": false, "error": "Output directory must be empty; preserve approved diagrams and prior evidence"}
+Traceback (most recent call last):
+  File "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/reports/phase8/build-method-framework.py", line 5, in <module>
+    subprocess.run([sys.executable,str(tool),'build','--project',str(R),'--spec','reports/phase8/method-framework-spec-v8.json','--out-dir','reports/phase8/method-framework-v8'],check=True)
+  File "/mnt/data/yongan-admin-2/projects/自己-智慧农业-精准施肥智能体/cache/python/cpython-3.11.15-linux-x86_64-gnu/lib/python3.11/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/.venv/bin/python', '/mnt/data/yongan-admin-2/.ai-shared/skills/share-technical-roadmap/scripts/method_diagram.py', 'build', '--project', '/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b', '--spec', 'reports/phase8/method-framework-spec-v8.json', '--out-dir', 'reports/phase8/method-framework-v8']' returned non-zero exit status 2.

@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/scripts/phase8-run-locked-campaign.py", line 78, in <module>
+    (P/'phase8b-native-campaign-receipt.json').write_text(json.dumps(receipt,indent=2));assert not any(exits) and receipt['result_count']==receipt['expected'];print(json.dumps(receipt),flush=True)
+                                                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

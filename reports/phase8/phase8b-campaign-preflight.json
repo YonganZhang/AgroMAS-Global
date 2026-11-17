@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "permit_hash_verified": true,
+  "all_source_models_and_external_hashes_verified": true,
+  "adapters_loaded": 70,
+  "CUDA_devices": [
+    0,
+    1,
+    5,
+    7
+  ],
+  "native_physics_runs": 0,
+  "claim_created_after_preflight": true
+}

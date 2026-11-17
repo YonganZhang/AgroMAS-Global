@@ -1,0 +1,1761 @@
+{
+  "status": "passed",
+  "books": 250,
+  "seasons": 85750,
+  "max_native_fert_error": 2.842170943040401e-14,
+  "max_accounting_identity_error": 0.0,
+  "max_daily_final_Nloss_error": 0.0,
+  "no_new_physical_calls": true,
+  "files": [
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2002-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2003-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2001-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2004-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2000-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2004-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2005-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-1995-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2004-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2002-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-1995-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2002-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-1998-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-1997-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-1999-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-1996-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-1996-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2005-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-1997-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2000-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-1999-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-1998-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-1997-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-1998-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-1995-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2001-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-1996-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-1999-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2003-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2003-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2001-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2000-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2006-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2007-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2005-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2006-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2007-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2008-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2007-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2006-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2008-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2009-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-1995-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-1995-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-1996-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2009-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-1996-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-1998-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-1998-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-1998-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-1997-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2009-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-1997-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2001-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-1995-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2008-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-1999-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-1996-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2000-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2000-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-1999-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-1999-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2000-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2003-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-1997-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2002-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2001-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2003-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2001-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2002-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2005-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2004-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2004-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2002-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2003-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2006-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2004-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2007-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2009-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2007-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2005-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2005-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2006-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2007-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2008-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2008-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2006-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2008-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2009-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-1995-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2009-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-1996-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-1996-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-1995-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-1997-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-1995-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-1998-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-1997-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-1998-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-1996-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2000-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-1998-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-1999-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2003-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2000-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-1999-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-1997-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2001-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2002-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-1999-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2002-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2003-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2004-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2000-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2005-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2001-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2001-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2003-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2004-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2002-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2004-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2006-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2005-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2005-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2006-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2007-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2006-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2007-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2009-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2008-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2007-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2008-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2009-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2008-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2009-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-1995-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-1997-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-1995-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-1996-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-1996-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-1995-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-1996-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-1999-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-1999-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-1997-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-1997-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-1999-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-1998-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2000-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2000-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-1998-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2000-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-1998-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2001-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2001-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2003-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2002-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2002-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2002-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2003-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2003-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2004-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2001-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2004-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2005-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-1995-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-1995-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2004-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-1995-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2005-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-1996-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2005-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-1996-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2006-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2008-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2007-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2008-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2006-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-1996-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2008-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-1997-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2007-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2007-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-1998-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2006-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2009-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-1997-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2009-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2009-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-1998-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-1999-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2000-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-1998-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-1997-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2000-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-1999-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-1999-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2000-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2002-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2002-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2001-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2001-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2003-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2003-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2001-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2002-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2004-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2003-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2005-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2006-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2005-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2005-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2004-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2004-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2008-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2006-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2008-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2007-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2008-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2007-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2010-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2006-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2009-Historical-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2011-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2007-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2014-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2012-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/china_ncp_luancheng-2013-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2009-idealized_high-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2010-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2011-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2012-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2012-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2010-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2011-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2009-idealized_mid-Train.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2014-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2010-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2011-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/usa_kansas_wichita-2013-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2012-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2013-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/netherlands_lelystad-2014-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2014-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2013-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2012-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2010-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/australia_wa_perth-2013-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2014-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    },
+    {
+      "path": "data/phase8-physical-books/france_paris_beauce-2011-Historical-Dev.jsonl.gz",
+      "rows": 343,
+      "max_native_fert_error": 2.842170943040401e-14,
+      "max_accounting_identity_error": 0.0,
+      "max_daily_final_Nloss_error": 0.0
+    }
+  ]
+}

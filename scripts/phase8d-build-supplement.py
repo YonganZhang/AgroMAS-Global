@@ -1,0 +1,19 @@
+from pathlib import Path
+import json
+R=Path(__file__).resolve().parents[1];M=R/'manuscript/phase8';S=json.loads((R/'reports/phase8/phase8d-core-statistics.json').read_text())
+t=r'''\documentclass[10pt,a4paper]{article}
+\usepackage[margin=18mm]{geometry}\usepackage{fontspec,graphicx,longtable,booktabs,pdflscape,placeins}\setmainfont{Times New Roman}\setlength{\emergencystretch}{4em}
+\begin{document}\title{Supplementary evidence for nutrient-objective preservation}\date{}\maketitle
+\section{Forecast and controller diagnostics}
+Forecast metrics are distinct from policy compliance. Pooled physical decoding does not establish a causal mechanism. Frozen latent nitrogen-loss decoding can remain negative; complete world-weighted region-target diagnostics are retained. All 30 required organic-N, soil-C and net-mineralization cells are positive, with the smallest soil-C R2 near zero. No neural auxiliary backbone was trained. Climate removal uses a smaller cohort, so raw group means are not a matched causal effect. All intervals are marginal and all source cohorts and validation folds remain separate.
+'''
+for f,c in [('fig2-g1','Frozen forecast skill, uncertainty coverage and physical-variable decoding.'),('figs2-g3-subsidy','Model, solver, specialist-removal and experimental-subsidy diagnostics. Unequal cohort sizes are labelled.')]:t+='\\begin{figure}[p]\\centering\\includegraphics[width=\\textwidth]{../../reports/phase8/figures/'+f+'.pdf}\\caption{'+c+'}\\end{figure}\\FloatBarrier\n'
+t+=r'\clearpage\section{Complete summary groups} All joint-compliance and partial-profit values below are equal-region means; year counts are farm-years, after within-farm-year seed averaging. \begin{landscape}\scriptsize\begin{longtable}{llllllllrrr}\toprule Source/cohort & Fold & Climate & Cap & Price & Subsidy & Policy & Mode/track & Years & Joint(\%) & Profit\\\midrule\endhead'+'\n'
+for x in S['summary']:
+ vals=[x['source']+'/'+x['cohort'].replace('Former-Held-Out','Former').replace('Public-Reused','Public'),x['scheme'],x['climate'].replace('idealized_',''),str(int(x['cap'])),str(x['price_multiplier']),str(int(x['subsidy'])),x['policy'],x['mode']+'/'+('Full' if x['track']=='Full-Telemetry' else 'SL'),str(x['site_years']),f"{100*x['region_equal']['joint']:.2f}",f"{x['region_equal']['partial_profit']:.2f}"]
+ t+=' & '.join(v.replace('_',r'\_').replace('%',r'\%') for v in vals)+r'\\'+'\n'
+t+=r'\bottomrule\end{longtable}\end{landscape}\clearpage\section{Statistics and reproducibility}\normalsize'
+t+=f" All {S['multiplicity']['family_size']:,} contrasts are retained in all-contrasts.json with sample sizes, ties, exact probabilities, marginal intervals and full-family Holm sign-test probabilities. Seeds are averaged within farm-year; source/cohort/fold strata remain unpooled."
+t+=r'\section{Phase8D first-pass protocol and retained boundaries}'
+t+='The signed CQR correction ordering originally failed. An explicit amendment, using the same frozen predictions with zero additional Dev accesses, adopts actual calibrated width under valid macro coverage. Original failed evidence remains archived. The original all 44 mixed-cohort archival LORO predictive diagnostic has acceptance 75.12 percent by row and 63.64 percent by world, with Full64/Static3 RMSE 22.47/22.19 kg N/ha. These archival aggregate numbers combine Former 40 and Public 4; primary cohort-separated predictive results are provided in phase8d-P2-predictive-cohort-strata.csv and the main text. The hard-composite AU cap 25 Sensorless Dev compliance remains zero. Neither boundary was tuned away. All results are adaptive benchmark reuse, not a new prospective blind test. An infrastructure-only P2 path mapping failure halted the first campaign after 1915 complete records; explicit hash-verified recovery changed only the loader path. All records and prior permits remain preserved.'
+t+=r'\end{document}' ;(M/'supplement.tex').write_text(t)

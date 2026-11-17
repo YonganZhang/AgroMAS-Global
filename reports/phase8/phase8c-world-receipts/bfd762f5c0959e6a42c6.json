@@ -1,0 +1,202 @@
+{
+  "world": [
+    "usa_kansas_wichita",
+    2016,
+    "Historical",
+    "NASA"
+  ],
+  "native_simulations": 23,
+  "unique_executed_trajectories": 23,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        80.0,
+        0.0,
+        0.0
+      ],
+      "sha256": "afca832868bc918b1ad9cac5a452e2f42ae876a73c10e4837419bb7458e3f371"
+    },
+    {
+      "doses": [
+        80.0,
+        10.0,
+        0.0
+      ],
+      "sha256": "59105c2b821255d8cbfe3fe0c2240b7cb33a139464a33fc7e7e02b24b08ca692"
+    },
+    {
+      "doses": [
+        0.0,
+        20.0,
+        60.0
+      ],
+      "sha256": "4cd9974fc6cee871a29457ec5d8e1081ac71f789282167c9a06d3c301c839605"
+    },
+    {
+      "doses": [
+        100.0,
+        0.0,
+        0.0
+      ],
+      "sha256": "571944d5c53cbb47f41f7d69f72fae2959cf74c6e1f0fe1a0308dcfe6e846e50"
+    },
+    {
+      "doses": [
+        60.0,
+        10.0,
+        20.0
+      ],
+      "sha256": "02ae9316b0c1d92d10927eab674f885763aa313d1b6a866736c3ceed5024b58a"
+    },
+    {
+      "doses": [
+        0.0,
+        100.0,
+        0.0
+      ],
+      "sha256": "58ad9f7a1740ae1cd3e339bb97b01c2a87bda3d4a520beedc9a544922d9f42f9"
+    },
+    {
+      "doses": [
+        0.0,
+        10.0,
+        60.0
+      ],
+      "sha256": "f975ade58165e9711276b271c5583233308fe440e749b6d658ef03e608d7046a"
+    },
+    {
+      "doses": [
+        40.0,
+        60.0,
+        0.0
+      ],
+      "sha256": "c9908c049e78a0a51599a8f98ee209347c1a927ed5940845e79e95f9ce518df2"
+    },
+    {
+      "doses": [
+        60.0,
+        0.0,
+        10.0
+      ],
+      "sha256": "fd3094adfeda8beac78860621992de89bb1c2fe2d8b283a1d8f9e4a76f9e5dd9"
+    },
+    {
+      "doses": [
+        60.0,
+        0.0,
+        0.0
+      ],
+      "sha256": "2013f723634d97764e44d045db04ccda42ecea8a04106a627a200f7a2e16ece0"
+    },
+    {
+      "doses": [
+        20.0,
+        0.0,
+        80.0
+      ],
+      "sha256": "f9410aee2ada22b10a4bd3d1d34685afba455bb9fcfff7a604921df0cbe07e82"
+    },
+    {
+      "doses": [
+        80.0,
+        20.0,
+        0.0
+      ],
+      "sha256": "b8ac82be8104a63df63fe3f63c186201f180c9f243dda3055a24b9b0a9e3408a"
+    },
+    {
+      "doses": [
+        0.0,
+        40.0,
+        40.0
+      ],
+      "sha256": "281547ce05e06f2b1e75c3a0e9227dc584ae4a85b9344fb91e57f18151cff2ab"
+    },
+    {
+      "doses": [
+        60.0,
+        20.0,
+        0.0
+      ],
+      "sha256": "d49b47d93441e9c1146000dbb9be00970a3b5f835fd6e36b3f229b29781349c3"
+    },
+    {
+      "doses": [
+        80.0,
+        20.0,
+        10.0
+      ],
+      "sha256": "8ebe48a4f8e8c9e275221e89ea610f054d20174d1ed46416581195069855b81e"
+    },
+    {
+      "doses": [
+        60.0,
+        0.0,
+        20.0
+      ],
+      "sha256": "ce6bbc85bf042792a4c5b58258cd2211df1a1c6903afb9eec39d2f4ce29b4b4c"
+    },
+    {
+      "doses": [
+        20.0,
+        10.0,
+        60.0
+      ],
+      "sha256": "e82e36557ba2ff1f8273be52051954de5bed3b78f2b09e1d48a1e7bf10bd4628"
+    },
+    {
+      "doses": [
+        0.0,
+        60.0,
+        0.0
+      ],
+      "sha256": "2414e50395c359d50251db790a9823346df1e5ba41fb875be6f2ccb9bc4bcaed"
+    },
+    {
+      "doses": [
+        40.0,
+        20.0,
+        0.0
+      ],
+      "sha256": "5b660dc1775c75a24bbb84fcd82a5b5af1a44a637eb5035cf3b5c250b8dcb749"
+    },
+    {
+      "doses": [
+        40.0,
+        20.0,
+        60.0
+      ],
+      "sha256": "7ef5b16b2b2c829635dfb4b07f18b206ce45c970de4e75a3cd600c65be56bb44"
+    },
+    {
+      "doses": [
+        0.0,
+        40.0,
+        60.0
+      ],
+      "sha256": "20902787d2a1c6326d832431d87e2aa35d9c1ffbacdddd95e428d0794ef620c9"
+    },
+    {
+      "doses": [
+        80.0,
+        0.0,
+        10.0
+      ],
+      "sha256": "719e2c03e4e947df5bb9d114dfd9db3d62b2cea2d0746e7a23dc6beffdaeba43"
+    },
+    {
+      "doses": [
+        60.0,
+        10.0,
+        0.0
+      ],
+      "sha256": "0596d38f246be995f0b993ef14dbcba8be31e4e46e5db58f48b255f37f91b638"
+    }
+  ],
+  "complete_requested_paths": 23,
+  "cases_replayed": 110,
+  "public_prefix_nodes": 23,
+  "prefix_decisions_replayed": 376,
+  "worker": 9,
+  "cases": 133
+}

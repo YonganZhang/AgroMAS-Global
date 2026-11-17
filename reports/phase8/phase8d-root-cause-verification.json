@@ -1,0 +1,64 @@
+{
+  "status": "PRE_CAMPAIGN_PASS",
+  "full_campaign_started": false,
+  "campaign_configurations_executed": 0,
+  "canonical_tests": {
+    "passed": 232,
+    "failed": 0,
+    "skipped": 0,
+    "log": "reports/phase8/phase8d-canonical-active-tests.log"
+  },
+  "warming_TRAIN_checks": 30,
+  "future_weather_invariance_checks": 120,
+  "archival_files_verified_unchanged": 392,
+  "G1": "G1_PASS under explicit CQR width amendment; signed offset failure retained",
+  "G1_radius": {
+    "Full": -5.73991591431394,
+    "Sensorless": -6.781251086203156
+  },
+  "G1_actual_width": {
+    "Full": 62.50357756,
+    "Sensorless": 69.53316531
+  },
+  "Dev": {
+    "cases": 300,
+    "native_trajectories": 84,
+    "mass_passed": true,
+    "soft_AU_cap25_compliance": {
+      "Full": 0.4,
+      "Sensorless": 0.2
+    },
+    "tree_AU_cap25_Sensorless": 0.0,
+    "Full_NL_N_cap25_35_40": [
+      214,
+      218,
+      218
+    ]
+  },
+  "P2": {
+    "LOYO_Full64_MSE_lower_than_Static3": true,
+    "LORO_Full64_acceptance_over_50pct": true,
+    "LORO_Full64_MSE_not_degraded": false
+  },
+  "physical_decoding": "30/30 required cells positive; minimum Sensorless US soil C R2=0.0055711509; nested TRAIN readout only; neural auxiliary training withdrawn",
+  "unfinished": [
+    "Clarify signed conformal offset versus actual interval width acceptance",
+    "Complete TRAIN-only neural auxiliary stock-head diagnostic with causal split and non-regression gates",
+    "Resolve remaining empirical Dev, P2 LORO and decoding failures without tuning held-out outcomes",
+    "Freeze evaluation permit and execute campaign only after gates pass or explicitly revised scientific protocol",
+    "Refresh statistics, figures, bilingual manuscripts and external reviews",
+    "Promote hashes, merge both repositories, verify primary and clean worktrees"
+  ],
+  "protocol_amendment": "phase8d-protocol-amendment-first-pass-boundaries.json; continue-8c00f528d36f805c.md attempt37",
+  "acceptance": "Leader authorizes campaign with first-pass empirical boundaries; original failed criteria retained below, not retroactively claimed passed",
+  "native_preflight_climates": 3,
+  "archive_cache_exact_equivalence_climates": 3,
+  "neural_backbone_changed": false,
+  "post_outcome_Dev_P2_tuning": false,
+  "legacy_upstream_suite": {
+    "passed": 283,
+    "failed": 9,
+    "scope": "Explicit full tests directory includes non-active upstream compatibility tests outside canonical tests/target; failures retained, not suppressed",
+    "log": "reports/phase8/phase8d-canonical-tests-after-nested-cache.log"
+  }
+}

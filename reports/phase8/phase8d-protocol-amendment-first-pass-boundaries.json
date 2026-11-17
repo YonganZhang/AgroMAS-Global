@@ -1,0 +1,29 @@
+{
+  "authority": "continue-8c00f528d36f805c.md; attempt37",
+  "post_outcome_tuning_withdrawn": true,
+  "controller": "First-pass Phase8D unchanged; strict Tier2 corridor retained",
+  "P2": "First-pass models and outer evidence frozen; no grid expansion/refit",
+  "G1": "Approved CQR width correction; original signed-offset failure archived",
+  "decoding": {
+    "TRAIN_only": true,
+    "weights": "one total weight per world",
+    "alphas": [
+      10,
+      25,
+      50,
+      100,
+      200,
+      500
+    ],
+    "inner": "leave-one-TRAIN-year-out within region and outer fold",
+    "seeds": [
+      20261115,
+      20261116,
+      20261117
+    ],
+    "ensemble": "average decoded predictions,never latent coordinates",
+    "backbone": "unchanged; neural auxiliary training withdrawn",
+    "interpretation": "descriptive physical readout sensitivity; no guaranteed positive R2"
+  },
+  "campaign": "Authorized with disclosed first-pass Dev/P2 boundaries and no new prospective blind-test claim"
+}

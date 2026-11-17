@@ -1,0 +1,68 @@
+{
+  "scope": "Host verification of first external review; originalreportunchanged, noDevaccessyet",
+  "findings": [
+    {
+      "finding": "P0 Dev claim order",
+      "resolution": "validate complete250-file manifest,225TRAIN/25Devcohorts and25Devhashes; verifyNN/tree/OOD freezes and absence of prior outputs before creating directory/claim. Missing-receipt unit test proves no burned claim.",
+      "status": "fixed_before_Dev"
+    },
+    {
+      "finding": "P0 physical campaign incomplete/nonresumable",
+      "resolution": "Wait for healthy once-only campaign and independent audits. Exclusive claims deliberately prohibit restart. No recovery path is added while campaign is healthy; any future interruption requires separate missing-only recovery without overwriting partial evidence.",
+      "status": "resolved_campaign_completed_without_restart",
+      "evidence": "phase8b-physical-receipt.json:250books,85750physicalcalls,0failed;daily-ledger-auditpassed"
+    },
+    {
+      "finding": "P1 ensemble residual mismatch",
+      "resolution": "All32 member centers use the arithmetic mean of all3 seeds for their analog branch, matching mean-seed conditional OOF residuals.",
+      "status": "fixed_before_Dev"
+    },
+    {
+      "finding": "P1 conformal off-by-one",
+      "resolution": "Exact one-based sorted order ceil((n+1)*(1-alpha)); testn19radius17, negativeCQRscores and smallnInfinity tested.",
+      "status": "fixed_before_Dev"
+    },
+    {
+      "finding": "P1 BSS event ambiguity",
+      "resolution": "Literal assigned one-sidedS_N<=cap is frozen primary. Two-sided surplus corridor and full jointNUE/surplus diagnostics additionally reported, with actualTRAINbase rates. The cited8.53percent is joint, not upper-surplus. No gate interpretation is selected fromDevoutcomes.",
+      "status": "explicit_before_Dev"
+    },
+    {
+      "finding": "P1 OOF analog clause",
+      "resolution": "Removed contradictory claim. ActualTRAINweather conditional OOF residuals are not operational forecast scores. Dev prediction marginalizes TRAIN-only analog futures; no claim of an implemented operationalTRAIN-OOF analog study.",
+      "status": "corrected_contract_before_Dev"
+    },
+    {
+      "finding": "P2 decoder directory",
+      "resolution": "Separate data/phase8-physical-decoding directory, independent ofDevclaim/output.",
+      "status": "fixed_before_Dev"
+    },
+    {
+      "finding": "P2 physical finite/fertilizer guards",
+      "resolution": "Launch builder archived at exact67e2f662...SHA; reproduction source adds inline checks. Current forked campaign is unchanged; separate endpoint auditor verifies100percent stored rows without any repeatedphysics.",
+      "status": "resolved_independent_100pct_native_endpoint_audit_passed",
+      "evidence": "phase8b-native-endpoint-audit.json:85750rowsfinite,nativefertdiff<=2.842170943040401e-14"
+    },
+    {
+      "finding": "P2 canonical suite count",
+      "resolution": "Canonical suite rerun afterallcurrentfixes; rawpriorcounts andfailedinvocationsretained.",
+      "status": "177canonicaltests_passed_plus_current44v8tests_pending_last_result_check",
+      "evidence": "Latest new seed-order regression added aftercanonical177, currentv8correctedlog retained; finalcanonicalrerunbeforemerge"
+    },
+    {
+      "finding": "P3 OOD hashes",
+      "resolution": "G1 verifies bothOODbinary hashes beforeDevdecode.",
+      "status": "fixed_before_Dev"
+    },
+    {
+      "finding": "P3 public payload types/shapes",
+      "resolution": "Accept np.bool_ scalars; reject numeric arrays ofsize64 including64x1; typedobservable/responsefieldboundaries rejectsimulatorobjects andfutureweather.",
+      "status": "fixed_before_Dev"
+    },
+    {
+      "finding": "P3 regret/climatology",
+      "resolution": "Singletonprefixes excluded; macro means equalregion-year-stage; pooledprefix meanssecondary. ClimatologyHistoricalTRAINonlymatchesDev.",
+      "status": "fixed_before_Dev"
+    }
+  ]
+}

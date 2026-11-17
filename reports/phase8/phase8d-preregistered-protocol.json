@@ -1,0 +1,43 @@
+{
+  "authority": "phase8d root-cause optimization A; archive authority A; epoch35",
+  "TRAIN_years": [
+    1995,
+    2009
+  ],
+  "Dev_years": [
+    2010,
+    2014
+  ],
+  "fixed": {
+    "k": 32,
+    "residual_strata": "region x stage;deterministic signed-surplus quantile means;zero centered",
+    "branch_integration": "full weather x32 product",
+    "NUE_upper_weight": 1.5,
+    "surplus_interior_margin_kg_ha": 2.0,
+    "joint_reward": 250.0,
+    "distance_penalty": 300.0,
+    "tier2": "corridor preferred;upper-surplus fallback;archived bare bypasses corridor preference",
+    "P2_anomaly_alpha_grid": [
+      10.0,
+      25.0,
+      50.0,
+      100.0,
+      200.0
+    ],
+    "P2_static_alpha": 10.0,
+    "P2_rank": 4,
+    "physical_probe_alpha": 10.0
+  },
+  "selection": {
+    "backbone": "existing frozen neural weights;no retraining currently selected",
+    "P2": "Inner leave-one-harvest-year-out only;no outer labels in transformations or alpha choice",
+    "LOYO": "44 scored site-year folds;training purges entire scored calendar year across regions;identical training cohorts may share a fit",
+    "LORO": "five region folds;unlabelled same-station satellite climatology through t-1 only",
+    "Dev": "fixed verification and conformal calibration only;no threshold/hyperparameter optimization",
+    "test": "no tuning;strictly unpooled strata"
+  },
+  "trajectory_reuse": "Only immutable physical trajectories;every policy decision recomputed including guarded PPO/fixed controls",
+  "gate_failure": "Report actual failure;do not fabricate improvement or tune against outer/test outcomes",
+  "publication": "Snapshot Phase8C;new phase8d evidence;active deliverables update only after results",
+  "PCSE_readonly": "d1fe6d29de828033b850ec51d994988d8d6d406f"
+}

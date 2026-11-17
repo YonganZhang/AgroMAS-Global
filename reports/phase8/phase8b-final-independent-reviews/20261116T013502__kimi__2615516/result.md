@@ -1,0 +1,41 @@
+# Foreign Aid Result
+
+JOB_ID: 20261116T013502__kimi__2615516
+PROVIDER: kimi
+COMPLETION_STATUS: COMPLETE
+ERROR_CLASS: NONE
+
+## Summary
+Completed the final independent read-only Phase8B G1–G3 code/result gate audit. No supported blocker, important defect, or numerical/reporting discrepancy was found in the requested scope. The evidence supports the limited G1 prediction pass, does not support G2 policy superiority or LORO spatial-information gains, and supports only the executed G3 numerical contrasts with exact monolithic parity rather than an agent-count benefit. Recovery is complete but is correctly documented as an authorized repair/continuation, not a clean first attempt.
+
+## Findings
+- **Blocker:** None supported by the inspected evidence.
+- **Important:** None supported by the inspected evidence.
+- **Suggestion / coverage gaps:** No evidence-backed source correction is recommended. This reviewer did not launch physics, fitting, external providers, or a fresh test suite, and did not directly re-inspect the diagram PNG; those boundaries were intentional. The diagram conclusion relies on Gemini's saved direct inspection and the factual caption. Raw64 contents were neither accessed nor printed. The negative G2/G3 outcomes, retrospective/adaptive-reused benchmark status, conditional LORO interpretation, incomplete-prefix audit exclusion, and unstarted Q8.4 are scientific limitations rather than code defects and remain correctly disclosed.
+
+## Work Performed
+- Read the bounded core/G1 reports and verdicts, complete case-level CSV and statistics JSON through offline parsers, Gemini's original review and reconciliation, diagram caption, native halt report, epoch28 authorization, proposed manifest, both recovery receipts/permits, prior-admissibility audit, and P2 training freeze.
+- Reviewed all seven requested `agromas_v8` modules, `test_phase8_planning.py`, and all five requested recovery/collection/analysis/report scripts. Traced planning/fallback, prior OOD/radius logging, native ledger auditing, recovery ID selection, PPO seed averaging, exact inference, Holm adjustment, and report rendering.
+- Independently recomputed summary groups and every reported contrast from saved episode/case metrics. Checked report table values, PPO seed counts, extreme-cohort matching, outer-fold isolation, prior rejection counts, physical-ceiling counts, result hashes, and repair-scope hashes.
+- Confirmed the final worktree commit was `eaafd30a54670209a8dd9334befb181d36aa618e`. The seven reviewed v8 modules and two recovery execution scripts still match the recovery2 permit; the original frozen analysis/report scripts also still match their pre-evaluation hashes.
+
+## Evidence
+- **Metrics and cohorts:** All 2,017 expected episode IDs are present exactly once; every receipt SHA256 and embedded case ID matches. Cohort counts are 1,294 P1 NASA Former episodes, 192 P1 NASA Public episodes, 91 separate P1-WUR episodes, 400 P2 Former episodes, and 40 P2 Public episodes. The 79 report table rows and all 79 recomputed summary groups have zero mismatches across pooled, region-equal, and individual-region metrics. Group keys preserve NASA/WUR, Former/Public, and LOYO/LORO separation (`scripts/phase8-analyze-recovered-core-results.py:33-40`).
+- **PPO and extreme subset:** Both `LegacyV6PPO` and `SensorlessPPO` have exactly three episodes for each of 66 case/context groups before within-case averaging. The matched extreme baseline contains exactly 34 unique site-years, split into 31 Former and 3 Public, with keys identical to the frozen extreme cohort (`scripts/phase8-analyze-recovered-core-results.py:35-37`).
+- **Inference:** Independent reproduction of all 512 contrasts gave exactly zero difference in effect means, 95% intervals, exact two-sided sign p-values, exact Wilcoxon p-values, zero-tie/effective-n counts, and Holm-adjusted p-values. This includes B=5000, seed=20261115, within-region year resampling followed by equal three-region averaging, and separately labelled pooled-year exact tests (`scripts/phase8-analyze-recovered-core-results.py:9-21,54-74`). The Sensorless TreeMLP-minus-PPO core joint effect is -0.2890572391, CI [-0.4097643098, -0.1767676768], sign p=0.00048828125, Holm p=0.23974609375. LOYO Full64-minus-Static3 is +0.0666666667, CI [-0.1333333333, +0.2666666667]. LORO Full64-minus-Static3 is exactly zero with zero nonzero differences. Among NASA NL n=5 contrasts, minimum exact sign and Wilcoxon p-values are both 0.0625. The saved synthetic checks also cover n=5 and n=28 (`reports/phase8/phase8b-recovered-statistics-analytic-check.json:5-39`).
+- **LORO and P2:** For each of Full64 and Static3, all 34,986 outer-test feature rows across 44 site-years are rejected; training and test rows were not conflated in this check. Native traces contain 264 LORO decisions across the two policies with zero accepted priors and zero timing failures. The 70 fits comprise 45 LOYO plus 25 LORO fits, cover 44 test worlds per scheme, and show no outer train/test overlap, no inner/outer leakage, no inner train/validation overlap, no outer-label use, and no backbone update. This agrees with `prior_adapter.py:28-51`, `joint_model.py:44-54`, and `controller.py:33-45`.
+- **Recovery and daily audit:** Original data contain 6 results plus 2 preserved errors; recovery1 contains 1,454 results plus 4 preserved WUR constructor errors; recovery2 contains 557 results and no errors. Original-six hashes remain exact. All 2,017 completed scored seasons pass 679,772 daily records, with max |N| = 1.7166712496e-11 kg/ha and max |C| = 1.97360350285e-10 kg/ha, below the required thresholds. The two original incomplete prefixes remain excluded from that completed-season audit, as reported. The recovery2 diff only changes `WURHistoricalWeather` from delegation to subclassing the identical `CSVWeatherDataProvider`, preserving weather values while satisfying Engine type validation (`NUE_PCSE-Gym/pcse_gym/agromas_v8/referee.py:7,15-27`).
+- **Physical ceilings and tests:** Historical cap-40 finite-grid counts independently reproduce AU 11/11, US 12/12, NL 4/5 Held-Out NASA, FR 1/12, and CN 0/12 from `reports/phase5/final-physical-feasibility-diagnostic-v4.json`; the report correctly scopes these as old discrete-grid evidence. The final canonical log records **193 passed, 887 warnings** (`reports/phase8/phase8b-canonical-pytest-final-core.log:5060`), superseding the earlier 192-pass record before the added WUR regression. The saved TRAIN late-prefix smoke passes both legacy variants without native rollouts.
+- **Scientific claims:** The opening verdict in `reports/phase8/PHASE8B_CORE_EXPERIMENTS_G1_G2_G3_REPORT.md:5-37` accurately retains the negative policy, fallback, multiplicity, NL-power, spatial-prior, and organizational conclusions. G1 metrics match `phase8b-G1-verdict.json`; coverage is expressly retrospective and regional failures are visible rather than hidden. The factual caption correctly separates the 36-D PyTorch backbone from the 64-D fold-local PCA/Ridge adapter and one-way physical audit.
+
+## Files Changed Or Reviewed
+- **Changed (report contract only):**
+  - `/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/_reports/_foreign_aid/20261116T013502__kimi__2615516/progress.md`
+  - `/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/_reports/_foreign_aid/20261116T013502__kimi__2615516/result.md`
+- **Reviewed:** All primary artifacts named in the task; `NUE_PCSE-Gym/pcse_gym/agromas_v8/{planning,policies,prior_adapter,controller,joint_model,referee,ledger}.py`; `NUE_PCSE-Gym/tests/test_phase8_planning.py`; `scripts/phase8-{recover-locked-campaign,collect-recovered-results,analyze-recovered-core-results,write-recovered-core-report,continue-unstarted-cases}.py`; original frozen analysis/report scripts; and `reports/phase5/final-physical-feasibility-diagnostic-v4.json` for ceiling provenance.
+
+## Errors Or Blockers
+None
+
+## Next Steps
+- No remediation is indicated by this audit. Preserve the existing negative G2/G3 verdict and all stated limitations, keep Q8.4 and manuscript figure/TeX/PDF work unstarted pending separate authorization, and retain the original failure/recovery records rather than describing the campaign as a clean first-attempt pass.

@@ -1,0 +1,48 @@
+{"world": ["australia_wa_perth", 2018], "rows": 969}
+{"world": ["australia_wa_perth", 2019], "rows": 1938}
+{"world": ["australia_wa_perth", 2020], "rows": 2907}
+{"world": ["australia_wa_perth", 2021], "rows": 3876}
+{"world": ["australia_wa_perth", 2022], "rows": 4845}
+{"world": ["australia_wa_perth", 2023], "rows": 5814}
+{"world": ["australia_wa_perth", 2024], "rows": 6783}
+{"world": ["australia_wa_perth", 2025], "rows": 7752}
+{"world": ["china_ncp_luancheng", 2018], "rows": 7871}
+{"world": ["china_ncp_luancheng", 2019], "rows": 7990}
+{"world": ["china_ncp_luancheng", 2020], "rows": 8109}
+{"world": ["china_ncp_luancheng", 2021], "rows": 8228}
+{"world": ["china_ncp_luancheng", 2022], "rows": 8347}
+{"world": ["china_ncp_luancheng", 2023], "rows": 8466}
+{"world": ["china_ncp_luancheng", 2024], "rows": 8585}
+{"world": ["china_ncp_luancheng", 2025], "rows": 8704}
+{"world": ["china_ncp_luancheng", 2026], "rows": 8823}
+{"world": ["france_paris_beauce", 2018], "rows": 9792}
+{"world": ["france_paris_beauce", 2019], "rows": 10761}
+{"world": ["france_paris_beauce", 2020], "rows": 11730}
+{"world": ["france_paris_beauce", 2021], "rows": 12699}
+{"world": ["france_paris_beauce", 2022], "rows": 13668}
+{"world": ["france_paris_beauce", 2023], "rows": 14637}
+{"world": ["france_paris_beauce", 2024], "rows": 15606}
+{"world": ["france_paris_beauce", 2025], "rows": 16575}
+{"world": ["france_paris_beauce", 2026], "rows": 17544}
+{"world": ["netherlands_lelystad", 2018], "rows": 18513}
+{"world": ["netherlands_lelystad", 2019], "rows": 19482}
+{"world": ["netherlands_lelystad", 2020], "rows": 20451}
+{"world": ["netherlands_lelystad", 2021], "rows": 21420}
+{"world": ["netherlands_lelystad", 2022], "rows": 22389}
+{"world": ["netherlands_lelystad", 2023], "rows": 23358}
+{"world": ["netherlands_lelystad", 2024], "rows": 24327}
+{"world": ["netherlands_lelystad", 2025], "rows": 25296}
+{"world": ["netherlands_lelystad", 2026], "rows": 26265}
+{"world": ["usa_kansas_wichita", 2018], "rows": 27234}
+{"world": ["usa_kansas_wichita", 2019], "rows": 28203}
+{"world": ["usa_kansas_wichita", 2020], "rows": 29172}
+{"world": ["usa_kansas_wichita", 2021], "rows": 30141}
+{"world": ["usa_kansas_wichita", 2022], "rows": 31110}
+{"world": ["usa_kansas_wichita", 2023], "rows": 32079}
+{"world": ["usa_kansas_wichita", 2024], "rows": 33048}
+{"world": ["usa_kansas_wichita", 2025], "rows": 34017}
+{"world": ["usa_kansas_wichita", 2026], "rows": 34986}
+MLP completed
+Weather completed
+Linear completed
+ExtraTrees completed

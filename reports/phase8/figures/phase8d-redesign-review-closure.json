@@ -1,0 +1,40 @@
+{
+  "scope": "Previous figure redesign batch retained unchanged after attempt39 narrowed active work to raw v3 PNGs. Prior hybrid PPTX is a historical draft, not an approved v3 conversion.",
+  "review_rounds": 2,
+  "initial_visual": "FAIL; concrete layout defects fixed",
+  "initial_gate_gemini": "TIMEOUT rc124; not a pass",
+  "initial_gate_deepseek": "FAIL; fixes and explicit authorized manuscript deferral recorded",
+  "round2_gemini": "COMPLETE/PASS on seven figures; two reported PNG hashes refer to the immediately preceding g1/closure snapshot, not the final digest",
+  "round2_deepseek": "COMPLETE/PASS; all22 final hashes independently rebaselined and verified",
+  "current_artifact_sha256": {
+    "reports/phase8/figures/fig2-g1.png": "d7b702bb26c530d93e8c0a36fab7ec682988928fd533409d42d79da9fcdbd9c1",
+    "reports/phase8/figures/fig2-g1.pdf": "f4edcb18adb20403e683628088e13134e477c8465ca579d470787d626c689027",
+    "reports/phase8/figures/fig2-g1.svg": "8efb8fb8717c9283258c51f764dcf54698d07138adc350ea3ef407326726f0cd",
+    "reports/phase8/figures/fig2-p1-regimes.png": "be776b9d1a5457064f338d94b9bd57bd8c6c4df1b1b84b7e8bbd8ff890006cb7",
+    "reports/phase8/figures/fig2-p1-regimes.pdf": "66cdd5e69ad1cbaf908946559888a4b144c77f7873bafe9010764d1764804ac0",
+    "reports/phase8/figures/fig2-p1-regimes.svg": "737a771b74f89111ff4d424c924c9b45fb2b058adacc20d6b57ff86633814680",
+    "reports/phase8/figures/figs2-g3-subsidy.png": "d5a30b670a6945e3f316383c033f44aa4d2b58e4f79948aa2f356869e7564f08",
+    "reports/phase8/figures/figs2-g3-subsidy.pdf": "fbad0dc275880c66ba072e6340228609af570e46b28ed817cdf16563c29553c3",
+    "reports/phase8/figures/figs2-g3-subsidy.svg": "578a1968e154a6ea214f31659f795f463eea7cdfd87a00947575472dc8c45f65",
+    "reports/phase8/figures/fig3-p2-transfer.png": "868c15ba86d4dfbef728aa6fb141ed7282b26f01f1f316c07713c29777f3c1eb",
+    "reports/phase8/figures/fig3-p2-transfer.pdf": "cc1b26804644afb704973a9a8f6640245aa7e01c7cf4cd034ea934ab4182bbd2",
+    "reports/phase8/figures/fig3-p2-transfer.svg": "88422cdbb8a9151347ded2d001fb3139febbd130e5ed15b91897778ecf1b692d",
+    "reports/phase8/figures/fig4-factorial-stress.png": "21dac14d36edf123684b650903076b34cbd3ac2ad3ba4b290ae6f1731691f422",
+    "reports/phase8/figures/fig4-factorial-stress.pdf": "03576297cf40e92dc88d03e580080cb2177e0dd0adc1f5fd4e11e4bab67de835",
+    "reports/phase8/figures/fig4-factorial-stress.svg": "9048fedc96bf1f41e758a767436e29ff417507164afbc491ae84b8dc0b76a96b",
+    "reports/phase8/figures/fig5-deployment-closure.png": "9873446b12088feaa002a38efc20421bf3e513e97767bda67b553169e514c89b",
+    "reports/phase8/figures/fig5-deployment-closure.pdf": "cdf85ba6210b6e853e360609d17dac4766e140006a13f04238dba59615b3afe6",
+    "reports/phase8/figures/fig5-deployment-closure.svg": "a484a75f95d177cd35ea1649e617f24a7639167875fc19d8de7171296a7975a5",
+    "reports/phase8/figures/fig1-architecture.png": "f5339a29ce9ae5e1ad9977b30767c1bc97408b801300bb210816c4bc978bf953",
+    "reports/phase8/figures/fig1-architecture.pdf": "1c21e908ec367bf1f803c27ab9b08997f86999511a5034f028304c658d6a0403",
+    "reports/phase8/figures/fig1-architecture.pptx": "85d92e0335b7db2b3e900f8361a52342d428669f13e99a7bdfd1a59b622da6f6",
+    "reports/phase8/figures/fig1-architecture.svg": "e63736a12931adf8a1ab087677af991250cbbda3ffa0999a02c5587604a04218"
+  },
+  "manuscript_integration": "Deferred until author selection; not submission ready",
+  "prohibited_operations": "No further quantitative changes or PPTX conversion after attempt39 steer",
+  "retained_scope_deviations": [
+    "G1 map has real georeferenced region markers but omits requested degree ticks, north arrow, scale bar and regional sowing/cap/soil badges.",
+    "Fig5 heatmap displays 30 mandatory positive cells as target-track rows by regions; all50 target-track-region points are disclosed in panel d, rather than the requested complete10x5 heatmap.",
+    "These retained chart designs are not modified after attempt39 explicitly halted Fig2\u20136 changes; external layout PASS does not assert exact specification equivalence."
+  ]
+}

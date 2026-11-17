@@ -1,0 +1,26 @@
+{"world": ["netherlands_lelystad", 2011, "Historical", "NASA"], "native": 1}
+{"world": ["netherlands_lelystad", 2012, "Historical", "NASA"], "native": 1}
+{"world": ["netherlands_lelystad", 2010, "Historical", "NASA"], "native": 4}
+{"world": ["china_ncp_luancheng", 2010, "Historical", "NASA"], "native": 1}
+{"world": ["netherlands_lelystad", 2013, "Historical", "NASA"], "native": 5}
+{"world": ["china_ncp_luancheng", 2011, "Historical", "NASA"], "native": 1}
+{"world": ["china_ncp_luancheng", 2012, "Historical", "NASA"], "native": 1}
+{"world": ["china_ncp_luancheng", 2013, "Historical", "NASA"], "native": 1}
+{"world": ["netherlands_lelystad", 2014, "Historical", "NASA"], "native": 4}
+{"world": ["china_ncp_luancheng", 2014, "Historical", "NASA"], "native": 1}
+{"world": ["usa_kansas_wichita", 2011, "Historical", "NASA"], "native": 6}
+{"world": ["usa_kansas_wichita", 2010, "Historical", "NASA"], "native": 7}
+{"world": ["usa_kansas_wichita", 2013, "Historical", "NASA"], "native": 6}
+{"world": ["usa_kansas_wichita", 2012, "Historical", "NASA"], "native": 8}
+{"world": ["france_paris_beauce", 2010, "Historical", "NASA"], "native": 2}
+{"world": ["usa_kansas_wichita", 2014, "Historical", "NASA"], "native": 3}
+{"world": ["france_paris_beauce", 2012, "Historical", "NASA"], "native": 1}
+{"world": ["france_paris_beauce", 2011, "Historical", "NASA"], "native": 1}
+{"world": ["france_paris_beauce", 2014, "Historical", "NASA"], "native": 1}
+{"world": ["france_paris_beauce", 2013, "Historical", "NASA"], "native": 2}
+{"world": ["australia_wa_perth", 2010, "Historical", "NASA"], "native": 7}
+{"world": ["australia_wa_perth", 2011, "Historical", "NASA"], "native": 7}
+{"world": ["australia_wa_perth", 2013, "Historical", "NASA"], "native": 3}
+{"world": ["australia_wa_perth", 2012, "Historical", "NASA"], "native": 7}
+{"world": ["australia_wa_perth", 2014, "Historical", "NASA"], "native": 3}
+{"Full-Telemetry-soft-AU_cap25_nonzero": true, "Full-Telemetry-soft-NL_tight_caps_lower_N": false, "Sensorless-soft-AU_cap25_nonzero": true, "Sensorless-soft-NL_tight_caps_lower_N": true, "soft-Full_strictly_higher_joint": true, "Full-Telemetry-tree-AU_cap25_nonzero": true, "Full-Telemetry-tree-NL_tight_caps_lower_N": false, "Sensorless-tree-AU_cap25_nonzero": false, "Sensorless-tree-NL_tight_caps_lower_N": true, "tree-Full_strictly_higher_joint": true}

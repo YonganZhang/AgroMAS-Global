@@ -1,0 +1,50 @@
+{
+  "world": [
+    "france_paris_beauce",
+    2021,
+    "idealized_mid",
+    "NASA"
+  ],
+  "native_simulations": 4,
+  "unique_executed_trajectories": 4,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        0.0,
+        100.0,
+        100.0
+      ],
+      "sha256": "0e8eba39ad7dab2bc67f45568fe3d7ddedecebc6f19d41ea54a4cc57fd53036b"
+    },
+    {
+      "doses": [
+        100.0,
+        0.0,
+        100.0
+      ],
+      "sha256": "fd8123bab9217300092036a8136d1e0c3281a9f5977362e28b0ae5e5a8846470"
+    },
+    {
+      "doses": [
+        0.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "b2736b5475d87f19a0c640de995243a073c48b442707dd245c9510d7e345ee13"
+    },
+    {
+      "doses": [
+        100.0,
+        0.0,
+        80.0
+      ],
+      "sha256": "5595d66dafac6f90ec9af0a36777f4e2e643b4dce5850bd054adbff3aeb05dac"
+    }
+  ],
+  "complete_requested_paths": 4,
+  "cases_replayed": 86,
+  "public_prefix_nodes": 6,
+  "prefix_decisions_replayed": 264,
+  "worker": 9,
+  "cases": 90
+}

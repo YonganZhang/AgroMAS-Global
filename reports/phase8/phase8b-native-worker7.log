@@ -1,0 +1,9 @@
+{"worker": 7, "index": 7, "id": "5f760af2670fd6ff45c9", "completed": true}
+Traceback (most recent call last):
+  File "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/scripts/phase8-run-locked-campaign.py", line 58, in <module>
+    if args.worker is not None:execute_worker(args.worker,args.workers);raise SystemExit(0)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/scripts/phase8-run-locked-campaign.py", line 23, in execute_worker
+    if (D/'STOP').exists():raise RuntimeError('Campaign halted by another worker; never retry silently')
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Campaign halted by another worker; never retry silently

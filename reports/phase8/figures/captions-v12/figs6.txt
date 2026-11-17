@@ -1,0 +1,2 @@
+Supplementary prior admission criteria and grain nitrogen error matrix across transfer cohorts. Panels show a row-weighted, world-weighted and closed-loop prior admission rates and b mean squared error matrices across five satellite adapters.
+空间迁移先验准入准则与籽粒氮误差补充矩阵。图a对比按行、世界等权及闭环决策三类准入率，图b为五种适配器的预测均方误差矩阵。

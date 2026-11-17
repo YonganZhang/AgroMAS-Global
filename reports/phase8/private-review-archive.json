@@ -1,0 +1,15 @@
+{
+  "ignored_local_cache": "cache/phase8a-private-review-runs",
+  "raw_jobs": [
+    "20261115T203322__kimi__1286434",
+    "20261115T205204__claude__1671400",
+    "20261115T205204__kimi__1671403",
+    "20261115T203322__gemini__1286437",
+    "20261115T203322__deepseek__1286435",
+    "20261115T205204__gemini__1671405",
+    "20261115T205204__deepseek__1671406"
+  ],
+  "raw_private_metadata_not_committed": true,
+  "public_reports": "reports/phase8/reviews",
+  "superseded_reports": "reports/phase8/superseded-epoch23/reviews"
+}

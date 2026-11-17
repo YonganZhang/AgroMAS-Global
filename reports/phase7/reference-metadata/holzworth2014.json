@@ -1,0 +1,3285 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        15
+      ]
+    ],
+    "date-time": "2026-11-15T07:34:57Z",
+    "timestamp": 1794728097804,
+    "version": "4.9.1"
+  },
+  "reference-count": 244,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2014,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2014-12-01T00:00:00Z",
+        "timestamp": 1417392000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Environmental Modelling &amp; Software"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2014,
+        12
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.envsoft.2014.07.009",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        8,
+        19
+      ]
+    ],
+    "date-time": "2014-08-19T00:00:40Z",
+    "timestamp": 1408406440000
+  },
+  "page": "327-350",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1636,
+  "special_numbering": "C",
+  "title": [
+    "APSIM \u2013 Evolution towards a new generation of agricultural systems simulation"
+  ],
+  "prefix": "10.1016",
+  "volume": "62",
+  "author": [
+    {
+      "given": "Dean P.",
+      "family": "Holzworth",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Neil I.",
+      "family": "Huth",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Peter G.",
+      "family": "deVoil",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Eric J.",
+      "family": "Zurcher",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Neville I.",
+      "family": "Herrmann",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Greg",
+      "family": "McLean",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Karine",
+      "family": "Chenu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Erik J.",
+      "family": "van Oosterom",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Val",
+      "family": "Snow",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Chris",
+      "family": "Murphy",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Andrew D.",
+      "family": "Moore",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hamish",
+      "family": "Brown",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jeremy P.M.",
+      "family": "Whish",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Shaun",
+      "family": "Verrall",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Justin",
+      "family": "Fainges",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Lindsay W.",
+      "family": "Bell",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Allan S.",
+      "family": "Peake",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Perry L.",
+      "family": "Poulton",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Zvi",
+      "family": "Hochman",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Peter J.",
+      "family": "Thorburn",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Donald S.",
+      "family": "Gaydon",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Neal P.",
+      "family": "Dalgliesh",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Daniel",
+      "family": "Rodriguez",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Howard",
+      "family": "Cox",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Scott",
+      "family": "Chapman",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Alastair",
+      "family": "Doherty",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Edmar",
+      "family": "Teixeira",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Joanna",
+      "family": "Sharp",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Rogerio",
+      "family": "Cichota",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Iris",
+      "family": "Vogeler",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Frank Y.",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Enli",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Graeme L.",
+      "family": "Hammer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Michael J.",
+      "family": "Robertson",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "John P.",
+      "family": "Dimes",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Anthony M.",
+      "family": "Whitbread",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "James",
+      "family": "Hunt",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Harm",
+      "family": "van Rees",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Tim",
+      "family": "McClelland",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Peter S.",
+      "family": "Carberry",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "John N.G.",
+      "family": "Hargreaves",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Neil",
+      "family": "MacLeod",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Cam",
+      "family": "McDonald",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Justin",
+      "family": "Harsdorf",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sara",
+      "family": "Wedgwood",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Brian A.",
+      "family": "Keating",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib1",
+      "series-title": "Proceedings of the Seventh Australian Society of Agronomy Conference, September, Adelaide, South Australia",
+      "first-page": "382",
+      "article-title": "Assessing the performance of maize (Zea mays*/cowpea (Vigna unguiculata)) intercrop under variable soil and climate conditions in the tropics",
+      "author": "Adiku",
+      "year": "1993"
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.envsoft.2014.07.009_bib2",
+      "doi-asserted-by": "crossref",
+      "first-page": "827",
+      "DOI": "10.1038/nclimate1916",
+      "article-title": "Uncertainty in simulating wheat yields under climate change",
+      "volume": "3",
+      "author": "Asseng",
+      "year": "2013",
+      "journal-title": "Nat. Clim. Change"
+    },
+    {
+      "issue": "1\u20132",
+      "key": "10.1016/j.envsoft.2014.07.009_bib3",
+      "doi-asserted-by": "crossref",
+      "first-page": "181",
+      "DOI": "10.1007/s10584-012-0553-y",
+      "article-title": "Has climate change opened new opportunities for wheat cropping in Argentina?",
+      "volume": "117",
+      "author": "Asseng",
+      "year": "2013",
+      "journal-title": "Clim. Change"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2014.07.009_bib4",
+      "doi-asserted-by": "crossref",
+      "first-page": "997",
+      "DOI": "10.1111/j.1365-2486.2010.02262.x",
+      "article-title": "The impact of temperature variability on wheat yields",
+      "volume": "17",
+      "author": "Asseng",
+      "year": "2011",
+      "journal-title": "Glob. Change Biol."
+    },
+    {
+      "issue": "2\u20133",
+      "key": "10.1016/j.envsoft.2014.07.009_bib5",
+      "doi-asserted-by": "crossref",
+      "first-page": "85",
+      "DOI": "10.1016/S0378-4290(03)00154-0",
+      "article-title": "Simulated wheat growth affected by rising temperature, increased water deficit and elevated atmospheric CO2",
+      "volume": "85",
+      "author": "Asseng",
+      "year": "2004",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2014.07.009_bib6",
+      "doi-asserted-by": "crossref",
+      "first-page": "163",
+      "DOI": "10.1016/S0378-4290(97)00117-2",
+      "article-title": "Performance of the APSIM-wheat model in Western Australia",
+      "volume": "57",
+      "author": "Asseng",
+      "year": "1998",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2014.07.009_bib7",
+      "doi-asserted-by": "crossref",
+      "first-page": "14",
+      "DOI": "10.1016/j.fcr.2011.05.020",
+      "article-title": "Yield benefits of triticale traits for wheat under current and future climates",
+      "volume": "124",
+      "author": "Bassu",
+      "year": "2011",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.envsoft.2014.07.009_bib8",
+      "doi-asserted-by": "crossref",
+      "first-page": "797",
+      "DOI": "10.1071/AN09014",
+      "article-title": "Sacrificial grazing of wheat crops: identifying tactics and opportunities in Western Australia's grainbelt using simulation approaches",
+      "volume": "49",
+      "author": "Bell",
+      "year": "2009",
+      "journal-title": "Anim. Prod. Sci."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib9",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.agsy.2012.04.003",
+      "article-title": "Integrated crop\u2013livestock systems in Australian agriculture: trends, drivers and implications",
+      "volume": "111",
+      "author": "Bell",
+      "year": "2012",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "issue": "6\u20137",
+      "key": "10.1016/j.envsoft.2014.07.009_bib10",
+      "doi-asserted-by": "crossref",
+      "first-page": "789",
+      "DOI": "10.1071/EA07421",
+      "article-title": "Approaches for assessing some attributes of feed-base systems in mixed farming enterprises",
+      "volume": "48",
+      "author": "Bell",
+      "year": "2008",
+      "journal-title": "Aust. J. Exp. Agric."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib11",
+      "series-title": "Using the SEAMLESS Integrated Framework for Ex-ante Assessment of Trade Policies",
+      "author": "Bezlepkina",
+      "year": "2010"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib12",
+      "doi-asserted-by": "crossref",
+      "first-page": "79",
+      "DOI": "10.1016/j.agee.2011.11.005",
+      "article-title": "Interactions between climate change and sugarcane management systems for improving water quality leaving farms in the Mackay-Whitsunday region, Australia",
+      "volume": "180",
+      "author": "Biggs",
+      "year": "2014",
+      "journal-title": "Agric. Ecosyst. Environ."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2014.07.009_bib13",
+      "doi-asserted-by": "crossref",
+      "first-page": "249",
+      "DOI": "10.1016/j.agsy.2004.09.011",
+      "article-title": "Description and evaluation of the rice growth model ORYZA2000 under nitrogen-limited conditions",
+      "volume": "87",
+      "author": "Bouman",
+      "year": "2006",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/j.envsoft.2014.07.009_bib14",
+      "doi-asserted-by": "crossref",
+      "first-page": "309",
+      "DOI": "10.1016/S1161-0301(02)00110-7",
+      "article-title": "An overview of the crop model stics",
+      "volume": "18",
+      "author": "Brisson",
+      "year": "2003",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib15",
+      "doi-asserted-by": "crossref",
+      "first-page": "385",
+      "DOI": "10.1016/j.envsoft.2014.09.005",
+      "article-title": "Plant modelling framework: software for building and running crop models on the apsim platform",
+      "volume": "62",
+      "author": "Brown",
+      "year": "2014",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib16",
+      "series-title": "19th International Congress on Modelling and Simulation",
+      "first-page": "961",
+      "article-title": "A\u00a0potato model built using the APSIM Plant.NET Framework",
+      "author": "Brown",
+      "year": "2011"
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.envsoft.2014.07.009_bib17",
+      "doi-asserted-by": "crossref",
+      "first-page": "560",
+      "DOI": "10.1071/WR10194",
+      "article-title": "Rats in rice: linking crop and pest models to explore management strategies",
+      "volume": "38",
+      "author": "Brown",
+      "year": "2011",
+      "journal-title": "Wildl. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib18",
+      "doi-asserted-by": "crossref",
+      "first-page": "713",
+      "DOI": "10.1016/j.landusepol.2009.09.012",
+      "article-title": "Potential of biomass production for motivating widespread natural resource management under climate change",
+      "volume": "27",
+      "author": "Bryan",
+      "year": "2010",
+      "journal-title": "Land Use Policy"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.envsoft.2014.07.009_bib19",
+      "doi-asserted-by": "crossref",
+      "first-page": "330",
+      "DOI": "10.1111/j.1757-1707.2010.01056.x",
+      "article-title": "Biofuels agriculture: landscape-scale trade-offs between fuel, economics, carbon, energy, food, and fiber",
+      "volume": "2",
+      "author": "Bryan",
+      "year": "2010",
+      "journal-title": "Glob. Change Biol. Bioenergy"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib20",
+      "series-title": "Soil Physics with BASIC. Transport Models for Soil \u2013 Plant Systems",
+      "author": "Campbell",
+      "year": "1985"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib21",
+      "series-title": "Climatic Risk in Crop Production: Models and Management for the Semiarid Tropics and Subtropics",
+      "first-page": "157",
+      "article-title": "Tailoring crop models to the semi-arid tropics",
+      "author": "Carberry",
+      "year": "1991"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib22",
+      "series-title": "Climatic Risk in Crop Production: Models and Management for the Semiarid Tropics and Subtropics",
+      "first-page": "157",
+      "article-title": "Tailoring crop models to the semiarid tropics",
+      "author": "Carberry",
+      "year": "1991"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib23",
+      "series-title": "Dynamics of Roots and Nitrogen in Cropping Systems of the Semi-arid Tropics",
+      "first-page": "637",
+      "article-title": "Application of the APSIM cropping systems model to intercropping systems",
+      "author": "Carberry",
+      "year": "1996"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib24",
+      "series-title": "Dynamics of Roots and Nitrogen in Cropping Systems of the Semi-Arid Tropics",
+      "first-page": "637",
+      "article-title": "Application of the APSIM cropping systems model to intercropping systems",
+      "author": "Carberry",
+      "year": "1996"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.envsoft.2014.07.009_bib25",
+      "doi-asserted-by": "crossref",
+      "first-page": "1037",
+      "DOI": "10.1071/EA9961037",
+      "article-title": "Simulation of a legume ley farming system in northern Australia using the Agricultural Production Systems Simulator",
+      "volume": "36",
+      "author": "Carberry",
+      "year": "1996",
+      "journal-title": "Aust. J. Exp. Agric."
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.envsoft.2014.07.009_bib26",
+      "doi-asserted-by": "crossref",
+      "first-page": "1044",
+      "DOI": "10.1071/CP09052",
+      "article-title": "Re-inventing model-based decision support with Australian dryland farmers. 3. Relevance of APSIM to commercial crops",
+      "volume": "60",
+      "author": "Carberry",
+      "year": "2009",
+      "journal-title": "Crop Past. Sci."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2014.07.009_bib27",
+      "doi-asserted-by": "crossref",
+      "first-page": "141",
+      "DOI": "10.1016/S0308-521X(02)00025-2",
+      "article-title": "The FARMSCAPE approach to decision support: farmers', advisers', researchers' monitoring, simulation, communication and performance evaluation",
+      "volume": "74",
+      "author": "Carberry",
+      "year": "2002",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "issue": "21",
+      "key": "10.1016/j.envsoft.2014.07.009_bib28",
+      "doi-asserted-by": "crossref",
+      "first-page": "8381",
+      "DOI": "10.1073/pnas.1208050110",
+      "article-title": "Scope for improved eco-efficiency varies among diverse cropping systems",
+      "volume": "110",
+      "author": "Carberry",
+      "year": "2013",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "issue": "4\u20139",
+      "key": "10.1016/j.envsoft.2014.07.009_bib29",
+      "doi-asserted-by": "crossref",
+      "first-page": "136",
+      "DOI": "10.1016/j.marpolbul.2011.11.022",
+      "article-title": "A\u00a0Paddock to reef monitoring and modelling framework for the Great Barrier Reef: paddock and catchment component",
+      "volume": "65",
+      "author": "Carroll",
+      "year": "2012",
+      "journal-title": "Mar. Pollut. Bull."
+    },
+    {
+      "issue": "1\u20132",
+      "key": "10.1016/j.envsoft.2014.07.009_bib31",
+      "doi-asserted-by": "crossref",
+      "first-page": "195",
+      "DOI": "10.1007/s10681-007-9623-z",
+      "article-title": "Use of crop models to understand genotype by environment interactions for drought in real-world and simulated plant breeding trials",
+      "volume": "161",
+      "author": "Chapman",
+      "year": "2008",
+      "journal-title": "Euphytica"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib30",
+      "doi-asserted-by": "crossref",
+      "first-page": "99",
+      "DOI": "10.2134/agronj2003.0099",
+      "article-title": "Evaluating plant breeding strategies by simulating gene action and dryland environment effects",
+      "volume": "95",
+      "author": "Chapman",
+      "year": "2003",
+      "journal-title": "Agron. J."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2014.07.009_bib32",
+      "doi-asserted-by": "crossref",
+      "first-page": "223",
+      "DOI": "10.1071/AR99022",
+      "article-title": "Genotype by environment interactions affecting grain sorghum. III. Temporal sequences and spatial patterns in the target population of environments",
+      "volume": "51",
+      "author": "Chapman",
+      "year": "2000",
+      "journal-title": "Aust. J. Agric. Res."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2014.07.009_bib33",
+      "doi-asserted-by": "crossref",
+      "first-page": "725",
+      "DOI": "10.2134/agronj1993.00021962008500030038x",
+      "article-title": "A\u00a0Sunflower simulation model.1. Model development",
+      "volume": "85",
+      "author": "Chapman",
+      "year": "1993",
+      "journal-title": "Agron. J."
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/j.envsoft.2014.07.009_bib34",
+      "doi-asserted-by": "crossref",
+      "first-page": "767",
+      "DOI": "10.1007/s10584-012-0509-2",
+      "article-title": "Contributions of individual variation in temperature, solar radiation and precipitation to crop yield in the North China Plain, 1961-2003",
+      "volume": "116",
+      "author": "Chen",
+      "year": "2013",
+      "journal-title": "Clim. Change"
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/j.envsoft.2014.07.009_bib35",
+      "doi-asserted-by": "crossref",
+      "first-page": "559",
+      "DOI": "10.1007/s10584-009-9690-3",
+      "article-title": "Quantifying the effects of climate trends in the past 43 years (1961-2003) on crop growth and water demand in the North China Plain",
+      "volume": "100",
+      "author": "Chen",
+      "year": "2010",
+      "journal-title": "Clim. Change"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib36",
+      "series-title": "Global Issues. Paddock Action. Proceedings of 14th Agronomy Conference: Adelaide, South Australia",
+      "article-title": "Simulation of field pea growth and yield in diverse environments",
+      "author": "Chen",
+      "year": "2008"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2014.07.009_bib37",
+      "doi-asserted-by": "crossref",
+      "first-page": "179",
+      "DOI": "10.1016/j.fcr.2008.04.010",
+      "article-title": "Simulation analysis of lucerne\u2013wheat crop rotation on the Loess Plateau of Northern China",
+      "volume": "108",
+      "author": "Chen",
+      "year": "2008",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.envsoft.2014.07.009_bib38",
+      "doi-asserted-by": "crossref",
+      "first-page": "1507",
+      "DOI": "10.1534/genetics.109.105429",
+      "article-title": "Simulating the yield impacts of organ-level quantitative trait loci associated with drought response in Maize: a \u201cGene-to-Phenotype\u201d modeling approach",
+      "volume": "183",
+      "author": "Chenu",
+      "year": "2009",
+      "journal-title": "Genetics"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.envsoft.2014.07.009_bib39",
+      "doi-asserted-by": "crossref",
+      "first-page": "1743",
+      "DOI": "10.1093/jxb/erq459",
+      "article-title": "Environment characterization as an aid to wheat improvement: interpreting genotype-environment interactions by modelling water-deficit patterns in North-Eastern Australia",
+      "volume": "62",
+      "author": "Chenu",
+      "year": "2011",
+      "journal-title": "J.\u00a0Exp. Bot."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2014.07.009_bib40",
+      "doi-asserted-by": "crossref",
+      "first-page": "801",
+      "DOI": "10.1111/nph.12192",
+      "article-title": "Large-scale characterization of drought pattern: a continent-wide modelling approach applied to the Australian wheatbelt spatial and temporal trends",
+      "volume": "198",
+      "author": "Chenu",
+      "year": "2013",
+      "journal-title": "New Phytol."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib41",
+      "series-title": "7th International Conference on Functional-Structural Plant Model",
+      "first-page": "357",
+      "article-title": "StressMaster: a web application for dynamic modelling of the environment to assist in crop improvement for drought adaptation",
+      "author": "Chenu",
+      "year": "2013"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib42",
+      "doi-asserted-by": "crossref",
+      "first-page": "15",
+      "DOI": "10.1016/j.envsoft.2012.10.011",
+      "article-title": "Modelling nitrogen leaching from overlapping urine patches",
+      "volume": "41",
+      "author": "Cichota",
+      "year": "2013",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib43",
+      "doi-asserted-by": "crossref",
+      "first-page": "694",
+      "DOI": "10.1071/SR12208",
+      "article-title": "Describing N leaching from urine patches deposited at different times of the year with a transfer function",
+      "volume": "50",
+      "author": "Cichota",
+      "year": "2012",
+      "journal-title": "Soil Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib44",
+      "first-page": "43",
+      "article-title": "Modelling the effect of a nitrification inhibitor on N leaching from grazed pastures",
+      "volume": "72",
+      "author": "Cichota",
+      "year": "2010",
+      "journal-title": "Proc. N.Z. Grassl. Assoc."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2014.07.009_bib45",
+      "doi-asserted-by": "crossref",
+      "first-page": "221",
+      "DOI": "10.1071/SR01007",
+      "article-title": "Simulating infiltration and the water balance in cropping systems with APSIM-SWIM",
+      "volume": "40",
+      "author": "Connolly",
+      "year": "2002",
+      "journal-title": "Aust. J. Soil Res."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.envsoft.2014.07.009_bib46",
+      "doi-asserted-by": "crossref",
+      "first-page": "1111",
+      "DOI": "10.1071/SR00089",
+      "article-title": "Effects of rundown in soil hydraulic condition on crop productivity in south-eastern Queensland \u2013 a simulation study",
+      "volume": "39",
+      "author": "Connolly",
+      "year": "2001",
+      "journal-title": "Soil Res."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2014.07.009_bib47",
+      "doi-asserted-by": "crossref",
+      "first-page": "231",
+      "DOI": "10.1016/j.pbi.2009.01.006",
+      "article-title": "Modeling QTL for complex traits: detection and context for plant breeding",
+      "volume": "12",
+      "author": "Cooper",
+      "year": "2009",
+      "journal-title": "Curr. Opin. Plant Biol."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib48",
+      "series-title": "16th Australian Agronomy Conference 2012: Armidale, NSW",
+      "article-title": "APSoil-providing soils information to consultants, farmers and researchers",
+      "author": "Dalgliesh",
+      "year": "2012"
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.envsoft.2014.07.009_bib49",
+      "doi-asserted-by": "crossref",
+      "first-page": "1031",
+      "DOI": "10.1071/CP08459",
+      "article-title": "Re-inventing model-based decision support with Australian dryland farmers. 2. Pragmatic provision of soil information for paddock-specific simulation and farmer decision making",
+      "volume": "60",
+      "author": "Dalgliesh",
+      "year": "2009",
+      "journal-title": "Crop Past. Sci."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib50",
+      "doi-asserted-by": "crossref",
+      "first-page": "201",
+      "DOI": "10.1016/j.envsoft.2012.03.006",
+      "article-title": "A\u00a0software engineering perspective on environmental modeling framework design: the Object Modeling System",
+      "volume": "39",
+      "author": "David",
+      "year": "2013",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2014.07.009_bib51",
+      "doi-asserted-by": "crossref",
+      "first-page": "116",
+      "DOI": "10.1046/j.1365-3180.2003.00323.x",
+      "article-title": "An evaluation of four crop: weed competition models using a common data set",
+      "volume": "43",
+      "author": "Deen",
+      "year": "2003",
+      "journal-title": "Weed Res."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2014.07.009_bib52",
+      "doi-asserted-by": "crossref",
+      "first-page": "293",
+      "DOI": "10.1007/s10705-008-9243-6",
+      "article-title": "Simulating phosphorus responses in annual crops using APSIM: model evaluation on contrasting soil types",
+      "volume": "84",
+      "author": "Delve",
+      "year": "2009",
+      "journal-title": "Nutr. Cycl. Agroecosyst."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.envsoft.2014.07.009_bib53",
+      "doi-asserted-by": "crossref",
+      "first-page": "503",
+      "DOI": "10.1071/AR04216",
+      "article-title": "Simulating lucerne growth and water use on diverse soil types in a Mediterranean-type environment",
+      "volume": "56",
+      "author": "Dolling",
+      "year": "2005",
+      "journal-title": "Aust. J. Agric. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib54",
+      "doi-asserted-by": "crossref",
+      "first-page": "509",
+      "DOI": "10.1016/j.envsoft.2014.04.008",
+      "article-title": "The parallel system for integrating impact models and sectors (PSIMS)",
+      "volume": "62",
+      "author": "Elliot",
+      "year": "2014",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.envsoft.2014.07.009_bib55",
+      "doi-asserted-by": "crossref",
+      "first-page": "863",
+      "DOI": "10.1071/AR04027",
+      "article-title": "Simulating lupin development, growth, and yield in a Mediterranean environment",
+      "volume": "55",
+      "author": "Farr\u00e9",
+      "year": "2004",
+      "journal-title": "Aust. J. Agric. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib56",
+      "doi-asserted-by": "crossref",
+      "first-page": "199",
+      "DOI": "10.1071/SR9890199",
+      "article-title": "Evaluation of three soil erosion models for clay soils",
+      "volume": "27",
+      "author": "Freebairn",
+      "year": "1989",
+      "journal-title": "Aust. J. Soil Res."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2014.07.009_bib57",
+      "doi-asserted-by": "crossref",
+      "first-page": "77",
+      "DOI": "10.1016/S0308-521X(96)00045-5",
+      "article-title": "GRAZPLAN: decision support systems for\u00a0Australian grazing enterprises\u2014II. The animal biology model for feed intake, production and reproduction and the GrazFeed DSS",
+      "volume": "54",
+      "author": "Freer",
+      "year": "1997",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib59",
+      "series-title": "Inventory of Australian Software Tools for Best Use of Water On-farm",
+      "article-title": "APSIM WaterSupply",
+      "author": "Gaydon",
+      "year": "2005"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib58",
+      "series-title": "The SAARC-Australia Project \u2013 Developing Capacity in Cropping Systems Modelling for South Asia",
+      "first-page": "259",
+      "year": "2014"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib60",
+      "doi-asserted-by": "crossref",
+      "first-page": "33",
+      "DOI": "10.1016/j.agwat.2011.10.015",
+      "article-title": "The best farm-level irrigation strategy changes seasonally with fluctuating water availability",
+      "volume": "103",
+      "author": "Gaydon",
+      "year": "2012",
+      "journal-title": "Agric. Water Manag."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib61",
+      "doi-asserted-by": "crossref",
+      "first-page": "9",
+      "DOI": "10.1016/j.eja.2012.01.003",
+      "article-title": "Rice in cropping systems-Modelling transitions between flooded and non-flooded soil environments",
+      "volume": "39",
+      "author": "Gaydon",
+      "year": "2012",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib62",
+      "doi-asserted-by": "crossref",
+      "first-page": "35",
+      "DOI": "10.1016/j.eja.2012.01.004",
+      "article-title": "Modelling the role of algae in rice crop nutrition and soil organic carbon maintenance",
+      "volume": "39",
+      "author": "Gaydon",
+      "year": "2012",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2014.07.009_bib63",
+      "doi-asserted-by": "crossref",
+      "first-page": "257",
+      "DOI": "10.1016/j.eja.2005.10.002",
+      "article-title": "Simulating crop\u2013parasitic weed interactions using APSIM: model evaluation and application",
+      "volume": "24",
+      "author": "Grenz",
+      "year": "2006",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib64",
+      "series-title": "V/I CERES-Maize \u2013 a Visual Interactive Version of CERES-Maize",
+      "author": "Hargraves",
+      "year": "1987"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib71",
+      "series-title": "Proceedings 10th International Sunflower Conference",
+      "first-page": "48",
+      "article-title": "Determination of regional strategies for sunflower production",
+      "author": "Hammer",
+      "year": "1982"
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.envsoft.2014.07.009_bib65",
+      "doi-asserted-by": "crossref",
+      "first-page": "587",
+      "DOI": "10.1016/j.tplants.2006.10.006",
+      "article-title": "Models for navigating biological complexity in breeding improved crop plants",
+      "volume": "11",
+      "author": "Hammer",
+      "year": "2006",
+      "journal-title": "Trends Plant Sci."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib66",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1071/CP14088",
+      "article-title": "Crop design for specific adaptation in variable dryland production environments",
+      "volume": "65",
+      "author": "Hammer",
+      "year": "2014",
+      "journal-title": "Crop Past. Sci."
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.envsoft.2014.07.009_bib67",
+      "doi-asserted-by": "crossref",
+      "first-page": "947",
+      "DOI": "10.1071/AR05157",
+      "article-title": "Trait physiology and crop modelling as a framework to link phenotypic complexity to underlying genetic systems",
+      "volume": "56",
+      "author": "Hammer",
+      "year": "2005",
+      "journal-title": "Aust. J. Agric. Res."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.envsoft.2014.07.009_bib68",
+      "doi-asserted-by": "crossref",
+      "first-page": "1085",
+      "DOI": "10.2134/agronj1995.00021962008700060009x",
+      "article-title": "A\u00a0peanut simulation model .1. Model development and testing",
+      "volume": "87",
+      "author": "Hammer",
+      "year": "1995",
+      "journal-title": "Agron. J."
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.envsoft.2014.07.009_bib69",
+      "doi-asserted-by": "crossref",
+      "first-page": "2185",
+      "DOI": "10.1093/jxb/erq095",
+      "article-title": "Adapting APSIM to model the physiology and genetics of complex adaptive traits in field crops",
+      "volume": "61",
+      "author": "Hammer",
+      "year": "2010",
+      "journal-title": "J.\u00a0Exp. Bot."
+    },
+    {
+      "issue": "1\u20132",
+      "key": "10.1016/j.envsoft.2014.07.009_bib70",
+      "doi-asserted-by": "crossref",
+      "first-page": "123",
+      "DOI": "10.1016/0168-1923(87)90074-8",
+      "article-title": "Effects of climatic variability and possible climatic change on reliability of wheat cropping\u2014a modelling approach",
+      "volume": "41",
+      "author": "Hammer",
+      "year": "1987",
+      "journal-title": "Agric. For. Meteorol."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib72",
+      "series-title": "Quantifying Climatic Risk to Sorghum in Australia's Semiarid Tropics and Subtropics Model Development and Simulation",
+      "author": "Hammer",
+      "year": "1991"
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.envsoft.2014.07.009_bib73",
+      "doi-asserted-by": "crossref",
+      "first-page": "528",
+      "DOI": "10.1071/CP09221",
+      "article-title": "The impact of El Nino Southern Oscillation on seasonal drought in the southern Australian grainbelt",
+      "volume": "61",
+      "author": "Hayman",
+      "year": "2010",
+      "journal-title": "Crop Past. Sci."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2014.07.009_bib74",
+      "doi-asserted-by": "crossref",
+      "first-page": "257",
+      "DOI": "10.1016/0308-521X(94)90223-3",
+      "article-title": "OZCOT: a simulation model for cotton crop management",
+      "volume": "44",
+      "author": "Hearn",
+      "year": "1994",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.envsoft.2014.07.009_bib75",
+      "doi-asserted-by": "crossref",
+      "first-page": "572",
+      "DOI": "10.1590/S0006-87052012000400016",
+      "article-title": "Sensitivity of APSIM/ORYZA model due to estimation errors in solar radiation",
+      "volume": "71",
+      "author": "Heinemann",
+      "year": "2012",
+      "journal-title": "Bragantia"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib76",
+      "series-title": "Driving Better Vegetable Irrigation through Profitable Practice Change",
+      "author": "Henderson",
+      "year": "2011"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.envsoft.2014.07.009_bib77",
+      "doi-asserted-by": "crossref",
+      "first-page": "389",
+      "DOI": "10.1071/AR05263",
+      "article-title": "Simulation modelling of lablab (Lablab purpureus) pastures in northern Australia",
+      "volume": "57",
+      "author": "Hill",
+      "year": "2006",
+      "journal-title": "Aust. J. Agric. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib78",
+      "doi-asserted-by": "crossref",
+      "first-page": "109",
+      "DOI": "10.1016/j.eja.2011.11.003",
+      "article-title": "Prospects for ecological intensification of Australian agriculture",
+      "volume": "44",
+      "author": "Hochman",
+      "year": "2013",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib79",
+      "doi-asserted-by": "crossref",
+      "first-page": "85",
+      "DOI": "10.1016/j.fcr.2012.07.008",
+      "article-title": "Quantifying yield gaps in rainfed cropping systems: a case study of wheat in Australia",
+      "volume": "136",
+      "author": "Hochman",
+      "year": "2012",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.envsoft.2014.07.009_bib80",
+      "doi-asserted-by": "crossref",
+      "first-page": "708",
+      "DOI": "10.1071/CP09064",
+      "article-title": "Potential to improve on-farm wheat yields and WUE in Australia",
+      "volume": "60",
+      "author": "Hochman",
+      "year": "2009",
+      "journal-title": "Crop Past. Sci."
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.envsoft.2014.07.009_bib81",
+      "doi-asserted-by": "crossref",
+      "first-page": "1057",
+      "DOI": "10.1071/CP09020",
+      "article-title": "Re-inventing model-based decision support with Australian dryland farmers. 4. Yield Prophet\u00ae helps farmers monitor and manage crops in a variable climate",
+      "volume": "60",
+      "author": "Hochman",
+      "year": "2009",
+      "journal-title": "Crop Past. Sci."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2014.07.009_bib82",
+      "doi-asserted-by": "crossref",
+      "first-page": "269",
+      "DOI": "10.1016/j.envsoft.2008.10.018",
+      "article-title": "Simplifying environmental model reuse",
+      "volume": "25",
+      "author": "Holzworth",
+      "year": "2010",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.envsoft.2014.07.009_bib83",
+      "doi-asserted-by": "crossref",
+      "first-page": "510",
+      "DOI": "10.1016/j.envsoft.2010.10.014",
+      "article-title": "Simple software processes and tests improve the reliability and usefulness of a model",
+      "volume": "26",
+      "author": "Holzworth",
+      "year": "2011",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib84",
+      "article-title": "Agricultural systems modelling and software: current status and future prospects",
+      "author": "Holzworth",
+      "year": "2014",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib85",
+      "series-title": "Research Opportunities for Sustainable Productivity Improvement in the Northern Beef Industry: a Scoping Study",
+      "author": "Hunt",
+      "year": "2013"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib86",
+      "doi-asserted-by": "crossref",
+      "first-page": "411",
+      "DOI": "10.1016/j.envsoft.2014.06.021",
+      "article-title": "Development of an oil palm cropping systems model: lessons learned and future directions",
+      "volume": "62",
+      "author": "Huth",
+      "year": "2014",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.envsoft.2014.07.009_bib87",
+      "first-page": "1303",
+      "article-title": "SWIM3: model use, calibration, and validation",
+      "volume": "55",
+      "author": "Huth",
+      "year": "2012",
+      "journal-title": "Trans. Am. Soc. Agric. Eng."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib88",
+      "series-title": "SWIM3: Model Use, Calibration and Validation",
+      "author": "Huth",
+      "year": "2014"
+    },
+    {
+      "issue": "1\u20132",
+      "key": "10.1016/j.envsoft.2014.07.009_bib89",
+      "doi-asserted-by": "crossref",
+      "first-page": "171",
+      "DOI": "10.1016/S1161-0301(02)00103-X",
+      "article-title": "A\u00a0framework for simulating agroforestry options for the low rainfall areas of Australia using APSIM",
+      "volume": "18",
+      "author": "Huth",
+      "year": "2002",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib90",
+      "series-title": "18th World Imacs Congress and Modsim09 International Congress on Modelling and Simulation: Interfacing Modelling and Simulation with Mathematical and Computational Sciences",
+      "first-page": "526",
+      "article-title": "Development and testing of a horticultural crop model within APSIM",
+      "author": "Huth",
+      "year": "2009"
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/j.envsoft.2014.07.009_bib91",
+      "doi-asserted-by": "crossref",
+      "first-page": "351",
+      "DOI": "10.1016/j.agee.2009.12.016",
+      "article-title": "Impacts of fertilisers and legumes on N2O and CO2 emissions from soils in subtropical agricultural systems: a simulation study",
+      "volume": "136",
+      "author": "Huth",
+      "year": "2010",
+      "journal-title": "Agric. Ecosyst. Environ."
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.envsoft.2014.07.009_bib92",
+      "doi-asserted-by": "crossref",
+      "first-page": "675",
+      "DOI": "10.1016/j.agsy.2010.08.007",
+      "article-title": "A\u00a0conceptual framework for guiding the participatory development of agricultural decision support systems",
+      "volume": "103",
+      "author": "Jakku",
+      "year": "2010",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.envsoft.2014.07.009_bib93",
+      "doi-asserted-by": "crossref",
+      "first-page": "309",
+      "DOI": "10.1016/S1364-8152(01)00008-1",
+      "article-title": "Using spatial interpolation to construct a comprehensive archive of Australian climate data",
+      "volume": "16",
+      "author": "Jeffrey",
+      "year": "2001",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.envsoft.2014.07.009_bib94",
+      "doi-asserted-by": "crossref",
+      "first-page": "621",
+      "DOI": "10.1071/EA07133",
+      "article-title": "DairyMod and EcoMod: biophysical pasture-simulation models for Australia and new Zealand",
+      "volume": "48",
+      "author": "Johnson",
+      "year": "2008",
+      "journal-title": "Aust. J. Exp. Agric."
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/j.envsoft.2014.07.009_bib95",
+      "doi-asserted-by": "crossref",
+      "first-page": "235",
+      "DOI": "10.1016/S1161-0301(02)00107-7",
+      "article-title": "The DSSAT cropping system model",
+      "volume": "18",
+      "author": "Jones",
+      "year": "2003",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib96",
+      "series-title": "CERES-Maize: a Simulation Model of Maize Growth and Development",
+      "author": "Jones",
+      "year": "1986"
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/j.envsoft.2014.07.009_bib97",
+      "doi-asserted-by": "crossref",
+      "first-page": "267",
+      "DOI": "10.1016/S1161-0301(02)00108-9",
+      "article-title": "An overview of APSIM, a model designed for farming systems simulation",
+      "volume": "18",
+      "author": "Keating",
+      "year": "2003",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib98",
+      "series-title": "Nwheat: Documentation and Performance of a Wheat Module for APSIM, Tropical Agronomy Memorandum",
+      "author": "Keating",
+      "year": "2001"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2014.07.009_bib99",
+      "doi-asserted-by": "crossref",
+      "first-page": "253",
+      "DOI": "10.1016/S0378-4290(98)00167-1",
+      "article-title": "Modelling sugarcane production systems I. Development and performance of the sugarcane module",
+      "volume": "61",
+      "author": "Keating",
+      "year": "1999",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib100",
+      "series-title": "A\u00a0Search for Strategies for Sustainable Dryland Cropping in Semi-arid Eastern Kenya: Nairobi, Kenya",
+      "first-page": "26",
+      "article-title": "Development of a modelling capability for maize in semi-arid Eastern Kenya",
+      "author": "Keating",
+      "year": "1990"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib101",
+      "doi-asserted-by": "crossref",
+      "first-page": "38",
+      "DOI": "10.1016/j.fcr.2012.10.020",
+      "article-title": "Drought stress characterization of post-rainy season (rabi) sorghum in India",
+      "volume": "141",
+      "author": "Kholova",
+      "year": "2013",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib102",
+      "first-page": "178",
+      "article-title": "CREAMS: a system for evaluating management practices",
+      "author": "Knisel",
+      "year": "1983",
+      "journal-title": "Agric. Manag. Water Qual."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib103",
+      "doi-asserted-by": "crossref",
+      "first-page": "16",
+      "DOI": "10.1016/j.agsy.2012.02.001",
+      "article-title": "Whole-farm effects of livestock intensification in smallholder systems in Gansu, China",
+      "volume": "109",
+      "author": "Komarek",
+      "year": "2012",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib104",
+      "series-title": "Global Issues. Paddock Action, Proceedings of 14th Agronomy Conference 2008: 21\u201325 September 2008, Adelaide, South Australia",
+      "article-title": "Seasonal variability of Rhodes grass production in the northern West Australia wheatbelt",
+      "author": "Lawes",
+      "year": "2008"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib105",
+      "unstructured": "Leonard, R.A., Knisel, W.G., Still, D.A., 1986. GLEAMS: groundwater loading effects of agricultural management systems. Paper, American Society of Agricultural Engineers (86-2511), 43 pp."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2014.07.009_bib106",
+      "doi-asserted-by": "crossref",
+      "first-page": "228",
+      "DOI": "10.1111/gcb.12358",
+      "article-title": "Testing simulations of intra- and inter-annual variation of the pasture production response to elevated CO2 from a 11-year FACE experiment on grazed pasture",
+      "volume": "20",
+      "author": "Li",
+      "year": "2013",
+      "journal-title": "Glob. Change Biol."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib107",
+      "doi-asserted-by": "crossref",
+      "first-page": "331",
+      "DOI": "10.1080/00288233.2011.613403",
+      "article-title": "Modelling seasonal and geographical pattern of pasture production in New Zealand",
+      "volume": "54",
+      "author": "Li",
+      "year": "2011",
+      "journal-title": "N.\u00a0Z. J. Agric. Res."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.envsoft.2014.07.009_bib108",
+      "doi-asserted-by": "crossref",
+      "first-page": "331",
+      "DOI": "10.1080/00288233.2011.613403",
+      "article-title": "Modelling the seasonal and geographical pattern of pasture production in New Zealand",
+      "volume": "54",
+      "author": "Li",
+      "year": "2011",
+      "journal-title": "N.\u00a0Z. J. Agric. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib109",
+      "series-title": "Impacts of Climate Change on Land-based Sectors and Adaptation Options. Technical Report to the Sustainable Land Management and Climate Change Adaptation Technical Working Group",
+      "first-page": "145",
+      "article-title": "Sheep & Beef: Hill country sheep and\u00a0beef: impacts and adaptations to climate change",
+      "author": "Lieffering",
+      "year": "2012"
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.envsoft.2014.07.009_bib110",
+      "doi-asserted-by": "crossref",
+      "first-page": "837",
+      "DOI": "10.1071/AN09011",
+      "article-title": "Trade-offs between productivity and ground cover in mixed farming systems in the Murrumbidgee catchment of New South Wales",
+      "volume": "49",
+      "author": "Lilley",
+      "year": "2009",
+      "journal-title": "Anim. Prod. Sci."
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.envsoft.2014.07.009_bib111",
+      "doi-asserted-by": "crossref",
+      "first-page": "486",
+      "DOI": "10.1016/j.agsy.2010.05.002",
+      "article-title": "A\u00a0participatory, farming systems approach to improving Bali cattle production in the smallholder crop\u2013livestock systems of Eastern Indonesia",
+      "volume": "103",
+      "author": "Lisson",
+      "year": "2010",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib112",
+      "series-title": "ACIAR Monograph No. 145",
+      "first-page": "29",
+      "article-title": "Case study 1: crop-livestock farming systems in Indonesia",
+      "author": "Lisson",
+      "year": "2011"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.envsoft.2014.07.009_bib113",
+      "doi-asserted-by": "crossref",
+      "first-page": "757",
+      "DOI": "10.1071/SR9920757",
+      "article-title": "Impact of soil-erosion on production in cropping systems. I. Development and validation of a simulation-model",
+      "volume": "30",
+      "author": "Littleboy",
+      "year": "1992",
+      "journal-title": "Aust. J. Soil. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib114",
+      "series-title": "PERFECT: A Computer Simulation Model of Productivity Erosion Runoff Functions to Evaluate Conservation Techniques",
+      "author": "Littleboy",
+      "year": "1989"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib115",
+      "doi-asserted-by": "crossref",
+      "first-page": "84",
+      "DOI": "10.1016/j.fcr.2013.04.025",
+      "article-title": "Quantifying three-decade changes of single rice cultivars in China using crop modeling",
+      "volume": "149",
+      "author": "Liu",
+      "year": "2013",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib116",
+      "doi-asserted-by": "crossref",
+      "first-page": "40",
+      "DOI": "10.1016/j.fcr.2013.04.022",
+      "article-title": "Impacts of climate changes, soil nutrients, variety types and management practices on rice yield in East China: a case study in the Taihu region",
+      "volume": "149",
+      "author": "Liu",
+      "year": "2013",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.envsoft.2014.07.009_bib117",
+      "doi-asserted-by": "crossref",
+      "first-page": "2287",
+      "DOI": "10.1111/j.1365-2486.2009.02077.x",
+      "article-title": "Contributions of climatic and crop varietal changes to crop production in the North China Plain, since 1980s",
+      "volume": "16",
+      "author": "Liu",
+      "year": "2010",
+      "journal-title": "Glob. Change Biol."
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.envsoft.2014.07.009_bib118",
+      "doi-asserted-by": "crossref",
+      "first-page": "3441",
+      "DOI": "10.1111/j.1365-2486.2012.02774.x",
+      "article-title": "Maize potential yields and yield gaps in\u00a0the changing climate of northeast China",
+      "volume": "18",
+      "author": "Liu",
+      "year": "2012",
+      "journal-title": "Glob. Change Biol."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib119",
+      "doi-asserted-by": "crossref",
+      "first-page": "497",
+      "DOI": "10.1038/nclimate1832",
+      "article-title": "Understanding the critical role of extreme heat for maize production in the United States",
+      "volume": "3",
+      "author": "Lobell",
+      "year": "2013",
+      "journal-title": "Nat. Clim. Change"
+    },
+    {
+      "issue": "1\u20133",
+      "key": "10.1016/j.envsoft.2014.07.009_bib120",
+      "doi-asserted-by": "crossref",
+      "first-page": "159",
+      "DOI": "10.1016/j.agsy.2005.12.002",
+      "article-title": "Climate change impacts on wheat production in a Mediterranean environment in Western Australia",
+      "volume": "90",
+      "author": "Ludwig",
+      "year": "2006",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2014.07.009_bib121",
+      "doi-asserted-by": "crossref",
+      "first-page": "127",
+      "DOI": "10.1016/j.agsy.2009.11.001",
+      "article-title": "Potential benefits of early vigor and changes in phenology in wheat to adapt to warmer and drier climates",
+      "volume": "103",
+      "author": "Ludwig",
+      "year": "2010",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/j.envsoft.2014.07.009_bib122",
+      "doi-asserted-by": "crossref",
+      "first-page": "495",
+      "DOI": "10.1007/s10584-008-9479-9",
+      "article-title": "Impacts of recent climate change on wheat production systems in Western Australia",
+      "volume": "92",
+      "author": "Ludwig",
+      "year": "2009",
+      "journal-title": "Clim. Change"
+    },
+    {
+      "issue": "1\u20133",
+      "key": "10.1016/j.envsoft.2014.07.009_bib123",
+      "doi-asserted-by": "crossref",
+      "first-page": "261",
+      "DOI": "10.1016/j.agee.2008.09.010",
+      "article-title": "Adaptation to climate change of wheat growing in South Australia: analysis of management and breeding strategies",
+      "volume": "129",
+      "author": "Luo",
+      "year": "2009",
+      "journal-title": "Agric. Ecosyst. Environ."
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/j.envsoft.2014.07.009_bib124",
+      "doi-asserted-by": "crossref",
+      "first-page": "273",
+      "DOI": "10.1016/j.agrformet.2005.08.003",
+      "article-title": "Potential impact of climate change on wheat yield in South Australia",
+      "volume": "132",
+      "author": "Luo",
+      "year": "2005",
+      "journal-title": "Agric. For. Meteorol."
+    },
+    {
+      "issue": "1\u20132",
+      "key": "10.1016/j.envsoft.2014.07.009_bib125",
+      "doi-asserted-by": "crossref",
+      "first-page": "213",
+      "DOI": "10.1007/s10584-005-5361-1",
+      "article-title": "Spatial analysis of environmental change impacts on wheat production in Mid-Lower North, South Australia",
+      "volume": "72",
+      "author": "Luo",
+      "year": "2005",
+      "journal-title": "Clim. Change"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2014.07.009_bib126",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.3354/cr029041",
+      "article-title": "Probabilistic distributions of regional climate change and their application in risk analysis of wheat production",
+      "volume": "29",
+      "author": "Luo",
+      "year": "2005",
+      "journal-title": "Clim. Res."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2014.07.009_bib127",
+      "doi-asserted-by": "crossref",
+      "first-page": "408",
+      "DOI": "10.1890/12-0672.1",
+      "article-title": "Meta-modeling soil organic carbon sequestration potential and its application at regional scale",
+      "volume": "23",
+      "author": "Luo",
+      "year": "2013",
+      "journal-title": "Ecol. Appl."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.envsoft.2014.07.009_bib128",
+      "doi-asserted-by": "crossref",
+      "first-page": "1529",
+      "DOI": "10.1016/j.agrformet.2011.06.011",
+      "article-title": "Modeling long-term soil carbon dynamics and sequestration potential in semi-arid agro-ecosystems",
+      "volume": "151",
+      "author": "Luo",
+      "year": "2011",
+      "journal-title": "Agric. For. Meteorol."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.envsoft.2014.07.009_bib129",
+      "doi-asserted-by": "crossref",
+      "first-page": "1377",
+      "DOI": "10.1007/s00122-013-2059-z",
+      "article-title": "Supermodels: sorghum and maize provide mutual insight into the genetics of flowering time",
+      "volume": "126",
+      "author": "Mace",
+      "year": "2013",
+      "journal-title": "Theor. Appl. Genet."
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.envsoft.2014.07.009_bib130",
+      "doi-asserted-by": "crossref",
+      "first-page": "1284",
+      "DOI": "10.1071/EA06052",
+      "article-title": "An economic assessment of forage options to improve the profitability of smallholder beef cattle enterprises in the Red Soils region of China",
+      "volume": "47",
+      "author": "MacLeod",
+      "year": "2007",
+      "journal-title": "Aust. J. Exp. Agric."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib131",
+      "series-title": "The Farming Game",
+      "author": "Makeham",
+      "year": "1981"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib132",
+      "series-title": "13th Australian Agronomy Conference: Perth, Western Australia",
+      "article-title": "APSIM-Barley model \u2013 adaptation of a wheat model to simulate barley growth and development",
+      "author": "Manschadi",
+      "year": "2006"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib133",
+      "series-title": "DYMEX Professional: Modelling Natural Systems Version 1.0",
+      "author": "Maywald",
+      "year": "1999"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib134",
+      "series-title": "Proceedings of the 17th Australian Research Assembly on Brassicas: Wagga Wagga, NSW",
+      "first-page": "184",
+      "article-title": "Exploring opportunities for dual purpose canola in south-eastern Australia using crop simulation models",
+      "author": "McCormick",
+      "year": "2011"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib137",
+      "series-title": "SSA ImACS 1989 Biennial Conference on Modelling and Simulation",
+      "article-title": "AUSIM: a cropping systems model for operational research",
+      "author": "McCown",
+      "year": "1989"
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/j.envsoft.2014.07.009_bib135",
+      "doi-asserted-by": "crossref",
+      "first-page": "225",
+      "DOI": "10.1016/0378-4754(95)00063-2",
+      "article-title": "APSIM: an agricultural production system simulation model for operational research",
+      "volume": "39",
+      "author": "McCown",
+      "year": "1995",
+      "journal-title": "Math. Comput. Simul."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2014.07.009_bib136",
+      "doi-asserted-by": "crossref",
+      "first-page": "255",
+      "DOI": "10.1016/0308-521X(94)00055-V",
+      "article-title": "APSIM: a novel software system for model development, model testing and simulation in agricultural systems research",
+      "volume": "50",
+      "author": "McCown",
+      "year": "1996",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib138",
+      "series-title": "New Dimensions and Challenges for Sustainable Livestock Farming. Proceedings of the 11th Animal Science Congress: Kuala Lumpur",
+      "first-page": "116",
+      "article-title": "Improving Bali cattle production in mixed crop\u2013livestock systems in Eastern Indonesia using an integrated modelling approach",
+      "author": "McDonald",
+      "year": "2004"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib139",
+      "series-title": "New Directions for a Diverse Planet. Proceedings of the 4th International Crop Science Congress: Brisbane, Australia, 26 September\u20131 October 2004",
+      "article-title": "REMS \u2013 a research experiment management system to support the maintenance and development of crop growth and development models",
+      "author": "McLean",
+      "year": "2004"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2014.07.009_bib140",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1071/SR05004",
+      "article-title": "Occurrence and simulation of nitrification in two contrasting sugarcane soils from the Australian wet tropics",
+      "volume": "44",
+      "author": "Meier",
+      "year": "2006",
+      "journal-title": "Aust. J. Soil Res."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.envsoft.2014.07.009_bib141",
+      "doi-asserted-by": "crossref",
+      "first-page": "875",
+      "DOI": "10.1071/EA02019",
+      "article-title": "Modelling crop growth and yield under the environmental changes induced by windbreaks 1. Model development and validation",
+      "volume": "42",
+      "author": "Meinke",
+      "year": "2002",
+      "journal-title": "Aust. J. Exp. Agric."
+    },
+    {
+      "issue": "1\u20132",
+      "key": "10.1016/j.envsoft.2014.07.009_bib142",
+      "doi-asserted-by": "crossref",
+      "first-page": "101",
+      "DOI": "10.1016/S1161-0301(97)00015-4",
+      "article-title": "Improving wheat simulation capabilities in Australia from a cropping systems perspective \u2013 III. The integrated wheat model (I_WHEAT)",
+      "volume": "8",
+      "author": "Meinke",
+      "year": "1998",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2014.07.009_bib143",
+      "doi-asserted-by": "crossref",
+      "first-page": "855",
+      "DOI": "10.1093/jxb/erq329",
+      "article-title": "Yield-trait performance landscapes: from theory to application in breeding maize for drought tolerance",
+      "volume": "62",
+      "author": "Messina",
+      "year": "2011",
+      "journal-title": "J.\u00a0Exp. Bot."
+    },
+    {
+      "issue": "9/10",
+      "key": "10.1016/j.envsoft.2014.07.009_bib144",
+      "doi-asserted-by": "crossref",
+      "first-page": "759",
+      "DOI": "10.1071/AN09006",
+      "article-title": "Opportunities and trade-offs in dual-purpose cereals across the southern Australian mixed-farming zone: a modelling study",
+      "volume": "49",
+      "author": "Moore",
+      "year": "2009",
+      "journal-title": "Anim. Prod. Sci."
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.envsoft.2014.07.009_bib145",
+      "doi-asserted-by": "crossref",
+      "first-page": "736",
+      "DOI": "10.1071/AN09010",
+      "article-title": "Feed gaps in mixed-farming systems: insights from the Grain & Graze program",
+      "volume": "49",
+      "author": "Moore",
+      "year": "2009",
+      "journal-title": "Anim. Prod. Sci."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.envsoft.2014.07.009_bib146",
+      "doi-asserted-by": "crossref",
+      "first-page": "535",
+      "DOI": "10.1016/S0308-521X(97)00023-1",
+      "article-title": "GRAZPLAN: decision support systems for australian grazing enterprises. III. Pasture growth and soil moisture submodels, and the GrassGro DSS",
+      "volume": "55",
+      "author": "Moore",
+      "year": "1997",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib147",
+      "doi-asserted-by": "crossref",
+      "first-page": "399",
+      "DOI": "10.1016/j.envsoft.2014.09.001",
+      "article-title": "Modelling the manager: representing rule-based management in farming systems simulation models",
+      "volume": "62",
+      "author": "Moore",
+      "year": "2014",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "issue": "1\u20133",
+      "key": "10.1016/j.envsoft.2014.07.009_bib148",
+      "doi-asserted-by": "crossref",
+      "first-page": "37",
+      "DOI": "10.1016/j.agsy.2007.03.006",
+      "article-title": "The Common Modelling Protocol: a hierarchical framework for simulation of agricultural and environmental systems",
+      "volume": "95",
+      "author": "Moore",
+      "year": "2007",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2014.07.009_bib149",
+      "doi-asserted-by": "crossref",
+      "first-page": "393",
+      "DOI": "10.1016/S0308-521X(02)00047-1",
+      "article-title": "Infusing the use of seasonal climate forecasting into crop management practice in North East Australia using discussion support software",
+      "volume": "74",
+      "author": "Nelson",
+      "year": "2002",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2014.07.009_bib150",
+      "doi-asserted-by": "crossref",
+      "first-page": "249",
+      "DOI": "10.3354/cr01075",
+      "article-title": "Re-evaluating the margin of the South Australian grain belt in a changing climate",
+      "volume": "51",
+      "author": "Nidumolu",
+      "year": "2012",
+      "journal-title": "Clim. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib151",
+      "series-title": "APSFarm: a New Framework for Modelling Mixed Cropping and Grazing Farm Businesses",
+      "author": "Owens",
+      "year": "2009"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2014.07.009_bib152",
+      "doi-asserted-by": "crossref",
+      "first-page": "71",
+      "DOI": "10.1007/s10533-006-0002-y",
+      "article-title": "Nitrogen inputs and outputs for New Zealand in 2001 at national and regional scales",
+      "volume": "80",
+      "author": "Parfitt",
+      "year": "2006",
+      "journal-title": "Biogeochemistry"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib153",
+      "series-title": "Proceedings of the 5th World Congress of Conservation Agriculture and 3rd Farming Systems Design Conference: Brisbane",
+      "first-page": "242",
+      "article-title": "Improving cattle profitability in mixed crop-livestock systems in south central coastal Vietnam using an integrated modelling approach",
+      "author": "Parsons",
+      "year": "2011"
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.envsoft.2014.07.009_bib154",
+      "doi-asserted-by": "crossref",
+      "first-page": "995",
+      "DOI": "10.1071/AR04303",
+      "article-title": "Deep drainage and land use systems. Model verification and systems comparison",
+      "volume": "56",
+      "author": "Paydar",
+      "year": "2005",
+      "journal-title": "Aust. J. Agric. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib155",
+      "series-title": "Global Issues. Paddock Action. Proceedings of 14th Agronomy Conference: Adelaide, South Australia",
+      "article-title": "The development of a model in APSIM for the simulation of grazing oats and oaten hay",
+      "author": "Peake",
+      "year": "2008"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2014.07.009_bib156",
+      "doi-asserted-by": "crossref",
+      "first-page": "147",
+      "DOI": "10.1071/CP12372",
+      "article-title": "Evaluating the accuracy of the Agricultural Production Systems Simulator (APSIM) simulating growth, development, and herbage nutritive characteristics of forage crops grown in the south-eastern dairy regions of Australia",
+      "volume": "64",
+      "author": "Pembleton",
+      "year": "2013",
+      "journal-title": "Crop Past. Sci."
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.envsoft.2014.07.009_bib157",
+      "doi-asserted-by": "crossref",
+      "first-page": "632",
+      "DOI": "10.1093/bioinformatics/14.7.632",
+      "article-title": "QU-GENE: a simulation platform for quantitative analysis of genetic models",
+      "volume": "14",
+      "author": "Podlich",
+      "year": "1998",
+      "journal-title": "Bioinformatics"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib158",
+      "doi-asserted-by": "crossref",
+      "first-page": "17",
+      "DOI": "10.1046/j.1439-0523.1999.118001017.x",
+      "article-title": "Computer simulation of a selection strategy to accommodate genotype-by-environment interaction in a wheat recurrent selection program",
+      "volume": "118",
+      "author": "Podlich",
+      "year": "1999",
+      "journal-title": "Plant Breed."
+    },
+    {
+      "issue": "1\u20132",
+      "key": "10.1016/j.envsoft.2014.07.009_bib159",
+      "doi-asserted-by": "crossref",
+      "first-page": "163",
+      "DOI": "10.1007/s10584-012-0543-0",
+      "article-title": "Spatial impact of projected changes in rainfall and temperature on wheat yields in Australia",
+      "volume": "117",
+      "author": "Potgieter",
+      "year": "2013",
+      "journal-title": "Clim. Change"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.envsoft.2014.07.009_bib160",
+      "doi-asserted-by": "crossref",
+      "first-page": "635",
+      "DOI": "10.1071/EA03250",
+      "article-title": "Use of simulation in assessing cropping system strategies for minimising salinity risk in brigalow landscapes",
+      "volume": "45",
+      "author": "Poulton",
+      "year": "2005",
+      "journal-title": "Aust. J. Exp. Agric."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2014.07.009_bib161",
+      "doi-asserted-by": "crossref",
+      "first-page": "171",
+      "DOI": "10.1016/j.fcr.2011.03.018",
+      "article-title": "A\u00a0multi-field bio-economic model of irrigated grain-cotton farming systems",
+      "volume": "124",
+      "author": "Power",
+      "year": "2011",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2014.07.009_bib162",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/S0308-521X(97)00028-0",
+      "article-title": "APSIM's water and nitrogen modules and simulation of the dynamics of water and nitrogen in fallow systems",
+      "volume": "56",
+      "author": "Probert",
+      "year": "1998",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib163",
+      "series-title": "Proceedings of the Ninth Australian Agronomy Conference, Wagga Wagga",
+      "first-page": "247",
+      "article-title": "Modelling lucerne growth using APSIM",
+      "author": "Probert",
+      "year": "1998"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2014.07.009_bib164",
+      "doi-asserted-by": "crossref",
+      "first-page": "275",
+      "DOI": "10.1016/S1364-8152(03)00153-1",
+      "article-title": "Making frameworks more useable: using model introspection and metadata to develop model processing tools",
+      "volume": "19",
+      "author": "Rahman",
+      "year": "2004",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib165",
+      "doi-asserted-by": "crossref",
+      "first-page": "195",
+      "DOI": "10.1016/S0160-4120(01)00082-4",
+      "article-title": "Global change impacts on wheat production along an environmental gradient in south Australia",
+      "volume": "27",
+      "author": "Reyenga",
+      "year": "2001",
+      "journal-title": "Environ. Int."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.envsoft.2014.07.009_bib166",
+      "doi-asserted-by": "crossref",
+      "first-page": "297",
+      "DOI": "10.1016/S1364-8152(98)00081-4",
+      "article-title": "Modelling global change impacts on wheat cropping in south-east Queensland, Australia",
+      "volume": "14",
+      "author": "Reyenga",
+      "year": "1999",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib167",
+      "doi-asserted-by": "crossref",
+      "first-page": "297",
+      "DOI": "10.1016/S1364-8152(98)00081-4",
+      "article-title": "Modelling global change impacts on wheat cropping in southeast Queensland",
+      "volume": "14",
+      "author": "Reyenga",
+      "year": "1999",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib168",
+      "series-title": "Field and Laboratory Methods for Grassland and Animal Production Research",
+      "first-page": "29",
+      "article-title": "Modelling pasture and animal production",
+      "author": "Rickert",
+      "year": "2000"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib169",
+      "doi-asserted-by": "crossref",
+      "first-page": "2",
+      "DOI": "10.1016/j.agsy.2013.04.007",
+      "article-title": "Life cycle assessment of phosphorus use efficient wheat grown in Australia",
+      "volume": "120",
+      "author": "Ridoutt",
+      "year": "2013",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.envsoft.2014.07.009_bib170",
+      "doi-asserted-by": "crossref",
+      "first-page": "826",
+      "DOI": "10.1071/AN09008",
+      "article-title": "Seeking simultaneous improvements in farm profit and natural resource indicators: a modelling analysis",
+      "volume": "49",
+      "author": "Robertson",
+      "year": "2009",
+      "journal-title": "Anim. Prod. Sci."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib171",
+      "series-title": "Proceedings of the twelth Aust. Res. Assembly on Brassicas, October, Geelong, Australia",
+      "article-title": "Simulating competition between canola and wild radish",
+      "author": "Robertson",
+      "year": "2001"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2014.07.009_bib172",
+      "doi-asserted-by": "crossref",
+      "first-page": "195",
+      "DOI": "10.1016/S0378-4290(01)00160-5",
+      "article-title": "Predicting growth and development of pigeonpea: a simulation model",
+      "volume": "71",
+      "author": "Robertson",
+      "year": "2001",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib173",
+      "series-title": "Proceedings Tenth Australian Soybean Conference: Brisbane, 15\u201317 September",
+      "first-page": "130",
+      "article-title": "Simulating growth and development of soybean in APSIM",
+      "author": "Robertson",
+      "year": "1998"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.envsoft.2014.07.009_bib174",
+      "doi-asserted-by": "crossref",
+      "first-page": "429",
+      "DOI": "10.1071/AR01106",
+      "article-title": "Simulation of growth and development of diverse legume species in APSIM",
+      "volume": "53",
+      "author": "Robertson",
+      "year": "2002",
+      "journal-title": "Aust. J. Agric. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib175",
+      "series-title": "Proceedings Tenth International Rapeseed Congress. (CD-Rom Proceedings)",
+      "article-title": "Simulating growth and development of canola in Australia",
+      "author": "Robertson",
+      "year": "1999"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2014.07.009_bib176",
+      "doi-asserted-by": "crossref",
+      "first-page": "91",
+      "DOI": "10.1016/j.fcr.2004.06.009",
+      "article-title": "Simulating response of maize to previous velvet bean (Mucuna pruriens) crop and nitrogen fertiliser in Malawi",
+      "volume": "91",
+      "author": "Robertson",
+      "year": "2005",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2014.07.009_bib177",
+      "doi-asserted-by": "crossref",
+      "first-page": "89",
+      "DOI": "10.1016/S0378-4290(01)00125-3",
+      "article-title": "Predicting growth and development of pigeonpea: biomass accumulation and partitioning",
+      "volume": "70",
+      "author": "Robertson",
+      "year": "2001",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib178",
+      "doi-asserted-by": "crossref",
+      "first-page": "50",
+      "DOI": "10.1016/j.agsy.2013.04.003",
+      "article-title": "A\u00a0whole farm modelling approach to understand impacts and increase preparedness to climate change in Australia",
+      "volume": "126",
+      "author": "Rodriguez",
+      "year": "2014",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2014.07.009_bib179",
+      "doi-asserted-by": "crossref",
+      "first-page": "157",
+      "DOI": "10.1016/j.fcr.2011.02.012",
+      "article-title": "The intrinsic plasticity of farm businesses and their resilience to change. An Australian example",
+      "volume": "124",
+      "author": "Rodriguez",
+      "year": "2011",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib180",
+      "doi-asserted-by": "crossref",
+      "first-page": "163",
+      "DOI": "10.1016/j.envsoft.2012.02.018",
+      "article-title": "Reanalysis of a global soil database for crop and environmental modeling",
+      "volume": "35",
+      "author": "Romero",
+      "year": "2012",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib181",
+      "series-title": "Texas Agricultural Experimental Station Computer Software Documentation Series, MP1669",
+      "article-title": "SORKAM: a grain sorghum crop growth model",
+      "author": "Rosenthal",
+      "year": "1989"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib182",
+      "doi-asserted-by": "crossref",
+      "first-page": "166",
+      "DOI": "10.1016/j.agrformet.2012.09.011",
+      "article-title": "The Agricultural Model Intercomparison and Improvement Project (AgMIP): protocols and pilot studies",
+      "volume": "170",
+      "author": "Rosenzweig",
+      "year": "2013",
+      "journal-title": "Agric. For. Meteorol."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib183",
+      "first-page": "425",
+      "article-title": "Developing multi-scale adaptation strategies: a case study for farming communities in Cambodia and Laos",
+      "volume": "4",
+      "author": "Roth",
+      "year": "2012",
+      "journal-title": "Asian J. Environ. Disaster Manag."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2014.07.009_bib184",
+      "doi-asserted-by": "crossref",
+      "first-page": "33",
+      "DOI": "10.1071/CP11321",
+      "article-title": "Water and thermal regimes for field pea in Australia and their implications for breeding",
+      "volume": "63",
+      "author": "Sadras",
+      "year": "2012",
+      "journal-title": "Crop Pasture Sci."
+    },
+    {
+      "issue": "2\u20133",
+      "key": "10.1016/j.envsoft.2014.07.009_bib185",
+      "doi-asserted-by": "crossref",
+      "first-page": "136",
+      "DOI": "10.1016/j.fcr.2006.04.003",
+      "article-title": "Modelled wheat phenology captures rising temperature trends: shortened time to flowering and maturity in Australia and Argentina",
+      "volume": "99",
+      "author": "Sadras",
+      "year": "2006",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib186",
+      "series-title": "Simulation of Nitrogen Behaviour of Soil-plant Systems",
+      "first-page": "192",
+      "article-title": "PAPRAN: a simulation model of annual pasture production limited by rainfall and nitrogen",
+      "author": "Seligman",
+      "year": "1981"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib187",
+      "series-title": "The Development of an Assessment Tool to Analyse the Productivity and Financial Viability of Dairy Farms in Pakistan",
+      "author": "Shafiullah",
+      "year": "2012"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib188",
+      "first-page": "67",
+      "article-title": "A\u00a0validation of APSIM nitrogen balance and leaching predictions",
+      "volume": "41",
+      "author": "Sharp",
+      "year": "2011",
+      "journal-title": "Agron. N. Z."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib189",
+      "doi-asserted-by": "crossref",
+      "first-page": "125",
+      "DOI": "10.1016/0378-4290(86)90082-1",
+      "article-title": "Water and nitrogen limitations in soybean grain production. I. Model development",
+      "volume": "15",
+      "author": "Sinclair",
+      "year": "1986",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2014.07.009_bib190",
+      "doi-asserted-by": "crossref",
+      "first-page": "135",
+      "DOI": "10.1016/j.agsy.2004.03.004",
+      "article-title": "Linking icon-based models to code-based models: a case study with the agricultural production systems simulator",
+      "volume": "83",
+      "author": "Smith",
+      "year": "2005",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib191",
+      "series-title": "The APSIM\u2013MICROMET Module",
+      "author": "Snow",
+      "year": "2004"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib192",
+      "doi-asserted-by": "crossref",
+      "first-page": "420",
+      "DOI": "10.1016/j.envsoft.2014.03.009",
+      "article-title": "The challenges \u2013 and some solutions \u2013 to process-based modelling of grazed agricultural systems",
+      "volume": "62",
+      "author": "Snow",
+      "year": "2014",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib193",
+      "doi-asserted-by": "crossref",
+      "first-page": "265",
+      "DOI": "10.1071/CP13074",
+      "article-title": "Process-based modelling to understand which ryegrass characteristics can increase production and decrease leaching in grazed grass-legume pastures",
+      "volume": "64",
+      "author": "Snow",
+      "year": "2013",
+      "journal-title": "Crop Past. Sci."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2014.07.009_bib194",
+      "doi-asserted-by": "crossref",
+      "first-page": "315",
+      "DOI": "10.1016/j.agwat.2005.05.002",
+      "article-title": "Estimating deep drainage and nitrate leaching from the root zone under sugarcane using APSIM-SWIM",
+      "volume": "81",
+      "author": "Stewart",
+      "year": "2006",
+      "journal-title": "Agric. Water Manag."
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/j.envsoft.2014.07.009_bib195",
+      "doi-asserted-by": "crossref",
+      "first-page": "289",
+      "DOI": "10.1016/S1161-0301(02)00109-0",
+      "article-title": "CropSyst, a cropping systems simulation model",
+      "volume": "18",
+      "author": "St\u00f6ckle",
+      "year": "2003",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib196",
+      "series-title": "16th Australian Agronomy Conference, University of New England in Armidale, NSW, 14\u201318th October 2012",
+      "article-title": "Adaptation strategies to climate change for New Zealand cropping rotations",
+      "author": "Teixeira",
+      "year": "2012"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib197",
+      "series-title": "Impacts of Climate Change on Land-based Sectors and Adaptation Options",
+      "first-page": "408",
+      "article-title": "Adapting broad acre farming to\u00a0climate change",
+      "author": "Teixeira",
+      "year": "2012"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.envsoft.2014.07.009_bib198",
+      "doi-asserted-by": "crossref",
+      "first-page": "778",
+      "DOI": "10.1071/CP08409",
+      "article-title": "Modelling seasonality of dry matter partitioning and root maintenance respiration in lucerne (Medicago sativa L.) crops",
+      "volume": "60",
+      "author": "Teixeira",
+      "year": "2009",
+      "journal-title": "Crop Past. Sci."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib199",
+      "series-title": "Capturing Opportunities and Overcoming Obstacles in Australian Agronomy. Proceedings of 16th Australian Agronomy Conference 2012, 14\u201318 October 2012: Armidale, NSW",
+      "article-title": "Grazing spring variety cereal crops reduces supplementary feeding in mixed cropping and sheep farms",
+      "author": "Thomas",
+      "year": "2012"
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.envsoft.2014.07.009_bib200",
+      "doi-asserted-by": "crossref",
+      "first-page": "699",
+      "DOI": "10.1071/AN09213",
+      "article-title": "Profitability of grazing crop stubbles may be overestimated by using the metabolisable energy intake from the stubble",
+      "volume": "50",
+      "author": "Thomas",
+      "year": "2010",
+      "journal-title": "Anim. Prod. Sci."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2014.07.009_bib201",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.agee.2011.08.003",
+      "article-title": "Environmental impacts of irrigated sugarcane production: nitrogen lost through runoff and leaching",
+      "volume": "144",
+      "author": "Thorburn",
+      "year": "2011",
+      "journal-title": "Agric. Ecosyst. Environ."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2014.07.009_bib202",
+      "doi-asserted-by": "crossref",
+      "first-page": "322",
+      "DOI": "10.1080/14735903.2011.582359",
+      "article-title": "Agricultural decision support systems facilitating co-learning: a case study on environmental impacts of sugarcane production",
+      "volume": "9",
+      "author": "Thorburn",
+      "year": "2011",
+      "journal-title": "Int. J. Agric. Sustain."
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/j.envsoft.2014.07.009_bib203",
+      "doi-asserted-by": "crossref",
+      "first-page": "343",
+      "DOI": "10.1016/j.agee.2009.12.014",
+      "article-title": "Using the APSIM model to estimate nitrous oxide emissions from diverse Australian sugarcane production systems",
+      "volume": "136",
+      "author": "Thorburn",
+      "year": "2010",
+      "journal-title": "Agric. Ecosyst. Environ."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib204",
+      "series-title": "International Society of Sugar Cane Technologists Proceedings XXVI Congress",
+      "first-page": "131",
+      "article-title": "Nitrate in groundwaters in the Australian sugar industry: implications for management of nitrogen fertiliser",
+      "author": "Thorburn",
+      "year": "2001"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2014.07.009_bib205",
+      "doi-asserted-by": "crossref",
+      "first-page": "223",
+      "DOI": "10.1016/S0378-4290(01)00141-1",
+      "article-title": "Modelling decomposition of sugar cane surface residues with APSIM-Residue",
+      "volume": "70",
+      "author": "Thorburn",
+      "year": "2001",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib206",
+      "first-page": "11",
+      "article-title": "Exploring the wide range of nitrous oxide emissions from sugarcane crops",
+      "volume": "28",
+      "author": "Thorburn",
+      "year": "2013",
+      "journal-title": "Soc. Sugar Cane Technol."
+    },
+    {
+      "issue": "2\u20133",
+      "key": "10.1016/j.envsoft.2014.07.009_bib207",
+      "doi-asserted-by": "crossref",
+      "first-page": "337",
+      "DOI": "10.1016/j.fcr.2005.01.016",
+      "article-title": "Modelling, nitrogen dynamics in sugarcane systems: recent advances and applications",
+      "volume": "92",
+      "author": "Thorburn",
+      "year": "2005",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib208",
+      "series-title": "Proceedings of the Annual Congress \u2013 South African Sugar Technologists' Association",
+      "first-page": "75",
+      "article-title": "Impacts of trash retention on soil nitrogen and water: an example from the Australian sugarcane industry",
+      "author": "Thorburn",
+      "year": "1999"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib209",
+      "series-title": "IPC Series on Climate Change Impacts, Adaptation and Mitigation",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1142/9781848169845_0007",
+      "article-title": "Climate change and agriculture in Australia and New Zealand",
+      "volume": "vol. 2",
+      "author": "Thorburn",
+      "year": "2012"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib210",
+      "series-title": "Proc. S. Afr. Sugar Cane Technol. Assoc",
+      "first-page": "260",
+      "article-title": "The impact of trash management on soil carbon and nitrogen. I. Modelling long-term experimental results in the South African sugar industry",
+      "author": "Thorburn",
+      "year": "2002"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib211",
+      "doi-asserted-by": "crossref",
+      "first-page": "4",
+      "DOI": "10.1016/j.agee.2013.07.006",
+      "article-title": "Water quality in agricultural lands draining to the Great Barrier Reef: review of causes, management and priorities",
+      "volume": "180",
+      "author": "Thorburn",
+      "year": "2014",
+      "journal-title": "Agric. Ecosyst. Environ."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib212",
+      "series-title": "Simulating Weed Persistence and Herbicide Resistance in the Northern Grain Region using a Validated Crop Growth Model with Extensions for Seedbank Dynamics and Mating",
+      "first-page": "1",
+      "author": "Thornby",
+      "year": "2010"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.envsoft.2014.07.009_bib213",
+      "doi-asserted-by": "crossref",
+      "first-page": "747",
+      "DOI": "10.1093/aob/mcp152",
+      "article-title": "Simulating the evolution of glyphosate resistance in grains farming in northern Australia",
+      "volume": "104",
+      "author": "Thornby",
+      "year": "2009",
+      "journal-title": "Ann. Bot."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2014.07.009_bib214",
+      "doi-asserted-by": "crossref",
+      "first-page": "39",
+      "DOI": "10.1071/AR02064",
+      "article-title": "Simulating fababean development, growth, and yield in Australia",
+      "volume": "54",
+      "author": "Turpin",
+      "year": "2003",
+      "journal-title": "Aust. J. Agric. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib215",
+      "series-title": "Simulation of Water Use, Nitrogen Nutrition and Growth of a Spring Wheat Crop",
+      "author": "van Keulen",
+      "year": "1987"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib216",
+      "doi-asserted-by": "crossref",
+      "first-page": "4",
+      "DOI": "10.1016/j.fcr.2012.09.009",
+      "article-title": "Yield gap analysis with local to global relevance \u2013 a review",
+      "volume": "143",
+      "author": "van Ittersum",
+      "year": "2013",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/j.envsoft.2014.07.009_bib217",
+      "doi-asserted-by": "crossref",
+      "first-page": "187",
+      "DOI": "10.1016/S1161-0301(02)00095-3",
+      "article-title": "Modelling cropping systems\u2014highlights of the symposium and preface to the special issues",
+      "volume": "18",
+      "author": "van Ittersum",
+      "year": "2003",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "issue": "1\u20133",
+      "key": "10.1016/j.envsoft.2014.07.009_bib218",
+      "doi-asserted-by": "crossref",
+      "first-page": "255",
+      "DOI": "10.1016/S0167-8809(03)00114-2",
+      "article-title": "Sensitivity of productivity and deep drainage of wheat cropping systems in a Mediterranean environment to changes in CO2, temperature and precipitation",
+      "volume": "97",
+      "author": "van Ittersum",
+      "year": "2003",
+      "journal-title": "Agric. Ecosyst. Environ."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2014.07.009_bib219",
+      "doi-asserted-by": "crossref",
+      "first-page": "67",
+      "DOI": "10.1016/S0378-4290(01)00165-4",
+      "article-title": "Simulating growth, development, and yield of tillering pearl millet II. Simulation of canopy development",
+      "volume": "72",
+      "author": "van Oosterom",
+      "year": "2001",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib220",
+      "series-title": "Use of APSIM to Simulate Water Balances of Dryland Farming Systems in South Eastern Australia",
+      "author": "Verberg",
+      "year": "2003"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib221",
+      "series-title": "SWIMv2.1 User Manual",
+      "author": "Verberg",
+      "year": "1996"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib222",
+      "unstructured": "Verburg, K., Keating, B., Bristow, K.L., Huth, N., Ross, P., Catchpoole, V., 1996b. Evaluation of Nitrogen Fertiliser Management Strategies in Sugarcane Using APSIM-SWIM. Sugarcane: Research Towards Efficient and Sustainable Production, Proc. Sugar 2000 Symposium: Towards a Sweeter Future, Brisbane, Australia, 19\u201323."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.envsoft.2014.07.009_bib223",
+      "doi-asserted-by": "crossref",
+      "first-page": "1129",
+      "DOI": "10.1071/AR07133",
+      "article-title": "Lucerne in crop rotations on the Riverine Plains. 3*. Model evaluation and simulation analyses",
+      "volume": "58",
+      "author": "Verburg",
+      "year": "2007",
+      "journal-title": "Aust. J. Agric. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib224",
+      "series-title": "Agronomy, Growing a Greener Future? Proceedings of the 9th Australian Agronomy Conference",
+      "article-title": "Nitrate leaching under sugarcane: Interactions between crop yield, soil type and management strategies",
+      "author": "Verburg",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib225",
+      "doi-asserted-by": "crossref",
+      "first-page": "21",
+      "DOI": "10.1016/j.agsy.2012.09.012",
+      "article-title": "Evaluation of mitigation strategies for nitrate leaching on pasture-based dairy systems",
+      "volume": "115",
+      "author": "Vogeler",
+      "year": "2013",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib226",
+      "doi-asserted-by": "crossref",
+      "first-page": "147",
+      "DOI": "10.1016/j.scitotenv.2012.09.021",
+      "article-title": "Comparison of APSIM and DNDC simulations of nitrogen transformations and N2O emissions",
+      "volume": "465",
+      "author": "Vogeler",
+      "year": "2013",
+      "journal-title": "Sci. Total Environ."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib227",
+      "doi-asserted-by": "crossref",
+      "first-page": "50",
+      "DOI": "10.1016/j.envsoft.2013.02.009",
+      "article-title": "Using systems modelling to explore the potential for root exudates to increase phosphorus use efficiency in cereal crops",
+      "volume": "46",
+      "author": "Wang",
+      "year": "2013",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib228",
+      "doi-asserted-by": "crossref",
+      "first-page": "135",
+      "DOI": "10.1016/j.fcr.2012.12.020",
+      "article-title": "Phenological trends of winter wheat in response to varietal and temperature changes in the North China Plain",
+      "volume": "144",
+      "author": "Wang",
+      "year": "2013",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "issue": "1\u20132",
+      "key": "10.1016/j.envsoft.2014.07.009_bib229",
+      "doi-asserted-by": "crossref",
+      "first-page": "121",
+      "DOI": "10.1016/S1161-0301(02)00100-4",
+      "article-title": "Development of a generic crop model template in the cropping system model APSIM",
+      "volume": "18",
+      "author": "Wang",
+      "year": "2002",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib230",
+      "series-title": "Proceedings of the 11th Australian Agronomy Conference",
+      "article-title": "The new APSIM-wheat model \u2013 performance and future improvements",
+      "author": "Wang",
+      "year": "2003"
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/j.envsoft.2014.07.009_bib232",
+      "doi-asserted-by": "crossref",
+      "first-page": "285",
+      "DOI": "10.1007/s00704-010-0343-2",
+      "article-title": "Modelling the impacts of climate change on wheat yield and field water balance over the Murray-Darling Basin in Australia",
+      "volume": "104",
+      "author": "Wang",
+      "year": "2011",
+      "journal-title": "Theor. Appl. Climatol."
+    },
+    {
+      "issue": "1\u20132",
+      "key": "10.1016/j.envsoft.2014.07.009_bib233",
+      "doi-asserted-by": "crossref",
+      "first-page": "79",
+      "DOI": "10.1007/s10584-009-9599-x",
+      "article-title": "Modelling the sensitivity of wheat growth and water balance to climate change in Southeast Australia",
+      "volume": "96",
+      "author": "Wang",
+      "year": "2009",
+      "journal-title": "Clim. Change"
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.envsoft.2014.07.009_bib234",
+      "doi-asserted-by": "crossref",
+      "first-page": "1159",
+      "DOI": "10.1071/MF08348",
+      "article-title": "The expected impact of climate change on nitrogen losses from wet tropical sugarcane production in the Great Barrier Reef region",
+      "volume": "60",
+      "author": "Webster",
+      "year": "2009",
+      "journal-title": "Mar. Freshw. Res."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.envsoft.2014.07.009_bib235",
+      "doi-asserted-by": "crossref",
+      "first-page": "823",
+      "DOI": "10.1175/2011JHM1369.1",
+      "article-title": "Creation of the watch forcing data and its use to assess global and regional reference crop evaporation over land during the Twentieth Century",
+      "volume": "12",
+      "author": "Weedon",
+      "year": "2011",
+      "journal-title": "J.\u00a0Hydrometeorol."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib236",
+      "series-title": "Implementing Sustainable Nutrient Management Strategies in Agriculture",
+      "first-page": "231",
+      "article-title": "OVERSEER(R) Nutrient budget model \u2013 what it is, what it does",
+      "author": "Wheeler",
+      "year": "2006"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2014.07.009_bib237",
+      "doi-asserted-by": "crossref",
+      "first-page": "11",
+      "DOI": "10.1071/AR04128",
+      "article-title": "Modelling the effects of row configuration on sorghum yield reliability in north-eastern Australia",
+      "volume": "56",
+      "author": "Whish",
+      "year": "2005",
+      "journal-title": "Aust. J. Agric. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib238",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.envsoft.2014.10.010",
+      "article-title": "Integrating population and biophysical models to better represent the farming system",
+      "author": "Whish",
+      "year": "2014",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2014.07.009_bib239",
+      "doi-asserted-by": "crossref",
+      "first-page": "51",
+      "DOI": "10.1016/j.eja.2009.05.004",
+      "article-title": "How farming systems simulation can aid the development of more sustainable smallholder farming systems in southern Africa",
+      "volume": "32",
+      "author": "Whitbread",
+      "year": "2010",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib240",
+      "doi-asserted-by": "crossref",
+      "first-page": "63",
+      "DOI": "10.1071/CP11250",
+      "article-title": "A\u00a0modelling analysis to identify plant traits for enhanced water-use efficiency of pasture",
+      "volume": "63",
+      "author": "White",
+      "year": "2012",
+      "journal-title": "Crop Past. Sci."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.envsoft.2014.07.009_bib241",
+      "doi-asserted-by": "crossref",
+      "first-page": "381",
+      "DOI": "10.1080/00224561.1983.12436327",
+      "article-title": "EPIC \u2013 a new method for assessing erosions effect on soil productivity",
+      "volume": "38",
+      "author": "Williams",
+      "year": "1983",
+      "journal-title": "J.\u00a0Soil Water Conserv."
+    },
+    {
+      "issue": "6\u20137",
+      "key": "10.1016/j.envsoft.2014.07.009_bib242",
+      "doi-asserted-by": "crossref",
+      "first-page": "799",
+      "DOI": "10.1071/EA08013",
+      "article-title": "Increased profitability and social outcomes from livestock in smallholder crop-livestock systems in developing countries: the ACIAR experience",
+      "volume": "48",
+      "author": "Winter",
+      "year": "2008",
+      "journal-title": "Aust. J. Exp. Agric."
+    },
+    {
+      "key": "10.1016/j.envsoft.2014.07.009_bib243",
+      "doi-asserted-by": "crossref",
+      "first-page": "231",
+      "DOI": "10.1016/j.envsoft.2012.08.007",
+      "article-title": "Large-scale, high-resolution agricultural systems modeling using a hybrid approach combining grid computing and parallel processing",
+      "volume": "41",
+      "author": "Zhao",
+      "year": "2013",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.envsoft.2014.07.009_bib244",
+      "doi-asserted-by": "crossref",
+      "first-page": "1585",
+      "DOI": "10.1111/gcb.12145",
+      "article-title": "Impact of agricultural management practices on soil organic carbon: simulation of Australian wheat systems",
+      "volume": "19",
+      "author": "Zhao",
+      "year": "2013",
+      "journal-title": "Glob. Change Biol."
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.envsoft.2014.07.009_bib245",
+      "doi-asserted-by": "crossref",
+      "first-page": "2899",
+      "DOI": "10.1111/j.1365-2486.2012.02724.x",
+      "article-title": "Breeding for the future: what are the potential impacts of future frost and heat events on sowing and flowering time requirements for Australian bread wheat (Triticum aestivium) varieties?",
+      "volume": "18",
+      "author": "Zheng",
+      "year": "2012",
+      "journal-title": "Glob. Change Biol."
+    }
+  ],
+  "container-title": [
+    "Environmental Modelling &amp; Software"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1364815214002102?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1364815214002102?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        4
+      ]
+    ],
+    "date-time": "2025-05-04T04:03:10Z",
+    "timestamp": 1746331390000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1364815214002102"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        12
+      ]
+    ]
+  },
+  "references-count": 244,
+  "alternative-id": [
+    "S1364815214002102"
+  ],
+  "URL": "https://doi.org/10.1016/j.envsoft.2014.07.009",
+  "relation": {},
+  "ISSN": [
+    "1364-8152"
+  ],
+  "issn-type": [
+    {
+      "value": "1364-8152",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2014,
+        12
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "APSIM \u2013 Evolution towards a new generation of agricultural systems simulation",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Environmental Modelling & Software",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.envsoft.2014.07.009",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "Crown copyright \u00a9 2014 Published by Elsevier Ltd. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "copied_missing_ignored_files": [
+    "models/phase8-v8/Full-Telemetry-ExtraTrees-fold4.joblib",
+    "models/phase8-v8/Sensorless-ExtraTrees-fold4.joblib",
+    "models/phase8-v8/Full-Telemetry-ExtraTrees-fold2.joblib",
+    "models/phase8-v8/Full-Telemetry-ExtraTrees-fold0.joblib",
+    "models/phase8-v8/Sensorless-ExtraTrees-fold2.joblib",
+    "models/phase8-v8/Full-Telemetry-ExtraTrees-fold1.joblib",
+    "models/phase8-v8/Full-Telemetry-ExtraTrees-fold3.joblib",
+    "models/phase8-v8/Sensorless-ExtraTrees-fold1.joblib",
+    "models/phase8-v8/Sensorless-ExtraTrees-fold0.joblib",
+    "models/phase8-v8/Sensorless-ExtraTrees-fold3.joblib"
+  ],
+  "original_sources_unmodified": true
+}

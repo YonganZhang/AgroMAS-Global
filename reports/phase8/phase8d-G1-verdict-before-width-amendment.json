@@ -1,0 +1,179 @@
+{
+  "status": "G1_FAIL_HALT",
+  "results": {
+    "Full-Telemetry-mlp": {
+      "samples": 19770,
+      "unique_prefix_groups": 1200,
+      "caps": {
+        "25": {
+          "brier": 0.0308133194956108,
+          "tree_brier": 0.036167692845354885,
+          "climatology_brier": 0.07809979754217694,
+          "BSS_vs_ExtraTrees": 0.14804298888066236,
+          "BSS_vs_region_stage_climatology": 0.6054622359427961,
+          "primary_event": "S_N <= cap"
+        },
+        "35": {
+          "brier": 0.031170678009610982,
+          "tree_brier": 0.03716349297938315,
+          "climatology_brier": 0.07407856982345382,
+          "BSS_vs_ExtraTrees": 0.16125542809166904,
+          "BSS_vs_region_stage_climatology": 0.5792213850254151,
+          "primary_event": "S_N <= cap"
+        },
+        "40": {
+          "brier": 0.030860245370851545,
+          "tree_brier": 0.03711147139014693,
+          "climatology_brier": 0.07269383073418384,
+          "BSS_vs_ExtraTrees": 0.16844457482101016,
+          "BSS_vs_region_stage_climatology": 0.5754764185739947,
+          "primary_event": "S_N <= cap"
+        },
+        "50": {
+          "brier": 0.02727274863223476,
+          "tree_brier": 0.03428728835624108,
+          "climatology_brier": 0.0676855119648207,
+          "BSS_vs_ExtraTrees": 0.2045813495405655,
+          "BSS_vs_region_stage_climatology": 0.5970666714257894,
+          "primary_event": "S_N <= cap"
+        }
+      },
+      "conformal_radius_kg_ha": -5.73991591431394,
+      "Dev_crossyear_macro_90pct_coverage": 0.9078224974200206,
+      "Dev_calibration_set_90pct_coverage": 0.9184313725490196,
+      "partial_profit_ranking_regret_EUR_ha": 3.6662372535540726,
+      "ExtraTrees_regret_EUR_ha": 7.250367854543621,
+      "by_region": {
+        "australia_wa_perth": {
+          "crossyear_coverage": 0.7519091847265221,
+          "samples": 4845
+        },
+        "china_ncp_luancheng": {
+          "crossyear_coverage": 1.0,
+          "samples": 390
+        },
+        "france_paris_beauce": {
+          "crossyear_coverage": 0.936016511867905,
+          "samples": 4845
+        },
+        "netherlands_lelystad": {
+          "crossyear_coverage": 0.8844169246646028,
+          "samples": 4845
+        },
+        "usa_kansas_wichita": {
+          "crossyear_coverage": 0.9667698658410734,
+          "samples": 4845
+        }
+      },
+      "gates": {
+        "BSS_positive_both_references_all_caps": true,
+        "coverage_85_to_95": true,
+        "ranking_regret_strictly_lower_than_ExtraTrees": true
+      },
+      "passed": true,
+      "distribution": "full TRAIN analog branch x32 region-stage residual product",
+      "coverage_scope": "fixed reused Dev cross-year calibration diagnostic,not prospective assurance"
+    },
+    "Sensorless-mlp": {
+      "samples": 19770,
+      "unique_prefix_groups": 1200,
+      "caps": {
+        "25": {
+          "brier": 0.03445686096313352,
+          "tree_brier": 0.03595192159351927,
+          "climatology_brier": 0.07809979754217694,
+          "BSS_vs_ExtraTrees": 0.04158499919112113,
+          "BSS_vs_region_stage_climatology": 0.5588098554989791,
+          "primary_event": "S_N <= cap"
+        },
+        "35": {
+          "brier": 0.03445884050531123,
+          "tree_brier": 0.0370010937866113,
+          "climatology_brier": 0.07407856982345382,
+          "BSS_vs_ExtraTrees": 0.0687075170253475,
+          "BSS_vs_region_stage_climatology": 0.5348338853269639,
+          "primary_event": "S_N <= cap"
+        },
+        "40": {
+          "brier": 0.0343976934583045,
+          "tree_brier": 0.03664015838977432,
+          "climatology_brier": 0.07269383073418384,
+          "BSS_vs_ExtraTrees": 0.061202380939915924,
+          "BSS_vs_region_stage_climatology": 0.5268141311181557,
+          "primary_event": "S_N <= cap"
+        },
+        "50": {
+          "brier": 0.03182971401640478,
+          "tree_brier": 0.03405284508130229,
+          "climatology_brier": 0.0676855119648207,
+          "BSS_vs_ExtraTrees": 0.06528473787108557,
+          "BSS_vs_region_stage_climatology": 0.5297411057044503,
+          "primary_event": "S_N <= cap"
+        }
+      },
+      "conformal_radius_kg_ha": -6.781251086203156,
+      "Dev_crossyear_macro_90pct_coverage": 0.9036532507739938,
+      "Dev_calibration_set_90pct_coverage": 0.9184313725490196,
+      "partial_profit_ranking_regret_EUR_ha": 4.757264356467536,
+      "ExtraTrees_regret_EUR_ha": 8.042081420632549,
+      "by_region": {
+        "australia_wa_perth": {
+          "crossyear_coverage": 0.9463364293085654,
+          "samples": 4845
+        },
+        "china_ncp_luancheng": {
+          "crossyear_coverage": 1.0,
+          "samples": 390
+        },
+        "france_paris_beauce": {
+          "crossyear_coverage": 0.8850361197110423,
+          "samples": 4845
+        },
+        "netherlands_lelystad": {
+          "crossyear_coverage": 0.8194014447884418,
+          "samples": 4845
+        },
+        "usa_kansas_wichita": {
+          "crossyear_coverage": 0.8674922600619196,
+          "samples": 4845
+        }
+      },
+      "gates": {
+        "BSS_positive_both_references_all_caps": true,
+        "coverage_85_to_95": true,
+        "ranking_regret_strictly_lower_than_ExtraTrees": true
+      },
+      "passed": true,
+      "distribution": "full TRAIN analog branch x32 region-stage residual product",
+      "coverage_scope": "fixed reused Dev cross-year calibration diagnostic,not prospective assurance"
+    }
+  },
+  "Full_vs_Sensorless": {
+    "Full_radius_strictly_tighter": false,
+    "Full_regret_strictly_lower": true
+  },
+  "Dev_accesses": 1,
+  "no_Dev_hyperparameter_adjustment": true,
+  "source_files": {
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/online_features.py": "7c29b906c69939a59a9b82a4ba9cf18220ba0b8c359a8e638afc47a37210c822",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/offline_verification.py": "7421564f072a1a1b45170cce293b9c7cafc0b608e00c7a40092c5eca2969edec",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/prior_adapter.py": "787fb7022877ca45274fa99627100df6cdc9a7fdac31171f1db71d95d9795170",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/referee.py": "b59008c8554ea6d7178b064a0d4463402aa17a4ee8bf196460ac580dbf821f7a",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/data.py": "b81acf3d30202d8c025bafef0cec17424fa28ed83b1f1c67ed0bdeec85b33957",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/trajectory_cache.py": "f2616ef4e87e3691566d452d01330c860f17e284c3e63b806b611aea881c543a",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/climate.py": "aa4444ecf912efcc8d4c3bed28fd046d1dd60cb911e54d73ea8b5499d85866b7",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/agents.py": "477dfba9a88058b572917408bd430ad23675f8ba5c58d892da81fef7b41d6007",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/tree_weather.py": "2ee866a9d3e0eebfe010e7cc19acfeded8b2a6bf1a0b88fb971ae93a3a78961d",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/__init__.py": "2a0e17437e2811a4f39191fb6c65f2aad14f70048ec51fe81f4659136d097f61",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/controller.py": "059e7ca6617e9438d9f2e0bd9180981b2d604e7bdcecdceba252b75c980281f4",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/models.py": "2da076ea4d3444a6b74e9bf0eaba60f323bcd00792a239fec41bf0718739234c",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/ood.py": "72bbda6953f0f79bdd07e693a89bd85b6b2ffcdfb1624fed0802f86d17b38974",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/ledger.py": "bfb9b923f4c70411fc4ae838b8b3df6fb4fab3c2eb127494cd00e0a93830a47c",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/lightning_container.py": "4cbc22bf06e3aebc929016df62acd3ae7a71b0a50c214b670f95424e545b5d15",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/policies.py": "33776215af7612a25d636abf48f79aac56e1ae40e9f0591fa1baf76f125ae47b",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/planning.py": "3019a5e5e9a5befeb7ca4e95b79d2d30eb5b990784e3027e3bd73956c91d66ae",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/joint_model.py": "5c61bd704130fea2d6325cb1f371ff3ef89abeb6782d72aa8afc0ae63ca83db9",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/book_policy.py": "6a5f65c31928538ededf5ac0a19c23d90f86e862d765522bd19293f2329dd917",
+    "NUE_PCSE-Gym/pcse_gym/agromas_v8/scoring.py": "a4306fbe0f60912380453da9c71e66cc1922ef07205927601110bcfe0f42117a"
+  }
+}

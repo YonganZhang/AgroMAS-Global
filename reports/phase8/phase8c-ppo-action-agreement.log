@@ -1,0 +1,1 @@
+{"status": "complete", "episodes": 198, "matching_episodes": 198, "all_decision_action_sequences_exact_match": true, "outcome_bit_equal_episodes": 198, "max_abs_outcome_difference": 0.0, "source": "once-executed matching main-campaign cases;checkpoints frozen before execution", "no_extra_physics": true, "no_selection_or_refitting_based_on_agreement": true}

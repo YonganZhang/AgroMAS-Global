@@ -1,0 +1,21 @@
+{
+  "key": "Full-Telemetry-residual-mlp-fold4-seed20261117",
+  "track": "Full-Telemetry",
+  "architecture": "residual-mlp",
+  "fold": 4,
+  "seed": 20261117,
+  "n_fit": 142344,
+  "n_validation": 35586,
+  "parameters": 13155,
+  "epochs": 80,
+  "global_steps": 5600,
+  "elapsed_seconds": 29.498702726326883,
+  "cuda_device": "NVIDIA GeForce RTX 5080",
+  "torch": "2.10.0+cu128",
+  "lightning": "2.6.5",
+  "weight_path": "models/phase8-v8/Full-Telemetry-residual-mlp-fold4-seed20261117/model.pt",
+  "weight_sha256": "538f51161a95230e53cb77784faada365ebb84f9308ef7a65db4566b20117b17",
+  "prediction_path": "cache/phase8-train-arrays/Full-Telemetry-residual-mlp-fold4-seed20261117-pred.npy",
+  "validation_role": "outer_TRAIN_OOF",
+  "Dev_used": false
+}

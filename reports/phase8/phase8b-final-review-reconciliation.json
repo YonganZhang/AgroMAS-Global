@@ -1,0 +1,27 @@
+{
+  "status": "COMPLETE:3actualexit0reports collected; host corrections verified; no rescore",
+  "Kimi": "complete; no supported blocker or important defect",
+  "Gemini": {
+    "blockers": 0,
+    "findings": {
+      "report_regenerator_and_GFM": "fixed by approved text fragments and8column delimiter; no numerical changes",
+      "stale_label_and_codemap": "fixed; residual-mlp label and current v8 implementation index corrected",
+      "openloop_OOD_trace_null_fields": "documented14of177stage decisions; zero-dose/Tier3/outcomes unaffected; original traces immutable; code hygiene deferred beyond current frozen evaluation",
+      "auxiliary_tax_and_fixed_context": "all evaluatedtax0andbaselineprice/subsidy contexts make omissions inactive; futureQ8.4out ofscope, no source/model or result rewrite"
+    }
+  },
+  "post_outcome_model_changes": false,
+  "rescored_seasons": 0,
+  "DeepSeek": {
+    "Holm_scope": "corrected:0/128joint contrasts survive Holm;21nonjoint differences(7profitpositive,7Nlossnegative,7soilminingpositive) explicitly reported",
+    "soft_tiers": "metadata labels and main report clarify soft-selection not hard compliance; frozen protocol preserved with supplemental clarification",
+    "recovery": "explicit original6/recovery1 1454 with failed assertion/recovery2 557 exits0; historical epoch27 halt snapshot labelled;193final count clear",
+    "trace_nulls": "14/177later-stageopenloopOOD metadata nulls explicitly disclosed; outcomes/tiers unchanged, raw traces untouched",
+    "WUR_coverage": "limited9policies,notfullmatrix,nowexplicit",
+    "WUR_attribution": "review inference rejected with executable function-binding proof:tree_weather imports originalNASAregional_weather;onlyseasonmodulepatchedforWURengine construction; no physics executed",
+    "P2_effective_n": "n22,n_eff3,ties19,exactsignp1 now beside headline"
+  },
+  "reviewer_minor_denominator_note": "Gemini0/279888is totalLOYOtrainingrows; China-onlytrainingdenominator8568. Zero rejection claim unchanged; original review preserved.",
+  "all_numeric_statistics_unchanged": true,
+  "new_native_runs_after_review": 0
+}

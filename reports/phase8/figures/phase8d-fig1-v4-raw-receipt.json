@@ -1,0 +1,25 @@
+{
+  "variants": [
+    {
+      "path": "reports/phase8/figures/fig1-candidates/candidate-b-v4-1.png",
+      "sha256": "0c2b6f517634d780190312c37a3947d0fe5f6fbe8e6c847e3b5e5051f8b0f4ce",
+      "original_imagegen_output": "/mnt/data/yongan-admin-2/.codex-homes/\u9876\u520a\u8bba\u6587-3fa034/generated_images/01a1d8b0-fe44-73f2-80d4-cbc61929a101/exec-8c863a50-84d0-46dd-b06b-4c37dde82afc.png",
+      "prompt_sha256": "961202bc5b1683c89cb20fe07bc6cac3152746797a5267389b1955564ae9d8e8"
+    },
+    {
+      "path": "reports/phase8/figures/fig1-candidates/candidate-b-v4-2.png",
+      "sha256": "cd816c3fd568f34303b5df007144c29dce4cb70f434fd3ec397dc46b224f7ed8",
+      "original_imagegen_output": "/mnt/data/yongan-admin-2/.codex-homes/\u9876\u520a\u8bba\u6587-3fa034/generated_images/01a1d8b0-fe44-73f2-80d4-cbc61929a101/exec-fc487c59-5d1b-45ff-839f-dec805f4e3fe.png",
+      "prompt_sha256": "10e3fc3ed9fbb070aca45d1ca27afab220a4402b32471714aaaf4b51e2fb6e89"
+    }
+  ],
+  "selected": "reports/phase8/figures/fig1-candidates/candidate-b-v4-2.png",
+  "best_sha256": "cd816c3fd568f34303b5df007144c29dce4cb70f434fd3ec397dc46b224f7ed8",
+  "selection_status": "Confirmed by host visual inspection and Gemini Carbon medium native visual QA, job20261116T210443__gemini__2078967 COMPLETE/PASS",
+  "source_reference": "reports/phase8/figures/fig1-candidates/candidate-b-v3-3.png",
+  "source_sha256": "978258b4628f06571b3fe8789b64c1e89e772aadd7e5a48df01bb354fa060676",
+  "no_pptx_conversion": true,
+  "raw_byte_preservation": true,
+  "review_report": "reports/phase8/figures/cea-v4-reviews/gemini-visual-result.md",
+  "inherited_limitations": "Local fan-removal polish preserves chosen raw composition; compressed Static3/adapter wiring and policy labels on the schematic meter remain illustrative, not measured performance."
+}

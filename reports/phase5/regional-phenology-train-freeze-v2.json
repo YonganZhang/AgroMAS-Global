@@ -1,0 +1,713 @@
+{
+  "selected": {
+    "netherlands_lelystad": {
+      "cultivar": "Arminda",
+      "thermal_scale": 1.0
+    },
+    "china_ncp_luancheng": {
+      "cultivar": "Arminda",
+      "thermal_scale": 0.85
+    },
+    "usa_kansas_wichita": {
+      "cultivar": "Arminda",
+      "thermal_scale": 1.0
+    },
+    "france_paris_beauce": {
+      "cultivar": "Winter_wheat_105",
+      "thermal_scale": 1.15
+    },
+    "australia_wa_perth": {
+      "cultivar": "Winter_wheat_106",
+      "thermal_scale": 1.15
+    }
+  },
+  "summary": {
+    "netherlands_lelystad": {
+      "selected": {
+        "cultivar": "Arminda",
+        "thermal_scale": 1.0,
+        "total": 25,
+        "completed": 25,
+        "mature": 25,
+        "eligible": true,
+        "median_maturity_offset_days": 0.0,
+        "mean_yield_dm_t_ha": 10.08421037699807
+      },
+      "candidates": [
+        {
+          "cultivar": "Arminda",
+          "thermal_scale": 1.0,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": 0.0,
+          "mean_yield_dm_t_ha": 10.08421037699807
+        },
+        {
+          "cultivar": "Arminda",
+          "thermal_scale": 0.85,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -14.0,
+          "mean_yield_dm_t_ha": 11.231196001766824
+        },
+        {
+          "cultivar": "Arminda",
+          "thermal_scale": 1.15,
+          "total": 25,
+          "completed": 25,
+          "mature": 19,
+          "eligible": false,
+          "median_maturity_offset_days": 13.0,
+          "mean_yield_dm_t_ha": 8.75998431833019
+        },
+        {
+          "cultivar": "Winter_wheat_105",
+          "thermal_scale": 1.0,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -6.0,
+          "mean_yield_dm_t_ha": 9.003206308094883
+        },
+        {
+          "cultivar": "Winter_wheat_105",
+          "thermal_scale": 0.85,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -20.0,
+          "mean_yield_dm_t_ha": 8.658237471186377
+        },
+        {
+          "cultivar": "Winter_wheat_105",
+          "thermal_scale": 1.15,
+          "total": 25,
+          "completed": 25,
+          "mature": 22,
+          "eligible": false,
+          "median_maturity_offset_days": 5.5,
+          "mean_yield_dm_t_ha": 9.062806648389174
+        },
+        {
+          "cultivar": "Winter_wheat_106",
+          "thermal_scale": 1.0,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -2.0,
+          "mean_yield_dm_t_ha": 8.866252982095528
+        },
+        {
+          "cultivar": "Winter_wheat_106",
+          "thermal_scale": 0.85,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -17.0,
+          "mean_yield_dm_t_ha": 8.716799734144747
+        },
+        {
+          "cultivar": "Winter_wheat_106",
+          "thermal_scale": 1.15,
+          "total": 25,
+          "completed": 25,
+          "mature": 20,
+          "eligible": false,
+          "median_maturity_offset_days": 11.0,
+          "mean_yield_dm_t_ha": 8.633074706656481
+        },
+        {
+          "cultivar": "Winter_wheat_107",
+          "thermal_scale": 1.0,
+          "total": 25,
+          "completed": 25,
+          "mature": 24,
+          "eligible": true,
+          "median_maturity_offset_days": 3.0,
+          "mean_yield_dm_t_ha": 8.451101191911473
+        },
+        {
+          "cultivar": "Winter_wheat_107",
+          "thermal_scale": 0.85,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -13.0,
+          "mean_yield_dm_t_ha": 8.588584764840533
+        },
+        {
+          "cultivar": "Winter_wheat_107",
+          "thermal_scale": 1.15,
+          "total": 25,
+          "completed": 25,
+          "mature": 14,
+          "eligible": false,
+          "median_maturity_offset_days": 16.5,
+          "mean_yield_dm_t_ha": 7.671076162495899
+        }
+      ]
+    },
+    "china_ncp_luancheng": {
+      "selected": {
+        "cultivar": "Arminda",
+        "thermal_scale": 0.85,
+        "total": 25,
+        "completed": 25,
+        "mature": 25,
+        "eligible": true,
+        "median_maturity_offset_days": 2.0,
+        "mean_yield_dm_t_ha": 3.1077564143154133
+      },
+      "candidates": [
+        {
+          "cultivar": "Arminda",
+          "thermal_scale": 1.0,
+          "total": 25,
+          "completed": 25,
+          "mature": 22,
+          "eligible": false,
+          "median_maturity_offset_days": 12.0,
+          "mean_yield_dm_t_ha": 2.0237642033109746
+        },
+        {
+          "cultivar": "Arminda",
+          "thermal_scale": 0.85,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": 2.0,
+          "mean_yield_dm_t_ha": 3.1077564143154133
+        },
+        {
+          "cultivar": "Arminda",
+          "thermal_scale": 1.15,
+          "total": 25,
+          "completed": 25,
+          "mature": 0,
+          "eligible": false,
+          "median_maturity_offset_days": null,
+          "mean_yield_dm_t_ha": 1.0443972637109895
+        },
+        {
+          "cultivar": "Winter_wheat_105",
+          "thermal_scale": 1.0,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": 4.0,
+          "mean_yield_dm_t_ha": 3.8523311740693043
+        },
+        {
+          "cultivar": "Winter_wheat_105",
+          "thermal_scale": 0.85,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -6.0,
+          "mean_yield_dm_t_ha": 4.083744389977708
+        },
+        {
+          "cultivar": "Winter_wheat_105",
+          "thermal_scale": 1.15,
+          "total": 25,
+          "completed": 25,
+          "mature": 19,
+          "eligible": false,
+          "median_maturity_offset_days": 13.0,
+          "mean_yield_dm_t_ha": 3.1627689844910183
+        },
+        {
+          "cultivar": "Winter_wheat_106",
+          "thermal_scale": 1.0,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": 6.0,
+          "mean_yield_dm_t_ha": 3.498036235399389
+        },
+        {
+          "cultivar": "Winter_wheat_106",
+          "thermal_scale": 0.85,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -4.0,
+          "mean_yield_dm_t_ha": 3.9301691138521146
+        },
+        {
+          "cultivar": "Winter_wheat_106",
+          "thermal_scale": 1.15,
+          "total": 25,
+          "completed": 25,
+          "mature": 12,
+          "eligible": false,
+          "median_maturity_offset_days": 14.0,
+          "mean_yield_dm_t_ha": 2.6559489354188615
+        },
+        {
+          "cultivar": "Winter_wheat_107",
+          "thermal_scale": 1.0,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": 8.0,
+          "mean_yield_dm_t_ha": 2.942695415594575
+        },
+        {
+          "cultivar": "Winter_wheat_107",
+          "thermal_scale": 0.85,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -3.0,
+          "mean_yield_dm_t_ha": 3.47585548984374
+        },
+        {
+          "cultivar": "Winter_wheat_107",
+          "thermal_scale": 1.15,
+          "total": 25,
+          "completed": 25,
+          "mature": 4,
+          "eligible": false,
+          "median_maturity_offset_days": 14.5,
+          "mean_yield_dm_t_ha": 1.9726828724279846
+        }
+      ]
+    },
+    "usa_kansas_wichita": {
+      "selected": {
+        "cultivar": "Arminda",
+        "thermal_scale": 1.0,
+        "total": 25,
+        "completed": 25,
+        "mature": 25,
+        "eligible": true,
+        "median_maturity_offset_days": 0.0,
+        "mean_yield_dm_t_ha": 3.488962619469108
+      },
+      "candidates": [
+        {
+          "cultivar": "Arminda",
+          "thermal_scale": 1.0,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": 0.0,
+          "mean_yield_dm_t_ha": 3.488962619469108
+        },
+        {
+          "cultivar": "Arminda",
+          "thermal_scale": 0.85,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -11.0,
+          "mean_yield_dm_t_ha": 4.180243636008242
+        },
+        {
+          "cultivar": "Arminda",
+          "thermal_scale": 1.15,
+          "total": 25,
+          "completed": 25,
+          "mature": 20,
+          "eligible": false,
+          "median_maturity_offset_days": 11.0,
+          "mean_yield_dm_t_ha": 2.7692420179328185
+        },
+        {
+          "cultivar": "Winter_wheat_105",
+          "thermal_scale": 1.0,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -8.0,
+          "mean_yield_dm_t_ha": 4.486778162126099
+        },
+        {
+          "cultivar": "Winter_wheat_105",
+          "thermal_scale": 0.85,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -20.0,
+          "mean_yield_dm_t_ha": 4.553264348174447
+        },
+        {
+          "cultivar": "Winter_wheat_105",
+          "thermal_scale": 1.15,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": 2.0,
+          "mean_yield_dm_t_ha": 4.283264952007652
+        },
+        {
+          "cultivar": "Winter_wheat_106",
+          "thermal_scale": 1.0,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -7.0,
+          "mean_yield_dm_t_ha": 4.2734628489516835
+        },
+        {
+          "cultivar": "Winter_wheat_106",
+          "thermal_scale": 0.85,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -18.0,
+          "mean_yield_dm_t_ha": 4.343925400454671
+        },
+        {
+          "cultivar": "Winter_wheat_106",
+          "thermal_scale": 1.15,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": 3.0,
+          "mean_yield_dm_t_ha": 3.973459189986081
+        },
+        {
+          "cultivar": "Winter_wheat_107",
+          "thermal_scale": 1.0,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -7.0,
+          "mean_yield_dm_t_ha": 3.706872179997191
+        },
+        {
+          "cultivar": "Winter_wheat_107",
+          "thermal_scale": 0.85,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -19.0,
+          "mean_yield_dm_t_ha": 3.6166262038561587
+        },
+        {
+          "cultivar": "Winter_wheat_107",
+          "thermal_scale": 1.15,
+          "total": 25,
+          "completed": 25,
+          "mature": 24,
+          "eligible": true,
+          "median_maturity_offset_days": 4.5,
+          "mean_yield_dm_t_ha": 3.441931909941333
+        }
+      ]
+    },
+    "france_paris_beauce": {
+      "selected": {
+        "cultivar": "Winter_wheat_105",
+        "thermal_scale": 1.15,
+        "total": 25,
+        "completed": 25,
+        "mature": 25,
+        "eligible": true,
+        "median_maturity_offset_days": 2.0,
+        "mean_yield_dm_t_ha": 8.862024235859435
+      },
+      "candidates": [
+        {
+          "cultivar": "Arminda",
+          "thermal_scale": 1.0,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -4.0,
+          "mean_yield_dm_t_ha": 9.64903361653497
+        },
+        {
+          "cultivar": "Arminda",
+          "thermal_scale": 0.85,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -18.0,
+          "mean_yield_dm_t_ha": 10.971073138421213
+        },
+        {
+          "cultivar": "Arminda",
+          "thermal_scale": 1.15,
+          "total": 25,
+          "completed": 25,
+          "mature": 22,
+          "eligible": false,
+          "median_maturity_offset_days": 9.5,
+          "mean_yield_dm_t_ha": 8.190778821168466
+        },
+        {
+          "cultivar": "Winter_wheat_105",
+          "thermal_scale": 1.0,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -11.0,
+          "mean_yield_dm_t_ha": 8.623788343930386
+        },
+        {
+          "cultivar": "Winter_wheat_105",
+          "thermal_scale": 0.85,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -25.0,
+          "mean_yield_dm_t_ha": 8.08717059277616
+        },
+        {
+          "cultivar": "Winter_wheat_105",
+          "thermal_scale": 1.15,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": 2.0,
+          "mean_yield_dm_t_ha": 8.862024235859435
+        },
+        {
+          "cultivar": "Winter_wheat_106",
+          "thermal_scale": 1.0,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -8.0,
+          "mean_yield_dm_t_ha": 8.604807918865136
+        },
+        {
+          "cultivar": "Winter_wheat_106",
+          "thermal_scale": 0.85,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -22.0,
+          "mean_yield_dm_t_ha": 8.21002509770458
+        },
+        {
+          "cultivar": "Winter_wheat_106",
+          "thermal_scale": 1.15,
+          "total": 25,
+          "completed": 25,
+          "mature": 24,
+          "eligible": true,
+          "median_maturity_offset_days": 7.0,
+          "mean_yield_dm_t_ha": 8.526278079246474
+        },
+        {
+          "cultivar": "Winter_wheat_107",
+          "thermal_scale": 1.0,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -2.0,
+          "mean_yield_dm_t_ha": 8.274069085714522
+        },
+        {
+          "cultivar": "Winter_wheat_107",
+          "thermal_scale": 0.85,
+          "total": 25,
+          "completed": 25,
+          "mature": 25,
+          "eligible": true,
+          "median_maturity_offset_days": -18.0,
+          "mean_yield_dm_t_ha": 8.17074404971907
+        },
+        {
+          "cultivar": "Winter_wheat_107",
+          "thermal_scale": 1.15,
+          "total": 25,
+          "completed": 25,
+          "mature": 22,
+          "eligible": false,
+          "median_maturity_offset_days": 13.0,
+          "mean_yield_dm_t_ha": 7.668091396651228
+        }
+      ]
+    },
+    "australia_wa_perth": {
+      "selected": {
+        "cultivar": "Winter_wheat_106",
+        "thermal_scale": 1.15,
+        "total": 26,
+        "completed": 26,
+        "mature": 26,
+        "eligible": true,
+        "median_maturity_offset_days": -2.5,
+        "mean_yield_dm_t_ha": 5.176563810520599
+      },
+      "candidates": [
+        {
+          "cultivar": "Arminda",
+          "thermal_scale": 1.0,
+          "total": 26,
+          "completed": 26,
+          "mature": 26,
+          "eligible": true,
+          "median_maturity_offset_days": -7.0,
+          "mean_yield_dm_t_ha": 5.227264887476443
+        },
+        {
+          "cultivar": "Arminda",
+          "thermal_scale": 0.85,
+          "total": 26,
+          "completed": 26,
+          "mature": 26,
+          "eligible": true,
+          "median_maturity_offset_days": -26.0,
+          "mean_yield_dm_t_ha": 5.164961586480488
+        },
+        {
+          "cultivar": "Arminda",
+          "thermal_scale": 1.15,
+          "total": 26,
+          "completed": 26,
+          "mature": 24,
+          "eligible": true,
+          "median_maturity_offset_days": 10.5,
+          "mean_yield_dm_t_ha": 4.937120200544618
+        },
+        {
+          "cultivar": "Winter_wheat_105",
+          "thermal_scale": 1.0,
+          "total": 26,
+          "completed": 26,
+          "mature": 26,
+          "eligible": true,
+          "median_maturity_offset_days": -26.0,
+          "mean_yield_dm_t_ha": 4.77518151714416
+        },
+        {
+          "cultivar": "Winter_wheat_105",
+          "thermal_scale": 0.85,
+          "total": 26,
+          "completed": 26,
+          "mature": 26,
+          "eligible": true,
+          "median_maturity_offset_days": -45.5,
+          "mean_yield_dm_t_ha": 4.418277804051957
+        },
+        {
+          "cultivar": "Winter_wheat_105",
+          "thermal_scale": 1.15,
+          "total": 26,
+          "completed": 26,
+          "mature": 26,
+          "eligible": true,
+          "median_maturity_offset_days": -8.5,
+          "mean_yield_dm_t_ha": 5.065858070226861
+        },
+        {
+          "cultivar": "Winter_wheat_106",
+          "thermal_scale": 1.0,
+          "total": 26,
+          "completed": 26,
+          "mature": 26,
+          "eligible": true,
+          "median_maturity_offset_days": -19.5,
+          "mean_yield_dm_t_ha": 5.041498215169326
+        },
+        {
+          "cultivar": "Winter_wheat_106",
+          "thermal_scale": 0.85,
+          "total": 26,
+          "completed": 26,
+          "mature": 26,
+          "eligible": true,
+          "median_maturity_offset_days": -39.0,
+          "mean_yield_dm_t_ha": 4.707078277128601
+        },
+        {
+          "cultivar": "Winter_wheat_106",
+          "thermal_scale": 1.15,
+          "total": 26,
+          "completed": 26,
+          "mature": 26,
+          "eligible": true,
+          "median_maturity_offset_days": -2.5,
+          "mean_yield_dm_t_ha": 5.176563810520599
+        },
+        {
+          "cultivar": "Winter_wheat_107",
+          "thermal_scale": 1.0,
+          "total": 26,
+          "completed": 26,
+          "mature": 26,
+          "eligible": true,
+          "median_maturity_offset_days": -9.0,
+          "mean_yield_dm_t_ha": 5.198808174906295
+        },
+        {
+          "cultivar": "Winter_wheat_107",
+          "thermal_scale": 0.85,
+          "total": 26,
+          "completed": 26,
+          "mature": 26,
+          "eligible": true,
+          "median_maturity_offset_days": -28.5,
+          "mean_yield_dm_t_ha": 5.05874546203961
+        },
+        {
+          "cultivar": "Winter_wheat_107",
+          "thermal_scale": 1.15,
+          "total": 26,
+          "completed": 26,
+          "mature": 26,
+          "eligible": true,
+          "median_maturity_offset_days": 9.0,
+          "mean_yield_dm_t_ha": 5.096210742389745
+        }
+      ]
+    }
+  },
+  "source_hashes": {
+    "reports/phase5/phenology-calibration-protocol-v2.json": "7b591eb3849b8ef9cb10023a13a4cdc2dbd40a90d51cd9f01cb9bbeb3e2227b8",
+    "reports/phase5/regional-controls-v2.json": "648535833b7ac82958b8ee8972eb20ba383ce819c2e36755640e9336fb0cbef4",
+    "reports/phase5/global-date-split-manifest.json": "2e5eb724f3eac0cdc74843ee9ecb37c793bd892da34597a18523e4fcda60b38e",
+    "scripts/phase5-calibrate-regions-v2.py": "f4ba143e6705d1849e9d0f9c98c1f671bb9cde8ff7e9115e9e0da6b6234ef576",
+    "NUE_PCSE-Gym/pcse_gym/agromas/season.py": "82917a3039bd52448378d0e68e4f61f859853fbe76ec17e3beca9ac806163b97",
+    "NUE_PCSE-Gym/pcse_gym/agromas/initialization.py": "a5a6cac055a986a1f4261bf0de87e6ade12c3a4360ccc5ca98f58b7683becded",
+    "NUE_PCSE-Gym/pcse_gym/agromas/scheduler.py": "745eb210012180a02029d9aabe7ebe8cbd49a5bee9d49ca12416fadbbfd80f24",
+    "NUE_PCSE-Gym/pcse_gym/agromas/weather.py": "6fe5e0083a224668b053d36a0a3863e8fbeb870ac6aee254b190b679bfcc2984",
+    "NUE_PCSE-Gym/pcse_gym/agromas/weekly.py": "b4be3cbb7da42e253b0d4c6acd910b77cb7752eafe44cbd6f0a3dd6436f82e7b",
+    "NUE_PCSE-Gym/pcse_gym/envs/configs/crop/winterwheat.yaml": "cb584485bff761997bde182cc4ce963e821c2050d13a1011e5b2361e17ded54b",
+    "NUE_PCSE-Gym/pcse_gym/envs/configs/soil/arminda_soil.yaml": "f28973feca2849e98d2d39ab87659156fb4c0ac3099dfa0b8e68e5e04347f4de",
+    "NUE_PCSE-Gym/pcse_gym/envs/configs/site/arminda_site.yaml": "9508ee6faa30846e4d0989b2875614bbeb8c0b6e48463539f739151b4a9c11bd"
+  },
+  "dev_seen": false,
+  "heldout_unlocked": false,
+  "selection": "Frozen TRAIN maturity-date rule; no yield/profit optimization"
+}

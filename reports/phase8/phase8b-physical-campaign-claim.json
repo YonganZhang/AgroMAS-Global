@@ -1,0 +1,13 @@
+{
+  "started": 1794753152.1972678,
+  "scope": "TRAIN diagnostic replay + Dev generation ONLY",
+  "train_years": [
+    1995,
+    2009
+  ],
+  "dev_years": [
+    2010,
+    2014
+  ],
+  "evaluation_years_unlocked": false
+}

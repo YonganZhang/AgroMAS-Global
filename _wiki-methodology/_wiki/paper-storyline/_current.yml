@@ -1,0 +1,14 @@
+current_version: storyline-v3.0
+status: active
+design_status: current-user-approved
+version_file: versions/storyline-v3.0.md
+approved_by: user
+approval_scope: Phase8D root-cause optimization and attempt37 first-pass boundaries
+authorization_source: reports/phase8/phase8d-protocol-amendment-first-pass-boundaries.json
+execution_status: Phase8D-complete-primary-verified-and-worktrees-cleaned
+evidence_audit: evidence/completion-audit-phase8d-2026-11-16.md
+manuscript_claim_ceiling: "模拟器适应性基准复用；保留Dev硬复合AU零达标及P2 LORO预测误差边界；不宣称前瞻盲测、田间保证或隐藏物理状态因果识别"
+phase8d_evidence: reports/phase8/phase8d-core-statistics.json
+phase8d_manuscript: manuscript/phase8/paper-bilingual-en-zh.html
+phase8c_archive: reports/phase8/phase8c-manuscript-archive/
+phase8d_closeout: reports/phase8/phase8d-closeout-receipt.json

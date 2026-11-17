@@ -1,0 +1,22 @@
+{
+  "python": "3.11.15",
+  "versions": {
+    "torch": "2.10.0+cu128",
+    "lightning": "2.6.5",
+    "numpy": "2.4.6",
+    "scikit-learn": "1.9.1",
+    "scipy": "1.17.1",
+    "stable-baselines3": "2.9.2",
+    "sb3-contrib": "2.9.2",
+    "gymnasium": "1.4.0",
+    "joblib": "1.6.0",
+    "pandas": "3.1.1"
+  },
+  "cuda_available": true,
+  "cuda_build": "12.8",
+  "device": "NVIDIA GeForce RTX 5080",
+  "task_venv": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/cache/phase8b-venv",
+  "unchanged_baseline_venv": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.venv",
+  "baseline_dependencies_imported_via_task_local_pth": true,
+  "seed_protocol": "reports/phase8/phase8b-preregistered-protocol.json"
+}

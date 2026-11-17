@@ -1,0 +1,6 @@
+DISPATCHED: kimi=kimi-code/k3.1-pro (why: Canonical priority), deepseek=deepseek-flash/high (why: MONETARY_BALANCE; selection: Canonical priority), gemini=gemini-4-carbon-high (why: Canonical priority); tier=gate; claude: NORMAL,SCOPE_CAP,MODEL_UNSUPPORTED -> kimi; codex: CONSERVE_WEEK,HOST_FAMILY -> gemini
+Roster: kimi=kimi-code/k3.1-pro, deepseek=deepseek-flash, gemini=gemini-4-carbon-high@alt; quorum=3
+Skipped/substituted: claude (NORMAL,SCOPE_CAP,MODEL_UNSUPPORTED)
+Skipped/substituted: codex (CONSERVE_WEEK,HOST_FAMILY)
+DISPATCHED: kimi=kimi-code/k3.1-pro [COMPLETE] (why: Canonical priority), deepseek=deepseek-flash/high [COMPLETE] (why: MONETARY_BALANCE; selection: Canonical priority), gemini=gemini-4-carbon-high [COMPLETE] (why: Canonical priority); tier=gate; claude: NORMAL,SCOPE_CAP,MODEL_UNSUPPORTED -> kimi; codex: CONSERVE_WEEK,HOST_FAMILY -> gemini
+DISPATCHED: kimi=kimi-code/k3.1-pro [COMPLETE] (why: Canonical priority), deepseek=deepseek-flash/high [COMPLETE] (why: MONETARY_BALANCE; selection: Canonical priority), gemini=gemini-4-carbon-high [COMPLETE] (why: Canonical priority); tier=gate; claude: NORMAL,SCOPE_CAP,MODEL_UNSUPPORTED -> kimi; codex: CONSERVE_WEEK,HOST_FAMILY -> gemini

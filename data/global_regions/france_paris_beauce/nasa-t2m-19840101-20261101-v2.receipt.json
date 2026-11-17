@@ -1,0 +1,8 @@
+{
+  "region_id": "france_paris_beauce",
+  "url": "https://power.larc.nasa.gov/api/temporal/daily/point?latitude=48.44&longitude=1.49&start=19840101&end=20261101&community=AG&format=JSON&parameters=T2M&time-standard=LST",
+  "sha256": "901cc2468aa65db7377b2fe59e9fff0041c8098c8c7b206c7984204e3edd7520",
+  "timestamp": "2026-11-14T21:40:26.629122+00:00",
+  "reason": "Native PCSE NASA provider uses dailyT2M, not(Tmin+Tmax)/2",
+  "role_policy": "Existing frozen year roles unchanged; date/field validation required before use"
+}

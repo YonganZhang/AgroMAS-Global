@@ -1,0 +1,127 @@
+{
+  "registered_at": "2026-11-15T14:32:24.963792+00:00",
+  "status": "registered_before_Dev_label_access",
+  "train_years": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "train_climates": [
+    "Historical",
+    "idealized_mid",
+    "idealized_high"
+  ],
+  "dev_years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+  ],
+  "dev_climates": [
+    "Historical"
+  ],
+  "train_folds": {
+    "method": "year_grouped_5_fold",
+    "assignment": "(harvest_year-1995)%5; all regions, climates, stage prefixes, execution aliases of a year remain in same fold"
+  },
+  "parity_tracks": [
+    "Full-Telemetry",
+    "Sensorless"
+  ],
+  "sensorless_removes": [
+    "lai",
+    "sm",
+    "n_uptake"
+  ],
+  "candidate_contract": "All reachable current prefixes with full remaining nominal schedules on GRID, budget cap220 including CN basal171; states from executed prefix only. Labels are native actual final Yield,Grain_N,Executed_N_fert. No planned dose substitution.",
+  "weather_scenarios": "TRAIN-only historical year blocks from issue date through registered calendar harvest; daily temperature/rain/radiation summaries by three equal remaining-horizon segments; analog weights from last14 observed days. Actual TRAIN future weather is offline scenario-conditioned training input only. Dev predictions integrate over TRAIN analogs, never Dev realized future. TRAIN OOF residuals are conditional on actual TRAIN weather covariates, not operational forecast scores. No operational TRAIN OOF analog evaluation is claimed; future such evaluation must exclude its entire held-out year fold.",
+  "architectures": [
+    {
+      "name": "mlp",
+      "hidden": [
+        96,
+        96
+      ],
+      "activation": "SiLU",
+      "dropout": 0.05
+    },
+    {
+      "name": "residual-mlp",
+      "hidden": [
+        96,
+        96
+      ],
+      "activation": "SiLU",
+      "dropout": 0.05,
+      "residual": "one same-width residual block"
+    }
+  ],
+  "architecture_cap": 2,
+  "training": {
+    "container": "Lightning StructuredAutoResearchModule",
+    "epochs": 80,
+    "batch_size": 2048,
+    "optimizer": "AdamW",
+    "learning_rate": 0.001,
+    "weight_decay_matrix": 0.001,
+    "weight_decay_vector": 0.0,
+    "scheduler": "cosine",
+    "seeds": [
+      20261115,
+      20261116,
+      20261117
+    ],
+    "checkpoint": "fixed80epochs; no Dev selection",
+    "normalization": "fit fold TRAIN statistics only",
+    "precision": "32-true",
+    "loader": "GPU-resident prebatched IterableDataset; fixed2048 sample batch; num_workers0; same80epochs; TRAIN-only loader probe superseded before Dev access"
+  },
+  "ensemble": {
+    "K": 32,
+    "method": "Each branch uses the arithmetic mean of all three neural seeds, matching conditional TRAIN OOF residual construction; deterministic32 joint residual indices from seed20261115. Analogs supply remaining-weather variation once."
+  },
+  "ExtraTrees": {
+    "n_estimators": 128,
+    "min_samples_leaf": 4,
+    "max_features": 1.0,
+    "seed": 20261115,
+    "same_features_and_folds": true
+  },
+  "gates": {
+    "BSS_vs_both_climatology_and_ExtraTrees": ">0 per parity track and cap25,35,40,50",
+    "surplus_90pct_marginal_coverage": [
+      0.85,
+      0.95
+    ],
+    "within_prefix_partial_profit_ranking_regret": "strictly lower than ExtraTrees per parity track",
+    "if_both_arch_fail": "HALT; no G2/G3 or Held-Out evaluation"
+  },
+  "conformal": "One-shot Dev leave-one-year-out cross-conformal verification for coverage gate, no predictor fitting; final pooled Dev quantile retained for prospective G2 only if G1 passes. No independent prospective guarantee.",
+  "P2": "approved retrospective outer LOYO/LORO, frozen backbone, lowrank4 L2=10; labels strictly outer training fold; no claim prospective or untouched blindtest",
+  "execution_scope": "G1 then conditionalG2/G3; no90cellstress or manuscript edit",
+  "readonly_pcse": "d1fe6d29de828033b850ec51d994988d8d6d406f",
+  "pre_Dev_methodological_clarification": {
+    "source": "Gemini high design consultation; finalized before any Dev label access",
+    "coverage_gate": "Leave-one-Dev-year-out conformal radius; each scored year excluded from its calibrator, frozen predictors, no alpha/hyperparameter tuning. All25Devworlds scored once. PooledDevresubcoverage secondary only.",
+    "BSS_and_coverage_weighting": "Equal region-year-stage; pooled diagnostics separately reported. Training MSE remains original fixed sample-average; CN sample-cardinality imbalance disclosed, not retuned.",
+    "projection": "Both committed lower and nominal remaining-schedule upper bound enforced, no invented or assumed executed N.",
+    "architecture_cap": "Same two already registered 13155parameterMLPs; do not adopt extra GRU/attention architectures after consulting advice.",
+    "TRAIN_OOF_residuals": "Conditional actual-TRAIN-weather residuals only; analog forecast spread added once. Not labelled operational TRAIN forecast accuracy.",
+    "regret_weighting": "Equal region-year-stage means of unique-prefix partial-profit ranking regret; pooled prefix mean also reported. No Dev labels consulted.",
+    "conformal_rank": "Exact one-based order ceil((n+1)*(1-alpha)); CQR scores may be negative; leave-one-Dev-year-out coverage remains primary.",
+    "climatology": "Region-stage Historical TRAIN only, matched to Historical Dev; one-sided surplus event is primary as literally specified, corridor and joint diagnostics also reported."
+  }
+}

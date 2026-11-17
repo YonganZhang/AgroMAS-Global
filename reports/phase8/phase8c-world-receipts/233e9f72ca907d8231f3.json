@@ -1,0 +1,82 @@
+{
+  "world": [
+    "usa_kansas_wichita",
+    2015,
+    "idealized_high",
+    "NASA"
+  ],
+  "native_simulations": 8,
+  "unique_executed_trajectories": 8,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        0.0,
+        20.0,
+        20.0
+      ],
+      "sha256": "78b9adadfd7759b1b2f913a24fa7894011c6291726241c25076f1c740a0b0bbb"
+    },
+    {
+      "doses": [
+        10.0,
+        0.0,
+        10.0
+      ],
+      "sha256": "6bb1e7ea147762d3b923b9f4ea78f40f5b86cf1525a1a3761c3e132d96aa218e"
+    },
+    {
+      "doses": [
+        0.0,
+        0.0,
+        40.0
+      ],
+      "sha256": "12be33aebcb448d09eb27dac926c6bf6e11d110b416b66734fcdd237afe63832"
+    },
+    {
+      "doses": [
+        0.0,
+        0.0,
+        60.0
+      ],
+      "sha256": "97ba851e1523f059a5e8514ac0a6179eda92abcb8c66f286f5c8f714e2847475"
+    },
+    {
+      "doses": [
+        20.0,
+        10.0,
+        10.0
+      ],
+      "sha256": "389524ea4b8ca13f959eeceb4f06e0c14a47d2b46e7ff12a413df7b70d3730d4"
+    },
+    {
+      "doses": [
+        0.0,
+        40.0,
+        0.0
+      ],
+      "sha256": "0f4ba6f855dfc53573d38784f56a009a3342bd3058be29fbe6aa161963a82bda"
+    },
+    {
+      "doses": [
+        40.0,
+        0.0,
+        20.0
+      ],
+      "sha256": "c472995ae48d2ebfb35fc2c989019ca86a40d84da11b5bef1cc6a0c76c71184f"
+    },
+    {
+      "doses": [
+        0.0,
+        40.0,
+        20.0
+      ],
+      "sha256": "9d57cabbb61ea94d4d9ff0839dbb8d366a500dcd10fc9f190149d8a79ab9b708"
+    }
+  ],
+  "complete_requested_paths": 8,
+  "cases_replayed": 82,
+  "public_prefix_nodes": 11,
+  "prefix_decisions_replayed": 259,
+  "worker": 7,
+  "cases": 90
+}

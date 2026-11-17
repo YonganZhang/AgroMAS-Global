@@ -1,0 +1,291 @@
+{
+  "en": {
+    "pages": [
+      {
+        "page": 1,
+        "words": 448,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 2,
+        "words": 657,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 3,
+        "words": 332,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 4,
+        "words": 278,
+        "images": 2209,
+        "bounds_pass": true
+      },
+      {
+        "page": 5,
+        "words": 661,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 6,
+        "words": 274,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 7,
+        "words": 129,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 8,
+        "words": 150,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 9,
+        "words": 571,
+        "images": 8,
+        "bounds_pass": true
+      },
+      {
+        "page": 10,
+        "words": 181,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 11,
+        "words": 383,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 12,
+        "words": 66,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 13,
+        "words": 183,
+        "images": 0,
+        "bounds_pass": true
+      }
+    ],
+    "compile_errors": 0,
+    "undefined_citations": 0,
+    "undefined_references": 0,
+    "overfull_hboxes": 0,
+    "sha256": "7db50942bcd65ceb3dc5b8290571b7e46f52e9bcdbea7572bc4f7828c0548ca5"
+  },
+  "zh": {
+    "pages": [
+      {
+        "page": 1,
+        "words": 77,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 2,
+        "words": 70,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 3,
+        "words": 233,
+        "images": 2209,
+        "bounds_pass": true
+      },
+      {
+        "page": 4,
+        "words": 164,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 5,
+        "words": 144,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 6,
+        "words": 99,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 7,
+        "words": 116,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 8,
+        "words": 526,
+        "images": 8,
+        "bounds_pass": true
+      },
+      {
+        "page": 9,
+        "words": 146,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 10,
+        "words": 27,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 11,
+        "words": 10,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 12,
+        "words": 183,
+        "images": 0,
+        "bounds_pass": true
+      }
+    ],
+    "compile_errors": 0,
+    "undefined_citations": 0,
+    "undefined_references": 0,
+    "overfull_hboxes": 0,
+    "sha256": "6cd14496542901fc379f974014b048b14698aa039793bfb19d437b1083d1a167"
+  },
+  "supplement": {
+    "pages": [
+      {
+        "page": 1,
+        "words": 68,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 2,
+        "words": 160,
+        "images": 2,
+        "bounds_pass": true
+      },
+      {
+        "page": 3,
+        "words": 99,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 4,
+        "words": 5,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 5,
+        "words": 672,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 6,
+        "words": 672,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 7,
+        "words": 672,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 8,
+        "words": 672,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 9,
+        "words": 672,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 10,
+        "words": 672,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 11,
+        "words": 89,
+        "images": 0,
+        "bounds_pass": true
+      },
+      {
+        "page": 12,
+        "words": 94,
+        "images": 0,
+        "bounds_pass": true
+      }
+    ],
+    "compile_errors": 0,
+    "undefined_citations": 0,
+    "undefined_references": 0,
+    "overfull_hboxes": 0,
+    "sha256": "93716bfc9aef48a631cde0a8882d669b49c581f6488665a8a854344257b68bef"
+  },
+  "stress": {
+    "phase8c-180cell-stress-surface.csv": {
+      "unique_cells": 180,
+      "rows": 900
+    },
+    "phase8c-canonical90-stress-subset.csv": {
+      "unique_cells": 90,
+      "rows": 450
+    }
+  },
+  "invariance": {
+    "total": 120,
+    "receipts": [
+      {
+        "file": "phase8c-online-action-invariance.json",
+        "passed": 30
+      },
+      {
+        "file": "phase8c-positive-action-invariance.json",
+        "passed": 30
+      },
+      {
+        "file": "phase8c-online-action-invariance-tree.json",
+        "passed": 30
+      },
+      {
+        "file": "phase8c-positive-action-invariance-tree.json",
+        "passed": 30
+      }
+    ]
+  },
+  "physical_record_scope": {
+    "scored_case_configurations": 17747,
+    "daily_records": 5928274,
+    "all_passed": true,
+    "max_N": 1.9269918993813917e-11,
+    "max_C": 2.1145751816220582e-10
+  },
+  "unique_native_simulations": 1917,
+  "test_summary": "223 passed,0 failed,0 skipped"
+}

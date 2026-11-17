@@ -1,0 +1,281 @@
+{
+  "sources": {
+    "reports/phase8/phase8c-core-statistics.json": "074b2390e7348c29bdf9432ca457814a19f0cdb18c20f4398e2dafe002ac8bca",
+    "reports/phase8/phase8c-180cell-stress-surface.csv": "dda17bdfc79648ffdc2ca5dcc6058d97d17087b520c4b6e0ee6f4000a07e0326",
+    "reports/phase8/phase8c-canonical90-stress-subset.csv": "d3e22646d6a0bb6f02c34ef8bf9f0b2801c6a0a3d181b13e2c2f9b68b7f74db4"
+  },
+  "figures": {
+    "fig2-p1-regimes": {
+      "axes_tight_bounds_pixels": [
+        [
+          4.144518398447268,
+          416.7558943142361,
+          576.0012238797061,
+          378.9248691947047
+        ],
+        [
+          592.1232606766007,
+          416.6526499565972,
+          603.6995204136024,
+          379.0375807832464
+        ],
+        [
+          4.144518398447268,
+          29.138299913194444,
+          576.0012238797061,
+          379.02811355234377
+        ],
+        [
+          592.1232606766007,
+          4.167000000000002,
+          576.0012238797062,
+          404.008880696441
+        ]
+      ],
+      "canvas_pixels": [
+        1200.0,
+        800.0
+      ],
+      "titles": [
+        {
+          "center": "",
+          "left": "P1 Sensorless: soft controllers; masked PPO"
+        },
+        {
+          "center": "",
+          "left": "Objective retained across relaxation"
+        },
+        {
+          "center": "",
+          "left": "Regional heterogeneity"
+        },
+        {
+          "center": "",
+          "left": "Sensorless partial profit and N mining"
+        }
+      ]
+    },
+    "fig3-p2-transfer": {
+      "axes_tight_bounds_pixels": [
+        [
+          13.166999999999998,
+          404.1669999999999,
+          534.2558276958067,
+          391.58179253300636
+        ],
+        [
+          688.9015412394991,
+          436.133856728214,
+          506.93145876050096,
+          359.6244030356951
+        ],
+        [
+          4.1669999999999945,
+          4.1669999999999945,
+          515.9314587605018,
+          391.5817925330063
+        ],
+        [
+          559.4570967950547,
+          13.578301172658584,
+          636.3759032049454,
+          382.17995859125045
+        ]
+      ],
+      "canvas_pixels": [
+        1200.0,
+        800.0
+      ],
+      "titles": [
+        {
+          "center": "",
+          "left": "P2 sources and folds kept separate"
+        },
+        {
+          "center": "",
+          "left": "Regional Full64 behavior (Former)"
+        },
+        {
+          "center": "",
+          "left": "Prior OOD \u2192 zero correction; backbone retained"
+        },
+        {
+          "center": "",
+          "left": "Marginal 95% bootstrap intervals"
+        }
+      ]
+    },
+    "fig4-factorial-stress": {
+      "axes_tight_bounds_pixels": [
+        [
+          4.1669999999999945,
+          752.2801623263894,
+          405.38798580832844,
+          365.7225811631939
+        ],
+        [
+          475.63831914166184,
+          752.2801623263894,
+          301.9713191416617,
+          365.7225811631939
+        ],
+        [
+          857.6929716166568,
+          752.2801623263894,
+          301.97131914166187,
+          365.7225811631939
+        ],
+        [
+          29.72255555555556,
+          378.22358116319447,
+          379.83243025277284,
+          365.7225811631945
+        ],
+        [
+          475.63831914166184,
+          378.22358116319447,
+          301.9713191416617,
+          365.7225811631945
+        ],
+        [
+          857.6929716166568,
+          378.22358116319447,
+          301.97131914166187,
+          365.7225811631945
+        ],
+        [
+          48.167,
+          4.1669999999999945,
+          361.3879858083284,
+          365.7225811631945
+        ],
+        [
+          418.22165247499515,
+          4.1669999999999945,
+          359.3879858083284,
+          365.7225811631945
+        ],
+        [
+          786.2763049499902,
+          4.1669999999999945,
+          373.3879858083285,
+          365.7225811631945
+        ],
+        [
+          1212.0252664073455,
+          823.0870070312504,
+          70.98560680555556,
+          250.57232491319394
+        ],
+        [
+          1212.0252664073455,
+          449.03042586805566,
+          80.98560680555556,
+          250.5723249131945
+        ]
+      ],
+      "canvas_pixels": [
+        1300.0,
+        1150.0
+      ],
+      "titles": [
+        {
+          "center": "",
+          "left": "a  Historical"
+        },
+        {
+          "center": "",
+          "left": "b  +1.8\u00b0C / 450 ppm"
+        },
+        {
+          "center": "",
+          "left": "c  +3.5\u00b0C / 550 ppm"
+        },
+        {
+          "center": "",
+          "left": "d  Soft-Coupled \u2212 PPO (pp)"
+        },
+        {
+          "center": "",
+          "left": "e  Soft-Coupled \u2212 PPO (pp)"
+        },
+        {
+          "center": "",
+          "left": "f  Soft-Coupled \u2212 PPO (pp)"
+        },
+        {
+          "center": "",
+          "left": "g  Historical cap40 diagnostic"
+        },
+        {
+          "center": "",
+          "left": "h  Historical cap40 diagnostic"
+        },
+        {
+          "center": "",
+          "left": "i  Historical cap40 diagnostic"
+        },
+        {
+          "center": "",
+          "left": ""
+        },
+        {
+          "center": "",
+          "left": ""
+        }
+      ]
+    },
+    "fig5-deployment-closure": {
+      "axes_tight_bounds_pixels": [
+        [
+          26.211872080808106,
+          417.5281111111111,
+          574.5619626666665,
+          378.0596040579861
+        ],
+        [
+          613.6361432929293,
+          417.5281111111111,
+          574.5619626666664,
+          378.06907128888895
+        ],
+        [
+          4.167000000000005,
+          4.167000000000002,
+          596.6068347474747,
+          404.7818262802084
+        ],
+        [
+          613.6361432929293,
+          30.889222222222223,
+          574.5619626666664,
+          378.06907128888895
+        ]
+      ],
+      "canvas_pixels": [
+        1200.0,
+        800.0
+      ],
+      "titles": [
+        {
+          "center": "",
+          "left": "Compact backbone and private adaptation"
+        },
+        {
+          "center": "",
+          "left": "Runtime interface and telemetry scope"
+        },
+        {
+          "center": "",
+          "left": "5,928,274 configuration-day records"
+        },
+        {
+          "center": "",
+          "left": "Execution and independence denominators"
+        }
+      ]
+    }
+  },
+  "font": "/mnt/data/yongan-admin-2/.local/share/fonts/msttcorefonts/Times.TTF",
+  "limits": "Axis bounds verified; semantic overlap requires external rendered-image review."
+}

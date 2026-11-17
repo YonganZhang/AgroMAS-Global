@@ -1,0 +1,8 @@
+{
+  "region_id": "netherlands_lelystad",
+  "url": "https://power.larc.nasa.gov/api/temporal/daily/point?latitude=52.57&longitude=5.63&start=19840101&end=20261101&community=AG&format=JSON&parameters=T2M&time-standard=LST",
+  "sha256": "0bbed9f5d6a84550caba5f23ec3658d99c2e60444f2ec3e97d99cd4bc4aa6e86",
+  "timestamp": "2026-11-14T21:40:25.236883+00:00",
+  "reason": "Native PCSE NASA provider uses dailyT2M, not(Tmin+Tmax)/2",
+  "role_policy": "Existing frozen year roles unchanged; date/field validation required before use"
+}

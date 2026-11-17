@@ -1,0 +1,21 @@
+{
+  "key": "Sensorless-mlp-fold-1-seed20261117",
+  "track": "Sensorless",
+  "architecture": "mlp",
+  "fold": -1,
+  "seed": 20261117,
+  "n_fit": 177930,
+  "n_validation": 177930,
+  "parameters": 13155,
+  "epochs": 80,
+  "global_steps": 6960,
+  "elapsed_seconds": 35.03557526972145,
+  "cuda_device": "NVIDIA GeForce RTX 5080",
+  "torch": "2.10.0+cu128",
+  "lightning": "2.6.5",
+  "weight_path": "models/phase8-v8/Sensorless-mlp-fold-1-seed20261117/model.pt",
+  "weight_sha256": "5fec1330c416fbbf711d3c39a63def1432136a3f07e0fece11a02a8843c825a8",
+  "prediction_path": "cache/phase8-train-arrays/Sensorless-mlp-fold-1-seed20261117-pred.npy",
+  "validation_role": "TRAIN_resubstitution_not_selection",
+  "Dev_used": false
+}

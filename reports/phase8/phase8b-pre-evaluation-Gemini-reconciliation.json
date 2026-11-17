@@ -1,0 +1,42 @@
+{
+  "native_evaluation_started": false,
+  "original_review": "reports/phase8/phase8b-pre-evaluation-Gemini-review/20261116T003014__gemini__1437000/result.md",
+  "findings": [
+    {
+      "item": "site-year-weighted priorOOD",
+      "resolution": "weighted99%quantiles;70fits regenerated with same rank/L2;13unit tests;feature-onlyauditChinaLOYOtrainingreject0"
+    },
+    {
+      "item": "annualtiming/priorfallback",
+      "resolution": "34986/34986rows admissible;reportcorrected;prioraccepted/timing/OOD/kind/effectiveradiuslogged;LOROFull64/Static3allfallbackexplicit"
+    },
+    {
+      "item": "preflightbeforeclaim",
+      "resolution": "parentcheckspermit/source/model/dependencySHA,loads70adapters,checks4CUDAdevicesbeforeD.mkdir;workersrecheck"
+    },
+    {
+      "item": "policyedges/stalesmoke",
+      "resolution": "fullharvestcalendar;removedredundantmodelcall;openloopfullcontext/trace;newStage2/Full/calendarinterfacesmoke"
+    },
+    {
+      "item": "extremecohort",
+      "resolution": "TreeMLP-extreme-subsetaliasmatches34caseswithoutnewphysics"
+    },
+    {
+      "item": "requesthash",
+      "resolution": "causalhistory,tax,monolithic,adaptertag/contextincluded"
+    },
+    {
+      "item": "zerodosefixture",
+      "resolution": "additional30actualnonzeroStage2actioninvariancetestspassedbothtracks"
+    },
+    {
+      "item": "diagram",
+      "resolution": "captionclarifies36DMLP/64DPCA-Ridgeandreadonlyaudit;no manuscriptredesign"
+    }
+  ],
+  "scientific_hyperparameter_search": false,
+  "post_outcome_tuning": false,
+  "external_postfix_pass_claimed": false,
+  "final_council_pending": true
+}

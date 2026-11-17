@@ -1,0 +1,78 @@
+{
+  "sources": {
+    "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+    "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e"
+  },
+  "values": {
+    "Full-Telemetry": {
+      "upper_surplus_BSS": [
+        0.14804298888066236,
+        0.16125542809166904,
+        0.16844457482101016,
+        0.2045813495405655
+      ],
+      "climatology_reference_BSS": [
+        0.6054622359427961,
+        0.5792213850254151,
+        0.5754764185739947,
+        0.5970666714257894
+      ],
+      "coverage": [
+        0.9078224974200206,
+        0.7519091847265221,
+        1.0,
+        0.936016511867905,
+        0.8844169246646028,
+        0.9667698658410734
+      ],
+      "regret": [
+        3.6662372535540726,
+        7.250367854543621
+      ]
+    },
+    "Sensorless": {
+      "upper_surplus_BSS": [
+        0.04158499919112113,
+        0.0687075170253475,
+        0.061202380939915924,
+        0.06528473787108557
+      ],
+      "climatology_reference_BSS": [
+        0.5588098554989791,
+        0.5348338853269639,
+        0.5268141311181557,
+        0.5297411057044503
+      ],
+      "coverage": [
+        0.9036532507739938,
+        0.9463364293085654,
+        1.0,
+        0.8850361197110423,
+        0.8194014447884418,
+        0.8674922600619196
+      ],
+      "regret": [
+        4.757264356467536,
+        8.042081420632549
+      ]
+    },
+    "within_region_native_Nloss_R2": [
+      [
+        0.05719061556996197,
+        -0.5761551173126749,
+        0.023779977283974518,
+        -0.06603272332791232,
+        0.1611118078617244
+      ],
+      [
+        -0.04255195167311543,
+        -0.5815936706733098,
+        -0.12327989367831615,
+        -0.1409724238966752,
+        0.37015968185528647
+      ]
+    ]
+  },
+  "font": "/mnt/data/yongan-admin-2/.local/share/fonts/msttcorefonts/Times.TTF",
+  "scope": "MLP first registered architecture;G1 literal upper-surplus event;retrospective crossyear diagnostic;TRAIN decoding associations,not physical identification"
+}

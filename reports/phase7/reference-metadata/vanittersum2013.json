@@ -1,0 +1,1064 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        14
+      ]
+    ],
+    "date-time": "2026-11-14T12:05:04Z",
+    "timestamp": 1794657904272,
+    "version": "4.9.1"
+  },
+  "reference-count": 91,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2013,
+            3,
+            1
+          ]
+        ],
+        "date-time": "2013-03-01T00:00:00Z",
+        "timestamp": 1362096000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2013,
+            7,
+            16
+          ]
+        ],
+        "date-time": "2013-07-16T00:00:00Z",
+        "timestamp": 1373932800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 137,
+      "URL": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Field Crops Research"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2013,
+        3
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.fcr.2012.09.009",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2012,
+        12,
+        21
+      ]
+    ],
+    "date-time": "2012-12-21T12:18:25Z",
+    "timestamp": 1356092305000
+  },
+  "page": "4-17",
+  "source": "Crossref",
+  "is-referenced-by-count": 1438,
+  "special_numbering": "C",
+  "title": [
+    "Yield gap analysis with local to global relevance\u2014A review"
+  ],
+  "prefix": "10.1016",
+  "volume": "143",
+  "author": [
+    {
+      "given": "Martin K.",
+      "family": "van Ittersum",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Kenneth G.",
+      "family": "Cassman",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Patricio",
+      "family": "Grassini",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Joost",
+      "family": "Wolf",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Pablo",
+      "family": "Tittonell",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Zvi",
+      "family": "Hochman",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0005",
+      "first-page": "325",
+      "article-title": "Actual and potential production of agricultural crops",
+      "volume": "10",
+      "author": "Alberda",
+      "year": "1962",
+      "journal-title": "Neth. J. Agric. Sci."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "9",
+      "DOI": "10.2134/agronj2009.0085",
+      "article-title": "Evaluation of NASA satellite- and model-derived weather data for simulation of maize yield potential in China",
+      "volume": "102",
+      "author": "Bai",
+      "year": "2010",
+      "journal-title": "Agron. J."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0015",
+      "unstructured": "Batjes, N.H. (Ed.), 1995. A homogenized soil data file for global environmental research: a subset of FAO. ISRIC and NRCS profiles (Version 1.0). Working Paper and Preprint 95/10b. International Soil Reference and Information Center, Wageningen, The Netherlands."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0020",
+      "unstructured": "Batjes, N.H., Fischer, G., Nachtergaele, F.O., Stolbovoi, V.S., van Velthuizen, H.T., 1997. Soil data derived from WISE for use in global and regional AEZ studies. FAO/IIASA/ISRIC Interim Report IR-97-025, International Institute for Applied Systems Analysis, Laxenburg, Austria."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0025",
+      "unstructured": "Batjes, N.H., 2006. ISRIC-WISE Derived Soil Properties on a 5 by 5 Arc-minutes Global Grid. ISRIC\u2013World Soil Information, Wageningen, The Netherlands."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0030",
+      "series-title": "Harmonized World Soil Database",
+      "author": "Batjes",
+      "year": "2009"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0035",
+      "doi-asserted-by": "crossref",
+      "first-page": "289",
+      "DOI": "10.1126/science.1217941",
+      "article-title": "What next for agriculture after Durban?",
+      "volume": "335",
+      "author": "Beddington",
+      "year": "2012",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "113",
+      "DOI": "10.1016/j.agwat.2004.10.004",
+      "article-title": "Which crop and which drop, and the scope for improvement of water productivity",
+      "volume": "73",
+      "author": "Bessembinder",
+      "year": "2005",
+      "journal-title": "Agric. Water Manage."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0045",
+      "doi-asserted-by": "crossref",
+      "first-page": "679",
+      "DOI": "10.1111/j.1365-2486.2006.01305.x",
+      "article-title": "Modelling the role of agriculture for the 20th century global terrestrial carbon balance",
+      "volume": "13",
+      "author": "Bondeau",
+      "year": "2007",
+      "journal-title": "Glob. Change Biol."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0050",
+      "doi-asserted-by": "crossref",
+      "first-page": "201",
+      "DOI": "10.1016/j.fcr.2010.07.012",
+      "article-title": "Why are wheat yields stagnating in Europe?. A comprehensive data analysis for France",
+      "volume": "119",
+      "author": "Brisson",
+      "year": "2010",
+      "journal-title": "Field Crops Res."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "5952",
+      "DOI": "10.1073/pnas.96.11.5952",
+      "article-title": "Ecological intensification of cereal production systems: Yield potential, soil quality, and precision agriculture",
+      "volume": "96",
+      "author": "Cassman",
+      "year": "1999",
+      "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0060",
+      "doi-asserted-by": "crossref",
+      "first-page": "315",
+      "DOI": "10.1146/annurev.energy.28.040202.122858",
+      "article-title": "Meeting cereal demand while protecting natural resources and improving environmental quality",
+      "volume": "28",
+      "author": "Cassman",
+      "year": "2003",
+      "journal-title": "Ann. Rev. Environ. Resour."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0065",
+      "series-title": "Handbook of Climate Change and Agroecosystems",
+      "first-page": "37",
+      "article-title": "Crop yield potential, yield trends, and global food security in a changing climate",
+      "author": "Cassman",
+      "year": "2010"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0070",
+      "series-title": "The ERS China Projection Model: Documentation",
+      "author": "Colby",
+      "year": "1997"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0075",
+      "doi-asserted-by": "crossref",
+      "first-page": "1042",
+      "DOI": "10.2307/1244202",
+      "article-title": "Changes in the structure of global food demand",
+      "volume": "80",
+      "author": "Cranfield",
+      "year": "1998",
+      "journal-title": "Am. J. Agric. Econ."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0080",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1029/2009GB003765",
+      "article-title": "Simulating the effects of climate and agricultural management practices on global crop yield",
+      "volume": "25",
+      "author": "Deryng",
+      "year": "2011",
+      "journal-title": "Glob. Biogeochem. Cycles"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0085",
+      "first-page": "141",
+      "article-title": "Potential photosynthesis of crop surfaces",
+      "volume": "7",
+      "author": "De Wit",
+      "year": "1959",
+      "journal-title": "Neth. J. Agric. Sci."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0090",
+      "doi-asserted-by": "crossref",
+      "first-page": "125",
+      "DOI": "10.1016/0308-521X(92)90018-J",
+      "article-title": "Resource use efficiency in agriculture",
+      "volume": "40",
+      "author": "De Wit",
+      "year": "1992",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0095",
+      "first-page": "55",
+      "article-title": "A digital global map of irrigated areas",
+      "volume": "49",
+      "author": "D\u00f6ll",
+      "year": "2000",
+      "journal-title": "ICID J."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0100",
+      "series-title": "Crop Evolution, Adaptation, and Yield",
+      "author": "Evans",
+      "year": "1993"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0105",
+      "doi-asserted-by": "crossref",
+      "first-page": "6",
+      "DOI": "10.1016/j.agee.2011.05.016",
+      "article-title": "Scale changes and model linking methods for integrated assessment of agri-environmental systems",
+      "volume": "142",
+      "author": "Ewert",
+      "year": "2011",
+      "journal-title": "Agric., Ecosyst. Env."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0110",
+      "doi-asserted-by": "crossref",
+      "first-page": "218",
+      "DOI": "10.1016/j.jhydrol.2009.12.011",
+      "article-title": "Virtual water content of temperate cereals and maize: present and potential future patterns",
+      "volume": "384",
+      "author": "Fader",
+      "year": "2010",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0115",
+      "series-title": "Proceedings of the XIth ESA Congress AGRO 2010",
+      "first-page": "343",
+      "article-title": "Identification and elimination of yield gaps in oil palm plantations in Indonesia",
+      "author": "Fairhurst",
+      "year": "2010"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0120",
+      "series-title": "World Agriculture: Towards 2015/2030: an FAO Perspective",
+      "author": "FAO",
+      "year": "2003"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0125",
+      "unstructured": "FAO, 2006. World Agriculture Towards 2030\u20132050. Global Perspective Studies Unit."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0130",
+      "unstructured": "FAO, 2012a. FAOSTAT 2012: FAO Statistical Databases http://faostat.fao.org/site/339/default.aspx."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0135",
+      "unstructured": "FAO, 2012b. Agro-MAPS, Rome (Available at http://www.fao.org/landandwater/agll/agromaps/interactive/page.jspx."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0140",
+      "doi-asserted-by": "crossref",
+      "first-page": "24",
+      "DOI": "10.1016/j.fcr.2009.01.009",
+      "article-title": "Closing the cassava yield gap: an analysis from smallholder farms in East Africa",
+      "volume": "112",
+      "author": "Fermont",
+      "year": "2009",
+      "journal-title": "Field Crops Res."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0145",
+      "doi-asserted-by": "crossref",
+      "first-page": "85",
+      "DOI": "10.2135/cropsci2009.10.0564",
+      "article-title": "Breeding and cereal yield progress",
+      "volume": "50",
+      "author": "Fischer",
+      "year": "2010",
+      "journal-title": "Crop Sci."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0150",
+      "unstructured": "Fischer, G., Van Velthuizen, H., Shah, M., Nachtergaele, F.O., 2002. Global agro-ecological assessment for agriculture in the 21st century: methodology and results. Research Report RR-02-02, pp xxii, 119 pp and CD-Rom."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0155",
+      "doi-asserted-by": "crossref",
+      "first-page": "337",
+      "DOI": "10.1038/nature10452",
+      "article-title": "Solutions for a cultivated planet",
+      "volume": "478",
+      "author": "Foley",
+      "year": "2011",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0160",
+      "doi-asserted-by": "crossref",
+      "first-page": "743",
+      "DOI": "10.1071/AR9840743",
+      "article-title": "Water use efficiency of wheat in a Mediterranean type environment. I. The relation between yield, water use and climate",
+      "volume": "35",
+      "author": "French",
+      "year": "1984",
+      "journal-title": "Aust. J. Agric. Res."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0165",
+      "doi-asserted-by": "crossref",
+      "first-page": "249",
+      "DOI": "10.1016/j.jhydrol.2003.09.029",
+      "article-title": "Terrestrial vegetation and water balance\u2014hydrological evaluation of a dynamic global vegetation model",
+      "volume": "286",
+      "author": "Gerten",
+      "year": "2004",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0170",
+      "doi-asserted-by": "crossref",
+      "first-page": "812",
+      "DOI": "10.1126/science.1185383",
+      "article-title": "Food security: the challenge of feeding 9 billion people",
+      "volume": "327",
+      "author": "Godfray",
+      "year": "2010",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0175",
+      "doi-asserted-by": "crossref",
+      "first-page": "251",
+      "DOI": "10.1016/j.fcr.2008.09.006",
+      "article-title": "Benchmarking sunflower water productivity in semiarid environments",
+      "volume": "110",
+      "author": "Grassini",
+      "year": "2009",
+      "journal-title": "Field Crops Res."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0180",
+      "doi-asserted-by": "crossref",
+      "first-page": "142",
+      "DOI": "10.1016/j.fcr.2010.09.012",
+      "article-title": "High-yield irrigated maize in the Western U.S. Corn-Belt: I. On-farm yield, yield-potential, and impact of management practices",
+      "volume": "120",
+      "author": "Grassini",
+      "year": "2011",
+      "journal-title": "Field Crops Res."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0185",
+      "doi-asserted-by": "crossref",
+      "first-page": "133",
+      "DOI": "10.1016/j.fcr.2010.09.013",
+      "article-title": "High-yield irrigated maize in the Western U.S. Corn Belt: II. Irrigation management and crop water productivity",
+      "volume": "120",
+      "author": "Grassini",
+      "year": "2011",
+      "journal-title": "Field Crops Res."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0190",
+      "doi-asserted-by": "crossref",
+      "first-page": "708",
+      "DOI": "10.1071/CP09064",
+      "article-title": "Potential to improve on-farm wheat yield and WUE in Australia",
+      "volume": "60",
+      "author": "Hochman",
+      "year": "2009",
+      "journal-title": "Crop Pasture Sci."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0195",
+      "article-title": "Prospects for ecological intensification of Australian agriculture",
+      "author": "Hochman",
+      "year": "2012",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0200",
+      "doi-asserted-by": "crossref",
+      "first-page": "85",
+      "DOI": "10.1016/j.fcr.2012.07.008",
+      "article-title": "Quantifying yield gaps in rainfed cropping systems: a case study of wheat in Australia",
+      "volume": "136",
+      "author": "Hochman",
+      "year": "2012",
+      "journal-title": "Field Crops Res."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0205",
+      "unstructured": "IFA, 2002. Fertilizer Use by Crop, fifth ed. International Fertilizer Industry Association, Rome URL: http://www.fertilizer.org/ifa/statistics.asp."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0210",
+      "doi-asserted-by": "crossref",
+      "first-page": "235",
+      "DOI": "10.1016/S1161-0301(02)00107-7",
+      "article-title": "The DSSAT cropping system model",
+      "volume": "18",
+      "author": "Jones",
+      "year": "2003",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0215",
+      "series-title": "Net Biomass Production and Yield of Crops",
+      "author": "Kassam",
+      "year": "1977"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0220",
+      "first-page": "229",
+      "article-title": "Long-term global availability of food: continued abundance or new scarcity?",
+      "volume": "55",
+      "author": "Koning",
+      "year": "2008",
+      "journal-title": "NJAS"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0225",
+      "doi-asserted-by": "crossref",
+      "first-page": "77",
+      "DOI": "10.1016/j.cosust.2009.07.005",
+      "article-title": "Will the world have enough to eat?",
+      "volume": "1",
+      "author": "Koning",
+      "year": "2009",
+      "journal-title": "Curr. Opin. Env. Sustainabil."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0230",
+      "doi-asserted-by": "crossref",
+      "first-page": "391",
+      "DOI": "10.1007/BF00025065",
+      "article-title": "Nitrogen and yield potential of irrigated rice",
+      "volume": "155/156",
+      "author": "Kropff",
+      "year": "1993",
+      "journal-title": "Plant Soil"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0235",
+      "doi-asserted-by": "crossref",
+      "first-page": "9",
+      "DOI": "10.1016/j.eja.2011.08.005",
+      "article-title": "Rice yields and yield gaps in Southeast Asia: past trends and future outlook",
+      "volume": "36",
+      "author": "Laborte",
+      "year": "2012",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0240",
+      "doi-asserted-by": "crossref",
+      "first-page": "769",
+      "DOI": "10.1111/j.1466-8238.2010.00563.x",
+      "article-title": "Mind the gap: how do climate and agricultural management explain the \u2018yield gap\u2019 of croplands around the world?",
+      "volume": "19",
+      "author": "Licker",
+      "year": "2010",
+      "journal-title": "Glob. Ecol. Biogeogr."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0245",
+      "doi-asserted-by": "crossref",
+      "first-page": "478",
+      "DOI": "10.1016/j.agsy.2006.11.019",
+      "article-title": "GEPIC-modelling wheat yield and crop water productivity with high resolution on a global scale",
+      "volume": "94",
+      "author": "Liu",
+      "year": "2007",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0250",
+      "doi-asserted-by": "crossref",
+      "first-page": "179",
+      "DOI": "10.1146/annurev.environ.041008.093740",
+      "article-title": "Crop yield gaps: their importance, magnitudes, and causes",
+      "volume": "34",
+      "author": "Lobell",
+      "year": "2009",
+      "journal-title": "Ann. Rev. Environ. Resour."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0255",
+      "series-title": "Sustainable World Food Production and Environment",
+      "author": "Luyten",
+      "year": "1995"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0260",
+      "doi-asserted-by": "crossref",
+      "first-page": "693",
+      "DOI": "10.1002/joc.1181",
+      "article-title": "An improved method of constructing a database of monthly climate observations and associated high-resolution grids",
+      "volume": "25",
+      "author": "Mitchell",
+      "year": "2005",
+      "journal-title": "Int. J. Climat."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0265",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1029/2007GB002947",
+      "article-title": "Farming the planet: 2. Geographic distribution of crop areas, yields, physiological types, and net primary production in the year 2000",
+      "volume": "22",
+      "author": "Monfreda",
+      "year": "2008",
+      "journal-title": "Glob. Biogeoch. Cycles"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0270",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1038/nature11420",
+      "article-title": "Closing yield gaps through nutrient and water management",
+      "author": "Mueller",
+      "year": "2012",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0275",
+      "series-title": "Selected Climate Data for a Global Set of Standard Stations for Vegetation Science",
+      "author": "M\u0171ller",
+      "year": "1982"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0280",
+      "series-title": "Handbuch ausgew\u00e4hlter Klimatstationen der Erde. 5. Heft: Forschungsstelle Bodenerosion Nertesdorf (Rewertal)",
+      "author": "M\u0171ller",
+      "year": "1987"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0285",
+      "series-title": "Food Security, Farming, and Climate Change to 2050",
+      "author": "Nelson",
+      "year": "2010"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0290",
+      "doi-asserted-by": "crossref",
+      "first-page": "316",
+      "DOI": "10.1016/j.agsy.2010.02.004",
+      "article-title": "The yield gap of global grain production: a spatial analysis",
+      "volume": "103",
+      "author": "Neumann",
+      "year": "2010",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0295",
+      "article-title": "Representing 20th century space-time climate variability. I: Development of a 1961-1990 mean monthly terrestrial climatology",
+      "author": "New",
+      "year": "1998",
+      "journal-title": "Climate"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0300",
+      "doi-asserted-by": "crossref",
+      "first-page": "2217",
+      "DOI": "10.1175/1520-0442(2000)013<2217:RTCSTC>2.0.CO;2",
+      "article-title": "Representing twentieth-century space-time climate variability. Part II: Development of 1901-1996 monthly grids of terrestrial surface climate",
+      "volume": "13",
+      "author": "New",
+      "year": "2000",
+      "journal-title": "J. Climate"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0305",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.3354/cr021001",
+      "article-title": "A high-resolution data set of surface climate over global land areas",
+      "volume": "21",
+      "author": "New",
+      "year": "2002",
+      "journal-title": "Climate Res."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0310",
+      "doi-asserted-by": "crossref",
+      "first-page": "377",
+      "DOI": "10.1016/0308-521X(94)90194-K",
+      "article-title": "The effects of use of average instead of daily weather data in crop growth simulation models",
+      "volume": "44",
+      "author": "Nonhebel",
+      "year": "1994",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0315",
+      "doi-asserted-by": "crossref",
+      "first-page": "176",
+      "DOI": "10.1016/j.agwat.2005.07.012",
+      "article-title": "Increasing crop productivity when water is scarce\u2014from breeding to field management",
+      "volume": "80",
+      "author": "Passioura",
+      "year": "2006",
+      "journal-title": "Agric. Water Management"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0320",
+      "doi-asserted-by": "crossref",
+      "first-page": "917",
+      "DOI": "10.1098/rstb.1997.0071",
+      "article-title": "Potential and attainable food production and food security in different regions",
+      "volume": "352",
+      "author": "Penning De Vries",
+      "year": "1997",
+      "journal-title": "Philosoph. Trans. R. Soc. B: Biol. Sci."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0325",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1029/2008GB003435",
+      "article-title": "MIRCA2000\u2014global monthly irrigated and rainfed crop areas around the year 2000: A new high-resolution data set for agricultural and hydrological modeling",
+      "volume": "24",
+      "author": "Portmann",
+      "year": "2010",
+      "journal-title": "Glob. Biogeoch. Cycles"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0330",
+      "doi-asserted-by": "crossref",
+      "first-page": "117",
+      "DOI": "10.2307/2845499",
+      "article-title": "A global biome model based on plant physiology and dominance, soil properties and climate",
+      "volume": "19",
+      "author": "Prentice",
+      "year": "1992",
+      "journal-title": "J. Biogeogr."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0335",
+      "unstructured": "Rosegrant, M.W., Agcaoili-Sombilla, M., Perez, N.D., 1995. Global Food Projections to 2020: lmplications for Investment. Food, Agriculture and the Environment Discussion Paper 5. International Food Policy Research Institute, Washington, DC."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0340",
+      "series-title": "World Water and Food to 2025: Dealing with Scarcity",
+      "author": "Rosegrant",
+      "year": "2002"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0345",
+      "doi-asserted-by": "crossref",
+      "first-page": "1917",
+      "DOI": "10.1126/science.1092958",
+      "article-title": "Global food security: challenges and policies",
+      "volume": "302",
+      "author": "Rosegrant",
+      "year": "2003",
+      "journal-title": "Science"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0350",
+      "series-title": "Reaping the Benefits: Science and the Sustainable Intensification of Global Agriculture",
+      "author": "Royal Society of London",
+      "year": "2009"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0355",
+      "unstructured": "Rosenzweig, C., Jones, J.W., Hatfield, J.L., Ruane, A.C., Boote, K.J., Thorburn, P., Antle, J., Nelson, G., Porter, C., Janssen, S., Asseng, S., Winter, J.M., Greeley, A.P., Basso, B., Ewert, F. The agricultural model intercomparison and improvement project (AgMip). Agric. Forest Meteorol., in press."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0360",
+      "doi-asserted-by": "crossref",
+      "first-page": "607",
+      "DOI": "10.1111/j.1466-8238.2010.00551.x",
+      "article-title": "Crop planting dates: an analysis of global patterns",
+      "volume": "19",
+      "author": "Sacks",
+      "year": "2010",
+      "journal-title": "Glob. Ecol. Biogeogr."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0365",
+      "doi-asserted-by": "crossref",
+      "first-page": "847",
+      "DOI": "10.1071/AR05359",
+      "article-title": "Benchmarking water-use efficiency of rainfed wheat in dry environments",
+      "volume": "57",
+      "author": "Sadras",
+      "year": "2006",
+      "journal-title": "Austr. J. Agric. Res."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0370",
+      "doi-asserted-by": "crossref",
+      "first-page": "161",
+      "DOI": "10.1046/j.1365-2486.2003.00569.x",
+      "article-title": "Evaluation of ecosystem dynamics, plant geography and terrestrial carbon cycling in the LPJ dynamic global vegetation model",
+      "volume": "9",
+      "author": "Sitch",
+      "year": "2003",
+      "journal-title": "Glob. Change Biol."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0375",
+      "doi-asserted-by": "crossref",
+      "first-page": "133",
+      "DOI": "10.1016/S1161-0301(03)00044-3",
+      "article-title": "Assessing linear interpolation to generate daily radiation and temperature data for use in crop simulations",
+      "volume": "21",
+      "author": "Soltani",
+      "year": "2004",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0380",
+      "doi-asserted-by": "crossref",
+      "first-page": "203",
+      "DOI": "10.1016/j.ecolmodel.2007.06.028",
+      "article-title": "Simulation of global crop production with the ecosystem model DayCent",
+      "volume": "209",
+      "author": "Stehfest",
+      "year": "2007",
+      "journal-title": "Ecol. Modell."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0385",
+      "series-title": "Livestock's Long Shadow; Environmental Issues and Options",
+      "author": "Steinfeld",
+      "year": "2006"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0390",
+      "doi-asserted-by": "crossref",
+      "first-page": "137",
+      "DOI": "10.1016/j.agee.2007.05.005",
+      "article-title": "Unravelling the effects of soil and crop management on maize productivity in smallholder agricultural systems of western Kenya\u2014an application of classification and regression tree analysis",
+      "volume": "123",
+      "author": "Tittonell",
+      "year": "2008",
+      "journal-title": "Agric. Ecos. Env."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0395",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1007/s11104-008-9676-3",
+      "article-title": "Yield gaps, nutrient use efficiencies and responses to fertilisers by maize across heterogeneous smallholder farms in Western Kenya",
+      "volume": "313",
+      "author": "Tittonell",
+      "year": "2008",
+      "journal-title": "Plant Soil"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0400",
+      "doi-asserted-by": "crossref",
+      "first-page": "607",
+      "DOI": "10.1016/j.agrformet.2011.01.007",
+      "article-title": "The effect of temporal aggregation of weather input data on crop growth models\u2019 results",
+      "volume": "151",
+      "author": "Van Bussel",
+      "year": "2011",
+      "journal-title": "Agric. Forest Meteorol."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0405",
+      "doi-asserted-by": "crossref",
+      "first-page": "187",
+      "DOI": "10.1016/S1161-0301(02)00095-3",
+      "article-title": "Cropping system models: science, software and applications",
+      "volume": "18",
+      "author": "Van Ittersum",
+      "year": "2003",
+      "journal-title": "Special issue Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0410",
+      "doi-asserted-by": "crossref",
+      "first-page": "197",
+      "DOI": "10.1016/S0378-4290(97)00037-3",
+      "article-title": "Concepts in production ecology for analysis and quantification of agricultural input-output combinations",
+      "volume": "52",
+      "author": "Van Ittersum",
+      "year": "1997",
+      "journal-title": "Field Crops Res."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0415",
+      "doi-asserted-by": "crossref",
+      "first-page": "34",
+      "DOI": "10.1016/j.fcr.2012.11.018",
+      "article-title": "Estimating crop yield potential at regional to national scales",
+      "volume": "143",
+      "author": "Van Wart",
+      "year": "2013",
+      "journal-title": "Field Crops Res."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0420",
+      "doi-asserted-by": "crossref",
+      "first-page": "44",
+      "DOI": "10.1016/j.fcr.2012.11.023",
+      "article-title": "Reviewing the use of agro-climatic zones to upscale simulated crop yield potential",
+      "volume": "143",
+      "author": "Van Wart",
+      "year": "2013",
+      "journal-title": "Field Crops Res."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0425",
+      "unstructured": "Van Wart, J., 2011. Estimating national crop yield potential and the relevance of weather data sources. PhD Dissertation. University of Nebraska-Lincoln."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0430",
+      "doi-asserted-by": "crossref",
+      "first-page": "247",
+      "DOI": "10.1111/j.1466-8238.2011.00678.x",
+      "article-title": "Climate-driven simulation of global crop sowing dates",
+      "volume": "21",
+      "author": "Waha",
+      "year": "2012",
+      "journal-title": "Glob. Ecol. Biogeogr."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0435",
+      "doi-asserted-by": "crossref",
+      "first-page": "146",
+      "DOI": "10.1016/j.fcr.2010.02.010",
+      "article-title": "Abiotic constraints override biotic constraints in East African highland banana systems",
+      "volume": "117",
+      "author": "Wairegi",
+      "year": "2010",
+      "journal-title": "Field Crops Res."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0440",
+      "doi-asserted-by": "crossref",
+      "first-page": "1396",
+      "DOI": "10.2134/agronj2008.0080F",
+      "article-title": "Publishing agronomic data",
+      "volume": "100",
+      "author": "White",
+      "year": "2008",
+      "journal-title": "Agron. J."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0445",
+      "doi-asserted-by": "crossref",
+      "first-page": "126",
+      "DOI": "10.1016/j.agsy.2008.11.003",
+      "article-title": "Generating plausible crop distribution maps for Sub-Saharan Africa using a spatially disaggregated data fusion and optimization approach",
+      "volume": "99",
+      "author": "You",
+      "year": "2009",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0450",
+      "series-title": "Geoscience and Remote Sensing Symposium IGARSS \u201802",
+      "first-page": "3252",
+      "article-title": "Interception of PAR and relationship between FPAR and LAI in summer maize canopy",
+      "author": "Zhou",
+      "year": "2002"
+    },
+    {
+      "key": "10.1016/j.fcr.2012.09.009_bib0455",
+      "unstructured": "Zobler, L., 1986. A world soil file for global climate modelling. NASA Technical Memorandum 87802. NASA, Scientific and Technical Information Branch."
+    }
+  ],
+  "container-title": [
+    "Field Crops Research"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S037842901200295X?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S037842901200295X?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        3
+      ]
+    ],
+    "date-time": "2024-05-03T18:33:53Z",
+    "timestamp": 1714761233000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S037842901200295X"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2013,
+        3
+      ]
+    ]
+  },
+  "references-count": 91,
+  "alternative-id": [
+    "S037842901200295X"
+  ],
+  "URL": "https://doi.org/10.1016/j.fcr.2012.09.009",
+  "relation": {},
+  "ISSN": [
+    "0378-4290"
+  ],
+  "issn-type": [
+    {
+      "value": "0378-4290",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2013,
+        3
+      ]
+    ]
+  }
+}

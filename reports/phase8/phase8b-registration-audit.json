@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "training_claim": {
+    "started": 1794753511.589076,
+    "architectures": [
+      "mlp",
+      "residual-mlp"
+    ],
+    "epochs": 80,
+    "seeds": [
+      20261115,
+      20261116,
+      20261117
+    ],
+    "Dev_accessed": false
+  },
+  "claim_sha256": "d4ab660991565f3f60facff1eedfe89e674e7c072d4670ea62a1e5062804c6ae",
+  "completed_fit_counts": {
+    "mlp": 36,
+    "residual-mlp": 36
+  },
+  "parameter_counts": [
+    13155
+  ],
+  "registered_architecture_count": 2,
+  "completed_cuda_fits": 72,
+  "no_Dev_access_claim_exists_yet": true,
+  "clarifications": "Loader throughput optimization and pre-Dev projection/coverage/weighting corrections retained in protocol; no new architecture families or Dev-based tuning. Initial manifest was a working registration, not an immutable pre-training Git commit. Claim and fit receipts evidence exactly two architectures."
+}

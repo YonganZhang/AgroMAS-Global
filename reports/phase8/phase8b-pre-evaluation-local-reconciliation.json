@@ -1,0 +1,20 @@
+{
+  "native_policy_outcomes_seen": false,
+  "fixed_before_native_evaluation": [
+    {
+      "finding": "P2 offline nominal-budget filter omitted CN committed basal171",
+      "resolution": "Exclude committed_N+remaining_plan>220; all44siteyears retained,34986legal rows; preserve superseded arrays and failure log;70final adapter fits completed"
+    },
+    {
+      "finding": "Frozen open-loop initially reused its first Tier label at later decisions",
+      "resolution": "Keep initial nominal schedule, reapply common causal Tier1/2/3 guard against zero at each later stage;8planning tests including regression passed"
+    },
+    {
+      "finding": "Potential unequal weighting after annual-causality exclusion; actual34986/34986rows satisfy prior-end timing",
+      "resolution": "Normalize site-years for PCA/head and site-year-weighted99th OOD thresholds; no actual annual-timing exclusions in this cohort"
+    }
+  ],
+  "post_outcome_tuning": false,
+  "external_verdict": "Gemini completed with findings; resolution and rerun receipts tracked separately",
+  "invariance_harness_corrections": "phase8b-invariance-preflight-corrections.md"
+}

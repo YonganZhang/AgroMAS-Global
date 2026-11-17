@@ -1,0 +1,22 @@
+{
+  "registered_before_P1_or_P2_evaluation": true,
+  "selected_backbone": "first registered mlp; G1passbothtracks",
+  "pureweather": "same36DMLP/13155params; zero3soilchannelsand3hiddenchannels; no regionID",
+  "epochs": 80,
+  "seeds": [
+    20261115,
+    20261116,
+    20261117
+  ],
+  "folds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    -1
+  ],
+  "Linear": "Ridgealpha10,sameparityfeatures/split/targets",
+  "no_Dev_model_selection": true,
+  "no_new_NN_architecture": true
+}

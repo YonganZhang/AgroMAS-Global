@@ -1,0 +1,10 @@
+{
+  "region_id": "netherlands_lelystad",
+  "soil_latitude": 52.57,
+  "soil_longitude": 5.63,
+  "url": "https://rest.isric.org/soilgrids/v2.0/properties/query?lat=52.57&lon=5.63&property=sand&property=silt&property=clay&property=bdod&property=soc&property=phh2o&property=cec&property=nitrogen&depth=0-5cm&depth=5-15cm&depth=15-30cm&depth=30-60cm&depth=60-100cm&depth=100-200cm&value=mean",
+  "sha256": "62c486117acdfa429ad0cf5fa6186e029c9fabca5b7b9de689c4b38070c546de",
+  "timestamp": "2026-11-14T20:27:30.479984+00:00",
+  "source": "ISRIC SoilGrids gridded estimates, not farm observations",
+  "selection": "Point fixed before any regional crop output; city-null alternatives explicitly separate from weather coordinates"
+}

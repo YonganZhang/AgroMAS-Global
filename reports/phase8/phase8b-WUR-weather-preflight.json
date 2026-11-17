@@ -1,0 +1,42 @@
+{
+  "source_id": "16c5e563093da55b65b0f57cb19bbe0b51d537385371bb9c38b9da8cca611a72",
+  "records": [
+    {
+      "year": 2015,
+      "weather_days": 365,
+      "causal_feature_dim": 22
+    },
+    {
+      "year": 2016,
+      "weather_days": 366,
+      "causal_feature_dim": 22
+    },
+    {
+      "year": 2017,
+      "weather_days": 365,
+      "causal_feature_dim": 22
+    },
+    {
+      "year": 2018,
+      "weather_days": 365,
+      "causal_feature_dim": 22
+    },
+    {
+      "year": 2019,
+      "weather_days": 365,
+      "causal_feature_dim": 22
+    },
+    {
+      "year": 2020,
+      "weather_days": 366,
+      "causal_feature_dim": 22
+    },
+    {
+      "year": 2021,
+      "weather_days": 365,
+      "causal_feature_dim": 22
+    }
+  ],
+  "native_runs": 0,
+  "synthetic_years_forbidden": true
+}

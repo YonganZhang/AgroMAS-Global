@@ -1,0 +1,121 @@
+{
+  "dry_run": true,
+  "moves": [
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/data/phase8-g1-predictions",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/data/phase8-g1-predictions"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/data/phase8-locked-evaluation",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/data/phase8-locked-evaluation"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/data/phase8-physical-books",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/data/phase8-physical-books"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/data/phase8-locked-recovery1",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/data/phase8-locked-recovery1"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/data/phase8-physical-decoding",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/data/phase8-physical-decoding"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/cache/phase8-p2-adapters-before-weighted-OOD",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/cache/phase8-p2-adapters-before-weighted-OOD"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/cache/phase8-p2-empty-fit-basal-filter",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/cache/phase8-p2-empty-fit-basal-filter"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/cache/phase8-train-arrays",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/cache/phase8-train-arrays"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/cache/phase8-weather-control-arrays",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/cache/phase8-weather-control-arrays"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/cache/phase8b-private",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/cache/phase8b-private"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/cache/phase8-p2-adapter-inputs",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/cache/phase8-p2-adapter-inputs"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/cache/phase8-method-render",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/cache/phase8-method-render"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/cache/phase8-p2-adapter-inputs-superseded-basal-filter",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/cache/phase8-p2-adapter-inputs-superseded-basal-filter"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/cache/phase8-train-loader-probe-models",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/cache/phase8-train-loader-probe-models"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/cache/phase8-ppo-inputs.joblib",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/cache/phase8-ppo-inputs.joblib"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/models/phase8-v8/Full-Telemetry-ExtraTrees-fold4.joblib",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/models/phase8-v8/Full-Telemetry-ExtraTrees-fold4.joblib"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/models/phase8-v8/Sensorless-ExtraTrees-fold4.joblib",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/models/phase8-v8/Sensorless-ExtraTrees-fold4.joblib"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/models/phase8-v8/Full-Telemetry-ExtraTrees-fold2.joblib",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/models/phase8-v8/Full-Telemetry-ExtraTrees-fold2.joblib"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/models/phase8-v8/Full-Telemetry-ExtraTrees-fold0.joblib",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/models/phase8-v8/Full-Telemetry-ExtraTrees-fold0.joblib"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/models/phase8-v8/Sensorless-ExtraTrees-fold-1.joblib",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/models/phase8-v8/Sensorless-ExtraTrees-fold-1.joblib"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/models/phase8-v8/Full-Telemetry-ExtraTrees-fold-1.joblib",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/models/phase8-v8/Full-Telemetry-ExtraTrees-fold-1.joblib"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/models/phase8-v8/Sensorless-ExtraTrees-fold2.joblib",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/models/phase8-v8/Sensorless-ExtraTrees-fold2.joblib"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/models/phase8-v8/Full-Telemetry-ExtraTrees-fold1.joblib",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/models/phase8-v8/Full-Telemetry-ExtraTrees-fold1.joblib"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/models/phase8-v8/Full-Telemetry-ExtraTrees-fold3.joblib",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/models/phase8-v8/Full-Telemetry-ExtraTrees-fold3.joblib"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/models/phase8-v8/Sensorless-ExtraTrees-fold1.joblib",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/models/phase8-v8/Sensorless-ExtraTrees-fold1.joblib"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/models/phase8-v8/Sensorless-ExtraTrees-fold0.joblib",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/models/phase8-v8/Sensorless-ExtraTrees-fold0.joblib"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/models/phase8-v8/Sensorless-ExtraTrees-fold3.joblib",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/models/phase8-v8/Sensorless-ExtraTrees-fold3.joblib"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/cache/phase5-regional-config",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/cache/phase8b-native-runtime-config"
+    },
+    {
+      "source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/_reports",
+      "target": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/cache/phase8b-raw-external-reviews"
+    }
+  ]
+}

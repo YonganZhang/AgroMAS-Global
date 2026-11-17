@@ -1,0 +1,2 @@
+Supplementary nine-policy uncertainty intervals and four-metric agronomic scorecard. Panels present a equal-region bootstrap confidence intervals paired with apparent efficiency and b standardized multi-metric scorecards across yield, nitrogen input, surplus and partial profit.
+九种控制策略不确定性区间与四指标农艺评分卡。图a展示区域等权自助置信区间及表观NUE，图b展示产量、施氮、盈余与收益四项标准化评分。

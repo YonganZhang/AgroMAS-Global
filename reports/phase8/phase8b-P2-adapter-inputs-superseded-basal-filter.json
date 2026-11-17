@@ -1,0 +1,17 @@
+{
+  "site_years": 44,
+  "rows": 42636,
+  "protocol_sha256": "34de81e8ba65fa7aeb4f910cd89d3ffd1e5963c671e02361b14fed9ff0e0f8b1",
+  "raw_prior_public": false,
+  "purpose": "retrospective nested outer-fold fitting only; no online label access",
+  "files": {
+    "Linear-raw.npy": "f6496b32dbd79a6f351daee0612db57e266a27b894d5411b2c4181ac5e8308ac",
+    "x.npy": "f90a2e2a5c7d94d828df1cfaad918dd0bdf5202342ca940414a3d0114a089478",
+    "y.npy": "4d8cd1a3af3f747ebb414b61d346d4dd8683bd0bf99b7e14e822160ca1ce8312",
+    "metadata.joblib": "d97c11a34ee2f2a83298cc4efd9f12f48990c97b2a83099d66698fa2e10d46e8",
+    "Weather-raw.npy": "26eaddb0d58f58c2206ba2e9d1db968b69e4f8ddbb2307715f9b0be93c4f191b",
+    "protocol.sha256": "b159ff3ed48858a809c1bbbd13da18cc5b50555a6aaac0c3b2fb6cd1d68e866d",
+    "MLP-raw.npy": "d46019e6922591732d2e3dafa2cac97bcf0a1c6fec420e3e75ed361ddba740b8",
+    "ExtraTrees-raw.npy": "23341a1d9e2e8528f3f00e540def6f722f5d5f2afaa287bf5822826f1a364f8c"
+  }
+}

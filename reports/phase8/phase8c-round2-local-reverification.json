@@ -1,0 +1,15 @@
+{
+  "scientific_and_promotion_findings": "Resolved by both external reviews",
+  "remaining_snapshot_findings": [
+    "Figure4 duplicate titles",
+    "frozen runtime config omitted and verifier untracked"
+  ],
+  "local_fixes": [
+    "Cleared centered title before setting9left titles;actualPDF occurrence proof and PDFs rebuilt",
+    "Archived18frozen cachefiles;preservedoldprimaryconfig;ASTguardedoutput-onlyactivationprepared",
+    "Postmerge verifier now checksall153registered runtimepaths and18archives;committed withfinalsources"
+  ],
+  "external_review_rounds": 2,
+  "no_third_external_clean_pass_claimed": true,
+  "primary_verification_required_before_cleanup": true
+}

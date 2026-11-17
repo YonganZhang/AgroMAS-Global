@@ -1,0 +1,10 @@
+{
+  "region_id": "france_paris_beauce",
+  "soil_latitude": 48.44,
+  "soil_longitude": 1.59,
+  "url": "https://rest.isric.org/soilgrids/v2.0/properties/query?lat=48.44&lon=1.59&property=sand&property=silt&property=clay&property=bdod&property=soc&property=phh2o&property=cec&property=nitrogen&depth=0-5cm&depth=5-15cm&depth=15-30cm&depth=30-60cm&depth=60-100cm&depth=100-200cm&value=mean",
+  "sha256": "2ac079519a1a4f34a0f1fa2d6719d87b8f4364051ba894a77827f88bcd846622",
+  "timestamp": "2026-11-14T20:27:34.218215+00:00",
+  "source": "ISRIC SoilGrids gridded estimates, not farm observations",
+  "selection": "Point fixed before any regional crop output; city-null alternatives explicitly separate from weather coordinates"
+}

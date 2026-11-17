@@ -1,0 +1,78 @@
+{
+  "status": "PASS",
+  "scope": "Six quantitative plates only; no simulations, external LLMs, subagents, Fig1 or PPTX edits.",
+  "base_commit": "25a6b81b73676f4669821ace7e514590133a9658",
+  "visual_inspection": "All six final PNGs viewed with view_image; source and final PDF text geometry inspected.",
+  "quantitative_exports": 18,
+  "dpi": 450,
+  "geometry": {
+    "fig2-g1": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "fig2-p1-regimes": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "figs2-g3-subsidy": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "fig3-p2-transfer": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "fig4-factorial-stress": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "fig5-deployment-closure": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    }
+  },
+  "native_stock_budget_sources_verified": 312,
+  "protected_sets": {
+    "immutable_sources": 8,
+    "cea_v4": 43,
+    "v4_raw_and_receipt": 7
+  },
+  "reference_pdf": {
+    "path": "docs/compag2025rl.pdf",
+    "sha256": "16ece36a017ce43e1e48c7d80864c8c5cf9117aeb260a3b23e30f0f7a250b68e",
+    "visual_page_inspected": 9
+  },
+  "faithful_source_exceptions": [
+    "Two US low-NUE-only cases require a fifth mutually exclusive regime; no records dropped.",
+    "Archived bare has no2x price record; displayed as1x only.",
+    "DVS only Full-Telemetry; no invented Sensorless series.",
+    "Native soil-budget values differ from illustrative task values; exact SHA-verified results used.",
+    "Cap50 Full and remove-eco remain Not evaluated; Sensorless complete34.4%."
+  ],
+  "integration": "Figure captions updated in figure metadata only; manuscript and publication ledgers unchanged. Leader visual/cross-model gate remains after master merge.",
+  "plan_check": "PASS with pre-existing QA_TEXT_LONG advisory for Q2."
+}

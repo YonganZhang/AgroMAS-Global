@@ -1,0 +1,8 @@
+{
+  "git_fsck_exit_code": 0,
+  "unreachable_blobs": 9,
+  "candidate_blobs": 0,
+  "found": [],
+  "expected": 3,
+  "raw_nonmatching_blobs_not_disclosed": true
+}

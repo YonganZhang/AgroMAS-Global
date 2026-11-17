@@ -1,0 +1,65 @@
+{
+  "status": "PASS_FOR_FIGURE_BATCH",
+  "scope": "CEA v4 artifacts only, no manuscript integration, no PPTX conversion",
+  "attempt_epoch": 41,
+  "Gemini": {
+    "job": "20261116T210443__gemini__2078967",
+    "served_model": "gemini-4-carbon-medium",
+    "status": "COMPLETE/PASS",
+    "report": "cea-v4-reviews/gemini-visual-result.md"
+  },
+  "DeepSeek": {
+    "job": "20261116T210515__deepseek__2126023",
+    "served_model": "deepseek-flash",
+    "effort": "high",
+    "status": "COMPLETE; all9 PNGs PASS; no blocking content defect",
+    "report": "cea-v4-reviews/deepseek-gate-result.md"
+  },
+  "merge_process_gate_closure": {
+    "issue": "DeepSeek read the earlier provisional best-selection receipt while Gemini QA was running.",
+    "closed_by": "Gemini COMPLETE/PASS and cleaner v4-2 selection now recorded in phase8d-fig1-v4-raw-receipt.json and figure-source manifest; no waiver used.",
+    "same_best_sha256": "cd816c3fd568f34303b5df007144c29dce4cb70f434fd3ec397dc46b224f7ed8"
+  },
+  "artifact_sha256": {
+    "reports/phase8/figures/fig2-g1.png": "b4be0faf22342167eecb66a330f34ac9728f3a0874942a6e31e6fc19917123cb",
+    "reports/phase8/figures/fig2-g1.pdf": "6d91be38f28de7684f62327ba1e8a35bb67ff4182ae4ef984098afdd9242a884",
+    "reports/phase8/figures/fig2-g1.svg": "4e360466b904d85ae6321c9384e518c03b795db65ccfe21ae54b999e99890c7e",
+    "reports/phase8/figures/fig2-p1-regimes.png": "c2d530de1ffc1fa95cda143b362be8d94c76b7a242217f2c5e1da9b7ffcd20da",
+    "reports/phase8/figures/fig2-p1-regimes.pdf": "45636c7f6b1abf6f92e3acfa1b682af2a604db2f3a3ea2d2872a756b17d2d583",
+    "reports/phase8/figures/fig2-p1-regimes.svg": "b55b93c634389e70469813c92038e15b04908c99d13eb5c55d230708a27bd4da",
+    "reports/phase8/figures/figs2-g3-subsidy.png": "936d5db441cb05f1542b1f09602d3d1245431b8f8f799a96c46b8d787d9fe013",
+    "reports/phase8/figures/figs2-g3-subsidy.pdf": "012429537fda9a05d5a15e324236ec3e0d4bdd6124810a5ba8bb04714da51f1b",
+    "reports/phase8/figures/figs2-g3-subsidy.svg": "b59b1989abe1a8018e3544c01309cd87558d1ebe349c189d6363299c20fb7db7",
+    "reports/phase8/figures/fig3-p2-transfer.png": "9411db6c8ef3727268ac42f781b1add990641568001be4441b31baa99b76a75f",
+    "reports/phase8/figures/fig3-p2-transfer.pdf": "46676cb028214a221e38e3b92d2a57f48fabb7c889f683693c3ecc6809383fbb",
+    "reports/phase8/figures/fig3-p2-transfer.svg": "9a3402df29979276b8c110ce6e0c738747941d54dd0b8e3b2b782d1a3bbb8b6b",
+    "reports/phase8/figures/fig4-factorial-stress.png": "70b5f9123d93531fa35a67eaa352c75b2e72a78c34a3b6971e3ecd7f2295c54d",
+    "reports/phase8/figures/fig4-factorial-stress.pdf": "c20586faa91d58e7f73bacc317fee8dbdd88f2fc04f00994f3f89dd0fdee445c",
+    "reports/phase8/figures/fig4-factorial-stress.svg": "2eb6ddf0ea3389e8cdf6a8006eb171b93acc6f29e2d855d8ad1305ada463df43",
+    "reports/phase8/figures/fig5-deployment-closure.png": "be68d9fa2c2e9c6301bb4da130335bcd4fb2817e168d1c3d8ce99fc08b5e967f",
+    "reports/phase8/figures/fig5-deployment-closure.pdf": "a0c13ad899087fed8a75a2ec2e24e1bf5ac7f44972b051f4c5543aad8dbe6587",
+    "reports/phase8/figures/fig5-deployment-closure.svg": "86a28a7789d5aaeca7c672df892d50cdfa927ebeb3f7ea4fa854b5d76060cad6",
+    "reports/phase8/figures/fig1-architecture.png": "f5339a29ce9ae5e1ad9977b30767c1bc97408b801300bb210816c4bc978bf953",
+    "reports/phase8/figures/fig1-architecture.pdf": "1c21e908ec367bf1f803c27ab9b08997f86999511a5034f028304c658d6a0403",
+    "reports/phase8/figures/fig1-architecture.pptx": "85d92e0335b7db2b3e900f8361a52342d428669f13e99a7bdfd1a59b622da6f6",
+    "reports/phase8/figures/fig1-architecture.svg": "e63736a12931adf8a1ab087677af991250cbbda3ffa0999a02c5587604a04218"
+  },
+  "new_raw_png_sha256": {
+    "reports/phase8/figures/fig1-candidates/candidate-b-v4-1.png": "0c2b6f517634d780190312c37a3947d0fe5f6fbe8e6c847e3b5e5051f8b0f4ce",
+    "reports/phase8/figures/fig1-candidates/candidate-b-v4-2.png": "cd816c3fd568f34303b5df007144c29dce4cb70f434fd3ec397dc46b224f7ed8"
+  },
+  "scope_exception": "OptionA explicitly confirmed in continue-5c6220be8081cb09.md: Full and no-eco cap50 are Not evaluated; only Sensorless34.4% exists.",
+  "minor_metadata_fixes_after_review": [
+    "Renamed panel_count to axes_count, matching inclusion of colorbar axes.",
+    "Caption calls shading seasonal NUE-exceedance frequency, not measured stock mining. This frequency uses farm-year outcomes, not stage decision counts.",
+    "Updated v4 best-selection receipt and source manifest with completed Gemini QA."
+  ],
+  "known_nonblocking_observations": [
+    "G1 NL inset label crosses a coastline but remains readable.",
+    "Gaps panel-d group-bracket decoration extends into adjacent panel margin, without obscuring data or text.",
+    "Raw AI re-render preserves composition rather than pixel identity outside edited Agent2; inherited schematic simplifications remain."
+  ],
+  "final_pngs_unchanged_since_external_review": true,
+  "not_submission_ready": true,
+  "external_review_final_png_hashes_matched": 9
+}

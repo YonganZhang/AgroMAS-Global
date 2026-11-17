@@ -1,0 +1,95 @@
+{
+  "scope": "TRAIN interface only,zero native rollouts",
+  "records": [
+    {
+      "policy": "MLP",
+      "dose": 0.0,
+      "tier": 2
+    },
+    {
+      "policy": "soft",
+      "dose": 60.0,
+      "tier": 1
+    },
+    {
+      "policy": "open-loop",
+      "dose": 0.0,
+      "tier": 2
+    },
+    {
+      "policy": "greedy-frozen",
+      "dose": 0.0,
+      "tier": 2
+    },
+    {
+      "policy": "climate",
+      "dose": 0.0,
+      "tier": 2
+    },
+    {
+      "policy": "eco",
+      "dose": 60.0,
+      "tier": 1
+    },
+    {
+      "policy": "econ",
+      "dose": 60.0,
+      "tier": 1
+    },
+    {
+      "policy": "Fixed",
+      "dose": 40.0,
+      "tier": 2
+    },
+    {
+      "policy": "PPO4",
+      "dose": 40.0,
+      "tier": 2
+    },
+    {
+      "policy": "PPO17",
+      "dose": 40.0,
+      "tier": 2
+    },
+    {
+      "policy": "PPO29",
+      "dose": 40.0,
+      "tier": 2
+    },
+    {
+      "policy": "Weather",
+      "dose": 0.0,
+      "tier": 2
+    },
+    {
+      "policy": "ExtraTrees",
+      "dose": 0.0,
+      "tier": 2
+    },
+    {
+      "policy": "Linear",
+      "dose": 0.0,
+      "tier": 2
+    },
+    {
+      "policy": "legacyNone",
+      "dose": 80.0,
+      "tier": 1
+    },
+    {
+      "policy": "legacy4",
+      "dose": 100.0,
+      "tier": 1
+    },
+    {
+      "policy": "legacy17",
+      "dose": 100.0,
+      "tier": 1
+    },
+    {
+      "policy": "legacy29",
+      "dose": 80.0,
+      "tier": 1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "round1": "phase8c-final-visual-review-round1.md",
+  "round2": "phase8c-final-visual-review-round2.md",
+  "actual_model": "gemini-4-carbon-high",
+  "round1_numeric_parity": "all plotted values verified against locked JSON/CSV",
+  "round1_fixes": ["restored original domain artwork and native internal diagrams", "separated prior-adapter correction-zero from controller dose-zero", "restored Climate-to-Core partition link", "removed DVS heading collision", "separated scatter annotations", "disambiguated identical curves", "moved CI p labels", "expanded heatmap ranges", "defined canonical subset and idealized climates", "added subsidy diagnostic", "expanded closure axis and tolerances"],
+  "round2_verdict": "Figures2,4,5,S2 and captions passed;two localized residuals in Figures1 and3",
+  "round2_local_fixes": ["single-line prior OOD annotation above card", "single-line correction label above connector and plus glyph offset", "prior acceptance panel ylim0to115 with ticks0to100"],
+  "verification": "Native OOXML zero-repair validation, drawio validation, figure bounds and PDF text/position checks repeated after localized fixes",
+  "external_rounds": 2,
+  "external_final_clean_pass_after_local_fixes": false,
+  "limitation": "No third external review. Final two local fixes were applied exactly at reported positions and verified programmatically. Figures remain an author-review draft,not author-final approved.",
+  "review_advice_not_adopted": "Do not describe FR finite-grid Historical ceiling as uniformly high basal N;retained mineralization/mining qualification from original evidence."
+}

@@ -1,0 +1,171 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        15
+      ]
+    ],
+    "date-time": "2026-11-15T08:09:17Z",
+    "timestamp": 1794730157986,
+    "version": "4.9.1"
+  },
+  "reference-count": 0,
+  "publisher": "Walter de Gruyter GmbH",
+  "issue": "1",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "abstract": "<jats:p>Permutation tests are amongst the most commonly used statistical tools in modern genomic research, a process by which p-values are attached to a test statistic by randomly permuting the sample or gene labels.  Yet permutation p-values published in the genomic literature are often computed incorrectly, understated by about 1/m, where m is the number of permutations.  The same is often true in the more general situation when Monte Carlo simulation is used to assign p-values.  Although the p-value understatement is usually small in absolute terms, the implications can be serious in a multiple testing context. The understatement arises from the intuitive but mistaken idea of using permutation to estimate the tail probability of the test statistic.  We argue instead that permutation should be viewed as generating an exact discrete null distribution.  The relevant literature, some of which is likely to have been relatively inaccessible to the genomic community, is reviewed and summarized.  A computation strategy is developed for exact p-values when permutations are randomly drawn.  The strategy is valid for any number of permutations and samples.  Some simple recommendations are made for the implementation of permutation tests in practice.</jats:p>",
+  "DOI": "10.2202/1544-6115.1585",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2010,
+        11,
+        1
+      ]
+    ],
+    "date-time": "2010-11-01T03:15:28Z",
+    "timestamp": 1288581328000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 785,
+  "title": [
+    "Permutation P-values Should Never Be Zero: Calculating Exact P-values When Permutations Are Randomly Drawn"
+  ],
+  "prefix": "10.1515",
+  "volume": "9",
+  "author": [
+    {
+      "given": "Belinda",
+      "family": "Phipson",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "The Walter and Eliza Hall Institute of Medical Research"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Gordon K",
+      "family": "Smyth",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "The Walter and Eliza Hall Institute of Medical Reseach"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "374",
+  "published-online": {
+    "date-parts": [
+      [
+        2010,
+        10,
+        31
+      ]
+    ]
+  },
+  "container-title": [
+    "Statistical Applications in Genetics and Molecular Biology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.degruyterbrill.com/document/doi/10.2202/1544-6115.1585/xml",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.degruyterbrill.com/document/doi/10.2202/1544-6115.1585/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        12
+      ]
+    ],
+    "date-time": "2025-12-12T15:30:22Z",
+    "timestamp": 1765553422000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.degruyterbrill.com/document/doi/10.2202/1544-6115.1585/html"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2010,
+        10,
+        31
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2010,
+          11,
+          22
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.2202/1544-6115.1585"
+  ],
+  "URL": "https://doi.org/10.2202/1544-6115.1585",
+  "relation": {},
+  "ISSN": [
+    "1544-6115"
+  ],
+  "issn-type": [
+    {
+      "value": "1544-6115",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2010,
+        10,
+        31
+      ]
+    ]
+  }
+}

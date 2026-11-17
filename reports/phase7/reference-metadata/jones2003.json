@@ -1,0 +1,2364 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        15
+      ]
+    ],
+    "date-time": "2026-11-15T10:29:27Z",
+    "timestamp": 1794738567257,
+    "version": "4.9.1"
+  },
+  "reference-count": 209,
+  "publisher": "Elsevier BV",
+  "issue": "3-4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2003,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2003-01-01T00:00:00Z",
+        "timestamp": 1041379200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "European Journal of Agronomy"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2003,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1016/s1161-0301(02)00107-7",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2002,
+        12,
+        28
+      ]
+    ],
+    "date-time": "2002-12-28T07:42:19Z",
+    "timestamp": 1041061339000
+  },
+  "page": "235-265",
+  "source": "Crossref",
+  "is-referenced-by-count": 3708,
+  "title": [
+    "The DSSAT cropping system model"
+  ],
+  "prefix": "10.1016",
+  "volume": "18",
+  "author": [
+    {
+      "given": "J.W",
+      "family": "Jones",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "G",
+      "family": "Hoogenboom",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "C.H",
+      "family": "Porter",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "K.J",
+      "family": "Boote",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "W.D",
+      "family": "Batchelor",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "L.A",
+      "family": "Hunt",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "P.W",
+      "family": "Wilkens",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "U",
+      "family": "Singh",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "A.J",
+      "family": "Gijsman",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "J.T",
+      "family": "Ritchie",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB1",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1016/S0308-521X(99)00070-0",
+      "article-title": "Evaluation and application of the CROPGRO-Soybean simulation model in vertic inceptisol",
+      "volume": "63",
+      "author": "Alagarswamy",
+      "year": "2000",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB2",
+      "doi-asserted-by": "crossref",
+      "first-page": "315",
+      "DOI": "10.1016/S0168-1923(00)00166-0",
+      "article-title": "The impact of climate variability and change on crop yield in Bulgaria",
+      "volume": "104",
+      "author": "Alexandrov",
+      "year": "2001",
+      "journal-title": "Agricultural and Forest Meteorology"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB3",
+      "doi-asserted-by": "crossref",
+      "first-page": "315",
+      "DOI": "10.1016/0308-521X(90)90058-X",
+      "article-title": "The application of SIMOPT2:RICE to evaluate profit and yield-risk in upland-rice production",
+      "volume": "33",
+      "author": "Alocilja",
+      "year": "1990",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB4",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.1016/S0308-521X(00)00037-8",
+      "article-title": "Incorporating tillage effects into soybean model",
+      "volume": "66",
+      "author": "Andales",
+      "year": "2000",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB5",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.3354/cr009001",
+      "article-title": "Vulnerability of the agricultural sector of Latin America to climate change",
+      "volume": "9",
+      "author": "Baethgen",
+      "year": "1997",
+      "journal-title": "Climate Research"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB6",
+      "doi-asserted-by": "crossref",
+      "first-page": "247",
+      "DOI": "10.1017/S0043174500081145",
+      "article-title": "A model of competition for light between peanut (Arachis hypogaea) and broadleaf weeds",
+      "volume": "43",
+      "author": "Barbour",
+      "year": "1995",
+      "journal-title": "Weed Science"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB7",
+      "doi-asserted-by": "crossref",
+      "first-page": "874",
+      "DOI": "10.2134/agronj1994.00021962008600050022x",
+      "article-title": "Peanut acclimation to simulated shading by weeds",
+      "volume": "86",
+      "author": "Barbour",
+      "year": "1994",
+      "journal-title": "Agronomy Journal"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB8",
+      "doi-asserted-by": "crossref",
+      "first-page": "551",
+      "DOI": "10.13031/2013.28372",
+      "article-title": "Extending the use of crop models to study pest damage",
+      "volume": "36",
+      "author": "Batchelor",
+      "year": "1993",
+      "journal-title": "Transactions of the ASAE"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB9",
+      "doi-asserted-by": "crossref",
+      "first-page": "135",
+      "DOI": "10.4141/cjss95-017",
+      "article-title": "Testing effectiveness of four simulation models for estimating nitrates and water in two soils",
+      "volume": "75",
+      "author": "Beckie",
+      "year": "1995",
+      "journal-title": "Canadian Journal of Soil Sciences"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB10",
+      "doi-asserted-by": "crossref",
+      "first-page": "309",
+      "DOI": "10.1016/S1161-0301(00)00063-0",
+      "article-title": "Using the CERES-Maize model in a semi-arid Mediterranean environment. Evaluationof model performance",
+      "volume": "13",
+      "author": "Ben Nouna",
+      "year": "2000",
+      "journal-title": "European Journal of Agronomy"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB11",
+      "first-page": "219",
+      "article-title": "Using decision support systems to optimize barley management on spatial variable soil",
+      "volume": "2",
+      "author": "Booltink",
+      "year": "1997"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB12",
+      "doi-asserted-by": "crossref",
+      "first-page": "445",
+      "DOI": "10.1016/S0308-521X(01)00055-5",
+      "article-title": "Tools for optimizing management of spatially-variable fields",
+      "volume": "70",
+      "author": "Booltink",
+      "year": "2001",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB13",
+      "series-title": "Systems Approaches for Agricultural Development",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/978-94-011-2840-7_16",
+      "article-title": "Pest damage relations at the field level",
+      "author": "Boote",
+      "year": "1993"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB14",
+      "unstructured": "Boote, K.J., Bennett, J.M., Jones, J.W., Jowers, H.E., 1989. On-farm testing of peanut and soybean models in Florida. ASAE P No. 89-4040. Am. Soc. Agr. Engr. (ASAE), St. Joseph, MI, pp. 54."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB15",
+      "series-title": "Agricultural Systems Modeling and Simulation",
+      "first-page": "651",
+      "article-title": "Simulation of crop growth: CROPGRO model",
+      "author": "Boote",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB16",
+      "series-title": "Understanding Options for Agricultural Production",
+      "first-page": "99",
+      "article-title": "The CROPGRO model for grain legumes",
+      "author": "Boote",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB17",
+      "doi-asserted-by": "crossref",
+      "first-page": "704",
+      "DOI": "10.2134/agronj1996.00021962008800050005x",
+      "article-title": "Potential uses and limitations of crop models",
+      "volume": "88",
+      "author": "Boote",
+      "year": "1996",
+      "journal-title": "Agronomie Journal"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB18",
+      "doi-asserted-by": "crossref",
+      "first-page": "743",
+      "DOI": "10.2134/agronj2002.0743",
+      "article-title": "Adapting the CROPGRO-legume model to simulate growth of faba bean",
+      "volume": "94",
+      "author": "Boote",
+      "year": "2002",
+      "journal-title": "Agronomy Journal"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB19",
+      "doi-asserted-by": "crossref",
+      "first-page": "1423",
+      "DOI": "10.21273/HORTSCI.29.12.1423",
+      "article-title": "Modeling photosynthesis of row crop canopies",
+      "volume": "29",
+      "author": "Boote",
+      "year": "1994",
+      "journal-title": "HortScience"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB20",
+      "doi-asserted-by": "crossref",
+      "first-page": "395",
+      "DOI": "10.1016/S0308-521X(01)00053-1",
+      "article-title": "Physiology and modeling of traits in crop plants: implications for genetic improvement",
+      "volume": "70",
+      "author": "Boote",
+      "year": "2001",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB21",
+      "doi-asserted-by": "crossref",
+      "first-page": "1581",
+      "DOI": "10.1094/Phyto-73-1581",
+      "article-title": "Coupling pests to crop growth simulators to predict yield reductions",
+      "volume": "73",
+      "author": "Boote",
+      "year": "1983",
+      "journal-title": "Phytopathology"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB22",
+      "unstructured": "Boote, K.J., Jones, J.W., Mishoe, J.W., Wilkerson, G.G., 1986. Modeling growth and yield of groundnut. Agrometeorology of Groundnut: Proceedings of an International Symposium, ICRISAT Sahelian Center, Niamey, Niger. 21\u201326 Aug, 1985, ICRISAT, Patancheru, A.P. 502 324, India, pp. 243\u2013254."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB23",
+      "series-title": "Advances in Carbon Dioxide Effects Research",
+      "first-page": "179",
+      "article-title": "Plant modeling: advances and gaps in our capability to project future crop growth and yield in response to global climate change",
+      "author": "Boote",
+      "year": "1997"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB24",
+      "series-title": "Physiology and Determination of Crop Yield",
+      "first-page": "533",
+      "article-title": "Modeling genetic yield potential",
+      "author": "Boote",
+      "year": "1994"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB25",
+      "unstructured": "Bowen, W.T., Jones, J.W., Thornton P.K., 1992. Crop simulation as a potential tool for evaluating sustainable land management. Utilization of Soil Survey Information for Sustainable Land Use Proceedings: 11\u201324 July."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB26",
+      "unstructured": "Braga, R., 2000. Predicting the spatial pattern of grain yield under water limiting conditions. PhD Dissertation, Agricultural and Biological Engineering Department, University of Florida, Gainesville, FL, pp. 176."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB27",
+      "doi-asserted-by": "crossref",
+      "first-page": "27",
+      "DOI": "10.1051/agro:19890103",
+      "article-title": "A soybean crop simulation model: validation and adaptation to varieties cultivated in southern Europe",
+      "volume": "9",
+      "author": "Brisson",
+      "year": "1989",
+      "journal-title": "Agronomie"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB28",
+      "doi-asserted-by": "crossref",
+      "first-page": "43",
+      "DOI": "10.2134/jnrlse.1994.0043",
+      "article-title": "N-show: an educational computer program that displays dynamic graphs of nitrogen in soil",
+      "volume": "23",
+      "author": "Cabrera",
+      "year": "1994",
+      "journal-title": "Journal of Natural Resources and Life Scince Education"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB29",
+      "doi-asserted-by": "crossref",
+      "first-page": "1607",
+      "DOI": "10.1175/1520-0442(1993)006<1607:COMTSI>2.0.CO;2",
+      "article-title": "Considerations of meteorological time-series in estimating regional-scale crop yield",
+      "volume": "6",
+      "author": "Carbone",
+      "year": "1993",
+      "journal-title": "Journal of Climate"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB30",
+      "first-page": "171",
+      "article-title": "Application of remote sensing and GIS technologies with physiological crop models",
+      "volume": "62",
+      "author": "Carbone",
+      "year": "1996",
+      "journal-title": "American Society for Photogrammetry and Remote Sensing"
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB31",
+      "doi-asserted-by": "crossref",
+      "first-page": "227",
+      "DOI": "10.1016/S0167-1987(96)01054-9",
+      "article-title": "Tillage effects on plant extractable soil\u2013water in a silty clay vertisol in southern Italy",
+      "volume": "40",
+      "author": "Castrignano",
+      "year": "1997",
+      "journal-title": "Soil and Tillage Research"
+    },
+    {
+      "issue": "2\u20133",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB32",
+      "doi-asserted-by": "crossref",
+      "first-page": "107",
+      "DOI": "10.1016/S0304-3800(98)00084-2",
+      "article-title": "A modified version of CERES-Maize model for predicting crop response to salinity stress",
+      "volume": "111",
+      "author": "Castrignano",
+      "year": "1998",
+      "journal-title": "Ecological Modelling"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB33",
+      "doi-asserted-by": "crossref",
+      "first-page": "479",
+      "DOI": "10.1017/S0014479700001058",
+      "article-title": "Evaluation of the CERES-Maize model in simulating Campesino farmer yields in the highlands of central Mexico",
+      "volume": "36",
+      "author": "Castelan Ortega",
+      "year": "2000",
+      "journal-title": "Experimental Agriculture"
+    },
+    {
+      "issue": "3\u20134",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB34",
+      "doi-asserted-by": "crossref",
+      "first-page": "223",
+      "DOI": "10.1016/S0168-1923(96)02363-5",
+      "article-title": "Early prediction of spring wheat yields in Saskatchewan from current and historical weather data using the CERES-wheat model",
+      "volume": "84",
+      "author": "Chipanshi",
+      "year": "1997",
+      "journal-title": "Agricultural and Forest Meteorology"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB35",
+      "doi-asserted-by": "crossref",
+      "first-page": "57",
+      "DOI": "10.1016/S0308-521X(98)00082-1",
+      "article-title": "Large-scale simulation of wheat yields in a semi-arid environment using a crop-growth model",
+      "volume": "59",
+      "author": "Chipanshi",
+      "year": "1999",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB36",
+      "doi-asserted-by": "crossref",
+      "first-page": "1129",
+      "DOI": "10.2134/agronj1995.00021962008700060015x",
+      "article-title": "Soybean reproductive development: adapting a model for European cultivars",
+      "volume": "87",
+      "author": "Colson",
+      "year": "1995",
+      "journal-title": "Agronomy Journal"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB37",
+      "doi-asserted-by": "crossref",
+      "first-page": "17",
+      "DOI": "10.3354/cr009017",
+      "article-title": "Vulnerability of rainfed maize crops in Mexico to climate change",
+      "volume": "9",
+      "author": "Conde",
+      "year": "1997",
+      "journal-title": "Climate Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB38",
+      "doi-asserted-by": "crossref",
+      "first-page": "25",
+      "DOI": "10.3354/cr009025",
+      "article-title": "Climate change and its impact on the properties of agricultural soils in the Argentinean rolling pampas",
+      "volume": "9",
+      "author": "Diaz",
+      "year": "1997",
+      "journal-title": "Climate Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB39",
+      "unstructured": "Doorenbos, J., Pruitt, W.D., 1977. Guidelines for predicting crop water requirements. Food and Agriculture Organization of the United Nations, Rome. Irrigation and Drainage Paper No. 24."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB40",
+      "doi-asserted-by": "crossref",
+      "first-page": "581",
+      "DOI": "10.1175/1520-0450(1986)025<0581:CYPUC>2.0.CO;2",
+      "article-title": "Corn yield prediction using climatology",
+      "volume": "25",
+      "author": "Duchon",
+      "year": "1986",
+      "journal-title": "Journal of Climate and Applied Meteorology"
+    },
+    {
+      "issue": "1\u20132",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB41",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1016/0168-1923(92)90003-M",
+      "article-title": "Planting date and soybean yield: evaluation of environmental effects with a crop simulation model: SOYGRO",
+      "volume": "62",
+      "author": "Egli",
+      "year": "1992",
+      "journal-title": "Agricultural and Forest Meteorology"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB42",
+      "doi-asserted-by": "crossref",
+      "first-page": "85",
+      "DOI": "10.1016/0308-521X(93)90070-I",
+      "article-title": "Dynamic programming for improving irrigation scheduling strategies of maize",
+      "volume": "42",
+      "author": "Epperson",
+      "year": "1993",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB43",
+      "series-title": "Soil Water Balance in the Sudano-Sahhelian Zone",
+      "first-page": "505",
+      "article-title": "An evaluation of the SWATRER and CERES-Millet models for southwest Niger",
+      "author": "Fechter",
+      "year": "1991"
+    },
+    {
+      "issue": "2\u20133",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB44",
+      "doi-asserted-by": "crossref",
+      "first-page": "285",
+      "DOI": "10.1016/S0304-3800(00)00252-0",
+      "article-title": "Modeling peanut leaf gas exchange for the calibration of crop models for different cultivars",
+      "volume": "131",
+      "author": "Ferreyra",
+      "year": "2000",
+      "journal-title": "Ecological Modelling"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB45",
+      "doi-asserted-by": "crossref",
+      "first-page": "177",
+      "DOI": "10.1016/S0168-1923(00)00240-9",
+      "article-title": "A linked-modeling framework to estimate maize production risk associated with ENSO-related climate variability in Argentina",
+      "volume": "107",
+      "author": "Ferreyra",
+      "year": "2001",
+      "journal-title": "Agricultural and Forest Meteorology"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB46",
+      "unstructured": "Fleisher, D.H., Cavazzoni, J., Giacomelli, G.A., Ting K.C., 2000. Adaption of SUBTOR for hydroponic, controlled environment white potato production. ASAE Paper 00-4089. American Society of Agricultural Engineers, St. Joseph, MI."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB47",
+      "doi-asserted-by": "crossref",
+      "first-page": "142",
+      "DOI": "10.2136/sssaj1996.03615995006000010023x",
+      "article-title": "Analysis and field-evaluation of the CERES models\u2019 soil components: nitrogen transfer and transformations",
+      "volume": "60",
+      "author": "Gabrielle",
+      "year": "1996",
+      "journal-title": "Soil Science Society of American Journal"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB48",
+      "doi-asserted-by": "crossref",
+      "first-page": "95",
+      "DOI": "10.1016/S0378-4290(97)00120-2",
+      "article-title": "Development and evaluation of a CERES-type model for winter oilseed rape",
+      "volume": "57",
+      "author": "Gabrielle",
+      "year": "1998",
+      "journal-title": "Field Crops Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB49",
+      "first-page": "557",
+      "article-title": "Modelling impact of climate variability on rainfed groundnut",
+      "volume": "76",
+      "author": "Gadgil",
+      "year": "1999",
+      "journal-title": "Current Science"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB50",
+      "doi-asserted-by": "crossref",
+      "first-page": "363",
+      "DOI": "10.1016/0168-1923(86)90014-6",
+      "article-title": "A simple method for generating daily rainfall data",
+      "volume": "36",
+      "author": "Geng",
+      "year": "1986",
+      "journal-title": "Agricultural and Forest Meteorology"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB51",
+      "unstructured": "Geng, S., Auburn, J., Brandstetter, E., Li, B., 1988. A program to simulate meteorological variables. Documentation for SIMMETEO. Agronomy Report No. 204. University of California, Davis Crop Extension, Davis, CA."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB52",
+      "doi-asserted-by": "crossref",
+      "first-page": "22",
+      "DOI": "10.1177/003754979907300104",
+      "article-title": "Near real-time agricultural simulations on the web",
+      "volume": "73",
+      "author": "Georgiev",
+      "year": "1999",
+      "journal-title": "Simulation"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB53",
+      "doi-asserted-by": "crossref",
+      "first-page": "241",
+      "DOI": "10.1006/jema.1997.0172",
+      "article-title": "Simulation of atrazine leaching in relation to water-table management using the CERES model",
+      "volume": "52",
+      "author": "Gerakis",
+      "year": "1998",
+      "journal-title": "Journal of Environmental Management"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB54",
+      "doi-asserted-by": "crossref",
+      "first-page": "135",
+      "DOI": "10.1007/BF00193135",
+      "article-title": "Overestimation of soybean crop transpiration by sap flow measurements under field conditions in central Portugal",
+      "volume": "14",
+      "author": "Gerdes",
+      "year": "1994",
+      "journal-title": "Irrigation Science"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB55",
+      "first-page": "2",
+      "article-title": "Adaptation of the DSSAT model for simulation of Brachiaria decumbens production",
+      "volume": "20",
+      "author": "Giraldo",
+      "year": "1998",
+      "journal-title": "Pasturas Tropicales"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB56",
+      "doi-asserted-by": "crossref",
+      "first-page": "462",
+      "DOI": "10.2134/agronj2002.0462",
+      "article-title": "Modifying DSSAT for low-input agricultural systems, using a soil organic matter\u2014residue module from CENTURY",
+      "volume": "94",
+      "author": "Gijsman",
+      "year": "2002",
+      "journal-title": "Agronomy Journal"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB57",
+      "series-title": "Modeling Plant and Soil Systems",
+      "first-page": "287",
+      "article-title": "Nitrogen dynamics in soil\u2013plant systems",
+      "author": "Godwin",
+      "year": "1991"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB58",
+      "series-title": "Understanding Options for Agricultural Production. System Approaches for Sustainable Agricultural Development",
+      "doi-asserted-by": "crossref",
+      "first-page": "55",
+      "DOI": "10.1007/978-94-017-3624-4_4",
+      "article-title": "Nitrogen balance and crop response to nitrogen in upland and lowland cropping systems",
+      "author": "Godwin",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB59",
+      "doi-asserted-by": "crossref",
+      "first-page": "921",
+      "DOI": "10.1071/EA9940921",
+      "article-title": "Simulation of the effect of chilling injury and nitrogen supply on floret fertility and yield in rice",
+      "volume": "34",
+      "author": "Godwin",
+      "year": "1994",
+      "journal-title": "Australian Journal Experimental Agricultural"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB60",
+      "doi-asserted-by": "crossref",
+      "first-page": "31",
+      "DOI": "10.2134/agronj1994.00021962008600010007x",
+      "article-title": "Modeling the occurrence of reproductive stages after flowering for four soybean cultivars",
+      "volume": "86",
+      "author": "Grimm",
+      "year": "1994",
+      "journal-title": "Agronomy Journal"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB61",
+      "doi-asserted-by": "crossref",
+      "first-page": "137",
+      "DOI": "10.2135/cropsci1993.0011183X003300010025x",
+      "article-title": "Parameter estimation for predicting flowering date of soybean cultivars",
+      "volume": "33",
+      "author": "Grimm",
+      "year": "1993",
+      "journal-title": "Crop Scince"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB62",
+      "doi-asserted-by": "crossref",
+      "first-page": "772",
+      "DOI": "10.2134/jeq1995.00472425002400040031x",
+      "article-title": "Linking a geographic information system with a potato simulation model for site-specific crop management",
+      "volume": "24",
+      "author": "Han",
+      "year": "1995",
+      "journal-title": "Journal of Environmental Quality"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB63",
+      "doi-asserted-by": "crossref",
+      "first-page": "43",
+      "DOI": "10.1016/S0308-521X(00)00025-1",
+      "article-title": "Scaling-up crop models for climate variability applications",
+      "volume": "65",
+      "author": "Hansen",
+      "year": "2000",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB64",
+      "doi-asserted-by": "crossref",
+      "first-page": "9",
+      "DOI": "10.1016/S0378-4290(02)00091-6",
+      "article-title": "Adaptation of the CROPGRO growth model to velvet bean as a green manure cover crop: I. Model development",
+      "volume": "78",
+      "author": "Hartkamp",
+      "year": "2002",
+      "journal-title": "Field Crops Research"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB65",
+      "doi-asserted-by": "crossref",
+      "first-page": "239",
+      "DOI": "10.1016/S0378-4290(00)00099-X",
+      "article-title": "Testing CERES model predictions of crop growth and N dynamics, in cropping systems with leguminous green manures in a Mediterranean climate",
+      "volume": "67",
+      "author": "Hasegawa",
+      "year": "2000",
+      "journal-title": "Field Crops Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB66",
+      "doi-asserted-by": "crossref",
+      "first-page": "255",
+      "DOI": "10.1016/S0378-4290(99)00043-X",
+      "article-title": "Testing CERES model predictions of N release from legume cover crop residue",
+      "volume": "63",
+      "author": "Hasegawa",
+      "year": "1999",
+      "journal-title": "Field Crops Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB67",
+      "doi-asserted-by": "crossref",
+      "first-page": "1551",
+      "DOI": "10.1111/j.1752-1688.1999.tb04237.x",
+      "article-title": "Potential effects of climate change on agricultural, water use in the southeast US",
+      "volume": "35",
+      "author": "Hatch",
+      "year": "1999",
+      "journal-title": "Journal of the American Water Resources Association"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB68",
+      "doi-asserted-by": "crossref",
+      "first-page": "1507",
+      "DOI": "10.13031/2013.3050",
+      "article-title": "Center pivot irrigation management optimization of dry beans in humid areas",
+      "volume": "43",
+      "author": "Heinemann",
+      "year": "2000",
+      "journal-title": "Transactions of the ASAE"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB69",
+      "doi-asserted-by": "crossref",
+      "first-page": "330",
+      "DOI": "10.1111/j.1439-037X.1993.tb01093.x",
+      "article-title": "Model for slurry and manure in CERES and similar models",
+      "volume": "170",
+      "author": "Hoffmann",
+      "year": "1993",
+      "journal-title": "Journal Agronomy and Crop Science"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB70",
+      "doi-asserted-by": "crossref",
+      "first-page": "79",
+      "DOI": "10.1300/J064v13n02_07",
+      "article-title": "Water and nitrogen applications for potato: commercial and experimental rates compared to a simulation model",
+      "volume": "13",
+      "author": "Hodges",
+      "year": "1998",
+      "journal-title": "Journal of Sustainable Agriculture"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB71",
+      "first-page": "1",
+      "article-title": "Decision support system for agrotechnology transfer v3.5",
+      "volume": "4",
+      "author": "Hoogenboom",
+      "year": "1999"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB72",
+      "doi-asserted-by": "crossref",
+      "first-page": "613",
+      "DOI": "10.2134/agronj1997.00021962008900040013x",
+      "article-title": "Evaluation of a crop simulation model that incorporates gene action",
+      "volume": "89",
+      "author": "Hoogenboom",
+      "year": "1997",
+      "journal-title": "Agronomy Journal"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB73",
+      "first-page": "95",
+      "article-title": "Crop models",
+      "volume": "2",
+      "author": "Hoogenboom",
+      "year": "1994"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB74",
+      "doi-asserted-by": "crossref",
+      "first-page": "182",
+      "DOI": "10.2134/agronj1994.00021962008600010032x",
+      "article-title": "BEANGRO: A process-oriented dry bean model with a versatile user interface",
+      "volume": "86",
+      "author": "Hoogenboom",
+      "year": "1994",
+      "journal-title": "Agronomy Journal"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB75",
+      "doi-asserted-by": "crossref",
+      "first-page": "271",
+      "DOI": "10.1016/0308-521X(94)90142-3",
+      "article-title": "Using crop models to plan water withdrawals for irrigation in drought years",
+      "volume": "45",
+      "author": "Hook",
+      "year": "1994",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB76",
+      "doi-asserted-by": "crossref",
+      "first-page": "13",
+      "DOI": "10.1017/S0021859697004462",
+      "article-title": "Application of the CERES-Wheat model to yield predictions in the irrigated plains of the Indian Punjab",
+      "volume": "129",
+      "author": "Hundal",
+      "year": "1997",
+      "journal-title": "Journal of Agricultural Science"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB77",
+      "first-page": "37",
+      "article-title": "Validation of crop simulation model CERES-Maize",
+      "volume": "98",
+      "author": "Hunk\u00e1r",
+      "year": "1994",
+      "journal-title": "Quarterly Journal of Hungarian Meteorology Series"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB78",
+      "series-title": "Systems Approaches for Agricultural Development",
+      "doi-asserted-by": "crossref",
+      "first-page": "3",
+      "DOI": "10.1007/978-94-011-2840-7_1",
+      "article-title": "Designing improved plant types: a breeder's viewpoint",
+      "author": "Hunt",
+      "year": "1993"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB79",
+      "series-title": "Understanding Options for Agricultural Production",
+      "first-page": "9",
+      "article-title": "Data for model operation, calibration, and evaluation",
+      "author": "Hunt",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB80",
+      "doi-asserted-by": "crossref",
+      "first-page": "477",
+      "DOI": "10.1016/S0308-521X(01)00056-7",
+      "article-title": "Agronomic data: advances in documentation and protocols for exchange and use",
+      "volume": "70",
+      "author": "Hunt",
+      "year": "2001",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB81",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.1016/S0959-3780(00)00010-8",
+      "article-title": "Agricultural impacts of climate change in Spain: developing tools for a spatial analysis",
+      "volume": "10",
+      "author": "Iglesias",
+      "year": "2000",
+      "journal-title": "Global Environmental Change"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB82",
+      "unstructured": "International Benchmark Sites Network for Agrotechnology Transfer. 1993. The IBSNAT Decade. Department of Agronomy and Soil Science, College of Tropical Agriculture and Human Resources, University of Hawaii, Honoluly, Hawaii."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB83",
+      "doi-asserted-by": "crossref",
+      "first-page": "1140",
+      "DOI": "10.2134/agronj2000.9261140x",
+      "article-title": "Evaluating methods for simulating soybean culitvar responses using cross validation",
+      "volume": "92",
+      "author": "Irmak",
+      "year": "1999",
+      "journal-title": "Agronomy Journal"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB84",
+      "first-page": "839",
+      "article-title": "Linking multiple layers of information for diagnosing causes of spatial yield variability",
+      "volume": "45",
+      "author": "Irmak",
+      "year": "2001",
+      "journal-title": "Trans. ASAE"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB85",
+      "doi-asserted-by": "crossref",
+      "first-page": "77",
+      "DOI": "10.1016/S0308-521X(99)00019-0",
+      "article-title": "Long-term assessment of nitrogen and variety technologies on attainable maize yields in Nigeria using CERES-maize",
+      "volume": "60",
+      "author": "Jagtap",
+      "year": "1999",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB86",
+      "doi-asserted-by": "crossref",
+      "first-page": "9",
+      "DOI": "10.4141/cjps96-003",
+      "article-title": "Crop growth-models for decision-support systems",
+      "volume": "76",
+      "author": "Jame",
+      "year": "1996",
+      "journal-title": "Canadian Journal of Plant Science"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB87",
+      "doi-asserted-by": "crossref",
+      "first-page": "75",
+      "DOI": "10.1007/BF00175554",
+      "article-title": "The impacts of potential climate change and climate variability on simulated maize production in China",
+      "volume": "92",
+      "author": "Jinghua",
+      "year": "1996",
+      "journal-title": "Water, Air and Soil Pollution"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB88",
+      "doi-asserted-by": "crossref",
+      "first-page": "245",
+      "DOI": "10.1016/0308-521X(94)P4414-W",
+      "article-title": "A decision support system for rapid assessment of lowland rice-based cropping alternatives in Thailand",
+      "volume": "47",
+      "author": "Jintrawet",
+      "year": "1995",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB89",
+      "series-title": "CERES-Maize: A Simulation Model of Maize Growth and Development",
+      "author": "Jones",
+      "year": "1986"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB90",
+      "doi-asserted-by": "crossref",
+      "first-page": "341",
+      "DOI": "10.1016/0308-521X(91)90057-H",
+      "article-title": "EPIC: an operational model for evaluation of agricultural sustainability",
+      "volume": "37",
+      "author": "Jones",
+      "year": "1991",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB91",
+      "unstructured": "Jones J.W. Ritchie, J.T., 1991. Crop growth models In: Hoffman, G.J, Howell, T.A., Solomon, K.H. (Eds.), Management of Farm Irrigation Systems, American Society for Agricultural Engineering, pp. 63\u201389."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB92",
+      "series-title": "Systems Approaches for Agricultural Development",
+      "doi-asserted-by": "crossref",
+      "first-page": "459",
+      "DOI": "10.1007/978-94-011-2840-7_28",
+      "article-title": "Decision support systems for agricultural development",
+      "author": "Jones",
+      "year": "1993"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB93",
+      "unstructured": "Jones, J.W., Boote, K.J., Hoogenboom, G., Jagtap, S.S., Wilkerson, G.G., 1989. SOYGRO V5.42, Soybean Crop Growth Simulation Model. User's Guide. Fl. Agric. Exp. Sta., Journal No. 8304. University of Florida, Gainesville. pp. 53."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB94",
+      "series-title": "Understanding Options for Agricultural Production",
+      "first-page": "157",
+      "article-title": "Decision support system for agrotechnology transfer; DSSAT v3",
+      "author": "Jones",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB95",
+      "doi-asserted-by": "crossref",
+      "first-page": "169",
+      "DOI": "10.1016/S0167-8809(00)00225-5",
+      "article-title": "Potential benefits of climate forecasting to agriculture",
+      "volume": "82",
+      "author": "Jones",
+      "year": "2000",
+      "journal-title": "Agriculture Ecosystems and Environment"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB96",
+      "first-page": "1",
+      "article-title": "Input and output files",
+      "volume": "2",
+      "author": "Jones",
+      "year": "1994"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB97",
+      "doi-asserted-by": "crossref",
+      "first-page": "421",
+      "DOI": "10.1016/S0308-521X(01)00054-3",
+      "article-title": "Approaches to modular model development",
+      "volume": "70",
+      "author": "Jones",
+      "year": "2001",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB98",
+      "first-page": "17",
+      "article-title": "Integrated wheat crop management based on generic task knowledge-based systems and CERES numerical-simulation",
+      "volume": "9",
+      "author": "Kamel",
+      "year": "1995",
+      "journal-title": "AI Applications"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB99",
+      "doi-asserted-by": "crossref",
+      "first-page": "167",
+      "DOI": "10.1017/S0021859699006796",
+      "article-title": "Forecasting growth and yield of groundnut (Arachis hypogaea) with a dynamic simulation model \u2018PNUTGRO\u2019 under Punjab conditions",
+      "volume": "133",
+      "author": "Kaur",
+      "year": "1999",
+      "journal-title": "Journal of Agricultural Science"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB100",
+      "series-title": "Climatic Risk in Crop Production-Models and Management for the Semi-arid Tropics and Subtropics",
+      "article-title": "Optimising nitrogen inputs in response to climatic risk",
+      "author": "Keating",
+      "year": "1991"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB101",
+      "doi-asserted-by": "crossref",
+      "first-page": "385",
+      "DOI": "10.1016/0308-521X(95)00032-Z",
+      "article-title": "Testing simulation models for the assessment of crop production and nitrate leaching in Hungary",
+      "volume": "49",
+      "author": "Kov\u00e1cs",
+      "year": "1995",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB102",
+      "unstructured": "Kraalingen, D.W.G. van, 1990. The fortran version of CSMP MACROS (Modules for Annual CRop Simulation). Simulation reports CABO-TT; nr. 21. Centre for Agrobiological Research and Deptarment of Theoretical Production Ecology, Agricultural University, Wageningen, the Netherlands."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB103",
+      "unstructured": "Kraalingen, D.W.G. van, 1991. The FSE system for crop simulation. Simulation reports CABO-TT; nr. 23. Centre for Agrobiological Research and Deptarment of Theoretical Production Ecology, Agricultural University, Wageningen, the Netherlands."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB104",
+      "unstructured": "Kraalingen, D.W.G. van. 1995. The FSE system for crop simulation, version 2.1. Quantitative Approaches in Systems Analysis, No. 1, C.T. de Wit Graduate School for Production Ecology and Resource Conservation, Wageningen University, The Netherlands, pp. 58."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB105",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kraalingen, D.W.G. van, Rappoldt C., Van Laar, H.H., 2003. The Fortran simulation translator, a simulation language. European Journal of Agronomy 18, 359\u2013361.",
+      "DOI": "10.1016/S1161-0301(02)00131-4"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB106",
+      "series-title": "Express: An Expert Simulation System for Peanut Insect Pest Management",
+      "author": "Lacey",
+      "year": "1989"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB107",
+      "doi-asserted-by": "crossref",
+      "first-page": "101",
+      "DOI": "10.1016/S0168-1923(97)00064-6",
+      "article-title": "Vulnerability of rice and wheat yields in NW India to future changes in climate",
+      "volume": "89",
+      "author": "Lal",
+      "year": "1998",
+      "journal-title": "Agricultural and Forest Meteorology"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB108",
+      "doi-asserted-by": "crossref",
+      "first-page": "53",
+      "DOI": "10.1016/S0168-1923(98)00105-1",
+      "article-title": "Growth and yield responses of soybean in Madhya Pradesh, India to climate variability and change",
+      "volume": "93",
+      "author": "Lal",
+      "year": "1999",
+      "journal-title": "Agricultural and Forest Meteorology"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB109",
+      "doi-asserted-by": "crossref",
+      "first-page": "85",
+      "DOI": "10.1016/S0168-1923(97)00069-5",
+      "article-title": "Testing winter wheat simulation models\u2019 predictions against observed UK grain yields",
+      "volume": "89",
+      "author": "Landau",
+      "year": "1998",
+      "journal-title": "Agricultural and Forest Meteorology"
+    },
+    {
+      "issue": "4\u20135",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB110",
+      "doi-asserted-by": "crossref",
+      "first-page": "673",
+      "DOI": "10.2307/2845969",
+      "article-title": "Simulation studies on risk analysis of rice leaf blast epidemics associated with global climate-change in several Asian countries",
+      "volume": "22",
+      "author": "Luo",
+      "year": "1995",
+      "journal-title": "Journal of Biogeography"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB111",
+      "doi-asserted-by": "crossref",
+      "first-page": "27",
+      "DOI": "10.1016/S0308-521X(96)00038-8",
+      "article-title": "A rice-leaf blast combined model for simulation of epidemics and yield loss",
+      "volume": "53",
+      "author": "Luo",
+      "year": "1997",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB112",
+      "doi-asserted-by": "crossref",
+      "first-page": "187",
+      "DOI": "10.1016/S0167-8809(97)00082-0",
+      "article-title": "The effects of global temperature change on rice leaf blast epidemics: a simulation study in three agroecological zones",
+      "volume": "68",
+      "author": "Luo",
+      "year": "1998",
+      "journal-title": "Agriculture Ecosystems and Environment"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB113",
+      "series-title": "Understanding Options for Agricultural Production",
+      "first-page": "205",
+      "article-title": "The use of a crop simulation model for planning wheat irrigation in Zimbabwe",
+      "author": "MacRobert",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB114",
+      "doi-asserted-by": "crossref",
+      "first-page": "31",
+      "DOI": "10.3354/cr009031",
+      "article-title": "Vulnerability of the agricultural systems of Argentina to climate change",
+      "volume": "9",
+      "author": "Magrin",
+      "year": "1997",
+      "journal-title": "Climate Research"
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB115",
+      "doi-asserted-by": "crossref",
+      "first-page": "669",
+      "DOI": "10.1007/BF03044014",
+      "article-title": "Genetic variables for potato",
+      "volume": "67",
+      "author": "Manrique",
+      "year": "1990",
+      "journal-title": "American Potato Journal"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB116",
+      "doi-asserted-by": "crossref",
+      "first-page": "40",
+      "DOI": "10.2135/cropsci2001.41140x",
+      "article-title": "Developing genetic coefficients for crop simulation models with data from crop performance trials",
+      "volume": "41",
+      "author": "Mavromatis",
+      "year": "2001",
+      "journal-title": "Crop Science"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB117",
+      "doi-asserted-by": "crossref",
+      "first-page": "76",
+      "DOI": "10.2135/cropsci2002.0076",
+      "article-title": "Repeatability of model genetic coefficients derived from soybean performance trials cross different states",
+      "volume": "42",
+      "author": "Mavromatis",
+      "year": "2002",
+      "journal-title": "Crop Sci."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB118",
+      "doi-asserted-by": "crossref",
+      "first-page": "189",
+      "DOI": "10.1007/BF01094016",
+      "article-title": "Potential effects of global climatic-change on the phenology and yield of maize in Venezuela",
+      "volume": "29",
+      "author": "Maytin",
+      "year": "1995",
+      "journal-title": "Climatic Change"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB119",
+      "doi-asserted-by": "crossref",
+      "first-page": "441",
+      "DOI": "10.1017/S0014479700024686",
+      "article-title": "Problems and perspectives on the use of a crop simulation model in an African research station",
+      "volume": "30",
+      "author": "Mbabaliye",
+      "year": "1994",
+      "journal-title": "Experimental Agriculture"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB120",
+      "doi-asserted-by": "crossref",
+      "first-page": "6623",
+      "DOI": "10.1029/1998JD200061",
+      "article-title": "Comparative responses of EPIC and CERES crop models to high and low spatial resolution climate change scenarios",
+      "volume": "104",
+      "author": "Mearns",
+      "year": "2001",
+      "journal-title": "Journal of Geophysical Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB121",
+      "doi-asserted-by": "crossref",
+      "first-page": "257",
+      "DOI": "10.1007/BF00142465",
+      "article-title": "The effect of changes in daily and interannual climatic variability of CERES-Wheat: a sensitivity study",
+      "volume": "32",
+      "author": "Mearns",
+      "year": "1996",
+      "journal-title": "Climatic Change"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB122",
+      "doi-asserted-by": "crossref",
+      "first-page": "197",
+      "DOI": "10.1016/S0308-521X(99)00032-3",
+      "article-title": "Land allocation conditioned on El Nino-Southern Oscillation phases in the Pampas of Argentina",
+      "volume": "60",
+      "author": "Messina",
+      "year": "1999",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB123",
+      "doi-asserted-by": "crossref",
+      "first-page": "275",
+      "DOI": "10.13031/2013.27507",
+      "article-title": "Optimal control and neural networks applied to peanut irrigation management",
+      "volume": "39",
+      "author": "McClendon",
+      "year": "1996",
+      "journal-title": "Transactions of the ASAE"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB124",
+      "doi-asserted-by": "crossref",
+      "first-page": "255",
+      "DOI": "10.1016/0308-521X(94)00055-V",
+      "article-title": "APSIM: a novel software system for model development, model testing and simulation in agricultural systems research",
+      "volume": "50",
+      "author": "McCown",
+      "year": "1996",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB125",
+      "doi-asserted-by": "crossref",
+      "first-page": "549",
+      "DOI": "10.1071/AR00119",
+      "article-title": "Learning to bridge the gap between science-based decision support and the practice of farming: evolution in paradigms of model-based research and intervention from design to dialogue",
+      "volume": "52",
+      "author": "McCown",
+      "year": "2001",
+      "journal-title": "Australian Journal of Agricultural Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB126",
+      "series-title": "Applications of System Approaches at the Field Level, v.2",
+      "first-page": "235",
+      "article-title": "Application of SOYGRO in Argentina",
+      "author": "Meira",
+      "year": "1997"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB127",
+      "doi-asserted-by": "crossref",
+      "first-page": "157",
+      "DOI": "10.2134/jae1991.0157",
+      "article-title": "Using crop models in a beginning crop science laboratory",
+      "volume": "20",
+      "author": "Meisner",
+      "year": "1991",
+      "journal-title": "Journal of Agronomic Education"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB128",
+      "doi-asserted-by": "crossref",
+      "first-page": "153",
+      "DOI": "10.1016/0308-521X(84)90025-8",
+      "article-title": "Using crop and pest models for management applications",
+      "volume": "15",
+      "author": "Mishoe",
+      "year": "1984",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB129",
+      "doi-asserted-by": "crossref",
+      "first-page": "245",
+      "DOI": "10.1098/rsta.1986.0007",
+      "article-title": "How do crops manipulate water supply and demand?",
+      "volume": "316",
+      "author": "Monteith",
+      "year": "1986",
+      "journal-title": "Philosophical Transactions of the Royal Society London A"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB130",
+      "doi-asserted-by": "crossref",
+      "first-page": "713",
+      "DOI": "10.4141/cjps93-093",
+      "article-title": "Evaluation of the CERES and EPIC models for predicting spring wheat grain yield over time",
+      "volume": "73",
+      "author": "Moulin",
+      "year": "1993",
+      "journal-title": "Canadian Journal Plant Sciences"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB131",
+      "series-title": "Climate Change and Agriculture: Analysis of Potential International Impacts",
+      "first-page": "229",
+      "article-title": "Vulnerability of maize yields to climate change in different farming sectors in Zimbabwe",
+      "author": "Muchena",
+      "year": "1995"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB132",
+      "series-title": "Understanding Options for Agricultural Production",
+      "first-page": "383",
+      "article-title": "Crop simulation models as an educational tool",
+      "author": "Ortiz",
+      "year": "1998"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB133",
+      "doi-asserted-by": "crossref",
+      "first-page": "75",
+      "DOI": "10.2134/jeq1998.00472425002700010012x",
+      "article-title": "Evaluation of nitrate leaching potential in Minnesota glacial outwash soils using the CERES-Maize model",
+      "volume": "27",
+      "author": "Pang",
+      "year": "1998",
+      "journal-title": "Journal of Environmental Quality"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB134",
+      "series-title": "Simulation of Plant Growth and Crop Production",
+      "first-page": "114",
+      "article-title": "Simulation of growth processes and the model BACROS",
+      "author": "Penning de Vries",
+      "year": "1982"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB135",
+      "doi-asserted-by": "crossref",
+      "first-page": "109",
+      "DOI": "10.1007/BF02180320",
+      "article-title": "Dynamics of C, N, P and S in grassland soils: a model",
+      "volume": "5",
+      "author": "Parton",
+      "year": "1988",
+      "journal-title": "Biogeochemistry"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB136",
+      "series-title": "Quantitative Modeling of Soil Forming Processes",
+      "first-page": "147",
+      "article-title": "A general model for soil organic matter dynamics: sensitivity to litter chemistry, texture and management",
+      "author": "Parton",
+      "year": "1994"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB137",
+      "doi-asserted-by": "crossref",
+      "first-page": "1527",
+      "DOI": "10.13031/2013.17284",
+      "article-title": "Analysis of water stress effects causing spatial yield variability",
+      "volume": "41",
+      "author": "Paz",
+      "year": "1998",
+      "journal-title": "Transactions of the ASAE"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB138",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.1016/S0308-521X(99)00035-9",
+      "article-title": "Model-based technique to determine variable rate nitrogen for corn",
+      "volume": "61",
+      "author": "Paz",
+      "year": "1999",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB139",
+      "first-page": "1329",
+      "article-title": "A modeling approach to quantifying the effects of spatial soybean yield limiting factors",
+      "volume": "44",
+      "author": "Paz",
+      "year": "2001",
+      "journal-title": "Trans. ASAE"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB140",
+      "first-page": "1335",
+      "article-title": "Estimating potential economic return for variable rate management in soybeans",
+      "volume": "44",
+      "author": "Paz",
+      "year": "2001",
+      "journal-title": "Trans. ASAE"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB141",
+      "doi-asserted-by": "crossref",
+      "first-page": "323",
+      "DOI": "10.1002/jpln.19921550414",
+      "article-title": "Calibration of the simulation model \u2018Ceres Wheat\u2019 under conditions of soils with shallow watertable and temperate climate. Part 1: limitations in the applicability of the original model and necessary modifications",
+      "volume": "155",
+      "author": "Pfeil",
+      "year": "1992",
+      "journal-title": "Zeitschrift fuer Pflanzenern\u00e4hr Bodenk"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB142",
+      "doi-asserted-by": "crossref",
+      "first-page": "327",
+      "DOI": "10.1002/jpln.19921550415",
+      "article-title": "Calibration of the simulation model \u2018Ceres Wheat\u2019 under conditions of soils with shallow watertable and temperate climate. Part 2: verification of the modified model \u2018Ceres Wheat\u2019",
+      "volume": "155",
+      "author": "Pfeil",
+      "year": "1992",
+      "journal-title": "Zeitschrift fuer Pflanzenern\u00e4hr Bodenk"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB143",
+      "doi-asserted-by": "crossref",
+      "first-page": "39",
+      "DOI": "10.1016/S0168-1923(97)00095-6",
+      "article-title": "ENSO, seasonal rainfall patterns and simulated maize yield variability in Zimbabwe",
+      "volume": "90",
+      "author": "Phillips",
+      "year": "1998",
+      "journal-title": "Agricultural and Forest Meteorology"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB144",
+      "doi-asserted-by": "crossref",
+      "first-page": "193",
+      "DOI": "10.1016/0308-521X(94)00012-G",
+      "article-title": "Simulation of multiple species pest damage in rice using CERES-rice",
+      "volume": "48",
+      "author": "Pinnschmidt",
+      "year": "1995",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB145",
+      "doi-asserted-by": "crossref",
+      "first-page": "1606",
+      "DOI": "10.2135/cropsci1996.0011183X003600060033x",
+      "article-title": "Comparison of two phenology models for predicting flowering and maturity date of soybean",
+      "volume": "36",
+      "author": "Piper",
+      "year": "1996",
+      "journal-title": "Crop Science"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB146",
+      "doi-asserted-by": "crossref",
+      "first-page": "435",
+      "DOI": "10.13031/2013.19391",
+      "article-title": "Evaluation and improvement of crop models using regional cultivar trial data",
+      "volume": "14",
+      "author": "Piper",
+      "year": "1998",
+      "journal-title": "Applied Engineering in Agriculture"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB147",
+      "doi-asserted-by": "crossref",
+      "first-page": "211",
+      "DOI": "10.1016/0378-4290(96)00015-9",
+      "article-title": "The role of daily minimum temperature in modulating the development rate to flowering in soybean",
+      "volume": "47",
+      "author": "Piper",
+      "year": "1996",
+      "journal-title": "Field Crop Research"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB148",
+      "first-page": "159",
+      "article-title": "The CERES-MAIZE model as a potential tool for drought assessment in South Africa",
+      "volume": "13",
+      "author": "Pisani",
+      "year": "1987",
+      "journal-title": "Water SA"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB149",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Podesta, G., Letson, D., Messina, C.D., Royce, F., Ferreyra, R.A., Jones, J.W., Jones, J.W., Llovet, I., Grondona, M., O'Brien, J.J., 2002. Use of ENSO-related climate information in agricultural decision making in Argentina. Agricultural Systems (in press).",
+      "DOI": "10.1016/S0308-521X(02)00046-X"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB150",
+      "unstructured": "Porter, C., Jones, J.W., Braga, R., 2000. An approach for modular crop model development. International Consortium for Agricultural Systems Applications, 2440 Campus Rd., 527 Honolulu, HI 96822, pp. 13. Available from http://www.icasanet.org/modular/index.html."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB151",
+      "doi-asserted-by": "crossref",
+      "first-page": "81",
+      "DOI": "10.1175/1520-0493(1972)100<0081:OTAOSH>2.3.CO;2",
+      "article-title": "On the assessment of surface heat flux and evaporation using large scale parameters",
+      "volume": "100",
+      "author": "Priestley",
+      "year": "1972",
+      "journal-title": "Monthly Weather Review"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB152",
+      "doi-asserted-by": "crossref",
+      "first-page": "1059",
+      "DOI": "10.2136/sssaj1995.03615995005900040015x",
+      "article-title": "CERES-N model predictions of nitrogen mineralized from cover crop residues",
+      "volume": "59",
+      "author": "Quemada",
+      "year": "1995",
+      "journal-title": "Soil Science Society of American Journal"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB153",
+      "doi-asserted-by": "crossref",
+      "first-page": "182",
+      "DOI": "10.1029/WR017i001p00182",
+      "article-title": "Stochastic simulation of daily precipitation, temperature, and solar radiation",
+      "volume": "17",
+      "author": "Richardson",
+      "year": "1981",
+      "journal-title": "Water Resources Research"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB154",
+      "doi-asserted-by": "crossref",
+      "first-page": "1602",
+      "DOI": "10.13031/2013.32484",
+      "article-title": "Weather simulation for crop management models",
+      "volume": "28",
+      "author": "Richardson",
+      "year": "1985",
+      "journal-title": "Transactions of the ASAE"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB155",
+      "doi-asserted-by": "crossref",
+      "first-page": "1204",
+      "DOI": "10.1029/WR008i005p01204",
+      "article-title": "Model for predicting evaporation from a row crop with incomplete cover",
+      "volume": "8",
+      "author": "Ritchie",
+      "year": "1972",
+      "journal-title": "Water Resources Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB156",
+      "series-title": "Systems Approaches for Agricultural Development",
+      "doi-asserted-by": "crossref",
+      "first-page": "77",
+      "DOI": "10.1007/978-94-011-2840-7_5",
+      "article-title": "Genetic specific data for crop modeling",
+      "author": "Ritchie",
+      "year": "1993"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB157",
+      "series-title": "Understanding Options for Agricultural Production",
+      "first-page": "41",
+      "article-title": "Soil water balance and plant stress",
+      "author": "Ritchie",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB158",
+      "series-title": "ARS Wheat Yield Project. ARS-38",
+      "first-page": "159",
+      "article-title": "Description and performance of CERES-Wheat: a user-oriented wheat yield model",
+      "author": "Ritchie",
+      "year": "1985"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB159",
+      "series-title": "Understanding Options for Agricultural Production",
+      "first-page": "79",
+      "article-title": "Cereal growth, development and yield",
+      "author": "Ritchie",
+      "year": "1998"
+    },
+    {
+      "issue": "2\u20134",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB160",
+      "doi-asserted-by": "crossref",
+      "first-page": "215",
+      "DOI": "10.1016/0168-1923(95)02299-6",
+      "article-title": "Effects of changes in minimum and maximum temperature on wheat yields in the central US\u2014a simulation study",
+      "volume": "80",
+      "author": "Rosenzweig",
+      "year": "1996",
+      "journal-title": "Agricultural and Forest Meteorology"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB161",
+      "series-title": "Climate Change and Agriculture: Analysis of Potential International impacts",
+      "first-page": "382",
+      "year": "1995"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB162",
+      "first-page": "1319",
+      "article-title": "Model-Based Optimization of Crop Management for Climate Forecast Applications",
+      "volume": "44",
+      "author": "Royce",
+      "year": "2002",
+      "journal-title": "Trans. ASAE"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB163",
+      "doi-asserted-by": "crossref",
+      "first-page": "151",
+      "DOI": "10.1016/S0308-521X(01)00008-7",
+      "article-title": "Calibration and use of CROPGRO-soybean model for improving soybean management under rainfed conditions",
+      "volume": "68",
+      "author": "Ruiz-Nogueria",
+      "year": "2001",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "issue": "2\u20133",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB164",
+      "doi-asserted-by": "crossref",
+      "first-page": "191",
+      "DOI": "10.1016/S0304-3800(00)00257-X",
+      "article-title": "Applying a site based crop model to estimate regional yields under current and changed climates",
+      "volume": "131",
+      "author": "Saarikko",
+      "year": "2000",
+      "journal-title": "Ecological Modelling"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB165",
+      "doi-asserted-by": "crossref",
+      "first-page": "189",
+      "DOI": "10.1016/S0308-521X(00)00022-6",
+      "article-title": "Sit-specific modeling of corn yield in the SE coastal plain",
+      "volume": "64",
+      "author": "Sadler",
+      "year": "2000",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB166",
+      "doi-asserted-by": "crossref",
+      "first-page": "65",
+      "DOI": "10.1017/S0014479701001016",
+      "article-title": "Predicting nursery growth and transplanting shock in rice",
+      "volume": "37",
+      "author": "Salam",
+      "year": "2001",
+      "journal-title": "Experimental Agriculture"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB167",
+      "doi-asserted-by": "crossref",
+      "first-page": "273",
+      "DOI": "10.1016/S0378-4290(98)00168-3",
+      "article-title": "Evaluation and improvement of CROPGRO-soybean model for a cool environment in Galicia, northwest Spain",
+      "volume": "61",
+      "author": "Sau",
+      "year": "1999",
+      "journal-title": "Field Crops Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB168",
+      "doi-asserted-by": "crossref",
+      "first-page": "81",
+      "DOI": "10.1016/0378-4290(95)00029-P",
+      "article-title": "Assessing strategies for wheat cropping in the monsoonal climate of the Pampas using the CERES-Wheat simulation model",
+      "volume": "42",
+      "author": "Savin",
+      "year": "1995",
+      "journal-title": "Field Crops Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB169",
+      "series-title": "Systems Approaches for Sustainable Agricultural Development: Applications of Systems Approaches at the Field Level",
+      "doi-asserted-by": "crossref",
+      "first-page": "133",
+      "DOI": "10.1007/978-94-017-0754-1_9",
+      "article-title": "Adaptation of the CROPGRO model to simulate the growth of field-grown tomato",
+      "author": "Scholberg",
+      "year": "1997"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB170",
+      "doi-asserted-by": "crossref",
+      "first-page": "721",
+      "DOI": "10.13031/2013.6904",
+      "article-title": "GIS-crop model based decision support system to evaluate corn and soybean prescriptions",
+      "volume": "17",
+      "author": "Seidl",
+      "year": "2001",
+      "journal-title": "Applied Engineering in Agriculture"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB171",
+      "series-title": "Simulation of Nitrogen Behaviour of Soil\u2013Plant Systems",
+      "first-page": "192",
+      "article-title": "PAPRAN: a simulation model of annual pasture production limited by rainfall and nitrogen",
+      "author": "Seligman",
+      "year": "1981"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB172",
+      "doi-asserted-by": "crossref",
+      "first-page": "271",
+      "DOI": "10.3354/cr007271",
+      "article-title": "Comparison of wheat simulation models under climate change. II. Application of climate change scenarios",
+      "volume": "7",
+      "author": "Semenov",
+      "year": "1996",
+      "journal-title": "Climate Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB173",
+      "doi-asserted-by": "crossref",
+      "first-page": "1543",
+      "DOI": "10.13031/2013.17286",
+      "article-title": "Evaluation of CROPGRO for prediction of soybean nitrogen balance in a Midwestern environment",
+      "volume": "41",
+      "author": "Sexton",
+      "year": "1998",
+      "journal-title": "Transactions of the ASAE"
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB174",
+      "first-page": "639",
+      "article-title": "Soybean (Glycine max) yield prediction from current and historical weather data using CROPGRO model",
+      "volume": "69",
+      "author": "Singh",
+      "year": "1999",
+      "journal-title": "Indian Journal of Agricultural Sciences"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB175",
+      "doi-asserted-by": "crossref",
+      "first-page": "163",
+      "DOI": "10.1016/0378-4290(94)90018-3",
+      "article-title": "Evaluation of the groundnut model PNUTGRO for crop response to plant population and row spacing",
+      "volume": "39",
+      "author": "Singh",
+      "year": "1994",
+      "journal-title": "Field Crops Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB176",
+      "doi-asserted-by": "crossref",
+      "first-page": "147",
+      "DOI": "10.1016/0378-4290(94)90017-5",
+      "article-title": "Evaluation of the groundnut model PNUTGRO for crop response to water availability, sowing dates, and seasons",
+      "volume": "39",
+      "author": "Singh",
+      "year": "1994",
+      "journal-title": "Field Crops Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB177",
+      "doi-asserted-by": "crossref",
+      "first-page": "225",
+      "DOI": "10.1016/S0378-4290(99)00038-6",
+      "article-title": "Soybean\u2013chickpea rotation on vetric inceptisols: 2. Long-term simulation of water balance and crop yields",
+      "volume": "63",
+      "author": "Singh",
+      "year": "1999",
+      "journal-title": "Field Crops Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB178",
+      "doi-asserted-by": "crossref",
+      "first-page": "211",
+      "DOI": "10.1016/S0378-4290(99)00037-4",
+      "article-title": "Soybean\u2013chickpea rotation on vertic inceptisols: 1. Effect of soil depth and landform on light interception, water balance and crop yields",
+      "volume": "63",
+      "author": "Singh",
+      "year": "1999",
+      "journal-title": "Field Crops Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB179",
+      "series-title": "Global Warming-Related Effects on Agriculture and Human Health and Comfort in the South Pacific",
+      "first-page": "521",
+      "article-title": "Modelling the impact of climate change on agricultural production in the South Pacific",
+      "author": "Singh",
+      "year": "1990"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB180",
+      "series-title": "Systems Approaches for Agricultural Development",
+      "doi-asserted-by": "crossref",
+      "first-page": "253",
+      "DOI": "10.1007/978-94-011-2840-7_15",
+      "article-title": "Maize modeling in Malawi: a tool for soil fertility research and development",
+      "author": "Singh",
+      "year": "1993"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB181",
+      "first-page": "1",
+      "article-title": "Modeling growth and yield of chickpea (Cicer arietinum L.)",
+      "volume": "46",
+      "author": "Singh",
+      "year": "1994",
+      "journal-title": "Field Crops Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB182",
+      "series-title": "Understanding Options for Agricultural Production",
+      "first-page": "129",
+      "article-title": "Modeling growth and development of root and tuber crops",
+      "author": "Singh",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB183",
+      "unstructured": "Soil Conservations Service (SCS) 1972. National Engineering Handbook, Hydrology Section 4, Chapters 4\u201310."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB184",
+      "doi-asserted-by": "crossref",
+      "first-page": "139",
+      "DOI": "10.1016/S0167-8809(00)00223-1",
+      "article-title": "Consequences of future climate change and changing climate variability on maize yields on the midwestern United States",
+      "volume": "82",
+      "author": "Southworth",
+      "year": "2000",
+      "journal-title": "Agriculture Ecosystems and Environment"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB185",
+      "doi-asserted-by": "crossref",
+      "first-page": "107",
+      "DOI": "10.1007/PL00006709",
+      "article-title": "Irrigation management for corn in the northern Great Plains, USA",
+      "volume": "19",
+      "author": "Steele",
+      "year": "2000",
+      "journal-title": "Irrigation Science"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB186",
+      "doi-asserted-by": "crossref",
+      "first-page": "562",
+      "DOI": "10.13031/2013.33979",
+      "article-title": "Real-time irrigation decision analysis using simulation",
+      "volume": "26",
+      "author": "Swaney",
+      "year": "1983",
+      "journal-title": "Transactions of the ASAE"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB187",
+      "doi-asserted-by": "crossref",
+      "first-page": "213",
+      "DOI": "10.1017/S0014479700025291",
+      "article-title": "Application of a maize crop simulation model in the central region of Malawi",
+      "volume": "31",
+      "author": "Thornton",
+      "year": "1995",
+      "journal-title": "Experimental Agriculture"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB188",
+      "doi-asserted-by": "crossref",
+      "first-page": "95",
+      "DOI": "10.1016/S0168-1923(96)02348-9",
+      "article-title": "Estimating millet production for famine early warning: an application of crop simulation modelling using satellite and ground-based data in Burkina Faso",
+      "volume": "83",
+      "author": "Thornton",
+      "year": "1997",
+      "journal-title": "Agricultural and Forest Meteorology"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB189",
+      "doi-asserted-by": "crossref",
+      "first-page": "329",
+      "DOI": "10.1016/S0378-4290(98)00079-3",
+      "article-title": "Utility of CERES-Barley under Argentine conditions",
+      "volume": "57",
+      "author": "Travasso",
+      "year": "1998",
+      "journal-title": "Field Crops Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB190",
+      "doi-asserted-by": "crossref",
+      "first-page": "305",
+      "DOI": "10.1007/BF02360922",
+      "article-title": "Yield prediction using the substor-potato model under Argentinean conditions",
+      "volume": "39",
+      "author": "Travasso",
+      "year": "1996",
+      "journal-title": "Potato Research"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB191",
+      "series-title": "Decision Support System for Agrotechnology Transfer (DSSAT) Version 3",
+      "year": "1994"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB192",
+      "series-title": "Understanding Options for Agricultural Production",
+      "first-page": "367",
+      "article-title": "Network management and information dissemination for agrotechnology transfer",
+      "author": "Tsuji",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB193",
+      "series-title": "Understanding options for agricultural production. Systems Approaches for Sustainable Agricultural Development",
+      "first-page": "400",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB194",
+      "doi-asserted-by": "crossref",
+      "first-page": "135",
+      "DOI": "10.1016/0308-521X(94)00044-R",
+      "article-title": "Interactions of CO2 temperature and management practices: simulations with a modified version of CERES-Wheat",
+      "volume": "49",
+      "author": "Tubiello",
+      "year": "1995",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB195",
+      "doi-asserted-by": "crossref",
+      "first-page": "247",
+      "DOI": "10.2134/agronj1999.00021962009100020012x",
+      "article-title": "Testing CERES-wheat with free-air carbon dioxide enrichment (FACE) experiment data: CO2 and water interactions",
+      "volume": "91",
+      "author": "Tubiello",
+      "year": "2001",
+      "journal-title": "Agronomy Journal"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB196",
+      "doi-asserted-by": "crossref",
+      "first-page": "38",
+      "DOI": "10.1177/003072708901800107",
+      "article-title": "Technology transfer in the tropics",
+      "volume": "18",
+      "author": "Uehara",
+      "year": "1989",
+      "journal-title": "Outlook Agricultural"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB197",
+      "series-title": "Understanding Options For Agricultural Production",
+      "first-page": "389",
+      "article-title": "Synthesis",
+      "author": "Uehara",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB198",
+      "series-title": "Understanding Options For Agricultural Production",
+      "first-page": "1",
+      "article-title": "Overview of IBSNAT",
+      "author": "Uehara",
+      "year": "1998"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB199",
+      "doi-asserted-by": "crossref",
+      "first-page": "131",
+      "DOI": "10.1080/02571862.1987.10634959",
+      "article-title": "Preliminary evaluation of two maize (Zea mays L.) growth-simulation models",
+      "volume": "4",
+      "author": "Vos",
+      "year": "1987",
+      "journal-title": "South African Journal of Plant Soil"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB200",
+      "doi-asserted-by": "crossref",
+      "first-page": "399",
+      "DOI": "10.1016/0308-521X(95)00033-2",
+      "article-title": "Applications of crop simulation in agricultural extension and research in Kenya",
+      "volume": "49",
+      "author": "Wafula",
+      "year": "1995",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB201",
+      "doi-asserted-by": "crossref",
+      "first-page": "208",
+      "DOI": "10.2134/agronj1997.00021962008900020010x",
+      "article-title": "Modeling a rye cover crop and subsequent soybean yield",
+      "volume": "89",
+      "author": "Wagner-Riddle",
+      "year": "1997",
+      "journal-title": "Agronomy Journal"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB202",
+      "doi-asserted-by": "crossref",
+      "first-page": "79",
+      "DOI": "10.1016/S0308-521X(02)00022-7",
+      "article-title": "PCYield: Model-Based Decision Support for PRIVATE Soybean Production",
+      "volume": "74",
+      "author": "Welch",
+      "year": "2002",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB203",
+      "doi-asserted-by": "crossref",
+      "first-page": "416",
+      "DOI": "10.2134/agronj1996.00021962008800030009x",
+      "article-title": "Simulating effects of genes for physiological traits in a process-oriented crop model",
+      "volume": "88",
+      "author": "White",
+      "year": "1996",
+      "journal-title": "Agronomy Journal"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB204",
+      "doi-asserted-by": "crossref",
+      "first-page": "241",
+      "DOI": "10.1017/S001447970002531X",
+      "article-title": "Evaluation of the dry bean model BEANGRO V1.01 for crop production research in a tropical environment",
+      "volume": "31",
+      "author": "White",
+      "year": "1995",
+      "journal-title": "Experimental Agriculture"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB205",
+      "doi-asserted-by": "crossref",
+      "first-page": "63",
+      "DOI": "10.13031/2013.33877",
+      "article-title": "Modeling soybean growth for crop management",
+      "volume": "26",
+      "author": "Wilkerson",
+      "year": "1983",
+      "journal-title": "Transactions of the ASAE"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB206",
+      "doi-asserted-by": "crossref",
+      "first-page": "129",
+      "DOI": "10.13031/2013.32748",
+      "article-title": "A modeling approach to determining the relationships between erosion and soil productivity",
+      "volume": "27",
+      "author": "Williams",
+      "year": "1984",
+      "journal-title": "Transactions of the ASAE"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00107-7_BIB207",
+      "doi-asserted-by": "crossref",
+      "first-page": "253",
+      "DOI": "10.3354/cr007253",
+      "article-title": "Comparison of wheat simulation models under climate change. I. Model calibration and sensitivity analyses",
+      "volume": "7",
+      "author": "Wolf",
+      "year": "1996",
+      "journal-title": "Climate Research"
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB208",
+      "first-page": "423",
+      "article-title": "Change of spring barley production potential using crop model CERES-Barley",
+      "volume": "46",
+      "author": "Zalud",
+      "year": "2000",
+      "journal-title": "Rostlinna Vyroba"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/S1161-0301(02)00107-7_BIB209",
+      "first-page": "253",
+      "article-title": "Estimation of winter wheat nitrogen stress using the CERES crop model",
+      "volume": "47",
+      "author": "Zalud",
+      "year": "2001",
+      "journal-title": "Rostlinna Vyroba"
+    }
+  ],
+  "container-title": [
+    "European Journal of Agronomy"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1161030102001077?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1161030102001077?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        25
+      ]
+    ],
+    "date-time": "2023-04-25T13:03:45Z",
+    "timestamp": 1682427825000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1161030102001077"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2003,
+        1
+      ]
+    ]
+  },
+  "references-count": 209,
+  "journal-issue": {
+    "issue": "3-4",
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S1161030102001077"
+  ],
+  "URL": "https://doi.org/10.1016/s1161-0301(02)00107-7",
+  "relation": {},
+  "ISSN": [
+    "1161-0301"
+  ],
+  "issn-type": [
+    {
+      "value": "1161-0301",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2003,
+        1
+      ]
+    ]
+  }
+}

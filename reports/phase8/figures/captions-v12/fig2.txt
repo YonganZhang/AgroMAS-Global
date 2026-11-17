@@ -1,0 +1,2 @@
+Climatic context, regional nitrogen regimes and surrogate calibration across five global wheat archetypes. Panels show a 47-year temperature anomaly and deposition backdrop, b five mutually exclusive efficiency and surplus regimes with agronomic attributes, c covariance ellipses inside the bilateral safety corridor and d conformal coverage, Brier skill and regret reduction.
+五大麦区气候背景、氮收支格局与代理模型共形校准评价。图a为47年温度距平与沉降背景，图b为五类互斥收支状态及农艺属性，图c为双侧安全走廊与一倍标准差椭圆，图d为覆盖率、Brier技巧及排序遗憾降幅。

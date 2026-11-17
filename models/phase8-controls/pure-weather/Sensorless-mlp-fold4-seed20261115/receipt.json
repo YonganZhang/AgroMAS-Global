@@ -1,0 +1,21 @@
+{
+  "key": "Sensorless-mlp-fold4-seed20261115",
+  "track": "Sensorless",
+  "architecture": "mlp",
+  "fold": 4,
+  "seed": 20261115,
+  "n_fit": 142344,
+  "n_validation": 35586,
+  "parameters": 13155,
+  "epochs": 80,
+  "global_steps": 5600,
+  "elapsed_seconds": 18.11740342201665,
+  "cuda_device": "NVIDIA GeForce RTX 5080",
+  "torch": "2.10.0+cu128",
+  "lightning": "2.6.5",
+  "weight_path": "models/phase8-controls/pure-weather/Sensorless-mlp-fold4-seed20261115/model.pt",
+  "weight_sha256": "29edb484669c1efd38b3fbaed8a3be8f2fee7553d729832de1538b21a1add0c5",
+  "prediction_path": "cache/phase8-weather-control-arrays/Sensorless-mlp-fold4-seed20261115-pred.npy",
+  "validation_role": "outer_TRAIN_OOF",
+  "Dev_used": false
+}

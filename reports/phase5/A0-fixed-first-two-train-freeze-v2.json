@@ -1,0 +1,27 @@
+{
+  "selected": {
+    "australia_wa_perth": [
+      80.0,
+      40.0
+    ],
+    "china_ncp_luancheng": [
+      20.0,
+      10.0
+    ],
+    "france_paris_beauce": [
+      60.0,
+      80.0
+    ],
+    "netherlands_lelystad": [
+      100.0,
+      20.0
+    ],
+    "usa_kansas_wichita": [
+      100.0,
+      100.0
+    ]
+  },
+  "scope": "UseA1stage3model;first2dosesarefixedregionalconstantsselectedonHistoricalTRAINmeanphysicalyield,tieminNthenlexicographic;not70/60priorforfullsystem",
+  "dev_used": false,
+  "heldout_used": false
+}

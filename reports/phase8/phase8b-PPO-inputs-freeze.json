@@ -1,0 +1,11 @@
+{
+  "source": "TRAIN1995-2009physicalbooks,currentprefixonly,forecastanalogsexcludeepisodeyear",
+  "tables": 10980,
+  "observation_dim": 91,
+  "hidden_telemetry_zero": true,
+  "elapsed_seconds": 55.957622826099396,
+  "cache_path": "cache/phase8-ppo-inputs.joblib",
+  "cache_sha256": "dcc0e3799b4979a4edd3f8f81b812b5b7a2e49c6d4995e6badc7e57837388a12",
+  "tool_calibration": "frozenG1Devcalibration;rewardsandpolicyfitlabelsTRAINonly",
+  "policy_hyperparameters": "samev6:151552decisionstepsperseed,seeds4/17/29,8env,64x64,finalfixedbudget"
+}

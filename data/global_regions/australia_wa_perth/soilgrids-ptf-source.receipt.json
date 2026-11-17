@@ -1,0 +1,10 @@
+{
+  "region_id": "australia_wa_perth",
+  "soil_latitude": -31.95,
+  "soil_longitude": 116.36,
+  "url": "https://rest.isric.org/soilgrids/v2.0/properties/query?lat=-31.95&lon=116.36&property=sand&property=silt&property=clay&property=bdod&property=soc&property=phh2o&property=cec&property=nitrogen&depth=0-5cm&depth=5-15cm&depth=15-30cm&depth=30-60cm&depth=60-100cm&depth=100-200cm&value=mean",
+  "sha256": "1e5a069be3e9a9d253bfe06526ea8778d3785ccde04691bef7a9703d02a169dc",
+  "timestamp": "2026-11-14T20:27:31.390008+00:00",
+  "source": "ISRIC SoilGrids gridded estimates, not farm observations",
+  "selection": "Point fixed before any regional crop output; city-null alternatives explicitly separate from weather coordinates"
+}

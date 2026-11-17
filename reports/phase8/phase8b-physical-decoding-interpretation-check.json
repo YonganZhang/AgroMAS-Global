@@ -1,0 +1,49 @@
+{
+  "scope": "TRAIN associations only, fixed5sites, no causal/64D semantic claim",
+  "native_Nloss": {
+    "Full-Telemetry-mlp": {
+      "global_latent_OOF_R2": 0.45392333363941884,
+      "raw_feature_OOF_R2": 0.4346621300744383,
+      "within_region_R2": {
+        "australia_wa_perth": -0.08414046641305917,
+        "china_ncp_luancheng": -6.184220340043529,
+        "france_paris_beauce": -0.21526643211149055,
+        "netherlands_lelystad": -0.19721030805422823,
+        "usa_kansas_wichita": -1.6459014480571477
+      }
+    },
+    "Full-Telemetry-residual-mlp": {
+      "global_latent_OOF_R2": 0.450509277513364,
+      "raw_feature_OOF_R2": 0.4346621300744383,
+      "within_region_R2": {
+        "australia_wa_perth": -0.11955680034296945,
+        "china_ncp_luancheng": -5.830840363432017,
+        "france_paris_beauce": -0.49129708355472745,
+        "netherlands_lelystad": -0.03345040425680024,
+        "usa_kansas_wichita": -1.4081973925024411
+      }
+    },
+    "Sensorless-mlp": {
+      "global_latent_OOF_R2": 0.3906457205929499,
+      "raw_feature_OOF_R2": 0.4393613023134477,
+      "within_region_R2": {
+        "australia_wa_perth": -0.1377213897837839,
+        "china_ncp_luancheng": -6.075954294029079,
+        "france_paris_beauce": -0.9662003178213814,
+        "netherlands_lelystad": -0.38117577956335436,
+        "usa_kansas_wichita": -2.9156446233775477
+      }
+    },
+    "Sensorless-residual-mlp": {
+      "global_latent_OOF_R2": 0.40892615932846466,
+      "raw_feature_OOF_R2": 0.4393613023134477,
+      "within_region_R2": {
+        "australia_wa_perth": -0.1692242433568587,
+        "china_ncp_luancheng": -3.921957204424112,
+        "france_paris_beauce": -0.6210669985637953,
+        "netherlands_lelystad": -0.3607354412753805,
+        "usa_kansas_wichita": -0.9321693871243248
+      }
+    }
+  }
+}

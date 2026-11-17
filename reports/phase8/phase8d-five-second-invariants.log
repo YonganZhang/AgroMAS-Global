@@ -1,0 +1,64 @@
+.....F.                                                                  [100%]
+=================================== FAILURES ===================================
+_ test_region_stock_heads_exclude_scored_labels_and_keep_sparse_region_offsets _
+
+    def test_region_stock_heads_exclude_scored_labels_and_keep_sparse_region_offsets():
+     from pcse_gym.agromas_v8.decoding import fit_region_heads
+     rng=np.random.default_rng(4);x=rng.normal(size=(100,3));regions=np.repeat(['dense','sparse'],[80,20]);y=(x[:,0]*2+(regions=='sparse')*10000)[:,None];train=np.arange(100)%4!=0;test=~train;w=np.where(regions=='dense',1/80,1/20)
+>    a=fit_region_heads(x,y,regions,w,train,test,alpha=.01);corrupt=y.copy();corrupt[test]=1e20;b=fit_region_heads(x,corrupt,regions,w,train,test,alpha=.01);np.testing.assert_array_equal(a,b);assert np.max(abs(a-y[test]))<.5
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+NUE_PCSE-Gym/tests/phase8d/test_root_causes.py:43: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+features = array([[-0.65179115, -0.17471729,  1.66372399],
+       [ 0.65914775, -1.64139729, -0.00520326],
+       [-0.62346374,  ...2810612,  1.42745543],
+       [ 1.33939565, -0.1167638 , -0.25091789],
+       [ 0.18602923, -2.22675654,  1.70476778]])
+targets = array([[-1.30358231e+00],
+       [ 1.31829550e+00],
+       [-1.24692748e+00],
+       [ 4.83543754e-01],
+       [ 6.332...00021890e+04],
+       [ 9.99836118e+03],
+       [ 1.00015019e+04],
+       [ 1.00026788e+04],
+       [ 1.00003721e+04]])
+regions = array(['dense', 'dense', 'dense', 'dense', 'dense', 'dense', 'dense',
+       'dense', 'dense', 'dense', 'dense', 'dens...sparse', 'sparse', 'sparse', 'sparse', 'sparse', 'sparse',
+       'sparse', 'sparse', 'sparse', 'sparse'], dtype='<U6')
+weights = array([0.0125, 0.0125, 0.0125, 0.0125, 0.0125, 0.0125, 0.0125, 0.0125,
+       0.0125, 0.0125, 0.0125, 0.0125, 0.0125, ... 0.05  ,
+       0.05  , 0.05  , 0.05  , 0.05  , 0.05  , 0.05  , 0.05  , 0.05  ,
+       0.05  , 0.05  , 0.05  , 0.05  ])
+train = array([False,  True,  True,  True, False,  True,  True,  True, False,
+        True,  True,  True, False,  True,  True,... True,  True,  True, False,  True,
+        True,  True, False,  True,  True,  True, False,  True,  True,
+        True])
+test = array([ True, False, False, False,  True, False, False, False,  True,
+       False, False, False,  True, False, False,...False, False, False,  True, False,
+       False, False,  True, False, False, False,  True, False, False,
+       False])
+alpha = 0.01
+
+    def fit_region_heads(features,targets,regions,weights,train,test,alpha=10.):
+     pred=np.empty((int(np.sum(test)),targets.shape[1]));test_ids=np.flatnonzero(test)
+     for region in sorted(set(regions[test])):
+      fit=train&(regions==region);ids=test_ids[regions[test_ids]==region]
+      if fit.sum()<2:raise ValueError('Missing outer-training support in a region')
+      w=np.asarray(weights[fit],float);scale=StandardScaler().fit(features[fit],sample_weight=w);mean=np.average(targets[fit],axis=0,weights=w);sd=np.sqrt(np.maximum(np.average((targets[fit]-mean)**2,axis=0,weights=w),1e-12));head=Ridge(alpha=alpha).fit(scale.transform(features[fit]),(targets[fit]-mean)/sd,sample_weight=w)
+>     values=head.predict(scale.transform(features[ids]))*sd+mean;pred[np.searchsorted(test_ids,ids)]=values
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+E     ValueError: shape mismatch: value array of shape (20,) could not be broadcast to indexing result of shape (20,1)
+
+NUE_PCSE-Gym/pcse_gym/agromas_v8/decoding.py:12: ValueError
+=============================== warnings summary ===============================
+tests/phase8d/test_root_causes.py::test_full_residual_lookup_uses_known_soil_stage_and_synthetic_global_fallback
+  /mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8d/.venv/lib/python3.11/site-packages/torch/cuda/__init__.py:70: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+    import pynvml  # type: ignore[import]
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ============================
+FAILED NUE_PCSE-Gym/tests/phase8d/test_root_causes.py::test_region_stock_heads_exclude_scored_labels_and_keep_sparse_region_offsets
+1 failed, 6 passed, 1 warning in 2.98s

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "kind": "method-diagram-derived-view",
+  "spec": {
+    "path": "reports/phase8/method-framework-spec-v8.json",
+    "sha256": "6012fc7f2d62231d99d4451ac6913afebea05c582dc4fb16203d50e17799acb7"
+  },
+  "sources": [
+    {
+      "path": "_wiki-methodology/_wiki/method.md",
+      "sha256": "d0403c31797b445c074fec134442fa643121aabc3ddf69141297865bbbf90368"
+    },
+    {
+      "path": "_wiki-methodology/_wiki/paper-storyline/versions/storyline-v2.0.md",
+      "sha256": "5c2c1ebafe97fc09f605a633b5dde311f4f36b4f73930deed51c03829d8dd88a"
+    }
+  ],
+  "artifacts": {
+    "diagram.drawio": "e5c881980df85d53ce849b08fd9aac218c244a00b9377e8c4c8c8ae7d5fa9633",
+    "diagram.png": "c06ee02ca92b97a856a5dd5801ef5eae19d11476baa58e7ec17a8f9a1f9a3427",
+    "diagram.svg": "e7591f2e4df3831a3923f3fa060e040b98f79071fe596793936e886b9e603090"
+  },
+  "rendered": true,
+  "meaning": "Defined interfaces, not proof of implementation, execution, or validation",
+  "native_layout_edits": "Added240px rightpage padding to retain edge labels; replaced generic legend with task-specific verified/planned meaning. No scientific edges changed.",
+  "renderer": {
+    "name": "official jgraph/mxgraph 4.2.2 + browser SVG",
+    "package_url": "https://registry.npmjs.org/mxgraph/-/mxgraph-4.2.2.tgz",
+    "package_sha1": "52336443f10ab1039be79cc3fdd2eb8c00c91ba2",
+    "javascript_sha256": "99da390e20b4f3f0130a0d73b86bcbec011b5c187eef333521fc08fb5ba7582e"
+  },
+  "visual_review": "required; not performed by this renderer"
+}

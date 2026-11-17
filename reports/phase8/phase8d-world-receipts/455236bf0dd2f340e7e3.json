@@ -1,0 +1,101 @@
+{
+  "world": [
+    "netherlands_lelystad",
+    2019,
+    "Historical",
+    "WUR"
+  ],
+  "native_simulations": 10,
+  "unique_native_executed_trajectories": 10,
+  "unique_executed_trajectories": 10,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        100.0,
+        40.0,
+        80.0
+      ],
+      "sha256": "bceab5dc6edfb3f780783004b36abc0f2e3e478e5319dc02b14dfe259c2b149a"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "cbfbe689bf34cfa0caa526cfc3bddfe3c663e9aa65a5d818fd65f8363a8305ae"
+    },
+    {
+      "doses": [
+        100.0,
+        100.0,
+        10.0
+      ],
+      "sha256": "777519cc253c00f9f3b9a058ed4fc8b304d72e9fc3010d78510eb799899963a4"
+    },
+    {
+      "doses": [
+        100.0,
+        20.0,
+        100.0
+      ],
+      "sha256": "11c5404b6fb1abafa3629a8b7db3bc2eb5972e38d5696cfa87609b180b0cad2d"
+    },
+    {
+      "doses": [
+        80.0,
+        60.0,
+        80.0
+      ],
+      "sha256": "ab165661bb908fdfdd84b4b25ccccfcdd2b11cb96b97706a14e445a435299e36"
+    },
+    {
+      "doses": [
+        100.0,
+        40.0,
+        60.0
+      ],
+      "sha256": "4b441df933404857964d18373d4f1ebdde3590583e90a44d41c34b17693a9a74"
+    },
+    {
+      "doses": [
+        60.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "c6237188d3c42cbfbe5a955c455cc7e7627eed68b29c7ea152b13124dd19d4fb"
+    },
+    {
+      "doses": [
+        60.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "0bb37baea2ceadf3670729d6931a43f2690c872578a79ebaf0b73d78d51e41cd"
+    },
+    {
+      "doses": [
+        60.0,
+        60.0,
+        60.0
+      ],
+      "sha256": "276044b5937b88b052e145b64b641f7db204dc1ab0e787b8cb643c0d0796d19a"
+    },
+    {
+      "doses": [
+        60.0,
+        100.0,
+        60.0
+      ],
+      "sha256": "d005ebac467f3b82d3cdde7253ea9ad478bc442ae36c88046043b763f4cce6dc"
+    }
+  ],
+  "complete_requested_paths": 10,
+  "cases_replayed": 4,
+  "public_prefix_nodes": 12,
+  "prefix_decisions_replayed": 30,
+  "archived_records_verified": 7,
+  "archived_requested_paths": 3,
+  "worker": 2,
+  "cases": 14
+}

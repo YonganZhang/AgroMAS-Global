@@ -1,0 +1,346 @@
+{
+  "status": "gate_failed",
+  "TRAIN_only": true,
+  "backbone_unchanged": true,
+  "head_alpha": 10.0,
+  "world_equal_weights": true,
+  "mean_sample_weight_one_preserves_alpha_units": true,
+  "region_specific_heads": true,
+  "outer_year_exclusion": true,
+  "not_causal_physical_identification": true,
+  "required_positive_targets": [
+    "final_organic_N_kg_ha",
+    "final_soil_C_kg_ha",
+    "native_net_mineralization_N_kg_ha"
+  ],
+  "results": {
+    "Full-Telemetry-mlp": {
+      "targets": {
+        "final_organic_N_kg_ha": {
+          "latent_OOF_R2": 0.999964822738281,
+          "raw_OOF_R2": 0.9999749459321021
+        },
+        "final_mineral_N_kg_ha": {
+          "latent_OOF_R2": 0.7680739158881833,
+          "raw_OOF_R2": 0.7849755912652523
+        },
+        "native_Nloss_kg_ha": {
+          "latent_OOF_R2": 0.3019741030610542,
+          "raw_OOF_R2": 0.5960669291493725
+        },
+        "final_soil_C_kg_ha": {
+          "latent_OOF_R2": 0.9999739789445514,
+          "raw_OOF_R2": 0.9999816897448418
+        },
+        "native_net_mineralization_N_kg_ha": {
+          "latent_OOF_R2": 0.9638063599713397,
+          "raw_OOF_R2": 0.9742220431334462
+        }
+      },
+      "by_region": {
+        "australia_wa_perth": {
+          "final_organic_N_kg_ha": {
+            "latent_OOF_R2": -0.21732304599112018,
+            "raw_OOF_R2": 0.09224768965475783,
+            "RMSE": 36.869135285614945
+          },
+          "final_mineral_N_kg_ha": {
+            "latent_OOF_R2": 0.7960220067593832,
+            "raw_OOF_R2": 0.8095476140416747,
+            "RMSE": 29.415001546577408
+          },
+          "native_Nloss_kg_ha": {
+            "latent_OOF_R2": -0.16394604278142055,
+            "raw_OOF_R2": 0.366840390120023,
+            "RMSE": 36.72903435434049
+          },
+          "final_soil_C_kg_ha": {
+            "latent_OOF_R2": 0.5678242791239752,
+            "raw_OOF_R2": 0.6588996917069547,
+            "RMSE": 328.4892884151554
+          },
+          "native_net_mineralization_N_kg_ha": {
+            "latent_OOF_R2": -0.21732304561970395,
+            "raw_OOF_R2": 0.09224768965480967,
+            "RMSE": 36.869135279989656
+          }
+        },
+        "china_ncp_luancheng": {
+          "final_organic_N_kg_ha": {
+            "latent_OOF_R2": 0.6262927753165533,
+            "raw_OOF_R2": 0.8266849053052274,
+            "RMSE": 4.394103858739199
+          },
+          "final_mineral_N_kg_ha": {
+            "latent_OOF_R2": 0.30421304858582165,
+            "raw_OOF_R2": 0.3141266002652502,
+            "RMSE": 8.435256579264118
+          },
+          "native_Nloss_kg_ha": {
+            "latent_OOF_R2": -1.1214447889917176,
+            "raw_OOF_R2": -0.8331081738934993,
+            "RMSE": 2.794872473122648
+          },
+          "final_soil_C_kg_ha": {
+            "latent_OOF_R2": 0.4537033308952856,
+            "raw_OOF_R2": 0.7437321553920218,
+            "RMSE": 68.5509817017668
+          },
+          "native_net_mineralization_N_kg_ha": {
+            "latent_OOF_R2": 0.6262927754038011,
+            "raw_OOF_R2": 0.8266849053052795,
+            "RMSE": 4.394103858226065
+          }
+        },
+        "france_paris_beauce": {
+          "final_organic_N_kg_ha": {
+            "latent_OOF_R2": 0.7731979206860247,
+            "raw_OOF_R2": 0.8729217665252034,
+            "RMSE": 12.406077753828592
+          },
+          "final_mineral_N_kg_ha": {
+            "latent_OOF_R2": 0.8055531931918184,
+            "raw_OOF_R2": 0.7360159939787785,
+            "RMSE": 9.786024897785813
+          },
+          "native_Nloss_kg_ha": {
+            "latent_OOF_R2": -1.1059015338924278,
+            "raw_OOF_R2": -0.9307703756909165,
+            "RMSE": 12.299107199393378
+          },
+          "final_soil_C_kg_ha": {
+            "latent_OOF_R2": 0.6598834513689915,
+            "raw_OOF_R2": 0.8000006543801317,
+            "RMSE": 184.0881923972544
+          },
+          "native_net_mineralization_N_kg_ha": {
+            "latent_OOF_R2": 0.7731979388830993,
+            "raw_OOF_R2": 0.8729217665252005,
+            "RMSE": 12.406077256139097
+          }
+        },
+        "netherlands_lelystad": {
+          "final_organic_N_kg_ha": {
+            "latent_OOF_R2": 0.7237840010957195,
+            "raw_OOF_R2": 0.869220987289547,
+            "RMSE": 8.509499826519328
+          },
+          "final_mineral_N_kg_ha": {
+            "latent_OOF_R2": 0.6871500391458105,
+            "raw_OOF_R2": 0.6215345126946079,
+            "RMSE": 5.044238697579618
+          },
+          "native_Nloss_kg_ha": {
+            "latent_OOF_R2": -0.6382565328150651,
+            "raw_OOF_R2": 0.2906917867553269,
+            "RMSE": 18.207061572671453
+          },
+          "final_soil_C_kg_ha": {
+            "latent_OOF_R2": 0.6492943871388139,
+            "raw_OOF_R2": 0.8267034635523577,
+            "RMSE": 110.60829046090849
+          },
+          "native_net_mineralization_N_kg_ha": {
+            "latent_OOF_R2": 0.7237841201078676,
+            "raw_OOF_R2": 0.8692209872895609,
+            "RMSE": 8.50949799329085
+          }
+        },
+        "usa_kansas_wichita": {
+          "final_organic_N_kg_ha": {
+            "latent_OOF_R2": 0.336471504929589,
+            "raw_OOF_R2": 0.5357272490892252,
+            "RMSE": 18.837437776531296
+          },
+          "final_mineral_N_kg_ha": {
+            "latent_OOF_R2": -0.3236035695288395,
+            "raw_OOF_R2": -0.1749482598045473,
+            "RMSE": 37.15279525120894
+          },
+          "native_Nloss_kg_ha": {
+            "latent_OOF_R2": 0.09206068044149551,
+            "raw_OOF_R2": -0.049538573956694254,
+            "RMSE": 8.709143102783289
+          },
+          "final_soil_C_kg_ha": {
+            "latent_OOF_R2": 0.31452339466716117,
+            "raw_OOF_R2": 0.5405862971596364,
+            "RMSE": 282.20845954014084
+          },
+          "native_net_mineralization_N_kg_ha": {
+            "latent_OOF_R2": 0.33647150492779354,
+            "raw_OOF_R2": 0.5357272490892582,
+            "RMSE": 18.837437776556136
+          }
+        }
+      },
+      "auxiliary_stock_head": "TRAIN-only standardized Ridge readout of frozen latent,not a retrained backbone",
+      "prediction_path": "data/phase8d-physical-decoding-normalized-weights/Full-Telemetry.npz",
+      "prediction_sha256": "f71c3b3f258cc322c02411d6e6b947a55eb14625e5259568490dfab69a5a5d88"
+    },
+    "Sensorless-mlp": {
+      "targets": {
+        "final_organic_N_kg_ha": {
+          "latent_OOF_R2": 0.9999541104148942,
+          "raw_OOF_R2": 0.9999682349999309
+        },
+        "final_mineral_N_kg_ha": {
+          "latent_OOF_R2": 0.7625136994454549,
+          "raw_OOF_R2": 0.7986390951936898
+        },
+        "native_Nloss_kg_ha": {
+          "latent_OOF_R2": 0.24039652422488433,
+          "raw_OOF_R2": 0.5377518610286277
+        },
+        "final_soil_C_kg_ha": {
+          "latent_OOF_R2": 0.999959856399667,
+          "raw_OOF_R2": 0.9999729853614141
+        },
+        "native_net_mineralization_N_kg_ha": {
+          "latent_OOF_R2": 0.9527845238419832,
+          "raw_OOF_R2": 0.9673172115208952
+        }
+      },
+      "by_region": {
+        "australia_wa_perth": {
+          "final_organic_N_kg_ha": {
+            "latent_OOF_R2": -0.31550642037298293,
+            "raw_OOF_R2": 0.024276233364583955,
+            "RMSE": 38.32714907784347
+          },
+          "final_mineral_N_kg_ha": {
+            "latent_OOF_R2": 0.7265684949766902,
+            "raw_OOF_R2": 0.741563626760863,
+            "RMSE": 34.05661616049423
+          },
+          "native_Nloss_kg_ha": {
+            "latent_OOF_R2": -0.3123098571511289,
+            "raw_OOF_R2": 0.24569190943343133,
+            "RMSE": 38.999701396928906
+          },
+          "final_soil_C_kg_ha": {
+            "latent_OOF_R2": 0.5177438315346279,
+            "raw_OOF_R2": 0.6345403012583786,
+            "RMSE": 347.0003601260411
+          },
+          "native_net_mineralization_N_kg_ha": {
+            "latent_OOF_R2": -0.31550642039614063,
+            "raw_OOF_R2": 0.024276233364724065,
+            "RMSE": 38.32714907818006
+          }
+        },
+        "china_ncp_luancheng": {
+          "final_organic_N_kg_ha": {
+            "latent_OOF_R2": 0.7373251387895103,
+            "raw_OOF_R2": 0.8022680386082061,
+            "RMSE": 3.6839508421710816
+          },
+          "final_mineral_N_kg_ha": {
+            "latent_OOF_R2": -0.18839023817423617,
+            "raw_OOF_R2": 0.2937599162558797,
+            "RMSE": 11.024012454110274
+          },
+          "native_Nloss_kg_ha": {
+            "latent_OOF_R2": -1.6387122414634097,
+            "raw_OOF_R2": -0.7791799929886383,
+            "RMSE": 3.1170383486907065
+          },
+          "final_soil_C_kg_ha": {
+            "latent_OOF_R2": 0.545212614863466,
+            "raw_OOF_R2": 0.7011782641387662,
+            "RMSE": 62.546585677497774
+          },
+          "native_net_mineralization_N_kg_ha": {
+            "latent_OOF_R2": 0.7373251387732159,
+            "raw_OOF_R2": 0.8022680386082457,
+            "RMSE": 3.6839508422851783
+          }
+        },
+        "france_paris_beauce": {
+          "final_organic_N_kg_ha": {
+            "latent_OOF_R2": 0.7227806935565119,
+            "raw_OOF_R2": 0.8609675181160146,
+            "RMSE": 13.715849754582166
+          },
+          "final_mineral_N_kg_ha": {
+            "latent_OOF_R2": 0.6867598931998672,
+            "raw_OOF_R2": 0.6894847425026212,
+            "RMSE": 12.420657614154278
+          },
+          "native_Nloss_kg_ha": {
+            "latent_OOF_R2": -0.8075773913124116,
+            "raw_OOF_R2": -0.6691731173731088,
+            "RMSE": 11.39470291676482
+          },
+          "final_soil_C_kg_ha": {
+            "latent_OOF_R2": 0.5962019532808114,
+            "raw_OOF_R2": 0.7770243992176654,
+            "RMSE": 200.58301663623666
+          },
+          "native_net_mineralization_N_kg_ha": {
+            "latent_OOF_R2": 0.7227806935616643,
+            "raw_OOF_R2": 0.8609675181160164,
+            "RMSE": 13.71584975445544
+          }
+        },
+        "netherlands_lelystad": {
+          "final_organic_N_kg_ha": {
+            "latent_OOF_R2": 0.7089290178050665,
+            "raw_OOF_R2": 0.8873509244834968,
+            "RMSE": 8.7353251362354
+          },
+          "final_mineral_N_kg_ha": {
+            "latent_OOF_R2": 0.6933555263576126,
+            "raw_OOF_R2": 0.6353285500327479,
+            "RMSE": 4.993961020177909
+          },
+          "native_Nloss_kg_ha": {
+            "latent_OOF_R2": -0.7435584446064301,
+            "raw_OOF_R2": -0.033339040856255275,
+            "RMSE": 18.783095278749013
+          },
+          "final_soil_C_kg_ha": {
+            "latent_OOF_R2": 0.619085930518956,
+            "raw_OOF_R2": 0.8402143862983372,
+            "RMSE": 115.27359266253382
+          },
+          "native_net_mineralization_N_kg_ha": {
+            "latent_OOF_R2": 0.7089290178031723,
+            "raw_OOF_R2": 0.8873509244835036,
+            "RMSE": 8.735325136263622
+          }
+        },
+        "usa_kansas_wichita": {
+          "final_organic_N_kg_ha": {
+            "latent_OOF_R2": -0.4939840194357228,
+            "raw_OOF_R2": -0.008660898426791297,
+            "RMSE": 28.266043153028317
+          },
+          "final_mineral_N_kg_ha": {
+            "latent_OOF_R2": -0.036135072459396955,
+            "raw_OOF_R2": 0.2566659060519063,
+            "RMSE": 32.871590390424686
+          },
+          "native_Nloss_kg_ha": {
+            "latent_OOF_R2": 0.13570333012233582,
+            "raw_OOF_R2": 0.2826410163637679,
+            "RMSE": 8.497250751853128
+          },
+          "final_soil_C_kg_ha": {
+            "latent_OOF_R2": -0.6080316576054641,
+            "raw_OOF_R2": -0.06502533018182133,
+            "RMSE": 432.23607088357124
+          },
+          "native_net_mineralization_N_kg_ha": {
+            "latent_OOF_R2": -0.4939840194351024,
+            "raw_OOF_R2": -0.00866089842674933,
+            "RMSE": 28.266043153021474
+          }
+        }
+      },
+      "auxiliary_stock_head": "TRAIN-only standardized Ridge readout of frozen latent,not a retrained backbone",
+      "prediction_path": "data/phase8d-physical-decoding-normalized-weights/Sensorless.npz",
+      "prediction_sha256": "aa29356eb754204c2e17d92640c2e6b70b095d9e51b3d7246c823b1a1a668a3b"
+    }
+  }
+}

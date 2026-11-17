@@ -1,0 +1,58 @@
+{
+  "world": [
+    "france_paris_beauce",
+    2020,
+    "Historical",
+    "NASA"
+  ],
+  "native_simulations": 5,
+  "unique_executed_trajectories": 5,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        0.0,
+        100.0,
+        100.0
+      ],
+      "sha256": "ea0c6f11fded9cc3679979abe591805fb1d44deda285316f7df7d1848588e791"
+    },
+    {
+      "doses": [
+        0.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "65f972eb36d8419f5f27a2e112bee4ae9a2feacecec2e7e7a5d8ff7fbb93ae2b"
+    },
+    {
+      "doses": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "sha256": "c44f33f3cfaf8a064864d936aaffffcb645759af87c53ab68c0b68fc95c58cdb"
+    },
+    {
+      "doses": [
+        40.0,
+        60.0,
+        100.0
+      ],
+      "sha256": "86cc4ac4b00ae45af95896eaff14126b6184304e25d90ec9f221af9966f9703a"
+    },
+    {
+      "doses": [
+        40.0,
+        20.0,
+        80.0
+      ],
+      "sha256": "a7821d869c11d0f4f6e2e4f14677f09bc16a6797b249384edb7f23154ce80850"
+    }
+  ],
+  "complete_requested_paths": 5,
+  "cases_replayed": 148,
+  "public_prefix_nodes": 8,
+  "prefix_decisions_replayed": 451,
+  "worker": 4,
+  "cases": 153
+}

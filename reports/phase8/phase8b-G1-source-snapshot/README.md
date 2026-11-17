@@ -1,0 +1,1 @@
+Exact G1 scoring source/protocol snapshot, verified against phase8b-G1-source-freeze.json before G2 extensions. This is archival source, not an executable project root. Restore these paths into a project checkout with the frozen weights/data to reproduce G1. Subsequent G2 additions do not redefine the saved G1 experiment.

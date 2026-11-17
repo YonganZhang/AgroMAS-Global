@@ -1,0 +1,1178 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        14
+      ]
+    ],
+    "date-time": "2026-11-14T22:35:17Z",
+    "timestamp": 1794695717574,
+    "version": "4.9.1"
+  },
+  "reference-count": 29,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2014,
+            12,
+            22
+          ]
+        ],
+        "date-time": "2014-12-22T00:00:00Z",
+        "timestamp": 1419206400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2014,
+            12,
+            22
+          ]
+        ],
+        "date-time": "2014-12-22T00:00:00Z",
+        "timestamp": 1419206400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Nature Clim Change"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2015,
+        2
+      ]
+    ]
+  },
+  "DOI": "10.1038/nclimate2470",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        12,
+        19
+      ]
+    ],
+    "date-time": "2014-12-19T05:32:05Z",
+    "timestamp": 1418967125000
+  },
+  "page": "143-147",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 2253,
+  "title": [
+    "Rising temperatures reduce global wheat\u00a0production"
+  ],
+  "prefix": "10.1038",
+  "volume": "5",
+  "author": [
+    {
+      "given": "S.",
+      "family": "Asseng",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "F.",
+      "family": "Ewert",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "P.",
+      "family": "Martre",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "R. P.",
+      "family": "R\u00f6tter",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "D. B.",
+      "family": "Lobell",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "D.",
+      "family": "Cammarano",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "B. A.",
+      "family": "Kimball",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "M. J.",
+      "family": "Ottman",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "G. W.",
+      "family": "Wall",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "J. W.",
+      "family": "White",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "M. P.",
+      "family": "Reynolds",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "P. D.",
+      "family": "Alderman",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "P. V. V.",
+      "family": "Prasad",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "P. K.",
+      "family": "Aggarwal",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "J.",
+      "family": "Anothai",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "B.",
+      "family": "Basso",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "C.",
+      "family": "Biernath",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "A. J.",
+      "family": "Challinor",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "G.",
+      "family": "De Sanctis",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "J.",
+      "family": "Doltra",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "E.",
+      "family": "Fereres",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "M.",
+      "family": "Garcia-Vila",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "S.",
+      "family": "Gayler",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "G.",
+      "family": "Hoogenboom",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "L. A.",
+      "family": "Hunt",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "R. C.",
+      "family": "Izaurralde",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "M.",
+      "family": "Jabloun",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "C. D.",
+      "family": "Jones",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "K. C.",
+      "family": "Kersebaum",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "A-K.",
+      "family": "Koehler",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "C.",
+      "family": "M\u00fcller",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "S.",
+      "family": "Naresh Kumar",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "C.",
+      "family": "Nendel",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "G.",
+      "family": "O\u2019Leary",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "J. E.",
+      "family": "Olesen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "T.",
+      "family": "Palosuo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "E.",
+      "family": "Priesack",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "E.",
+      "family": "Eyshi Rezaei",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "A. C.",
+      "family": "Ruane",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "M. A.",
+      "family": "Semenov",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "I.",
+      "family": "Shcherbak",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "C.",
+      "family": "St\u00f6ckle",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "P.",
+      "family": "Stratonovitch",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "T.",
+      "family": "Streck",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "I.",
+      "family": "Supit",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "F.",
+      "family": "Tao",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "P. J.",
+      "family": "Thorburn",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "K.",
+      "family": "Waha",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "E.",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "D.",
+      "family": "Wallach",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "J.",
+      "family": "Wolf",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Z.",
+      "family": "Zhao",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Y.",
+      "family": "Zhu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2014,
+        12,
+        22
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "BFnclimate2470_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "287",
+      "DOI": "10.1038/nclimate2153",
+      "volume": "4",
+      "author": "AJ Challinor",
+      "year": "2014",
+      "unstructured": "Challinor, A. J. et al. A meta-analysis of crop yield under climate change and adaptation. Nature Clim. Change 4, 287\u2013291 (2014).",
+      "journal-title": "Nature Clim. Change"
+    },
+    {
+      "key": "BFnclimate2470_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "827",
+      "DOI": "10.1038/nclimate1916",
+      "volume": "3",
+      "author": "S Asseng",
+      "year": "2013",
+      "unstructured": "Asseng, S. et al. Uncertainty in simulating wheat yields under climate change. Nature Clim. Change 3, 827\u2013832 (2013).",
+      "journal-title": "Nature Clim. Change"
+    },
+    {
+      "key": "BFnclimate2470_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "812",
+      "DOI": "10.1126/science.1185383",
+      "volume": "327",
+      "author": "HCJ Godfray",
+      "year": "2010",
+      "unstructured": "Godfray, H. C. J. et al. Food security: The challenge of feeding 9 billion people. Science 327, 812\u2013818 (2010).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "BFnclimate2470_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "71",
+      "DOI": "10.1079/9781845936334.0000",
+      "volume-title": "Climate Change and Crop Production",
+      "author": "MP Reynolds",
+      "year": "2010",
+      "unstructured": "Reynolds, M. P., Hays, D. & Chapman, S. in Climate Change and Crop Production (ed. Reynolds, M. P.) 71\u201391 (CABI Climate Change Series, 2010)."
+    },
+    {
+      "key": "BFnclimate2470_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "997",
+      "DOI": "10.1111/j.1365-2486.2010.02262.x",
+      "volume": "17",
+      "author": "S Asseng",
+      "year": "2011",
+      "unstructured": "Asseng, S., Foster, I. & Turner, N. C. The impact of temperature variability on wheat yields. Glob. Change Biol. 17, 997\u20131012 (2011).",
+      "journal-title": "Glob. Change Biol."
+    },
+    {
+      "key": "BFnclimate2470_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1088/1748-9326/8/2/024041",
+      "volume": "8",
+      "author": "SM Gourdji",
+      "year": "2013",
+      "unstructured": "Gourdji, S. M., Sibley, A. M. & Lobell, D. B. Global crop exposure to critical high temperatures in the reproductive period: Historical trends and future projections. Environ. Res. Lett. 8, 1\u201310 (2013).",
+      "journal-title": "Environ. Res. Lett."
+    },
+    {
+      "key": "BFnclimate2470_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "206",
+      "DOI": "10.1016/j.agrformet.2011.09.002",
+      "volume": "170",
+      "author": "EI Teixeira",
+      "year": "2013",
+      "unstructured": "Teixeira, E. I., Fischer, G., van Velthuizen, H., Walter, C. & Ewert, F. Global hot-spots of heat stress on agricultural crops due to climate change. Agric. Forest Meteorol. 170, 206\u2013215 (2013).",
+      "journal-title": "Agric. Forest Meteorol."
+    },
+    {
+      "key": "BFnclimate2470_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "3268",
+      "DOI": "10.1073/pnas.1222463110",
+      "volume": "111",
+      "author": "C Rosenzweig",
+      "year": "2014",
+      "unstructured": "Rosenzweig, C. et al. Assessing agricultural risks of climate change in the 21st century in a global gridded crop model intercomparison. Proc. Natl Acad. Sci. USA 111, 3268\u20133273 (2014).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnclimate2470_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "1095",
+      "DOI": "10.1071/A97041",
+      "volume": "49",
+      "author": "AF Van Herwaarden",
+      "year": "1998",
+      "unstructured": "Van Herwaarden, A. F., Richards, R. A., Farquhar, G. D. & Angus, J. F. \u2018Haying-off\u2019, the negative grain yield response of dryland wheat to nitrogen fertiliser\u2014III. The influence of water deficit and heat shock. Aust. J. Agric. Res. 49, 1095\u20131110 (1998).",
+      "journal-title": "Aust. J. Agric. Res."
+    },
+    {
+      "key": "BFnclimate2470_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "249",
+      "DOI": "10.1016/S0167-8809(01)00352-8",
+      "volume": "93",
+      "author": "F Ewert",
+      "year": "2002",
+      "unstructured": "Ewert, F. et al. Effects of elevated CO2 and drought on wheat: Testing crop simulation models for different experimental and climatic conditions. Agric. Ecosyst. Environ. 93, 249\u2013266 (2002).",
+      "journal-title": "Agric. Ecosyst. Environ."
+    },
+    {
+      "key": "BFnclimate2470_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "7",
+      "DOI": "10.2134/agronj2011.0212",
+      "volume": "104",
+      "author": "MJ Ottman",
+      "year": "2012",
+      "unstructured": "Ottman, M. J., Kimball, B. A., White, J. W. & Wall, G. W. Wheat growth response to increased temperature from varied planting dates and supplemental infrared heating. Agron. J. 104, 7\u201316 (2012).",
+      "journal-title": "Agron. J."
+    },
+    {
+      "key": "BFnclimate2470_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "2113",
+      "DOI": "10.1111/j.1365-2486.2011.02399.x",
+      "volume": "17",
+      "author": "GW Wall",
+      "year": "2011",
+      "unstructured": "Wall, G. W., Kimball, B. A., White, J. W. & Ottman, M. J. Gas exchange and water relations of spring wheat under full-season infrared warming. Glob. Change Biol. 17, 2113\u20132133 (2011).",
+      "journal-title": "Glob. Change Biol."
+    },
+    {
+      "key": "BFnclimate2470_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "23",
+      "DOI": "10.1016/S1161-0301(98)00047-1",
+      "volume": "10",
+      "author": "JR Porter",
+      "year": "1999",
+      "unstructured": "Porter, J. R. & Gawith, M. Temperatures and the growth and development of wheat: A review. Eur. J. Agron. 10, 23\u201336 (1999).",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "BFnclimate2470_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "119",
+      "DOI": "10.1111/j.1439-037X.1996.tb00454.x",
+      "volume": "176",
+      "author": "I Amani",
+      "year": "1996",
+      "unstructured": "Amani, I., Fischer, R. A. & Reynolds, M. P. Canopy temperature depression associated with yield of irrigated spring wheat cultivars in a hot climate. J.\u00a0Agron. Crop Sci. 176, 119\u2013129 (1996).",
+      "journal-title": "J.\u00a0Agron. Crop Sci."
+    },
+    {
+      "key": "BFnclimate2470_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "2301",
+      "DOI": "10.1111/gcb.12520",
+      "volume": "20",
+      "author": "S Bassu",
+      "year": "2014",
+      "unstructured": "Bassu, S. et al. How do various maize crop models vary in their responses to climate change factors? Glob. Change Biol. 20, 2301\u20132320 (2014).",
+      "journal-title": "Glob. Change Biol."
+    },
+    {
+      "key": "BFnclimate2470_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "679",
+      "DOI": "10.1111/j.1365-2486.2006.01305.x",
+      "volume": "13",
+      "author": "A Bondeau",
+      "year": "2007",
+      "unstructured": "Bondeau, A. et al. Modelling the role of agriculture for the 20th century global terrestrial carbon balance. Glob. Change Biol. 13, 679\u2013706 (2007).",
+      "journal-title": "Glob. Change Biol."
+    },
+    {
+      "key": "BFnclimate2470_CR17",
+      "first-page": "83",
+      "volume": "45",
+      "author": "R Fischer",
+      "year": "1979",
+      "unstructured": "Fischer, R. Growth and water limitation to dryland wheat yield in Australia\u2014Physiological framework. J. Aust. Inst. Agric. Sci. 45, 83\u201394 (1979).",
+      "journal-title": "J. Aust. Inst. Agric. Sci."
+    },
+    {
+      "key": "BFnclimate2470_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "904",
+      "DOI": "10.1038/nclimate1945",
+      "volume": "3",
+      "author": "T Iizumi",
+      "year": "2013",
+      "unstructured": "Iizumi, T. et al. Prediction of seasonal climate-induced variations in global food production. Nature Clim. Change 3, 904\u2013908 (2013).",
+      "journal-title": "Nature Clim. Change"
+    },
+    {
+      "key": "BFnclimate2470_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "577",
+      "DOI": "10.1016/j.gloenvcha.2010.07.001",
+      "volume": "20",
+      "author": "TW Hertel",
+      "year": "2010",
+      "unstructured": "Hertel, T. W., Burke, M. B. & Lobell, D. B. The poverty implications of climate-induced crop yield changes by 2030. Glob. Environ. Change 20, 577\u2013585 (2010).",
+      "journal-title": "Glob. Environ. Change"
+    },
+    {
+      "key": "BFnclimate2470_CR20",
+      "first-page": "ix",
+      "volume-title": "Proc. 3rd Int. Workshop of Wheat Yield Consortium",
+      "author": "M Reynolds",
+      "year": "2013",
+      "unstructured": "Reynolds, M. & Braun, H. in Proc. 3rd Int. Workshop of Wheat Yield Consortium (eds Reynolds, M. & Braun, H.) ix\u2013xi (CIMMYT, CENEB, 2013)."
+    },
+    {
+      "key": "BFnclimate2470_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "255",
+      "DOI": "10.1016/S0167-8809(03)00114-2",
+      "volume": "97",
+      "author": "MK Van Ittersum",
+      "year": "2003",
+      "unstructured": "Van Ittersum, M. K., Howden, S. M. & Asseng, S. Sensitivity of productivity and deep drainage of wheat cropping systems in a Mediterranean environment to changes in CO2, temperature and precipitation. Agric. Ecosyst. Environ. 97, 255\u2013273 (2003).",
+      "journal-title": "Agric. Ecosyst. Environ."
+    },
+    {
+      "key": "BFnclimate2470_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "190",
+      "DOI": "10.1071/FP11245",
+      "volume": "39",
+      "author": "GP Pradhan",
+      "year": "2012",
+      "unstructured": "Pradhan, G. P., Prasad, P. V. V., Fritz, A. K., Kirkham, M. B. & Gill, B. S. Effects of drought and high temperature stress on synthetic hexaploid wheat. Funct. Plant Biol. 39, 190\u2013198 (2012).",
+      "journal-title": "Funct. Plant Biol."
+    },
+    {
+      "key": "BFnclimate2470_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "521",
+      "DOI": "10.1111/j.1365-3040.1993.tb00899.x",
+      "volume": "16",
+      "author": "RAC Mitchell",
+      "year": "1993",
+      "unstructured": "Mitchell, R. A. C., Mitchell, V. J., Driscoll, S. P., Franklin, J. & Lawlor, D. W. Effects of increased CO2 concentration and temperature on growth and yield of winter wheat at two levels of nitrogen application. Plant Cell Environ. 16, 521\u2013529 (1993).",
+      "journal-title": "Plant Cell Environ."
+    },
+    {
+      "key": "BFnclimate2470_CR24",
+      "first-page": "1029",
+      "volume-title": "Climate Change 2013: The Physical Science Basis",
+      "author": "M Collins",
+      "year": "2013",
+      "unstructured": "Collins, M. et al. in Climate Change 2013: The Physical Science Basis (eds Stocker, T. F. et al.) 1029\u20131136 (IPCC, Cambridge Univ. Press, 2013)."
+    },
+    {
+      "key": "BFnclimate2470_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "3274",
+      "DOI": "10.1073/pnas.1222465110",
+      "volume": "111",
+      "author": "GC Nelson",
+      "year": "2014",
+      "unstructured": "Nelson, G. C. et al. Climate change effects on agriculture: Economic responses to biophysical shocks. Proc. Natl Acad. Sci. USA 111, 3274\u20133279 (2014).",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnclimate2470_CR26",
+      "unstructured": "Nelson, G. C. et al. Climate Change: Impact on Agriculture and Costs of Adaptation IFPRI Food Policy Report No. 21 (2009)"
+    },
+    {
+      "key": "BFnclimate2470_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "1710",
+      "DOI": "10.1104/pp.112.207753",
+      "volume": "160",
+      "author": "CM Cossani",
+      "year": "2012",
+      "unstructured": "Cossani, C. M. & Reynolds, M. P. Physiological traits for improving heat tolerance in wheat. Plant Physiol. 160, 1710\u20131718 (2012).",
+      "journal-title": "Plant Physiol."
+    },
+    {
+      "key": "BFnclimate2470_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "166",
+      "DOI": "10.1016/j.agrformet.2012.09.011",
+      "volume": "170",
+      "author": "C Rosenzweig",
+      "year": "2013",
+      "unstructured": "Rosenzweig, C. et al. The Agricultural Model Intercomparison and Improvement Project (AgMIP): Protocols and pilot studies. Agric. Forest Meteorol. 170, 166\u2013182 (2013).",
+      "journal-title": "Agric. Forest Meteorol."
+    },
+    {
+      "key": "BFnclimate2470_CR29",
+      "doi-asserted-by": "crossref",
+      "first-page": "717",
+      "DOI": "10.1071/PP9940717",
+      "volume": "21",
+      "author": "MP Reynolds",
+      "year": "1994",
+      "unstructured": "Reynolds, M. P., Balota, M., Delgado, M. I. B., Amani, I. & Fischer, R. A. Physiological and morphological traits associated with spring wheat yield under hot, irrigated conditions. Aust. J. Plant Physiol. 21, 717\u2013730 (1994).",
+      "journal-title": "Aust. J. Plant Physiol."
+    }
+  ],
+  "container-title": [
+    "Nature Climate Change"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/nclimate2470.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/nclimate2470",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/nclimate2470.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        18
+      ]
+    ],
+    "date-time": "2026-05-18T11:53:08Z",
+    "timestamp": 1779105188000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/nclimate2470"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        12,
+        22
+      ]
+    ]
+  },
+  "references-count": 29,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          2
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "BFnclimate2470"
+  ],
+  "URL": "https://doi.org/10.1038/nclimate2470",
+  "relation": {},
+  "ISSN": [
+    "1758-678X",
+    "1758-6798"
+  ],
+  "issn-type": [
+    {
+      "value": "1758-678X",
+      "type": "print"
+    },
+    {
+      "value": "1758-6798",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2014,
+        12,
+        22
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "4 July 2014",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "18 November 2014",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "22 December 2014",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing financial interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ]
+}

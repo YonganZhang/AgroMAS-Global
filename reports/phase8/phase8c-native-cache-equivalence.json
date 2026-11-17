@@ -1,0 +1,680 @@
+{
+  "tests": [
+    {
+      "world": [
+        "netherlands_lelystad",
+        2005,
+        "Historical",
+        "NASA"
+      ],
+      "configuration": 0,
+      "mode": "tree",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 7.275957614183426e-12,
+      "C": 3.149125404888764e-11
+    },
+    {
+      "world": [
+        "netherlands_lelystad",
+        2005,
+        "Historical",
+        "NASA"
+      ],
+      "configuration": 1,
+      "mode": "soft",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 7.275957614183426e-12,
+      "C": 3.149125404888764e-11
+    },
+    {
+      "world": [
+        "netherlands_lelystad",
+        2005,
+        "Historical",
+        "NASA"
+      ],
+      "configuration": 2,
+      "mode": "soft",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 7.275957614183426e-12,
+      "C": 3.149125404888764e-11
+    },
+    {
+      "world": [
+        "netherlands_lelystad",
+        2005,
+        "Historical",
+        "NASA"
+      ],
+      "configuration": 3,
+      "mode": "soft",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 7.275957614183426e-12,
+      "C": 3.149125404888764e-11
+    },
+    {
+      "world": [
+        "netherlands_lelystad",
+        2005,
+        "Historical",
+        "NASA"
+      ],
+      "configuration": 4,
+      "mode": "tree",
+      "track": "Full-Telemetry",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 7.389644451905042e-12,
+      "C": 3.149125404888764e-11
+    },
+    {
+      "world": [
+        "netherlands_lelystad",
+        2005,
+        "Historical",
+        "NASA"
+      ],
+      "configuration": 5,
+      "mode": "open-loop",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 7.16227077646181e-12,
+      "C": 3.149125404888764e-11
+    },
+    {
+      "world": [
+        "netherlands_lelystad",
+        2005,
+        "Historical",
+        "NASA"
+      ],
+      "configuration": 6,
+      "mode": "greedy-frozen",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 7.503331289626658e-12,
+      "C": 3.149125404888764e-11
+    },
+    {
+      "world": [
+        "netherlands_lelystad",
+        2005,
+        "Historical",
+        "NASA"
+      ],
+      "configuration": 7,
+      "mode": "soft",
+      "track": "Sensorless",
+      "remove": "eco",
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 7.275957614183426e-12,
+      "C": 3.149125404888764e-11
+    },
+    {
+      "world": [
+        "netherlands_lelystad",
+        2005,
+        "Historical",
+        "NASA"
+      ],
+      "configuration": 8,
+      "mode": "tree",
+      "track": "Sensorless",
+      "remove": "econ",
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 7.16227077646181e-12,
+      "C": 3.149125404888764e-11
+    },
+    {
+      "world": [
+        "netherlands_lelystad",
+        2005,
+        "Historical",
+        "NASA"
+      ],
+      "configuration": 9,
+      "mode": "soft",
+      "track": "Sensorless",
+      "remove": "climate",
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 7.275957614183426e-12,
+      "C": 3.149125404888764e-11
+    },
+    {
+      "world": [
+        "netherlands_lelystad",
+        2005,
+        "Historical",
+        "NASA"
+      ],
+      "configuration": 10,
+      "mode": "PPO",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 6.991740519879386e-12,
+      "C": 3.149125404888764e-11
+    },
+    {
+      "world": [
+        "netherlands_lelystad",
+        2005,
+        "Historical",
+        "NASA"
+      ],
+      "configuration": 11,
+      "mode": "DVS",
+      "track": "Full-Telemetry",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 7.503331289626658e-12,
+      "C": 3.149125404888764e-11
+    },
+    {
+      "world": [
+        "netherlands_lelystad",
+        2005,
+        "Historical",
+        "NASA"
+      ],
+      "configuration": 12,
+      "mode": "legacy",
+      "track": "Full-Telemetry",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 6.991740519879386e-12,
+      "C": 3.149125404888764e-11
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2003,
+        "idealized_mid",
+        "NASA"
+      ],
+      "configuration": 0,
+      "mode": "tree",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 1.6825651982799172e-11,
+      "C": 1.8280843505635858e-10
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2003,
+        "idealized_mid",
+        "NASA"
+      ],
+      "configuration": 1,
+      "mode": "soft",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 1.6825651982799172e-11,
+      "C": 1.8280843505635858e-10
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2003,
+        "idealized_mid",
+        "NASA"
+      ],
+      "configuration": 2,
+      "mode": "soft",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 1.7962520360015333e-11,
+      "C": 1.8280843505635858e-10
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2003,
+        "idealized_mid",
+        "NASA"
+      ],
+      "configuration": 3,
+      "mode": "soft",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 1.6825651982799172e-11,
+      "C": 1.8280843505635858e-10
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2003,
+        "idealized_mid",
+        "NASA"
+      ],
+      "configuration": 4,
+      "mode": "tree",
+      "track": "Full-Telemetry",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 1.7962520360015333e-11,
+      "C": 1.8280843505635858e-10
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2003,
+        "idealized_mid",
+        "NASA"
+      ],
+      "configuration": 5,
+      "mode": "open-loop",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 2.000888343900442e-11,
+      "C": 1.8280843505635858e-10
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2003,
+        "idealized_mid",
+        "NASA"
+      ],
+      "configuration": 6,
+      "mode": "greedy-frozen",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 1.688249540165998e-11,
+      "C": 1.8098944565281272e-10
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2003,
+        "idealized_mid",
+        "NASA"
+      ],
+      "configuration": 7,
+      "mode": "soft",
+      "track": "Sensorless",
+      "remove": "eco",
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 1.887201506178826e-11,
+      "C": 1.8280843505635858e-10
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2003,
+        "idealized_mid",
+        "NASA"
+      ],
+      "configuration": 8,
+      "mode": "tree",
+      "track": "Sensorless",
+      "remove": "econ",
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 1.7621459846850485e-11,
+      "C": 1.8280843505635858e-10
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2003,
+        "idealized_mid",
+        "NASA"
+      ],
+      "configuration": 9,
+      "mode": "soft",
+      "track": "Sensorless",
+      "remove": "climate",
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 2.000888343900442e-11,
+      "C": 1.8280843505635858e-10
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2003,
+        "idealized_mid",
+        "NASA"
+      ],
+      "configuration": 10,
+      "mode": "PPO",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 1.688249540165998e-11,
+      "C": 1.8098944565281272e-10
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2003,
+        "idealized_mid",
+        "NASA"
+      ],
+      "configuration": 11,
+      "mode": "DVS",
+      "track": "Full-Telemetry",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 1.6768808563938364e-11,
+      "C": 1.8098944565281272e-10
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2003,
+        "idealized_mid",
+        "NASA"
+      ],
+      "configuration": 12,
+      "mode": "legacy",
+      "track": "Full-Telemetry",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 1.8530954548623413e-11,
+      "C": 1.8280843505635858e-10
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2001,
+        "idealized_high",
+        "NASA"
+      ],
+      "configuration": 0,
+      "mode": "tree",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": false,
+      "N": 1.8758328224066645e-12,
+      "C": 3.296918293926865e-11
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2001,
+        "idealized_high",
+        "NASA"
+      ],
+      "configuration": 1,
+      "mode": "soft",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 1.8758328224066645e-12,
+      "C": 3.296918293926865e-11
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2001,
+        "idealized_high",
+        "NASA"
+      ],
+      "configuration": 2,
+      "mode": "soft",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 1.8758328224066645e-12,
+      "C": 3.296918293926865e-11
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2001,
+        "idealized_high",
+        "NASA"
+      ],
+      "configuration": 3,
+      "mode": "soft",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 1.8758328224066645e-12,
+      "C": 3.296918293926865e-11
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2001,
+        "idealized_high",
+        "NASA"
+      ],
+      "configuration": 4,
+      "mode": "tree",
+      "track": "Full-Telemetry",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 1.8758328224066645e-12,
+      "C": 3.296918293926865e-11
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2001,
+        "idealized_high",
+        "NASA"
+      ],
+      "configuration": 5,
+      "mode": "open-loop",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 1.8758328224066645e-12,
+      "C": 3.296918293926865e-11
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2001,
+        "idealized_high",
+        "NASA"
+      ],
+      "configuration": 6,
+      "mode": "greedy-frozen",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 1.8758328224066645e-12,
+      "C": 3.296918293926865e-11
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2001,
+        "idealized_high",
+        "NASA"
+      ],
+      "configuration": 7,
+      "mode": "soft",
+      "track": "Sensorless",
+      "remove": "eco",
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 1.8758328224066645e-12,
+      "C": 3.296918293926865e-11
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2001,
+        "idealized_high",
+        "NASA"
+      ],
+      "configuration": 8,
+      "mode": "tree",
+      "track": "Sensorless",
+      "remove": "econ",
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 1.8758328224066645e-12,
+      "C": 3.296918293926865e-11
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2001,
+        "idealized_high",
+        "NASA"
+      ],
+      "configuration": 9,
+      "mode": "soft",
+      "track": "Sensorless",
+      "remove": "climate",
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 1.8758328224066645e-12,
+      "C": 3.296918293926865e-11
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2001,
+        "idealized_high",
+        "NASA"
+      ],
+      "configuration": 10,
+      "mode": "PPO",
+      "track": "Sensorless",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 1.8758328224066645e-12,
+      "C": 3.296918293926865e-11
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2001,
+        "idealized_high",
+        "NASA"
+      ],
+      "configuration": 11,
+      "mode": "DVS",
+      "track": "Full-Telemetry",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 1.8758328224066645e-12,
+      "C": 3.296918293926865e-11
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2001,
+        "idealized_high",
+        "NASA"
+      ],
+      "configuration": 12,
+      "mode": "legacy",
+      "track": "Full-Telemetry",
+      "remove": null,
+      "exact_full_result_equal": true,
+      "cache_replayed": true,
+      "N": 1.8758328224066645e-12,
+      "C": 3.296918293926865e-11
+    }
+  ],
+  "passed": 39,
+  "failed": 0,
+  "full_result_exact_equality": true,
+  "TRAIN_only": true,
+  "no_fitting_or_selection": true,
+  "world_receipts": [
+    {
+      "world": [
+        "netherlands_lelystad",
+        2005,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 7,
+      "unique_executed_trajectories": 7,
+      "complete_requested_paths": 7,
+      "cases_replayed": 6,
+      "public_prefix_nodes": 12,
+      "prefix_decisions_replayed": 27
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2003,
+        "idealized_mid",
+        "NASA"
+      ],
+      "native_simulations": 9,
+      "unique_executed_trajectories": 9,
+      "complete_requested_paths": 9,
+      "cases_replayed": 4,
+      "public_prefix_nodes": 16,
+      "prefix_decisions_replayed": 23
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2001,
+        "idealized_high",
+        "NASA"
+      ],
+      "native_simulations": 1,
+      "unique_executed_trajectories": 1,
+      "complete_requested_paths": 1,
+      "cases_replayed": 12,
+      "public_prefix_nodes": 3,
+      "prefix_decisions_replayed": 36
+    }
+  ],
+  "reference_native_simulations": 39,
+  "cached_native_simulations": 17,
+  "all_daily_mass_passed": true
+}

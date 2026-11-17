@@ -1,0 +1,29 @@
+{
+  "world": [
+    "china_ncp_luancheng",
+    2022,
+    "Historical",
+    "NASA"
+  ],
+  "native_simulations": 1,
+  "unique_native_executed_trajectories": 1,
+  "unique_executed_trajectories": 1,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "sha256": "ae1de50f86e02e54f8b168b117ffa2dc15cf1a03ec903296e80a95ee2c282cd8"
+    }
+  ],
+  "complete_requested_paths": 1,
+  "cases_replayed": 164,
+  "public_prefix_nodes": 3,
+  "prefix_decisions_replayed": 492,
+  "archived_records_verified": 157,
+  "archived_requested_paths": 1,
+  "worker": 6,
+  "cases": 165
+}

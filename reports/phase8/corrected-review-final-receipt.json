@@ -1,0 +1,22 @@
+{
+  "status": "quorum_complete",
+  "requested": 4,
+  "actual_successes": 3,
+  "quorum": 3,
+  "successful_jobs": [
+    "20261115T205204__gemini__1671405",
+    "20261115T205204__deepseek__1671406",
+    "20261115T205204__kimi__1671403"
+  ],
+  "actual_successful_provider_exits": [
+    0,
+    0,
+    0
+  ],
+  "Claude": "Absent: currentOpusfailed; refreshedcurrentSonnetnoeligible. Notaccepted; existingDeepSeekreviewprovidesfallback.",
+  "superseded_203322_reviews_not_used": true,
+  "no_legacy46_used": true,
+  "substantive_blockers": [],
+  "actual_PNG_review": "GeminiCarbonhigh,KimiK3.1Pro,DeepSeekFlashhigh inspected current4035x2910PNG",
+  "PNG_sha256": "c06ee02ca92b97a856a5dd5801ef5eae19d11476baa58e7ec17a8f9a1f9a3427"
+}

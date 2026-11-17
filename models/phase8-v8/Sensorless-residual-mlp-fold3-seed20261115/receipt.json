@@ -1,0 +1,21 @@
+{
+  "key": "Sensorless-residual-mlp-fold3-seed20261115",
+  "track": "Sensorless",
+  "architecture": "residual-mlp",
+  "fold": 3,
+  "seed": 20261115,
+  "n_fit": 142344,
+  "n_validation": 35586,
+  "parameters": 13155,
+  "epochs": 80,
+  "global_steps": 5600,
+  "elapsed_seconds": 27.48872923804447,
+  "cuda_device": "NVIDIA GeForce RTX 5080",
+  "torch": "2.10.0+cu128",
+  "lightning": "2.6.5",
+  "weight_path": "models/phase8-v8/Sensorless-residual-mlp-fold3-seed20261115/model.pt",
+  "weight_sha256": "97e9abcc387c3927d2df3f1e8ffb6ca5a80a037dea75ecf6e256c630ab4db304",
+  "prediction_path": "cache/phase8-train-arrays/Sensorless-residual-mlp-fold3-seed20261115-pred.npy",
+  "validation_role": "outer_TRAIN_OOF",
+  "Dev_used": false
+}

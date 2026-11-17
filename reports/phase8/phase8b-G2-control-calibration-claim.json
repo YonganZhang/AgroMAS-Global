@@ -1,0 +1,11 @@
+{
+  "fixed_controls": [
+    "Full-Telemetry-ExtraTrees",
+    "Sensorless-ExtraTrees",
+    "Full-Telemetry-Linear",
+    "Sensorless-Linear",
+    "Sensorless-Weather"
+  ],
+  "freeze_sha256": "7fb0194974ed99de942db9882607dcd0816f79c7fbeda96cb2c1828c7cf326ba",
+  "scope": "fixed-alpha calibration of predetermined controls only; reusedDev,notanewvalidation;noG1refit"
+}

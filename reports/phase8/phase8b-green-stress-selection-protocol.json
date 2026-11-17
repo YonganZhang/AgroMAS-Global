@@ -1,0 +1,16 @@
+{
+  "scope": "TRAIN-selected experimental economic stress,NOTformalminimumsubsidyproposal",
+  "grid": [
+    0,
+    50,
+    100,
+    150,
+    200
+  ],
+  "cap": 40,
+  "price_multiplier": 1,
+  "criterion": "firstpositivechangingatleastonefullthree-stageTRAINplanrelativeto0acrossfixedFull/Sensorlesscontrollers",
+  "if_no_change": "null;donotinventsuccessfulsubsidy",
+  "old_v6_strict_thresholds": "untouched,mostlynull;thisnewstresschoiceisnotthatcriterion",
+  "no_final_outcomes_accessed": true
+}

@@ -1,0 +1,122 @@
+{
+  "world": [
+    "netherlands_lelystad",
+    2025,
+    "idealized_high",
+    "NASA"
+  ],
+  "native_simulations": 13,
+  "unique_executed_trajectories": 13,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        60.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "7b083a1e97816f77bd851b4a0a81848be601c17a15d9cb0d10bce899971d7265"
+    },
+    {
+      "doses": [
+        0.0,
+        60.0,
+        100.0
+      ],
+      "sha256": "b678b063f899c236fd530a2e71adb4e8ddfc38cdd6d2797a20dc425769c341a2"
+    },
+    {
+      "doses": [
+        20.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "684d214c374f8435f463d1708cd89f71c97d2ee38d7799c693af54a9917b7d49"
+    },
+    {
+      "doses": [
+        0.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "7313b31c584763af66f46cf5b3715a841959fdde936c27637b8587ac2f808d31"
+    },
+    {
+      "doses": [
+        40.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "4d82e5fa770d52b3cb997db860235d7f969e62547221b8ba45bd9095b78c23c2"
+    },
+    {
+      "doses": [
+        60.0,
+        80.0,
+        40.0
+      ],
+      "sha256": "12b6029c01e459e7dca064bdd5aa334c8d92c42a334584832f458a301c8a3d7e"
+    },
+    {
+      "doses": [
+        80.0,
+        40.0,
+        60.0
+      ],
+      "sha256": "e173e35bac9f5dc1f0b8f1ceb89345ee08692e19c7c3189de47d8afa224b2cc5"
+    },
+    {
+      "doses": [
+        0.0,
+        80.0,
+        100.0
+      ],
+      "sha256": "452ed31cab3d447590b7a9cd60969e7e8f8fc574803646f315b2986d1cf7d08e"
+    },
+    {
+      "doses": [
+        40.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "03c2a4b0d354ad0735ec56ffc75cf4e310349ca13049e1fa2e2eb6f5bcd53b65"
+    },
+    {
+      "doses": [
+        80.0,
+        20.0,
+        80.0
+      ],
+      "sha256": "233bc2f85fd8466d1fa2023f2bb7a80bafc9816364a80d34fa91968ace8bd384"
+    },
+    {
+      "doses": [
+        80.0,
+        100.0,
+        0.0
+      ],
+      "sha256": "ad5db0c60d76189dd1fa6bb211cddcd481031b2adb80589c518e8979621c13de"
+    },
+    {
+      "doses": [
+        0.0,
+        100.0,
+        80.0
+      ],
+      "sha256": "d80eed54b82523f31878e5a931df0b40de2812fbe8b99b8f0b988f1ba7950851"
+    },
+    {
+      "doses": [
+        100.0,
+        100.0,
+        0.0
+      ],
+      "sha256": "2ad1d27ee5fea8dd9585dba5c8f6759ad65e6e30b79e4f6547d9d0d2a8af85d4"
+    }
+  ],
+  "complete_requested_paths": 13,
+  "cases_replayed": 77,
+  "public_prefix_nodes": 17,
+  "prefix_decisions_replayed": 253,
+  "worker": 1,
+  "cases": 90
+}

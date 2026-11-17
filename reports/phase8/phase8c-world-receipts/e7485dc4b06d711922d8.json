@@ -1,0 +1,106 @@
+{
+  "world": [
+    "netherlands_lelystad",
+    2015,
+    "Historical",
+    "NASA"
+  ],
+  "native_simulations": 11,
+  "unique_executed_trajectories": 11,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        100.0,
+        40.0,
+        80.0
+      ],
+      "sha256": "7ec0dd46f4f343e8f70a0461ba2da14254267c1b78163a912e0f3479347b7457"
+    },
+    {
+      "doses": [
+        100.0,
+        20.0,
+        100.0
+      ],
+      "sha256": "9720acc62c347286fb501dd79c6d957a786951385faedbb84b47fc0c791b64b1"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "30c867b5e57e22325ff70e3e626e6af892c25824cdf90a3e4faaec66188cbad1"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        40.0
+      ],
+      "sha256": "8ccd21db09fd4f8a109a27c7556fa47e7d4e526bb828c9b9cfbd7d9986fada94"
+    },
+    {
+      "doses": [
+        100.0,
+        100.0,
+        10.0
+      ],
+      "sha256": "a692f6bf2ad1f0e1dc142c4b83cbe32f4cb4269b4166ebfd69a7299f6fea200f"
+    },
+    {
+      "doses": [
+        60.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "8ba4ff944d6adc9748c5cedcb5d62fd53ce51adfe8802e93fe073a476d19a3b4"
+    },
+    {
+      "doses": [
+        80.0,
+        60.0,
+        80.0
+      ],
+      "sha256": "f629a922c6dc0250f2292c59641991fee93cb0e115ad579c91d91289295d0730"
+    },
+    {
+      "doses": [
+        100.0,
+        10.0,
+        100.0
+      ],
+      "sha256": "0863a807d42c5065587cec02b55aac87f0184fd9231191897678ed248c3d77a2"
+    },
+    {
+      "doses": [
+        40.0,
+        100.0,
+        80.0
+      ],
+      "sha256": "667e2f41bfb673b4de25f277145dce36953b1b77bbe5a845b3a95252e18c2442"
+    },
+    {
+      "doses": [
+        80.0,
+        100.0,
+        40.0
+      ],
+      "sha256": "e14dfe54e06bc1200e8640ae2711d7b6c43226d751404eb7fe805559997656a6"
+    },
+    {
+      "doses": [
+        100.0,
+        60.0,
+        60.0
+      ],
+      "sha256": "d2bc5c4300349423837fb47a477de6e177ecb30a024dba097a44f35247d6cfc5"
+    }
+  ],
+  "complete_requested_paths": 11,
+  "cases_replayed": 47,
+  "public_prefix_nodes": 15,
+  "prefix_decisions_replayed": 159,
+  "worker": 9,
+  "cases": 58
+}

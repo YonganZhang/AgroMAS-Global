@@ -1,0 +1,141 @@
+{
+  "world": [
+    "netherlands_lelystad",
+    2017,
+    "Historical",
+    "NASA"
+  ],
+  "native_simulations": 11,
+  "unique_native_executed_trajectories": 11,
+  "unique_executed_trajectories": 15,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        100.0,
+        40.0,
+        80.0
+      ],
+      "sha256": "aea0e6a097f3029715a547a46930c4997a2022d6465263c19c6d10154593b0fc"
+    },
+    {
+      "doses": [
+        100.0,
+        80.0,
+        40.0
+      ],
+      "sha256": "01199a469abbfb018cccb4204f0d8d473f9f23f8b756fa7940bd1d0722e3cad3"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "5e4d641693558e32203555b5229ef8d9b36118e6b35d46668b5d2d925dec94aa"
+    },
+    {
+      "doses": [
+        100.0,
+        100.0,
+        10.0
+      ],
+      "sha256": "18d57560484e69774f4ac85a597cc6855aad73cff0e408687b24146b38f7701d"
+    },
+    {
+      "doses": [
+        100.0,
+        20.0,
+        100.0
+      ],
+      "sha256": "b041a61b520f16715e5c9783b0641c3c8f65ca7d3c513fbe097ecf5d49e1495f"
+    },
+    {
+      "doses": [
+        10.0,
+        100.0,
+        100.0
+      ],
+      "sha256": "90e09c7ffea43be148be67b1dca896d7a0918cb527b3605f936a94ebc36af799"
+    },
+    {
+      "doses": [
+        80.0,
+        60.0,
+        80.0
+      ],
+      "sha256": "61da90a0c818ad2bccedc4f4df7ca1e1b700bb2480f989fad9b61c2df1d6c5ea"
+    },
+    {
+      "doses": [
+        100.0,
+        60.0,
+        60.0
+      ],
+      "sha256": "6ec738f64961a8bb33a796e381aefe2e5a8cb1f74a5857c70c276cd7d86892e4"
+    },
+    {
+      "doses": [
+        40.0,
+        80.0,
+        100.0
+      ],
+      "sha256": "309016c0e87fc02a0ec6057eddd3b49f934c7ac47ce096273c04dbb97b2133b0"
+    },
+    {
+      "doses": [
+        100.0,
+        100.0,
+        20.0
+      ],
+      "sha256": "814407f574e0b8502089f981cc318e0786bcc92ae06b2b1ec2e624d812170568"
+    },
+    {
+      "doses": [
+        20.0,
+        100.0,
+        100.0
+      ],
+      "sha256": "ac8ce1ca16fc59e5caf7aab5a29e2c09554d0df9aca3f9ffe43d421bc7474a5a"
+    },
+    {
+      "doses": [
+        100.0,
+        20.0,
+        80.0
+      ],
+      "sha256": "ee84948e70a564c299d5f73c1bd599913261f1ecf7db90a6984797479abf046a"
+    },
+    {
+      "doses": [
+        60.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "f35e1f21517f51498f95ce6891f1827cd21f614ba9033023bbf94e3e3f0ea2b0"
+    },
+    {
+      "doses": [
+        40.0,
+        100.0,
+        60.0
+      ],
+      "sha256": "c0613c722a127d9e02f05321aee89a023ccf1293e6cb757c69fb8343fd0d507b"
+    },
+    {
+      "doses": [
+        40.0,
+        100.0,
+        80.0
+      ],
+      "sha256": "aa9350603e9bc1f2aa55920021171f83829dea45d4082a25943efd170caeb94b"
+    }
+  ],
+  "complete_requested_paths": 15,
+  "cases_replayed": 55,
+  "public_prefix_nodes": 15,
+  "prefix_decisions_replayed": 183,
+  "archived_records_verified": 58,
+  "archived_requested_paths": 10,
+  "worker": 13,
+  "cases": 66
+}

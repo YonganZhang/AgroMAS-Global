@@ -1,0 +1,12 @@
+{
+  "job_id": "20261116T013503__gemini__2615518",
+  "process_exit_code": 0,
+  "complete": true,
+  "error_class": "NONE",
+  "proof": [
+    "2026-11-16T01:50:37+08:00\t934\tgemini\tmodel_attempt_ok\tmodel=gemini-4-carbon-high rc=0",
+    "2026-11-16T01:50:38+08:00\t935\tgemini\tmodel_end\trc=0",
+    "2026-11-16T01:50:38+08:00\t935\tgemini\tcomplete_marker_found\tresult.md complete"
+  ],
+  "original_result_sha256": "0b1b8e55511d4f7e394acf4684bb3df560a97f609140ceea5f357a318e4c04fe"
+}

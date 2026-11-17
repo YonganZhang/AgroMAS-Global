@@ -1,0 +1,2877 @@
+{
+  "total_cases": 18268,
+  "new_cases": 18268,
+  "reused_cases": 0,
+  "worlds_completed": 15,
+  "unique_native_trajectories_simulated": 176,
+  "native_simulations_including_repeated_executed_triples": 176,
+  "trajectory_cache_hits": 1174,
+  "world_receipts": [
+    {
+      "world": [
+        "australia_wa_perth",
+        2015,
+        "idealized_mid",
+        "NASA"
+      ],
+      "native_simulations": 12,
+      "unique_native_executed_trajectories": 12,
+      "unique_executed_trajectories": 21,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            20.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "a9fb14a7d5144addaebf184917047d358904a937d66216acb2c9e194ac578cad"
+        },
+        {
+          "doses": [
+            80.0,
+            0.0,
+            60.0
+          ],
+          "sha256": "754fb59ac731dfaeb13aa2144b57b8db4e8fb4e5ae81df91ca3e3017325dfe8d"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            80.0
+          ],
+          "sha256": "aa82bd4fd59adf85c5fa8693013bef5fb28d9292c74c758a587742a74b57cc14"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "ba4d055225de1adb5d16a043a1e060eabd2b7c55f86ae77cc92b301166c3662b"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "7b122a260ed7b880274d3736ee9aa4891c68da2b2ed6c6846519319581ef3ccf"
+        },
+        {
+          "doses": [
+            20.0,
+            80.0,
+            40.0
+          ],
+          "sha256": "b72df66a5d3070cdcd6e0c5199fd424bf9016f96f07a57f18cff1a60b8e63130"
+        },
+        {
+          "doses": [
+            80.0,
+            60.0,
+            0.0
+          ],
+          "sha256": "ddb797fef20359d827d3d8c730c1a85fa3ec0f46765c7ab3d8ec6fb1b6a457b3"
+        },
+        {
+          "doses": [
+            80.0,
+            40.0,
+            20.0
+          ],
+          "sha256": "5e67902e427267a44719e7c45c094d3e49f4f818ec047e5f11427ef77e0ed209"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            80.0
+          ],
+          "sha256": "098c52cae5f90d4a522f1c254209009d206b14a59911d2106763ec1f5185380a"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "6439b1e3dd25fb58f183d0396a8fa6f92c06dc04870d30127d8406a678e208ca"
+        },
+        {
+          "doses": [
+            20.0,
+            20.0,
+            100.0
+          ],
+          "sha256": "8d811d66f2284e0526a03f8dc173ad0462cfc4164a0a443b9d5e4c99f9f32474"
+        },
+        {
+          "doses": [
+            80.0,
+            60.0,
+            10.0
+          ],
+          "sha256": "e33d6d11a200dd5bfa9b5572145315509d4b407cebc2cde84c74406a190f81c8"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "2eaad01922bb9a92ae7579bf100b49ec955b614a4122a95d0ec66a384b5cd382"
+        },
+        {
+          "doses": [
+            40.0,
+            60.0,
+            40.0
+          ],
+          "sha256": "48a78dea8a5b297c6c225a819038e9d0ad0108297b638044d7343cefc2d10cfd"
+        },
+        {
+          "doses": [
+            60.0,
+            60.0,
+            20.0
+          ],
+          "sha256": "c7458c74aa60696d2a6ddaf0637c6d904e291b92bc76e66af682aafeeed6aacf"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            40.0
+          ],
+          "sha256": "c32ae4752ad2ba6f817f2dd3c8bf04fd3ca9165fc6152929740c495b02b9677c"
+        },
+        {
+          "doses": [
+            100.0,
+            0.0,
+            40.0
+          ],
+          "sha256": "1c4e653095b5699279fbcfbaa10913a9d6c940571d37cd142f4c7e8bc073bc75"
+        },
+        {
+          "doses": [
+            40.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "6438b34d53799c9847f299ca73c3a03c42c2a7977b85ad19c7b77a02f1b925cc"
+        },
+        {
+          "doses": [
+            10.0,
+            80.0,
+            60.0
+          ],
+          "sha256": "bb18cc17677ded94d776168f42f86d6eb66420854fab812169d26d5fe673270b"
+        },
+        {
+          "doses": [
+            40.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "5f3711eed2f1e6e0d79f66490d6c57c8cd5e9e643b05efd16a2c13935bd25303"
+        },
+        {
+          "doses": [
+            80.0,
+            0.0,
+            80.0
+          ],
+          "sha256": "5153a3d19ec8a3cf44ce8c90938498dfaeab119cabbc6450362e614eb0b6b0fd"
+        }
+      ],
+      "complete_requested_paths": 21,
+      "cases_replayed": 78,
+      "public_prefix_nodes": 18,
+      "prefix_decisions_replayed": 252,
+      "archived_records_verified": 90,
+      "archived_requested_paths": 14,
+      "worker": 2,
+      "cases": 90
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2017,
+        "idealized_high",
+        "NASA"
+      ],
+      "native_simulations": 11,
+      "unique_native_executed_trajectories": 11,
+      "unique_executed_trajectories": 19,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            60.0,
+            0.0,
+            40.0
+          ],
+          "sha256": "eef625e5e4ef6f6215c19d43aaaab5df0ba03bf233c3effa13899e8ffb3eda5f"
+        },
+        {
+          "doses": [
+            0.0,
+            20.0,
+            80.0
+          ],
+          "sha256": "51a27ec0ee376e9214d5a54129675999115c5cd4c57db6fd8ac21b41d8846776"
+        },
+        {
+          "doses": [
+            0.0,
+            0.0,
+            80.0
+          ],
+          "sha256": "d98234f72c82e9f9626f6f79b45c1c50dc9d3af0618d34d3bce3c64c66331a4b"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            40.0
+          ],
+          "sha256": "7843d0d7e12de06ad6d057ceebd0f32dafba602d3b65bc430a13dedd27d55cc9"
+        },
+        {
+          "doses": [
+            0.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "379a37ec7ef86f6335618554e9ca0025ff1de5cbf8ebefbc6a29f880588f6d22"
+        },
+        {
+          "doses": [
+            0.0,
+            0.0,
+            100.0
+          ],
+          "sha256": "5ae480566dcca985e8e667493bfeeee08cce279d658d7ad1faf940087c96b44a"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "9d015b2dcb28c98755f98d27d165eaa8f652e4041c6ba34c8b6dce2e643fc077"
+        },
+        {
+          "doses": [
+            60.0,
+            20.0,
+            20.0
+          ],
+          "sha256": "db6c08135d68a2120e9983ff14668df39ec8cd3b7be9e65d9e19596c9762ac01"
+        },
+        {
+          "doses": [
+            80.0,
+            0.0,
+            20.0
+          ],
+          "sha256": "9b3417d52eff1c63be8f1409424f09733fadc10ad3005ccaa75d325a74442410"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            10.0
+          ],
+          "sha256": "d9d4583172d4c0e9d05cfd073fb85e43b5016f172cfc2d356470146303c42e48"
+        },
+        {
+          "doses": [
+            10.0,
+            80.0,
+            10.0
+          ],
+          "sha256": "eb9c954fef2fedd7f15534793c8cfa2183427a0a36877dd957610d2591f4a515"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "41235abcbc97a11caf81053cb0addd8a17c6c807797be140bef0bd53c17ee77a"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "98b7e8a8782b0ba5c2def0e091fe7f10e53e2a9da6fc899332b868e0917e6e5a"
+        },
+        {
+          "doses": [
+            10.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "e19796aa225f1ba7c4c7d057201c54e6e8e1ef7df5c51b609fd78d37b25f53ee"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            60.0
+          ],
+          "sha256": "4441d12f1cf202c8de00baad99d51edfb28269c888a0b53b3c2d6866b7c313e7"
+        },
+        {
+          "doses": [
+            20.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "b4b5be63818db95103ec43da7ef25496b1b122e2691d9c46812f3400a5469707"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "339842b996705d8570a0c49a45766e5cfd47d9356195f6eb07e9a89f624b87de"
+        },
+        {
+          "doses": [
+            10.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "2574fea6b12195b86b2ced1ae03c4db55f8f8346378809d98e1e7e00e96a208e"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            0.0
+          ],
+          "sha256": "a5bc7f0d8c43c19a45c09a3f4838d01d29300e47921e33765fec63420a070a66"
+        }
+      ],
+      "complete_requested_paths": 19,
+      "cases_replayed": 79,
+      "public_prefix_nodes": 13,
+      "prefix_decisions_replayed": 257,
+      "archived_records_verified": 90,
+      "archived_requested_paths": 10,
+      "worker": 7,
+      "cases": 90
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2020,
+        "idealized_mid",
+        "NASA"
+      ],
+      "native_simulations": 10,
+      "unique_native_executed_trajectories": 10,
+      "unique_executed_trajectories": 22,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            100.0,
+            0.0,
+            20.0
+          ],
+          "sha256": "c84cb05123a3e0f5280a0b3346ca65a08a3c34a739c5498cb5d5b06b94a36e2d"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            40.0
+          ],
+          "sha256": "c1c3a33a3334787c2fbd409a2c5173a1aedeb1d36cbe80a9e6851b292cdc5535"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            80.0
+          ],
+          "sha256": "70aa826bbb5f325d73b83e22e64228df7d9835445353d9e71252393477ce747b"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "9834fb1bb915426bde396e2e6d1f2248f87b6957691d35466946bcba657c7b29"
+        },
+        {
+          "doses": [
+            80.0,
+            20.0,
+            20.0
+          ],
+          "sha256": "d8b82d2bd327d78bf396a51762e353821b95693f44955db5e1e317a9eaec6ad5"
+        },
+        {
+          "doses": [
+            60.0,
+            10.0,
+            60.0
+          ],
+          "sha256": "ee127a78af68a9d18342b5c44c43d3f835bd7636ae1d9b36cd93902276381719"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "fde44f41472d05252e11f60563c4159337a0a779c0bd0e8e1ba2c4cd2db6f569"
+        },
+        {
+          "doses": [
+            40.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "421301bbb529ed098c7dbc03913ccde4384d1c1641ccf022d45f61c898206ca4"
+        },
+        {
+          "doses": [
+            60.0,
+            60.0,
+            10.0
+          ],
+          "sha256": "72b0e002556322f2b8039c7b8ac61a2a06a690567bcd610de91f261bd4b87504"
+        },
+        {
+          "doses": [
+            60.0,
+            80.0,
+            0.0
+          ],
+          "sha256": "5d79743a1a2fb46d4ea5cf0ed28b1c118ac49e602af2d668a958c6d0912ff8ed"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            40.0
+          ],
+          "sha256": "f6e65b9e639a1f17934287fe612f9a957289116a21a5653625be00ebc8440a5a"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            80.0
+          ],
+          "sha256": "5c66125f14a7a98cc048c68a227e3f6d5dec9fe2db2025091937113775d5c556"
+        },
+        {
+          "doses": [
+            20.0,
+            10.0,
+            100.0
+          ],
+          "sha256": "27ea1c2c4f571b94e08ac177a96ae046e78bd22821ae34c653a5e3639e8a3dbe"
+        },
+        {
+          "doses": [
+            40.0,
+            100.0,
+            0.0
+          ],
+          "sha256": "51480eed17f05fda4b294cebf0618adbce519408275d686c01e726574634b199"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "490cbbe41ed1d2e17bc49a31a057607ace2f1a35a9e845f199cd0a4ea1f1a468"
+        },
+        {
+          "doses": [
+            10.0,
+            60.0,
+            60.0
+          ],
+          "sha256": "eed63c05ff8ac89e8a206a90ef631c949bc73f65524e648e73da527b32251d3b"
+        },
+        {
+          "doses": [
+            0.0,
+            20.0,
+            100.0
+          ],
+          "sha256": "5bc6f2d6512d66b440967ca41e3f314422d44986506ee439c8fdf31c3d8524c3"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            60.0
+          ],
+          "sha256": "8201db33c5a73d6a669bd0c68a7f76ad4b702f88e33a333c9ceeb36f9b2dd963"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "391fe51c849e1a926d5defc78fca60464c703b275c0eb82b0c920b03a07b018a"
+        },
+        {
+          "doses": [
+            100.0,
+            20.0,
+            10.0
+          ],
+          "sha256": "152f116ef332c950022067b37d56f24f84e6fd6041ffe3b4691a4f0c0fc87d57"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "38fe8c77695c4105d24fc3f4fe09cca62426e162c681b1b19d0deaf0448aafbd"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            40.0
+          ],
+          "sha256": "74f9442627d126c1744a9f58085066da0919a80d717bef5d774008e7f14b6ab0"
+        }
+      ],
+      "complete_requested_paths": 22,
+      "cases_replayed": 80,
+      "public_prefix_nodes": 13,
+      "prefix_decisions_replayed": 257,
+      "archived_records_verified": 90,
+      "archived_requested_paths": 14,
+      "worker": 1,
+      "cases": 90
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2019,
+        "idealized_high",
+        "NASA"
+      ],
+      "native_simulations": 11,
+      "unique_native_executed_trajectories": 11,
+      "unique_executed_trajectories": 20,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            0.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "49ec9cbcd14c8a19ebbc6061ba2835ad3371b78d390f356809c259ae6031f56d"
+        },
+        {
+          "doses": [
+            0.0,
+            0.0,
+            100.0
+          ],
+          "sha256": "4d10de84008f18852ac56d9702aae0f95651504e11e9f975a18ae040f5c71354"
+        },
+        {
+          "doses": [
+            0.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "bb286157a6e9a05ff07b97f75331e5ea6e350defe01be2fb39fcedfe54ee1997"
+        },
+        {
+          "doses": [
+            0.0,
+            20.0,
+            80.0
+          ],
+          "sha256": "092e3bb997cfde0f123287b22396ff03e49ccf9b71ceb038499ce1c5300fbc18"
+        },
+        {
+          "doses": [
+            40.0,
+            0.0,
+            60.0
+          ],
+          "sha256": "76950e53c22896114712af2dd6dfdda4813509d0eb2e55255979378afaa855f8"
+        },
+        {
+          "doses": [
+            60.0,
+            0.0,
+            40.0
+          ],
+          "sha256": "7be3e38b7cb07af507f25774284db7546af5462259b806407d4467d5aa7d8757"
+        },
+        {
+          "doses": [
+            10.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "4de24e2b50344acb59390e3f5fc5019ec8cd371b96ac22de8ba14389ade694af"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            60.0
+          ],
+          "sha256": "af2ad472977e8e833e8bb8a5d28a3c67459ef20912c2c3d2e708627ba04c7d76"
+        },
+        {
+          "doses": [
+            80.0,
+            20.0,
+            0.0
+          ],
+          "sha256": "6efecab1f0bca3de2e16209b7cf3f29e40a61260318eb07b6c1d89a14b1d15e0"
+        },
+        {
+          "doses": [
+            60.0,
+            20.0,
+            20.0
+          ],
+          "sha256": "9a185244181746552c48c9eeacc9ed422c796a2c82850ee0aa10ff0c8784d9f6"
+        },
+        {
+          "doses": [
+            100.0,
+            0.0,
+            0.0
+          ],
+          "sha256": "70c0fc6e1a1cc2913a947d58396fc896351934fcaf66b469d5f1194c851bb813"
+        },
+        {
+          "doses": [
+            40.0,
+            40.0,
+            20.0
+          ],
+          "sha256": "d3db81a0d8427ae33e680533d319d9eef02326de9923a760409a267e263348b5"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            0.0
+          ],
+          "sha256": "c13efffa7935360dd6d7db061e247b4c42a81da884a04847e82eed660ac80f76"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "3d76124ac56f7706165f53bc18c044a93fa4c6fd2caabc132a1de2362d07f18c"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "e2b28a33732096c24241bff5ebc0282610a8e7be521e20fc2f65618cb3c90bc3"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            0.0
+          ],
+          "sha256": "d2290352de131521bd9173629ec1a42c9122b150f3ba45522ee134df214e76da"
+        },
+        {
+          "doses": [
+            100.0,
+            10.0,
+            0.0
+          ],
+          "sha256": "b7c7cd6d39f36f715a7a441168d6f8c12bbd7b92f02e31a5b002af73f01b8890"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "5dd9289b34fedfdbc35ed97f33dc8d090c1268c23d3078f855271707a65175a9"
+        },
+        {
+          "doses": [
+            10.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "4cc0b786033a696dc3180455af37aad1f745aabeb7e08b88e71d7ebbc7cd4e38"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            60.0
+          ],
+          "sha256": "1d07e28c3bf66174d2aec1965323deaf120ae812b4d5fb8d0f32480c145f723f"
+        }
+      ],
+      "complete_requested_paths": 20,
+      "cases_replayed": 79,
+      "public_prefix_nodes": 13,
+      "prefix_decisions_replayed": 257,
+      "archived_records_verified": 90,
+      "archived_requested_paths": 12,
+      "worker": 13,
+      "cases": 90
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2016,
+        "idealized_mid",
+        "NASA"
+      ],
+      "native_simulations": 10,
+      "unique_native_executed_trajectories": 10,
+      "unique_executed_trajectories": 17,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            0.0,
+            100.0,
+            40.0
+          ],
+          "sha256": "4b516dacc72d937b2b044596261d5e61453882edc96c0e8584e80a4be565f595"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            80.0
+          ],
+          "sha256": "f5b46408ff00006b6036a7898380b4647269265e134a08ad89c846eb9ce66c5a"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            100.0
+          ],
+          "sha256": "4b758c5ab58bcf1e2a3d6ccdd992395ae4cf934f925a75d3b5bdee4f7ffd9a19"
+        },
+        {
+          "doses": [
+            100.0,
+            10.0,
+            20.0
+          ],
+          "sha256": "e71b13ad4287e992359a4dc46d459f144b268460bed787599a14bbe2c08fa667"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            80.0
+          ],
+          "sha256": "be8ba4c59c4ef6d725c1c5ee2a61a07ac6340f3fee03e0a4a9a996569dd4374d"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            20.0
+          ],
+          "sha256": "81e6a72006031005c3b9661601306495ab313e0ec204906c54fffad0ed9836d6"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            40.0
+          ],
+          "sha256": "39b9bd3065daaf072c6234f31b6371c06a18992fc37dc4123a11c22586547c9a"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            100.0
+          ],
+          "sha256": "b07c74d3a020b3c12b76860f742081dcdc67a2501b9fd99f4ab29bdfccee6394"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            60.0
+          ],
+          "sha256": "690b2748605abf24021fba6959c0190bf135b23206e89ddc70dffb07493e8cdd"
+        },
+        {
+          "doses": [
+            80.0,
+            0.0,
+            60.0
+          ],
+          "sha256": "b96e26d80ba73a2f3e8a191d658c34f61c234e5bfda063625a1fe89492e8ecb0"
+        },
+        {
+          "doses": [
+            60.0,
+            80.0,
+            10.0
+          ],
+          "sha256": "583dd6bdb38b29f3b1805932ef5f197166e412fc2534cb225ac0cfac4cfddfeb"
+        },
+        {
+          "doses": [
+            10.0,
+            80.0,
+            80.0
+          ],
+          "sha256": "4a56a6f32e940c6989f00743977d32da04fdeb138eda226a7edfd70fbc513da6"
+        },
+        {
+          "doses": [
+            10.0,
+            60.0,
+            80.0
+          ],
+          "sha256": "fda0b3c2c6dd515639aea711c48b990c586e25f0a63bdb213e6b8196d35355f6"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "ff86a93ec563ce2e792d5fc25c55f3e4ea3f19bdacaa7b7665a55409c5be75f0"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            40.0
+          ],
+          "sha256": "2a3171c762869aadc05ae97515975b7ef172d3877019e8a2f6f9fbca8c53653b"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            40.0
+          ],
+          "sha256": "f3c987f7fd70652cc8ad6748e60a9a087f448f959a5f931dc2b26847f170e0d0"
+        },
+        {
+          "doses": [
+            40.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "06181db1187a673d464eacfa7709b6e890fa91a82fdba167a044b45ecc69e6b0"
+        }
+      ],
+      "complete_requested_paths": 17,
+      "cases_replayed": 80,
+      "public_prefix_nodes": 13,
+      "prefix_decisions_replayed": 257,
+      "archived_records_verified": 90,
+      "archived_requested_paths": 13,
+      "worker": 5,
+      "cases": 90
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2022,
+        "idealized_mid",
+        "NASA"
+      ],
+      "native_simulations": 11,
+      "unique_native_executed_trajectories": 11,
+      "unique_executed_trajectories": 20,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            100.0,
+            10.0,
+            20.0
+          ],
+          "sha256": "f35838aae57f487f910881b1fd2b81946bc5710a99772e1ed10a27bf2151d5d6"
+        },
+        {
+          "doses": [
+            80.0,
+            0.0,
+            40.0
+          ],
+          "sha256": "422dba3ec91cf1ec6d720f51a87dbe55478b008a08812dfef6fe076aa3cf8cea"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            80.0
+          ],
+          "sha256": "72fe405ac3344677ce9a6e3430fd16e9db0560b001d9cfba1f56b52c021191de"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "90f6a019919adf8bc310413cd53e9980106d781c1bf77e35b499b967b1ffd974"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "586509501a9db589b984a331cc9bce1ffa1d8d0b095bc8ea3dd57899ec1bd7b6"
+        },
+        {
+          "doses": [
+            80.0,
+            0.0,
+            10.0
+          ],
+          "sha256": "e85208831e23f09d3a6a58d6ab818cc0ba41643a33d95eb356e0f778f391c85d"
+        },
+        {
+          "doses": [
+            80.0,
+            40.0,
+            10.0
+          ],
+          "sha256": "fe475d407fa5414f568fbf7923502189e0889f980f798001f34bd0e7f674c7b3"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "318bbbcc5a140f0d7b082b9435bf505b6e3859683149d965c360d924026d5e8c"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            40.0
+          ],
+          "sha256": "84109ca97e34ef042b4886bce894dfe1258049dce59248924f6ac01f7036ff87"
+        },
+        {
+          "doses": [
+            10.0,
+            10.0,
+            100.0
+          ],
+          "sha256": "17353c0fb4494cd108eb2bb4ad4dd8edb3ac4976c588a02d2f64041fce01a538"
+        },
+        {
+          "doses": [
+            100.0,
+            0.0,
+            40.0
+          ],
+          "sha256": "8663ddcc5de7c9ade0d240556e3043c5752d7df598f74ec4726706081614031a"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            60.0
+          ],
+          "sha256": "61844aa6991cbc54c5368d6be7aee026dff66ba68ae4feb314e616e8397a148a"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            80.0
+          ],
+          "sha256": "b37602dd2ebf2b4c0f28bd1946449542d3fd1b32c22cdf69d263bda1ad78f944"
+        },
+        {
+          "doses": [
+            100.0,
+            20.0,
+            10.0
+          ],
+          "sha256": "6894ac76a04c0d46bf48535467ec85a9ec081782123438b0dcdccd53e970ae46"
+        },
+        {
+          "doses": [
+            80.0,
+            0.0,
+            0.0
+          ],
+          "sha256": "6a5f252dda25c497de333c5e224a7d89a93f6afa81e1df641b5052996b58f689"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "9db2ca57ef9541c93b5b2a6562fbff68b2379a8c08a1d09b53d03ae7759e3921"
+        },
+        {
+          "doses": [
+            80.0,
+            0.0,
+            60.0
+          ],
+          "sha256": "c15f941a31f4fb60e152faed744a42a3e9a1720dae95a2cfbd4f237b643e571c"
+        },
+        {
+          "doses": [
+            100.0,
+            20.0,
+            20.0
+          ],
+          "sha256": "e25dc063e4c15f74178ad687341675c999c0df75fbcd9ee9eeb8ddeb0e9d2b26"
+        },
+        {
+          "doses": [
+            40.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "67a67fc5ef9acb988ef506e30c9e41d0b28d17e5ecba0a49a5e60d48e414b7c9"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            40.0
+          ],
+          "sha256": "08d271229371f7d4fa10e563f54ed92ca8194d2613b43a2e57b90595f98492a2"
+        }
+      ],
+      "complete_requested_paths": 20,
+      "cases_replayed": 79,
+      "public_prefix_nodes": 15,
+      "prefix_decisions_replayed": 255,
+      "archived_records_verified": 90,
+      "archived_requested_paths": 14,
+      "worker": 7,
+      "cases": 90
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2018,
+        "idealized_mid",
+        "NASA"
+      ],
+      "native_simulations": 10,
+      "unique_native_executed_trajectories": 10,
+      "unique_executed_trajectories": 19,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            0.0,
+            20.0,
+            100.0
+          ],
+          "sha256": "4197a75adf405ddf5cc2973f9da1b628727d727615e9198389a8133de4079059"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            20.0
+          ],
+          "sha256": "83e19ab6991777aca65d09c107749752480cbbf1d8763c98fbdf76ec6ce7b33c"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "531fa11dd9ee9a9f34fd35ac849a0d4c403cb3878e38f7d3ef43e7422c7e642c"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            80.0
+          ],
+          "sha256": "cf9948a9587cdbc410199217f6f61ac4e7e36a404474039a9c5122b17defb538"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "53d290dd0b9a37de96f1a7d27ab7c32c91b070066113de70d0509afd84bb856d"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            40.0
+          ],
+          "sha256": "7846e7226ec899626c7347ba6e2df16f146ec0eabe1f7deadee595f3cf630d16"
+        },
+        {
+          "doses": [
+            100.0,
+            10.0,
+            10.0
+          ],
+          "sha256": "9aff6f900ad78546bba10c42231b77ada2b5a8fe47387167b60ef947b6a66673"
+        },
+        {
+          "doses": [
+            20.0,
+            60.0,
+            60.0
+          ],
+          "sha256": "75890de572d78d44443a3a5eaac3152ed6dff6c333d11bc8a1812ba62bccfe94"
+        },
+        {
+          "doses": [
+            20.0,
+            10.0,
+            100.0
+          ],
+          "sha256": "c114377f0b9dc1d519444a14545960fee2df0b08519dce8a0372637ea37a8970"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            80.0
+          ],
+          "sha256": "7c637aff2b54d8e8c5590791e3cd3d0255c82026bfaa249e0d1339f60982b52c"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            40.0
+          ],
+          "sha256": "e7edaa3da59004ee61fc5ec9a0789e50dca0c4495bd0d4dbf279396e6e8e64fe"
+        },
+        {
+          "doses": [
+            40.0,
+            20.0,
+            80.0
+          ],
+          "sha256": "e49d46ef1db27d7e323e1e1a5f10b8a58d66310430844abe1bcb779622b4fcbe"
+        },
+        {
+          "doses": [
+            40.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "6225d0519b5827f1ba0534c7d94b2437c43efc598f22b8886c35be96bde16df9"
+        },
+        {
+          "doses": [
+            40.0,
+            80.0,
+            10.0
+          ],
+          "sha256": "519d2d93e10907eb8b25bd1fb59d2c3acc4ad0c00bc78552142b7bf487f4ca42"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "01ffda264028a52d235ef2cb904ea46292bc2eb458aa279a587617c7bf49f91a"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "fbb56e732cd0530fb8a06eb6a62bc42b4f3805ff7b388ef59e32b9bcc66e306c"
+        },
+        {
+          "doses": [
+            40.0,
+            0.0,
+            100.0
+          ],
+          "sha256": "6462f1fb148e1c692563c3a01fc69e5af0c18d17d2d2682e6d0616c5edbec2b6"
+        },
+        {
+          "doses": [
+            40.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "8a911e6f1eb9822be847086386b84cbfcf28bbeead7a4fd2b481285085fce87c"
+        },
+        {
+          "doses": [
+            40.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "75f24cb31d30322c0cdd795265b1efb449832f321d49ab91d4a1d81d7e55e3d8"
+        }
+      ],
+      "complete_requested_paths": 19,
+      "cases_replayed": 80,
+      "public_prefix_nodes": 15,
+      "prefix_decisions_replayed": 255,
+      "archived_records_verified": 90,
+      "archived_requested_paths": 13,
+      "worker": 11,
+      "cases": 90
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2018,
+        "idealized_high",
+        "NASA"
+      ],
+      "native_simulations": 11,
+      "unique_native_executed_trajectories": 11,
+      "unique_executed_trajectories": 21,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            40.0,
+            40.0,
+            20.0
+          ],
+          "sha256": "918eb75bd0f097233344f10cfd06ff1bf199415cfcbc8c82d08b22a55f143c7e"
+        },
+        {
+          "doses": [
+            0.0,
+            20.0,
+            80.0
+          ],
+          "sha256": "8861bf54e0fc6726056859b9f5b723b6d2c17a787dce5058609778cdaa12a06f"
+        },
+        {
+          "doses": [
+            0.0,
+            0.0,
+            80.0
+          ],
+          "sha256": "5291760d7d8bcb16d3ad466cc128d3a85432996c5d49161472689a966fef8520"
+        },
+        {
+          "doses": [
+            60.0,
+            20.0,
+            20.0
+          ],
+          "sha256": "3cd280b3c3ecd68d6795aeb55e3a6aa7d094f6887a1071a04df7c1803847c5e8"
+        },
+        {
+          "doses": [
+            10.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "f2a3d3606ea8600c3a835501f72c0f7b9aaf696b08fd7128ec4395bedb8acaf8"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "84f60beddd57b6619081b6cee66310bd418786f0af86e7c57e4dc3819f8ab640"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "052ade8800b4f1207f9d2baeaad27b6d6295f6620684e96ee8b261e08dfef3c6"
+        },
+        {
+          "doses": [
+            0.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "5d679d432de72ce29c85a7bcaa9b642c1c852d9d59310048c5ddf1da40c5b53f"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            40.0
+          ],
+          "sha256": "21b0f304b14fce1461bec6f3c93aaa759d72cdc1c8486d87e2fcfb7d71701258"
+        },
+        {
+          "doses": [
+            100.0,
+            0.0,
+            0.0
+          ],
+          "sha256": "aa98033ef91a6e02230f533801efb1de6feeba1112ca0e1a2553851876ee1123"
+        },
+        {
+          "doses": [
+            20.0,
+            0.0,
+            80.0
+          ],
+          "sha256": "eca2e75812137459541d42793f7d8a312aacbea0333b62a08e953bfb15146c17"
+        },
+        {
+          "doses": [
+            60.0,
+            0.0,
+            40.0
+          ],
+          "sha256": "f6db7677d5a7cdb09dc768684e45ad668fe9b18efb095bc3394e9833152d78f3"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            20.0
+          ],
+          "sha256": "6cb6f563e8d694d0ff0e701ffb2a80ce0066743735b48ae2c41e06d390fb991d"
+        },
+        {
+          "doses": [
+            80.0,
+            0.0,
+            20.0
+          ],
+          "sha256": "e6a29330187f074642e947dfbe02352fd791bea7f3d38aba0c1a0b8518a52b8c"
+        },
+        {
+          "doses": [
+            10.0,
+            80.0,
+            10.0
+          ],
+          "sha256": "dbc4834f7220f116d94d9798004bd1df45ff6ffe93c47f18da57a2a94fdd99d2"
+        },
+        {
+          "doses": [
+            10.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "ef09bdf218f2035eea00d6566468f6719992ded224185512ad2bc795fd1605f5"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "6311ef27b9bbada05b8ff411ce6b187d36fd50370d0327780991183c3df1c762"
+        },
+        {
+          "doses": [
+            0.0,
+            10.0,
+            100.0
+          ],
+          "sha256": "c4d2d0a37ae92c0d7c8419234d166ce571061d08de862b37da46346fdb5f3318"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "82057c9c6462a8ab24cce9d1a9ad2cd093a06c7fd078db2f709904b44328a036"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            40.0
+          ],
+          "sha256": "004604482a1a2cca98dc3d7e40804ae39c3eae5a690c6dc01d5ebb74ebb75f32"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            0.0
+          ],
+          "sha256": "24e591ce3194520d2137dd20019e763e495a3509ecab233fca88069e6b7525c6"
+        }
+      ],
+      "complete_requested_paths": 21,
+      "cases_replayed": 79,
+      "public_prefix_nodes": 12,
+      "prefix_decisions_replayed": 258,
+      "archived_records_verified": 90,
+      "archived_requested_paths": 14,
+      "worker": 10,
+      "cases": 90
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2015,
+        "idealized_high",
+        "NASA"
+      ],
+      "native_simulations": 14,
+      "unique_native_executed_trajectories": 14,
+      "unique_executed_trajectories": 28,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            60.0,
+            10.0,
+            40.0
+          ],
+          "sha256": "d7a586d99bf20e797ec7845b07969f3375241e230f12524dd2100d9b5337c596"
+        },
+        {
+          "doses": [
+            0.0,
+            20.0,
+            100.0
+          ],
+          "sha256": "987e3aefa176ba6af7e54839d784023036822906595bfc69f1a92c0090cb6932"
+        },
+        {
+          "doses": [
+            0.0,
+            20.0,
+            80.0
+          ],
+          "sha256": "16f8f957c72b53523364a0b314ac1dc7b105f1d2baedf53172761cdda41913fc"
+        },
+        {
+          "doses": [
+            0.0,
+            0.0,
+            80.0
+          ],
+          "sha256": "9cee677b1eef8e8c6e222cd8493e85229a63499023f53944c774842ac9c26e2f"
+        },
+        {
+          "doses": [
+            60.0,
+            20.0,
+            20.0
+          ],
+          "sha256": "25bfcc3e25889cb40102ef80ce3f2e29ca2ee48a1d2fd04cee290216feedc1f6"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            60.0
+          ],
+          "sha256": "4c3638c1596ea2762c1ce0576201c482a04897f873a6d0697fed1a58e4d8c53b"
+        },
+        {
+          "doses": [
+            0.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "777fe6636f65f59e7dbd1ca04df1e82dcad2bf2095d2795d4c586b5119f6e7f7"
+        },
+        {
+          "doses": [
+            40.0,
+            0.0,
+            60.0
+          ],
+          "sha256": "f9f621d274c3ae1d00ca9d8434d4d7ea7c7cf8f40a6e512fbfc7125f9279d36e"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "925e46dffc4781337f5e28ee5ce75b4dddbd2365ba8db2091cd7a8945573bb79"
+        },
+        {
+          "doses": [
+            60.0,
+            0.0,
+            40.0
+          ],
+          "sha256": "09d20dde6438c9717aee831e31863c1485e77a83c12404e2db78b09a8eadd5db"
+        },
+        {
+          "doses": [
+            20.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "3947ffbb961e606052c039a6ad52714f8710cb5ea16b8de011303e7b7a4bf61b"
+        },
+        {
+          "doses": [
+            100.0,
+            0.0,
+            10.0
+          ],
+          "sha256": "0a4796a7784022db0c0c1b09b259dba2c797ce40dd8b53d62a9dc0f91d34e9ff"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            80.0
+          ],
+          "sha256": "5962bc01bd44564346f5d1df13af98f1669df1c20b3dc1e31b497a5d76a75652"
+        },
+        {
+          "doses": [
+            10.0,
+            80.0,
+            10.0
+          ],
+          "sha256": "0b89506eaf87e889035f3060f5bbe190ccc52238e7b5e8e0f7f16df3b16631bf"
+        },
+        {
+          "doses": [
+            10.0,
+            60.0,
+            40.0
+          ],
+          "sha256": "1cd2df6fb93ac49684e5c9c25d725e26f01319d8d7085b9595a60c9b9a0e1dc3"
+        },
+        {
+          "doses": [
+            20.0,
+            80.0,
+            10.0
+          ],
+          "sha256": "25ac98319e5f9d3564be9a9b6a9a159c692d76b1a245bf3a51c3716b28462a58"
+        },
+        {
+          "doses": [
+            80.0,
+            0.0,
+            20.0
+          ],
+          "sha256": "6dafb182fc545169818cbdcc01871abc61ad0519a310db9c0a9cfd2f6d72377b"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            10.0
+          ],
+          "sha256": "d3c7ce16975aa24e76672cb404bb7a41b165b6cece6abfdb5554e6ff1fda4746"
+        },
+        {
+          "doses": [
+            80.0,
+            20.0,
+            0.0
+          ],
+          "sha256": "fbca1f07f8ac86a02d3f8fe85821473a6c786eeda3bd9ec63c928be52e6e9411"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            0.0
+          ],
+          "sha256": "10e72145e45ab0b67b85371cee1008ad54a15ad7d711427dfa9e9b465b6cb7a9"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "413cebff12e313e641e6e725e1aafb1edbd5cd8f1666f0445b2316df8bb8a5f8"
+        },
+        {
+          "doses": [
+            60.0,
+            40.0,
+            0.0
+          ],
+          "sha256": "2370d90462a0fe4c450336e1282780e714992d5da7bc94a005b1c48caa39b58d"
+        },
+        {
+          "doses": [
+            10.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "250cd8a6a02fa14308f96a3f3677e36f5ce18d53d91fdd5f7a45ef31afdc3dc1"
+        },
+        {
+          "doses": [
+            0.0,
+            10.0,
+            100.0
+          ],
+          "sha256": "c2d801f35f724a90a0dcbb107af241112b43a69ad0c877e55f09b86f057fed5e"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            40.0
+          ],
+          "sha256": "12691bf775712f5e54c504610c3f029ae5491b8a71442c0ac60f495538237d4f"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "7d7e4e595dc7535de6cc015553fb912aa585773d9327248235e1cd053d7fa0c1"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "527a5b6d56b18850cb2a301ff8697b5b17c4c89a981ddf234f192a43c0c75aa8"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            0.0
+          ],
+          "sha256": "1bd326b071b3eb19cf39bb5f8d7cdfe49d2a29cc2bab01895dbf7beed741d007"
+        }
+      ],
+      "complete_requested_paths": 28,
+      "cases_replayed": 76,
+      "public_prefix_nodes": 16,
+      "prefix_decisions_replayed": 254,
+      "archived_records_verified": 90,
+      "archived_requested_paths": 19,
+      "worker": 1,
+      "cases": 90
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2021,
+        "idealized_mid",
+        "NASA"
+      ],
+      "native_simulations": 11,
+      "unique_native_executed_trajectories": 11,
+      "unique_executed_trajectories": 19,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            20.0,
+            10.0,
+            100.0
+          ],
+          "sha256": "1ae9a121fcfa405c1618c8fc473fe342be0871b50a1ae245f63194c2abb49a25"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            40.0
+          ],
+          "sha256": "b1cd6b9f8c9187d534a5026115d0b662f688e64b09b85d1379b44b0e4ac65743"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            80.0
+          ],
+          "sha256": "574d2f6398104a3746d963dfad7d3a812077a8d8cb5a0096af1372e6e5c38140"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "4df508589f14d1e7e91ef467f604a00a60e8626530f682ffd8888c303bd8c1e5"
+        },
+        {
+          "doses": [
+            20.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "a7141af83ab487061fd2829fc1ddeabd9e4d74b3a564222056d16fd921296a6c"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "41a21000b904511f890facbf07bf5d9dfd371da60e358b9828b1acb88097365d"
+        },
+        {
+          "doses": [
+            80.0,
+            0.0,
+            40.0
+          ],
+          "sha256": "b8a37f7be9787bdbfb5c2f6d67c81906c171474c7b2c30088b14c541632e1960"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            40.0
+          ],
+          "sha256": "016c56cc1b176d61eaec849dfee954111a802172016167d1cf626c3a6b4b2e8d"
+        },
+        {
+          "doses": [
+            40.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "66be0b54c8d21ec0ededf7e830bac1fcbc54d6e628ae5c3fa756ede5ff0f047e"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            100.0
+          ],
+          "sha256": "5d6d61c78347293e770da8f088cb65e43c5c6d030d2784d5ab793f775b943732"
+        },
+        {
+          "doses": [
+            80.0,
+            0.0,
+            60.0
+          ],
+          "sha256": "d21933da7da81fdf2e65b1baf524bada69cfbe92e7f8e41a0f265cbc4256ac09"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            80.0
+          ],
+          "sha256": "6798ad51d70d2cea44f5994e3b4bce243f7b83da2ce4c9fd8bab08c012be7420"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "2d7582ab87a73a2dfc8e2e310268f6fb5b1c5d1784124a56bf53eaad6f354915"
+        },
+        {
+          "doses": [
+            80.0,
+            20.0,
+            40.0
+          ],
+          "sha256": "f52e98a484a451dd4d7b8597fbdcbca60af8e15ebb4bbe3dc60d69c042b01413"
+        },
+        {
+          "doses": [
+            80.0,
+            40.0,
+            0.0
+          ],
+          "sha256": "74807ff3e86ebf24384be0df43944afcb66ca9330e6aa26f9c47fc9a1cf3deab"
+        },
+        {
+          "doses": [
+            80.0,
+            20.0,
+            20.0
+          ],
+          "sha256": "8d6e127d2dc23e47f609541f173727543f82e7b1e3faca4410cad28af892f7c1"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "a65053acdf50da225ea054f72aa2c4153c983fec093d6e76408381ce95c794d3"
+        },
+        {
+          "doses": [
+            40.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "c3c0961c6e0d0ab652119eff6b35f7455e0805f67baf5b68c8b47e79032d3191"
+        },
+        {
+          "doses": [
+            40.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "adb5db3ffe669fe711d721ffb8ac6222adda7223c67869b05eadc338367116f6"
+        }
+      ],
+      "complete_requested_paths": 19,
+      "cases_replayed": 79,
+      "public_prefix_nodes": 14,
+      "prefix_decisions_replayed": 256,
+      "archived_records_verified": 90,
+      "archived_requested_paths": 12,
+      "worker": 4,
+      "cases": 90
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2023,
+        "idealized_mid",
+        "NASA"
+      ],
+      "native_simulations": 15,
+      "unique_native_executed_trajectories": 15,
+      "unique_executed_trajectories": 24,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            10.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "2002ecb1699716732275dbfc648543d6b431735a6f67b2117257003e90118dbc"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            100.0
+          ],
+          "sha256": "9b05df2dfb99d5588c074a8ba7f6bd6e6b9cf32f0fde09393e8b120afbeb65a2"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            80.0
+          ],
+          "sha256": "aa71e1c12de5371d2aeea062a402e54fef509eeb2d984f7a5d3cf9fe3e58578c"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "432badb3936bc41c2a0b5e5fdd580c447912aa4e6861258cff63a045d3e52860"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "f32d293cb1e7a6945746359c9d5ca1578ed4a0e3d24c7922bb901e2368e292e2"
+        },
+        {
+          "doses": [
+            60.0,
+            60.0,
+            10.0
+          ],
+          "sha256": "8d206f297d3a41d13ee1d525e26a555fda7e14cae820970223782c1b09880bcc"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            60.0
+          ],
+          "sha256": "b3b973ef7e86f69f45e39a3fdeb2db674045238bcea8c1e42bd260aa6c0e9f3f"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            80.0
+          ],
+          "sha256": "9d9f83ac5286037f75cb62800ad86bd22f26365fde7e7c7d280d4d71b3cdaacb"
+        },
+        {
+          "doses": [
+            60.0,
+            10.0,
+            60.0
+          ],
+          "sha256": "5e22f2b38516106464119c5e4df321eb9d04ba901d0e30358f6b0b7e46254945"
+        },
+        {
+          "doses": [
+            10.0,
+            80.0,
+            80.0
+          ],
+          "sha256": "b37594636b698d10ffdcf8c414ae66b8c3a58d69216cf321b351441039ec0074"
+        },
+        {
+          "doses": [
+            10.0,
+            60.0,
+            80.0
+          ],
+          "sha256": "4e1b9e06dd32c2d4da8eeb6e69a5b9181198bf26303efda9617863244770938b"
+        },
+        {
+          "doses": [
+            10.0,
+            60.0,
+            60.0
+          ],
+          "sha256": "cf02fa661d6904a35731b23a647ceb4273ba3dbf62062eefee39db7fbf5febcd"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            40.0
+          ],
+          "sha256": "957d6f1699b5d9f27493d2833c4a2ad2b7910ab061cd763c05cc100e17ba381a"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            40.0
+          ],
+          "sha256": "d58ea59147bd98a85cc3ed6bd9907c1b888dac15f36a597d090883b366d31dad"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            60.0
+          ],
+          "sha256": "f29a448f47173ff4d2522c2254081e1c455772d608b837a03cd94a6763a0f279"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "c4b4d8252774433f79f1e30f9897c2ba02aa48f4a68abc117ef7f53fa7955aec"
+        },
+        {
+          "doses": [
+            20.0,
+            80.0,
+            40.0
+          ],
+          "sha256": "4f89e43457691a26e5943f9be089cecbe70e27c0b87991afa3be9a969c665cc9"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            0.0
+          ],
+          "sha256": "2851b53a8c13fc7195d91deeb011cdd6274f4367ea87667745e12d290a4b32a2"
+        },
+        {
+          "doses": [
+            100.0,
+            20.0,
+            10.0
+          ],
+          "sha256": "6f13a3672d44d08f669c8c0db92a69c627341013ada250839f3208fa9bfdc3eb"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "ef716e113ec09598368db0bc791bebe03785a4a919144b0be51b29864f41b688"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            40.0
+          ],
+          "sha256": "c7751d57d45353d7e149bb8b0d8fafb1aad8ae3044fa097086ec2c6c6543bf67"
+        },
+        {
+          "doses": [
+            80.0,
+            20.0,
+            40.0
+          ],
+          "sha256": "a684ffeee809cc5a38b5a716b2eb526c55e4e89bfedaf6c38c73405a4aa786b4"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            60.0
+          ],
+          "sha256": "15682119213bf559ce8ab0b60f752fc58236487abe2ef55cc0380c6adb8fdf71"
+        },
+        {
+          "doses": [
+            40.0,
+            0.0,
+            100.0
+          ],
+          "sha256": "54e117de60bc387f8c861f659652c1724909f3ef132d9b016016db598de24ade"
+        }
+      ],
+      "complete_requested_paths": 24,
+      "cases_replayed": 75,
+      "public_prefix_nodes": 16,
+      "prefix_decisions_replayed": 254,
+      "archived_records_verified": 90,
+      "archived_requested_paths": 12,
+      "worker": 10,
+      "cases": 90
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2017,
+        "idealized_mid",
+        "NASA"
+      ],
+      "native_simulations": 15,
+      "unique_native_executed_trajectories": 15,
+      "unique_executed_trajectories": 20,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            100.0,
+            10.0,
+            20.0
+          ],
+          "sha256": "e3c08e415adfeadebd8a78ca2308fe9f8dfc9f01b68ec041849f7ec837849e5b"
+        },
+        {
+          "doses": [
+            40.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "173f240100a8be6c0a538b7d5d3b6595dc06de33e283d7db7579c537564d7aaa"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "2c65e34eb7527a82630ffafdb4aaeed3110cac5f1731904d9ecb85d04c4db346"
+        },
+        {
+          "doses": [
+            20.0,
+            10.0,
+            100.0
+          ],
+          "sha256": "a139ddcf5752f8d7263f8323a004ccaa3b1cb6c1380bf47a464b486949947cb7"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            80.0
+          ],
+          "sha256": "337ba7c71379d5c59e62b7356177ad380c228df84281ae6813fd167e5459ccf7"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            40.0
+          ],
+          "sha256": "ae2dce07f863618afcd7e1465168e9f328803b281853e61a0f55337b8d499066"
+        },
+        {
+          "doses": [
+            40.0,
+            80.0,
+            10.0
+          ],
+          "sha256": "e90189beaf78c01645e5719d052bc0cd6d267a16868209c5e9c0dcba2016c385"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            80.0
+          ],
+          "sha256": "26f8f8aa08010fcb6337e87d33bab0934b4899dfa92ebe5fc1c9a2205f6e3346"
+        },
+        {
+          "doses": [
+            40.0,
+            60.0,
+            40.0
+          ],
+          "sha256": "9f56d7275012e0d2ea091a36d9dcae1d9e7a17bfb3b8aafe609f0d1e77714984"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "c83b78d9c7c585907b9a03c4131986850ef9c6ea83adf2f1a3f506beeeefc30e"
+        },
+        {
+          "doses": [
+            10.0,
+            80.0,
+            40.0
+          ],
+          "sha256": "d962c846631d28d2d8b02a16de9d463e77c5af0c06201ab2087dec951754e817"
+        },
+        {
+          "doses": [
+            60.0,
+            60.0,
+            10.0
+          ],
+          "sha256": "aa9b154409eb7cbfacf03fa35afd0f26550f3e716d53c8c3a1ab2a7d6392d9f3"
+        },
+        {
+          "doses": [
+            80.0,
+            40.0,
+            20.0
+          ],
+          "sha256": "7ca7ab55968ef7ffebf0bb5c12b84043cc56019904dfaf602d99240a071010d8"
+        },
+        {
+          "doses": [
+            100.0,
+            20.0,
+            10.0
+          ],
+          "sha256": "b082f20311592adcaaa4f4b8260bc46a4ac1572ea1ee1f7d62246c41a75e1af9"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "5113220cd415a45a829864cb36295ae9d57c7ec6a14cfa8416fc1be0ed86f5a1"
+        },
+        {
+          "doses": [
+            40.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "c2d58cec7fcdc9b83414cbcd1ca1f7d3dc9dc4e2f984155cde2f249ff2b8b089"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "d4f5c915ab69a1978ddfba070ca94e966758d77c3ce335c7826224ab2043cc4f"
+        },
+        {
+          "doses": [
+            10.0,
+            80.0,
+            60.0
+          ],
+          "sha256": "d4bc97256c6fdd3d684bba4fdba3be0360202e1e8820d1d16f4d8d88f68cfc7f"
+        },
+        {
+          "doses": [
+            10.0,
+            20.0,
+            100.0
+          ],
+          "sha256": "f216dfe925d0c1e61ddfb868780c4ad8dcfef0af42eda4370841d0aa33115e3c"
+        },
+        {
+          "doses": [
+            40.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "ca0008e773626e87ee94ff86bdf642f1ba9edeab82b0778f8b7c0531f953f995"
+        }
+      ],
+      "complete_requested_paths": 20,
+      "cases_replayed": 75,
+      "public_prefix_nodes": 21,
+      "prefix_decisions_replayed": 249,
+      "archived_records_verified": 90,
+      "archived_requested_paths": 9,
+      "worker": 8,
+      "cases": 90
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2016,
+        "idealized_high",
+        "NASA"
+      ],
+      "native_simulations": 12,
+      "unique_native_executed_trajectories": 12,
+      "unique_executed_trajectories": 26,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            0.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "f38055fd4999b89b1bf030297a0b3d2a6b76154102900dbf8a5e847f85274de7"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            40.0
+          ],
+          "sha256": "2ec4a1587d1ae52d9454cb327769cfee39f4dc62be9bb22ca867ddab5cc372aa"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "73030f6a85c22e7c1c361e29a4e61cf51f8a0de8567b22933aba91a6511fbee9"
+        },
+        {
+          "doses": [
+            0.0,
+            20.0,
+            80.0
+          ],
+          "sha256": "e0eb3a3cd62ebd456e27fb5811e830f36c17b422c9b7468d9dc14cdaed7403bc"
+        },
+        {
+          "doses": [
+            10.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "6831f158c43e0acb1c9a568cd9fb823c0478e444f99d0db7c4801624f062c92e"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            20.0
+          ],
+          "sha256": "170dd4ec471f23ccbfe39af9ba99dff55fd5b6f899a8076bb19584acbb3d6e2b"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            20.0
+          ],
+          "sha256": "8dd6b3ae6e12fdd734eb8d320cb4893b9ef73d56a1c9ecc4344c99887ae4fe23"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            40.0
+          ],
+          "sha256": "ca4d8e440790820f8cf35d8495ef1c51399194715b1d12232da9cc11b9f62f5f"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            80.0
+          ],
+          "sha256": "4773569af4e1aa977d62d95897cbc028d61774f2a6a8a9ab4dc9eb87aa2654de"
+        },
+        {
+          "doses": [
+            100.0,
+            0.0,
+            20.0
+          ],
+          "sha256": "1881a61ed8c9d269398279c40a7fd82d80e350c9ce0f09396750351d10d955f4"
+        },
+        {
+          "doses": [
+            0.0,
+            10.0,
+            100.0
+          ],
+          "sha256": "710ed765893b16d5d65ca8b5cdab8da4f1641ffe9672188d22402cc492235433"
+        },
+        {
+          "doses": [
+            20.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "fa44156277e751a6a97259aa9fd410e3ebd6f94e9e3c1ea87c46cb79e879b5d5"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            60.0
+          ],
+          "sha256": "4425ec6a5d43c3ec704d36f18c3ea7dd7c75ade592219f29c0e98149bfd7f211"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            60.0
+          ],
+          "sha256": "0bd9402b8e84e3a1ea64128e0d99637a637f3b46848ef8384b377b27a1aeb3c2"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "275debc512441f1cef81532134c8f791f7025e2368e754b7a114f4815f99696f"
+        },
+        {
+          "doses": [
+            60.0,
+            10.0,
+            40.0
+          ],
+          "sha256": "1ce77df5a26d87eeeedab4162656d47f1b14a1d38ffe4749c0e7120f87c224e5"
+        },
+        {
+          "doses": [
+            100.0,
+            20.0,
+            0.0
+          ],
+          "sha256": "02340e9155828eab828f4cd291c3fd29793e56c577895a6e61b08ade04c7d64d"
+        },
+        {
+          "doses": [
+            40.0,
+            60.0,
+            20.0
+          ],
+          "sha256": "520043754741c813d9a2ac315768d00efe9c75dbc00eae6e6bf9b5483da07870"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "505fee9e9c951ba74aab260310b26c80f2e4d7a8a789ebaef055e6705cec78e1"
+        },
+        {
+          "doses": [
+            0.0,
+            20.0,
+            100.0
+          ],
+          "sha256": "9737cd883f47399c1b261e89311d3098732751ba59764d9f58e867defc649a37"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "b748dfa0fd99b63b9d4745a595295a329da6568dc84ee98f068b4ceeddd7fb88"
+        },
+        {
+          "doses": [
+            10.0,
+            10.0,
+            100.0
+          ],
+          "sha256": "552503ad36c520b5adba6904ade6d828d5668b6629d58f34fd62a1649e9cd261"
+        },
+        {
+          "doses": [
+            60.0,
+            40.0,
+            20.0
+          ],
+          "sha256": "c36199c5865403c6d0d710f6e6309de2a1c3fe42c31a6eee1ffdbaff4b2e24d8"
+        },
+        {
+          "doses": [
+            20.0,
+            10.0,
+            100.0
+          ],
+          "sha256": "008ee456b1b4448f2139e04956bc4c26762fae4abf7db9e3d79f87f367b1db1c"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "a1e5191e91f37d32fa727eb0242917a6b204e0edfa0b3bf6b844845174927251"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "541470dd65db1130310825238224e2e61fbb34d64e24bc712e24fa5b219c23ca"
+        }
+      ],
+      "complete_requested_paths": 26,
+      "cases_replayed": 78,
+      "public_prefix_nodes": 15,
+      "prefix_decisions_replayed": 255,
+      "archived_records_verified": 90,
+      "archived_requested_paths": 18,
+      "worker": 4,
+      "cases": 90
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2024,
+        "idealized_mid",
+        "NASA"
+      ],
+      "native_simulations": 10,
+      "unique_native_executed_trajectories": 10,
+      "unique_executed_trajectories": 18,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            100.0,
+            0.0,
+            20.0
+          ],
+          "sha256": "73e4d9e79806e22671d1bc9af763cb90a0362553ec240fbf26eef78baddc9242"
+        },
+        {
+          "doses": [
+            40.0,
+            0.0,
+            80.0
+          ],
+          "sha256": "217a1d5a0f80a0eaf6411009a087263038298ddedf1c21ceea189359531a801f"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "ff3471941b6bac0f62d623170a9b71e376c719bb953274ae075933bf067930eb"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "a48c649f571521ccac9b4dd7cea1425080247720f13cd045abed2e9fb8073a9f"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            60.0
+          ],
+          "sha256": "0228a85ecea1df203c16152f2a45f46331c10441ab714ff8fa96d18ba27b62af"
+        },
+        {
+          "doses": [
+            10.0,
+            0.0,
+            100.0
+          ],
+          "sha256": "23bc836122a3b45902891dabf34587cca6408ab8d92517fa7e41d320d4b3e5ea"
+        },
+        {
+          "doses": [
+            100.0,
+            10.0,
+            10.0
+          ],
+          "sha256": "0efef2cfde765d9ea93114b7a5f5873dba5bc8a502c0b04b52889613b5a468a2"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            80.0
+          ],
+          "sha256": "a99f1f1e98bb590aad63282c85ce2ae3c160b3ccfbe70631dc206c4dbe3ef65a"
+        },
+        {
+          "doses": [
+            40.0,
+            60.0,
+            20.0
+          ],
+          "sha256": "615455754bbafc4fae16eaf81755275eff27343afad6894be4984efc7990b9cd"
+        },
+        {
+          "doses": [
+            20.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "d84d8afaacd93ca0bb4f4091a824f0a189c1dfb3f4f9db18341e21a654e7dc30"
+        },
+        {
+          "doses": [
+            100.0,
+            20.0,
+            0.0
+          ],
+          "sha256": "2f99d38c4ce559764b9b724490f4f65dacda225bedb8fa23b15b0a8d5d70c300"
+        },
+        {
+          "doses": [
+            10.0,
+            10.0,
+            100.0
+          ],
+          "sha256": "4760b6b9be091300a96d9eb7bc4d7980a3027994e37938453d793a6f241f613a"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "8b2c6cbe762f99e577a1ea4fc56c583ee64372076dde8105d0de43500a46a0e3"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "38444f2631036c512ee08d88cc574f8a73cbaedfe5d4a9927a3ce5b071e6f303"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "43c069233e75193c9ea451d711412829553248aefc7a30a1c66d65433b986ec9"
+        },
+        {
+          "doses": [
+            20.0,
+            10.0,
+            100.0
+          ],
+          "sha256": "1eb47d8cae2a5bb1808407841e7650d78e8785138b272b0bfa974c438c4a9669"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "6baee9287d45d953239da14708859b7228b4aa0f362838d30f2cd02389e9144a"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            40.0
+          ],
+          "sha256": "a3e74632d267a69e2d7017b78e4b87941424576372ce80d252b71388d2085c6e"
+        }
+      ],
+      "complete_requested_paths": 18,
+      "cases_replayed": 80,
+      "public_prefix_nodes": 12,
+      "prefix_decisions_replayed": 258,
+      "archived_records_verified": 90,
+      "archived_requested_paths": 12,
+      "worker": 13,
+      "cases": 90
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2019,
+        "idealized_mid",
+        "NASA"
+      ],
+      "native_simulations": 13,
+      "unique_native_executed_trajectories": 13,
+      "unique_executed_trajectories": 22,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            40.0,
+            0.0,
+            80.0
+          ],
+          "sha256": "cce1357dd09d05c5f7fbc6dc35291d7c55ef0dceaa5c8bb0bd879a84473b7211"
+        },
+        {
+          "doses": [
+            60.0,
+            10.0,
+            60.0
+          ],
+          "sha256": "337c3ebbdd4410063f2736d0ed93c623ff11f11d6a76541351cb0d192b062ea2"
+        },
+        {
+          "doses": [
+            0.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "67d6c3715ad65a23132855beac6eb63a3c9c890203a1e1933f02ac82a137b1df"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            80.0
+          ],
+          "sha256": "a30df0dffc26328fc3fc67cf0762a84c2e308b67023fce62b108acc6c98ed83b"
+        },
+        {
+          "doses": [
+            0.0,
+            20.0,
+            100.0
+          ],
+          "sha256": "13f2eb4b8649128141d97c3fc5f02eca36fa450437fa4786766848ee9d3e1e39"
+        },
+        {
+          "doses": [
+            40.0,
+            60.0,
+            20.0
+          ],
+          "sha256": "30bb626a4e452639fc7854ece3ea23178c39940f0be38f3b6af75313748b647d"
+        },
+        {
+          "doses": [
+            40.0,
+            80.0,
+            10.0
+          ],
+          "sha256": "d6adfaaa9936b56f02c196fed293e470d61b72b0d5911d498a8e405ec05fa2db"
+        },
+        {
+          "doses": [
+            0.0,
+            80.0,
+            60.0
+          ],
+          "sha256": "71183f149da88057d2c4aa2241494c0f0448d863a7bf2c117f2b2d26286dbc02"
+        },
+        {
+          "doses": [
+            20.0,
+            80.0,
+            40.0
+          ],
+          "sha256": "f541fc4bfd9bd2f9a22117870af4e2a6491b7772bcdccc48499a603c446645ae"
+        },
+        {
+          "doses": [
+            40.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "95275bed4457f04a8b5df97c8994998f033ad9269fe48dedb7e45564df85030a"
+        },
+        {
+          "doses": [
+            10.0,
+            60.0,
+            80.0
+          ],
+          "sha256": "3bf47c0d79e547bf70d0e6e2352f24dbab944fbe5cff129629411542c8d8bd5b"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "60d17fe18776ad47b97f8218ac00982558c0b59d80a11cb1f3cb9a2ab9a80d0c"
+        },
+        {
+          "doses": [
+            10.0,
+            60.0,
+            60.0
+          ],
+          "sha256": "4800abbbebf5d62822752d0327f4e51fb068f7f17fdb0c91ae6fb37162cd56cc"
+        },
+        {
+          "doses": [
+            0.0,
+            100.0,
+            40.0
+          ],
+          "sha256": "80369f977c4aad89de91a0fc7c6beda24b8b1c30e6eafd81b07f5fcdbced7c0e"
+        },
+        {
+          "doses": [
+            60.0,
+            20.0,
+            40.0
+          ],
+          "sha256": "d135891804977d28b12b3b0a8dc0dad9d07cfd8c3bbab1c251aa4cc385d706ce"
+        },
+        {
+          "doses": [
+            60.0,
+            0.0,
+            60.0
+          ],
+          "sha256": "179b2b171080bde9b82fc3bfd43fd3e5f58ae73e9d940326b7499c5cd49e611d"
+        },
+        {
+          "doses": [
+            40.0,
+            20.0,
+            80.0
+          ],
+          "sha256": "dfab305e082c45db5c2d9c194992fdc2c773134c26e35c2dd093d66241072cbc"
+        },
+        {
+          "doses": [
+            40.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "a5b0bd2d9405af915a09f038cd7dd67c6d84085f25fe73dc76b4bd9d128b32dc"
+        },
+        {
+          "doses": [
+            40.0,
+            60.0,
+            40.0
+          ],
+          "sha256": "e6f7e2e81f6b22d6d90508284a7daf07bc5d6f2e971a60fb08122eada4b30a3c"
+        },
+        {
+          "doses": [
+            60.0,
+            0.0,
+            80.0
+          ],
+          "sha256": "136836090c25a01bc0c579089bd6be7aca2c5b1bca8c5d4b32329f480edac879"
+        },
+        {
+          "doses": [
+            10.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "46cadb8172d701f3957390f958021f47ee742b6eb209e12b6fda4e0894724f3f"
+        },
+        {
+          "doses": [
+            40.0,
+            100.0,
+            0.0
+          ],
+          "sha256": "78351e661549f1ec5ae4222f953fbb254bd385590f8582f742a42db280329413"
+        }
+      ],
+      "complete_requested_paths": 22,
+      "cases_replayed": 77,
+      "public_prefix_nodes": 17,
+      "prefix_decisions_replayed": 253,
+      "archived_records_verified": 90,
+      "archived_requested_paths": 13,
+      "worker": 14,
+      "cases": 90
+    }
+  ],
+  "exit_codes": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "expected": 18268,
+  "new_expected": 18268,
+  "reused": 0,
+  "results": 1915,
+  "no_automatic_retry": true
+}

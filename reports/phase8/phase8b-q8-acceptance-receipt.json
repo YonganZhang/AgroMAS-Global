@@ -1,0 +1,18 @@
+{
+  "result": {
+    "schema_version": "sixone-plan/v1",
+    "tool": "plan-phase8b-acceptance-sync",
+    "format": "qa",
+    "verdict": "ok",
+    "task_plan": "/mnt/data/yongan-admin-2/projects/自己-智慧农业-精准施肥智能体/_wiki-methodology/_top/_task_plan.md",
+    "revision": "8c593ab907bf668c962de12a8adf0904b97eb14917e60f8fac9eda1a4355b4e0",
+    "log": {
+      "file": "/mnt/data/yongan-admin-2/projects/自己-智慧农业-精准施肥智能体/_wiki-methodology/_top/_logs/2026-11-15-plan.md",
+      "line": "- 22:43 approved attempt27 Phase8B Q8-only acceptance synchronization via official transaction; P2 retrospective fold-local roles approved; Q1-Q7 unchanged · git=master@bccb180(+3 dirty)"
+    },
+    "item_id": "Q8",
+    "approval": "continue-ef655327bd618e46.md",
+    "ids_states_preserved": true
+  },
+  "Q1_Q7_unchanged": true
+}

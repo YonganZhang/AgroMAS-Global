@@ -1,0 +1,29 @@
+...........................................F                             [100%]
+=================================== FAILURES ===================================
+____________ test_joint_member_center_uses_seed_mean_not_seed_order ____________
+
+    def test_joint_member_center_uses_seed_mean_not_seed_order():
+     from pathlib import Path
+     import importlib.util
+     path=Path(__file__).resolve().parents[3]/'scripts/phase8-evaluate-g1.py'
+>    spec=importlib.util.spec_from_file_location('phase8_eval_unit',path);module=importlib.util.module_from_spec(spec);spec.loader.exec_module(module)
+                                                                                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+NUE_PCSE-Gym/tests/test_phase8_invariants.py:110: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+<frozen importlib._bootstrap_external>:936: in exec_module
+    ???
+<frozen importlib._bootstrap_external>:1073: in get_code
+    ???
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = <_frozen_importlib_external.SourceFileLoader object at 0x737deb295710>
+path = '/mnt/data/yongan-admin-2/projects/worktrees/scripts/phase8-evaluate-g1.py'
+
+>   ???
+E   FileNotFoundError: [Errno 2] No such file or directory: '/mnt/data/yongan-admin-2/projects/worktrees/scripts/phase8-evaluate-g1.py'
+
+<frozen importlib._bootstrap_external>:1130: FileNotFoundError
+=========================== short test summary info ============================
+FAILED NUE_PCSE-Gym/tests/test_phase8_invariants.py::test_joint_member_center_uses_seed_mean_not_seed_order
+1 failed, 43 passed in 36.38s

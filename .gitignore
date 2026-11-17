@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+cache/
+logs/
+wandb/
+*.zip.tmp
+/models/phase8-v8/*ExtraTrees-fold*.joblib
+.bilingual-sync.json

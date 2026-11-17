@@ -1,0 +1,31 @@
+{
+  "schema_version": "sixone-doctor/v1",
+  "tool": "topic-doctor",
+  "project": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8a",
+  "verdict": "ok",
+  "summary": {
+    "block": 0,
+    "warn": 0,
+    "info": 2
+  },
+  "issues": [
+    {
+      "severity": "info",
+      "code": "QA_TEXT_LONG",
+      "path": "/mnt/data/yongan-admin-2/projects/自己-智慧农业-精准施肥智能体/_wiki-methodology/_top/_task_plan.md",
+      "message": "给人看的文字偏长：问题 Q2(29 字), Q8(48 字) → 问题 ≤20 字、答案 ≤40 字、目标 ≤80 字是建议；细节放进工作本的尝试和笔记（plan rename / plan answer 改说法）"
+    },
+    {
+      "severity": "info",
+      "code": "REF_SCHEMA",
+      "path": ".",
+      "message": "declared_refs=13"
+    }
+  ],
+  "codebook": {
+    "skipped": "only with --full"
+  },
+  "pipelines": {
+    "skipped": "only with --full"
+  }
+}

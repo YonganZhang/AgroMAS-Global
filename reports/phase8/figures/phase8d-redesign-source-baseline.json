@@ -1,0 +1,10 @@
+{
+  "reports/phase8/phase8d-core-statistics.json": "d5f793084a1d9bc2e9c43d71ef486dffd855e1b0c189da53554d681b87838083",
+  "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+  "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e",
+  "reports/phase8/phase8d-180cell-stress-surface.csv": "8e6fbbbc0f37ab0aab806fcfb8c3002fe5c9744a57098c5360742f5c3d11827b",
+  "reports/phase8/phase8d-closeout-receipt.json": "1ba174ef6e9d42451d6dea49b977f8906be52aad61b9546b04a5c1fd2a068185",
+  "reports/phase8/phase8d-primary-verification.json": "6b8ca50ac3d376f206ab9a1bce61e0363e2731efeacbc93657abc65845d5ecdb",
+  "reports/phase8/phase8d-P2-predictive-cohort-strata.csv": "4ea7c3f0ad892378a113560ce785e23e3b9887095b8eb20e6d8874668b7c1612",
+  "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba"
+}

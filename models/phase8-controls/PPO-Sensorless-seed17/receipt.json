@@ -1,0 +1,47 @@
+{
+  "status": "completed",
+  "seed": 17,
+  "decision_steps": 151552,
+  "episodes": 50512,
+  "elapsed_seconds": 38.316249556839466,
+  "weight_change_L2": 9.131379127502441,
+  "action_indices": {
+    "1": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "observation_dim": 91,
+  "native_physics_calls": 0,
+  "TRAIN_only_rewards": true,
+  "tool_calibration": "samefrozenDevcalibrationasallnewpolicyvariants",
+  "checkpoint": "finalfixedbudgetnotselectedbyDevorevaluation",
+  "files": {
+    "vecnormalize.pkl": "0e81be2c43442dfaee92cbf7021e3227f803f47a55ae9a55d5029f98ebe8eaa3",
+    "episodes.csv": "3445286a5dd4f104ee770fdcf07e7671ef89b53238bb925ac6acb6d6880d0a16",
+    "model.zip": "e56ed8fb1637a52976c219133013e1a781681faa5cd997f0566a1866c50e3e5f"
+  }
+}

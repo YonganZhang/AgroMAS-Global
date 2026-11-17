@@ -1,0 +1,23 @@
+{
+  "records": [
+    {
+      "seed": null,
+      "committed_N": 171.0,
+      "stage": 3,
+      "dose": 0.0,
+      "tier": 3,
+      "passed": true
+    },
+    {
+      "seed": 4,
+      "committed_N": 171.0,
+      "stage": 3,
+      "dose": 0.0,
+      "tier": 3,
+      "passed": true
+    }
+  ],
+  "TRAIN_only": true,
+  "native_rollouts": 0,
+  "new_evaluation_scores": false
+}

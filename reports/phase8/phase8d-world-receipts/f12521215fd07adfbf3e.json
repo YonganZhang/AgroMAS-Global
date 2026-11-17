@@ -1,0 +1,101 @@
+{
+  "world": [
+    "france_paris_beauce",
+    2022,
+    "idealized_high",
+    "NASA"
+  ],
+  "native_simulations": 6,
+  "unique_native_executed_trajectories": 6,
+  "unique_executed_trajectories": 10,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        20.0,
+        100.0,
+        100.0
+      ],
+      "sha256": "5ffeb85b53fd6afa4c576def8e43744aa40a52897e7c525088f8c6e62ef34375"
+    },
+    {
+      "doses": [
+        100.0,
+        60.0,
+        40.0
+      ],
+      "sha256": "d39b672def1328eba0637967be69e0ba4ca65537a61220dee813633e41e056fb"
+    },
+    {
+      "doses": [
+        60.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "2a3be12c28e24b6bffee4cfd1b1681a9208cffde97435b07bef9c13fb575a7c2"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "8d9b270702a079e9b8217788262d35ceeb9d78f8254311c49f535e46e50e9e32"
+    },
+    {
+      "doses": [
+        80.0,
+        40.0,
+        40.0
+      ],
+      "sha256": "b941660da3b60ccb97e0a307cbcad66376349c1d7781d61f8d106aa7f523da7f"
+    },
+    {
+      "doses": [
+        100.0,
+        80.0,
+        40.0
+      ],
+      "sha256": "5860bcb8fcd25968ec214a3ac8321d7450f64bbe01a1b83ab9c6160812229672"
+    },
+    {
+      "doses": [
+        100.0,
+        40.0,
+        80.0
+      ],
+      "sha256": "d85436f26a34c2d03c0628b2ef85c813974c219b31c602debc232a2f076e7eb3"
+    },
+    {
+      "doses": [
+        100.0,
+        20.0,
+        100.0
+      ],
+      "sha256": "f86521c9658e4eccf47e666a8bdd79321c9c7da85860aa32ef692b1b5688235c"
+    },
+    {
+      "doses": [
+        80.0,
+        60.0,
+        40.0
+      ],
+      "sha256": "fb1626d95621f47c55258948ded2acf3c61eee31b1115141532a838d1819dfed"
+    },
+    {
+      "doses": [
+        80.0,
+        100.0,
+        0.0
+      ],
+      "sha256": "2afc1fc48134d1cf8a2aaa18c6a3f43a391c4773d704d14dacbe2453c8c6090a"
+    }
+  ],
+  "complete_requested_paths": 10,
+  "cases_replayed": 84,
+  "public_prefix_nodes": 11,
+  "prefix_decisions_replayed": 259,
+  "archived_records_verified": 90,
+  "archived_requested_paths": 8,
+  "worker": 11,
+  "cases": 90
+}

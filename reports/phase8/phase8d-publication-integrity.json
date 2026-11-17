@@ -1,0 +1,108 @@
+{
+  "passed": true,
+  "issues": [],
+  "files": [
+    {
+      "path": "reports/phase8/figures/fig1-architecture.png",
+      "sha256": "a59f974a8259d35adc1711d7b822023775329e31130983c2f0764c8252dc7766"
+    },
+    {
+      "path": "reports/phase8/figures/fig1-architecture.pdf",
+      "sha256": "6a6e0e144c057d7f3e5c33bbcc5e825653b953ffc8c48eafd3555ae8f98f1b96"
+    },
+    {
+      "path": "reports/phase8/figures/fig1-architecture.svg",
+      "sha256": "a59ec8d2503de0c45646a5b110917251193895b5d328425c0025f8c7a06a769b"
+    },
+    {
+      "path": "reports/phase8/figures/fig2-p1-regimes.png",
+      "sha256": "3d404129a5a02f9d5f74aa127248e70ab8e6c14594490313742287b25b4ca589"
+    },
+    {
+      "path": "reports/phase8/figures/fig2-p1-regimes.pdf",
+      "sha256": "3c8d18b7be1d0107e07fe4e146f0e280ea38e9be117f658ca5cc381586488f07"
+    },
+    {
+      "path": "reports/phase8/figures/fig2-p1-regimes.svg",
+      "sha256": "6821c24cc1ffc8b5d9ede88a26cd3dbf78663e31b5c5ed4221cee146b27a122e"
+    },
+    {
+      "path": "reports/phase8/figures/fig3-p2-transfer.png",
+      "sha256": "3da26d4df021b6ef13dfc0963aba774a3b62bd47dca2b2a2d22f75c903ed0dc1"
+    },
+    {
+      "path": "reports/phase8/figures/fig3-p2-transfer.pdf",
+      "sha256": "1e0cdf3bacbb7c060a2344e6cb80bd05c8a1f701b555087300b2e23162baa5ff"
+    },
+    {
+      "path": "reports/phase8/figures/fig3-p2-transfer.svg",
+      "sha256": "8f85f54656893657749a520e03d0b2c0a4fe104f9387f2ed7f7a23c15f9d1c09"
+    },
+    {
+      "path": "reports/phase8/figures/fig4-factorial-stress.png",
+      "sha256": "eff294c1ee00bd5964b2e723d3053f977a6a8b9be623f490b45e8741ffd83625"
+    },
+    {
+      "path": "reports/phase8/figures/fig4-factorial-stress.pdf",
+      "sha256": "0b49681d611a1861080aac8b53249ab2d8a0a82c59adf41a2adb18de67c33704"
+    },
+    {
+      "path": "reports/phase8/figures/fig4-factorial-stress.svg",
+      "sha256": "55d0f3ea319909984b1a0709629b38bc0b405de1e41d2d1cf78386a0a4c11a38"
+    },
+    {
+      "path": "reports/phase8/figures/fig5-deployment-closure.png",
+      "sha256": "715449743e9a46d34a66ae7dab6a6327ac24d044b20d3aae06a9fdb24399937a"
+    },
+    {
+      "path": "reports/phase8/figures/fig5-deployment-closure.pdf",
+      "sha256": "abe337384fe34091fd62ce013abd93ecaaedc0f4fcf1f9a5af1ffe37e7e1a42c"
+    },
+    {
+      "path": "reports/phase8/figures/fig5-deployment-closure.svg",
+      "sha256": "617c1ab64157b1650a82e3981265ad4e004f4c85fb7cc21219dd6ee8a3bffdee"
+    },
+    {
+      "path": "reports/phase8/figures/fig2-g1.png",
+      "sha256": "2de74f885dde9bc67e7903e56cae75d1028818d05e7abf741345c34fa7081b53"
+    },
+    {
+      "path": "reports/phase8/figures/fig2-g1.pdf",
+      "sha256": "9011e1dcc748d3e724f45a1df75949f60d8e182f41282e89be5fe77a1eb54061"
+    },
+    {
+      "path": "reports/phase8/figures/fig2-g1.svg",
+      "sha256": "393caab3d702ce043c74866ea9603f0ea3e2a0b3ae68df659a46b3e70f601cd1"
+    },
+    {
+      "path": "reports/phase8/figures/figs2-g3-subsidy.png",
+      "sha256": "def2a129726a77211ac043e54e71f84e4332e9cb066b19a3a7ff33ff64fd3d0e"
+    },
+    {
+      "path": "reports/phase8/figures/figs2-g3-subsidy.pdf",
+      "sha256": "cc94e2d91083622d44844ffd8e741ba0e37221d494cd2cd563d24648ac489525"
+    },
+    {
+      "path": "reports/phase8/figures/figs2-g3-subsidy.svg",
+      "sha256": "ef1eeb8e6dcae0de6608cb3929122154f4342098d14f105cbecea3c1ec675ea1"
+    },
+    {
+      "path": "manuscript/phase8/en.pdf",
+      "pages": 13,
+      "sha256": "5da5bd0ca38ece1739829186b6946ee3727e3de8b8bd5dc30199d069692d02bb"
+    },
+    {
+      "path": "manuscript/phase8/zh.pdf",
+      "pages": 12,
+      "sha256": "2087b16cd69b9759a924f057d288316353be5d4e9e0b3c8a7da9a2d4f3dc78db"
+    },
+    {
+      "path": "manuscript/phase8/supplement.pdf",
+      "pages": 12,
+      "sha256": "a9cf258541f1f069de4be828b2c2b1b19ccf4e0b08d5cf53af7907b270f3263c"
+    }
+  ],
+  "rendered_visual_review": "Separate Gemini review required; not replaced by these checks",
+  "N_residual_max": 1.9042545318370685e-11,
+  "C_residual_max": 2.1145751816220582e-10
+}

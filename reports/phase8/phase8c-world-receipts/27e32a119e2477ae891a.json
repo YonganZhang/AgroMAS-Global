@@ -1,0 +1,98 @@
+{
+  "world": [
+    "netherlands_lelystad",
+    2017,
+    "Historical",
+    "NASA"
+  ],
+  "native_simulations": 10,
+  "unique_executed_trajectories": 10,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        100.0,
+        40.0,
+        80.0
+      ],
+      "sha256": "aea0e6a097f3029715a547a46930c4997a2022d6465263c19c6d10154593b0fc"
+    },
+    {
+      "doses": [
+        100.0,
+        80.0,
+        40.0
+      ],
+      "sha256": "01199a469abbfb018cccb4204f0d8d473f9f23f8b756fa7940bd1d0722e3cad3"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "5e4d641693558e32203555b5229ef8d9b36118e6b35d46668b5d2d925dec94aa"
+    },
+    {
+      "doses": [
+        100.0,
+        100.0,
+        10.0
+      ],
+      "sha256": "18d57560484e69774f4ac85a597cc6855aad73cff0e408687b24146b38f7701d"
+    },
+    {
+      "doses": [
+        100.0,
+        20.0,
+        100.0
+      ],
+      "sha256": "b041a61b520f16715e5c9783b0641c3c8f65ca7d3c513fbe097ecf5d49e1495f"
+    },
+    {
+      "doses": [
+        10.0,
+        100.0,
+        100.0
+      ],
+      "sha256": "90e09c7ffea43be148be67b1dca896d7a0918cb527b3605f936a94ebc36af799"
+    },
+    {
+      "doses": [
+        80.0,
+        60.0,
+        80.0
+      ],
+      "sha256": "61da90a0c818ad2bccedc4f4df7ca1e1b700bb2480f989fad9b61c2df1d6c5ea"
+    },
+    {
+      "doses": [
+        100.0,
+        60.0,
+        60.0
+      ],
+      "sha256": "6ec738f64961a8bb33a796e381aefe2e5a8cb1f74a5857c70c276cd7d86892e4"
+    },
+    {
+      "doses": [
+        40.0,
+        80.0,
+        100.0
+      ],
+      "sha256": "309016c0e87fc02a0ec6057eddd3b49f934c7ac47ce096273c04dbb97b2133b0"
+    },
+    {
+      "doses": [
+        100.0,
+        100.0,
+        20.0
+      ],
+      "sha256": "814407f574e0b8502089f981cc318e0786bcc92ae06b2b1ec2e624d812170568"
+    }
+  ],
+  "complete_requested_paths": 10,
+  "cases_replayed": 48,
+  "public_prefix_nodes": 14,
+  "prefix_decisions_replayed": 160,
+  "worker": 13,
+  "cases": 58
+}

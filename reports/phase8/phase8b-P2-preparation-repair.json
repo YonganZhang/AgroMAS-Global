@@ -1,0 +1,7 @@
+{
+  "finding": "Projection contract caught7650nominalprefix/schedule rows exceeding220becauseCNbasal171wasomittedfromtheofflinebudgetfilter",
+  "correction": "RequirecommittedNplusremainingnominalplan<=220beforefitting;retainall44siteyears",
+  "prior_attempt": "No P2 adapter weights or native policy outcomes produced; superseded arrays and failure log preserved",
+  "new_hyperparameters": false,
+  "new_physics": false
+}

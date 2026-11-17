@@ -1,0 +1,1047 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        26
+      ]
+    ],
+    "date-time": "2026-10-26T19:50:53Z",
+    "timestamp": 1793044253852,
+    "version": "4.5.0"
+  },
+  "reference-count": 89,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2025-10-01T00:00:00Z",
+        "timestamp": 1759276800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2025-10-01T00:00:00Z",
+        "timestamp": 1759276800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            31
+          ]
+        ],
+        "date-time": "2025-05-31T00:00:00Z",
+        "timestamp": 1748649600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/100018693",
+      "name": "Horizon Europe",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/100018693",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Computers and Electronics in Agriculture"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        10
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.compag.2025.110554",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        4
+      ]
+    ],
+    "date-time": "2025-06-04T10:24:41Z",
+    "timestamp": 1749032681000
+  },
+  "page": "110554",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 10,
+  "special_numbering": "PA",
+  "title": [
+    "Adaptive fertilizer management for optimizing nitrogen use efficiency with constrained reinforcement learning"
+  ],
+  "prefix": "10.1016",
+  "volume": "237",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-6995-3817",
+      "authenticated-orcid": false,
+      "given": "Hilmy",
+      "family": "Baja",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4661-6674",
+      "authenticated-orcid": false,
+      "given": "Michiel G.J.",
+      "family": "Kallenberg",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1754-5061",
+      "authenticated-orcid": false,
+      "given": "Herman N.C.",
+      "family": "Berghuijs",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2764-0078",
+      "authenticated-orcid": false,
+      "given": "Ioannis N.",
+      "family": "Athanasiadis",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.compag.2025.110554_b1",
+      "series-title": "Engineering Tolerance in Crop Plants Against Abiotic Stress",
+      "first-page": "239",
+      "article-title": "Nutrient deficiency stress and relation with plant growth and development",
+      "author": "Abbas",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b2",
+      "series-title": "International Conference on Machine Learning",
+      "first-page": "22",
+      "article-title": "Constrained policy optimization",
+      "author": "Achiam",
+      "year": "2017"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b3",
+      "doi-asserted-by": "crossref",
+      "first-page": "9",
+      "DOI": "10.1006/jcrs.2002.0483",
+      "article-title": "Temperature, water and fertilizer influence the timing of key events during grain development in a us spring wheat",
+      "volume": "37",
+      "author": "Altenbach",
+      "year": "2003",
+      "journal-title": "J. Cereal Sci."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b4",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.artint.2021.103500",
+      "article-title": "A survey of inverse reinforcement learning: Challenges, methods and progress",
+      "volume": "297",
+      "author": "Arora",
+      "year": "2021",
+      "journal-title": "Artificial Intelligence"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b5",
+      "series-title": "To measure or not: A cost-sensitive, selective measuring environment for agricultural management decisions with reinforcement learning",
+      "author": "Baja",
+      "year": "2025"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b6",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.eja.2024.127099",
+      "article-title": "Expanding the wofost crop model to explore options for sustainable nitrogen management: A study for winter wheat in the Netherlands",
+      "volume": "154",
+      "author": "Berghuijs",
+      "year": "2024",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b7",
+      "doi-asserted-by": "crossref",
+      "first-page": "614",
+      "DOI": "10.1614/WS-03-104R",
+      "article-title": "Nitrogen fertilizer timing and application method affect weed growth and competition with spring wheat",
+      "volume": "52",
+      "author": "Blackshaw",
+      "year": "2004",
+      "journal-title": "Weed Sci."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b8",
+      "doi-asserted-by": "crossref",
+      "first-page": "209",
+      "DOI": "10.1080/00401706.1986.10488128",
+      "article-title": "Generalized simulated annealing for function optimization",
+      "volume": "28",
+      "author": "Bohachevsky",
+      "year": "1986",
+      "journal-title": "Technometrics"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b9",
+      "series-title": "Proceedings of the 37th AAAI Conference on Artificial Intelligence",
+      "first-page": "5920",
+      "article-title": "The perils of trial-and-error reward design: Misdesign through overfitting and invalid task specifications",
+      "author": "Booth",
+      "year": "2023"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b10",
+      "series-title": "Use of Nitrogen from Manure",
+      "first-page": "221",
+      "author": "Bouldin",
+      "year": "1984"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b11",
+      "doi-asserted-by": "crossref",
+      "first-page": "1919",
+      "DOI": "10.1038/s41467-025-56573-8",
+      "article-title": "Artificial intelligence for modeling and understanding extreme weather and climate events",
+      "volume": "16",
+      "author": "Camps-Valls",
+      "year": "2025",
+      "journal-title": "Nat. Commun."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b12",
+      "doi-asserted-by": "crossref",
+      "first-page": "168",
+      "DOI": "10.1016/j.agsy.2018.05.002",
+      "article-title": "Improving wofost model to simulate winter wheat phenology in Europe: Evaluation and effects on yield",
+      "volume": "168",
+      "author": "Ceglar",
+      "year": "2019",
+      "journal-title": "Agricult. Sys."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b13",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.1007/BF01442131",
+      "article-title": "Pareto optimality in multiobjective problems",
+      "volume": "4",
+      "author": "Censor",
+      "year": "1977",
+      "journal-title": "Appl. Math. Optim."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b14",
+      "doi-asserted-by": "crossref",
+      "first-page": "486",
+      "DOI": "10.1038/nature13609",
+      "article-title": "Producing more grain with lower environmental costs",
+      "volume": "514",
+      "author": "Chen",
+      "year": "2014",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b15",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.agwat.2024.109194",
+      "article-title": "Enhancing cotton irrigation with distributional actor\u2013critic reinforcement learning",
+      "volume": "307",
+      "author": "Chen",
+      "year": "2025",
+      "journal-title": "Agricult. Water. Manag."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b16",
+      "doi-asserted-by": "crossref",
+      "first-page": "11",
+      "DOI": "10.3390/agronomy14010011",
+      "article-title": "A decision-making system for cotton irrigation based on reinforcement learning strategy",
+      "volume": "14",
+      "author": "Chen",
+      "year": "2023",
+      "journal-title": "Agronomy"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b17",
+      "series-title": "Stikstofdepositie",
+      "first-page": "1990",
+      "author": "CLO",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b18",
+      "doi-asserted-by": "crossref",
+      "first-page": "140",
+      "DOI": "10.1016/j.fcr.2009.12.004",
+      "article-title": "In-season nitrogen management strategy for winter wheat: Maximizing yields, minimizing environmental impact in an over-fertilization context",
+      "volume": "116",
+      "author": "Cui",
+      "year": "2010",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b19",
+      "series-title": "The Python crop simulation environment",
+      "author": "de Wit",
+      "year": "2023"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b20",
+      "doi-asserted-by": "crossref",
+      "first-page": "154",
+      "DOI": "10.1016/j.agsy.2018.06.018",
+      "article-title": "25 Years of the WOFOST cropping systems model",
+      "volume": "168",
+      "author": "De Wit",
+      "year": "2019",
+      "journal-title": "Agricult. Sys."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b21",
+      "series-title": "Reinforcement Learning Algorithms: Analysis and Applications",
+      "first-page": "25",
+      "article-title": "Reward function design in reinforcement learning",
+      "author": "Eschmann",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b22",
+      "series-title": "Nitrogen Use Efficiency (Nue) an Indicator for the Utilization of Nitrogen in Food Systems",
+      "author": "EU Nitrogen Expert Panel",
+      "year": "2015"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b23",
+      "first-page": "1",
+      "article-title": "Council directive 91/676/eec of 12 December 1991 concerning the protection of waters against pollution caused by nitrates from agricultural sources",
+      "volume": "L 375",
+      "author": "European Union",
+      "year": "1991",
+      "journal-title": "Off. J. Eur. Communities"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b24",
+      "first-page": "1",
+      "article-title": "Directive (eu) 2016/2284 of the European parliament and of the council of 14 December 2016 on the reduction of national emissions of certain atmospheric pollutants, amending directive 2003/35/ec and repealing directive 2001/81/ec",
+      "volume": "L 344",
+      "author": "European Union",
+      "year": "2016",
+      "journal-title": "Off. J. Eur. Communities"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b25",
+      "first-page": "11",
+      "article-title": "Reduction of nitrogen losses in winter wheat grown on light soils",
+      "author": "Faber",
+      "year": "2021",
+      "journal-title": "Agronomy"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b26",
+      "doi-asserted-by": "crossref",
+      "first-page": "97",
+      "DOI": "10.1016/S0065-2113(05)88004-6",
+      "article-title": "Enhancing nitrogen use efficiency in crop plants",
+      "volume": "88",
+      "author": "Fageria",
+      "year": "2005",
+      "journal-title": "Adv. Agron."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b27",
+      "article-title": "The International Code of Conduct for the sustainable use and management of fertilizers",
+      "author": "FAO",
+      "year": "2019",
+      "journal-title": "Food Agric. Organ."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b28",
+      "unstructured": "Fetting, C., 2020. The European Green Deal. ESDN Report, December 2."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b29",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1287/mnsc.27.1.1",
+      "article-title": "The lagrangian relaxation method for solving integer programming problems",
+      "volume": "27",
+      "author": "Fisher",
+      "year": "1981",
+      "journal-title": "Manag. Sci."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b30",
+      "series-title": "Netherlands: Dutch Parliament Approves Law To Reduce Nitrogen Emissions",
+      "author": "Flach",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b31",
+      "first-page": "1",
+      "article-title": "Precision agriculture: Crop management for improved productivity and reduced environmental impact or improved sustainability",
+      "volume": "4",
+      "author": "Fountas",
+      "year": "2015",
+      "journal-title": "Supply Chain Manag. Sustain. Food Netw."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b32",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.eja.2022.126718",
+      "article-title": "Efficiency of assimilating leaf area index into a soybean model to assess within-field yield variability",
+      "volume": "143",
+      "author": "Gaso",
+      "year": "2023",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b33",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.compag.2022.107182",
+      "article-title": "Reinforcement learning for crop management support: Review, prospects and challenges",
+      "volume": "200",
+      "author": "Gautron",
+      "year": "2022",
+      "journal-title": "Comput. Electron. Agric."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b34",
+      "series-title": "gym-DSSAT: a crop model turned into a reinforcement learning environment",
+      "author": "Gautron",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b35",
+      "series-title": "Nitrogen Fixation in Tropical Cropping Systems",
+      "author": "Giller",
+      "year": "2001"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b36",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.atech.2024.100512",
+      "article-title": "Current applications and potential future directions of reinforcement learning-based digital twins in agriculture",
+      "author": "Goldenits",
+      "year": "2024",
+      "journal-title": "Smart Agric. Technol."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b37",
+      "series-title": "Nitrogen Turnover in the Soil-Crop System: Modelling of Biological Transformations, Transport of Nitrogen and Nitrogen Use Efficiency",
+      "first-page": "349",
+      "article-title": "Response of wheat to nitrogen fertilization, a data set to validate simulation models for nitrogen dynamics in crop and soil",
+      "author": "Groot",
+      "year": "1991"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b38",
+      "doi-asserted-by": "crossref",
+      "first-page": "16",
+      "DOI": "10.21273/HORTTECH.19.1.16",
+      "article-title": "Slow-release nitrogen fertilizers in vegetable production: a review",
+      "volume": "19",
+      "author": "Guertal",
+      "year": "2009",
+      "journal-title": "HortTechnology"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b39",
+      "doi-asserted-by": "crossref",
+      "first-page": "26",
+      "DOI": "10.1007/s10458-022-09552-y",
+      "article-title": "A practical guide to multi-objective reinforcement learning and planning",
+      "volume": "36",
+      "author": "Hayes",
+      "year": "2022",
+      "journal-title": "Auton. Agents Multi-Agent Syst."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b40",
+      "series-title": "Exploration via elliptical episodic bonuses",
+      "author": "Henaff",
+      "year": "2023"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b41",
+      "doi-asserted-by": "crossref",
+      "first-page": "336",
+      "DOI": "10.1016/j.geoderma.2007.02.012",
+      "article-title": "Temporal and spatial variability of soil organic matter and total nitrogen in an agricultural ecosystem as affected by farming practices",
+      "volume": "139",
+      "author": "Huang",
+      "year": "2007",
+      "journal-title": "Geoderma"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b42",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1088/1748-9326/11/3/034003",
+      "article-title": "Changes in yield variability of major crops for 1981\u20132010 explained by climate change",
+      "volume": "11",
+      "author": "Iizumi",
+      "year": "2016",
+      "journal-title": "Environ. Res. Lett."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b43",
+      "series-title": "Safety-gymnasium: A unified safe reinforcement learning Benchmark",
+      "author": "Ji",
+      "year": "2023"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b44",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/eds.2023.28",
+      "article-title": "Nitrogen management with reinforcement learning and crop growth models",
+      "volume": "2",
+      "author": "Kallenberg",
+      "year": "2023",
+      "journal-title": "Environ. Data Sci."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b45",
+      "first-page": "12",
+      "article-title": "Nitrogen surplus\u2014a unified indicator for water pollution in europe?",
+      "author": "Klages",
+      "year": "2020",
+      "journal-title": "Water"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b46",
+      "doi-asserted-by": "crossref",
+      "first-page": "287",
+      "DOI": "10.4141/P98-139",
+      "article-title": "Within-season grass yield and nitrogen uptake, and soil nitrogen as affected by nitrogen applied at various rates and distributions in a high rainfall environment",
+      "volume": "80",
+      "author": "Kowalenko",
+      "year": "2000",
+      "journal-title": "Can. J. Plant Sci."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b47",
+      "doi-asserted-by": "crossref",
+      "first-page": "1068",
+      "DOI": "10.1038/nclimate2437",
+      "article-title": "Climate-smart agriculture for food security",
+      "volume": "4",
+      "author": "Lipper",
+      "year": "2014",
+      "journal-title": "Nat. Clim. Chang."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b48",
+      "series-title": "The 30th International Joint Conference on Artificial Intelligence",
+      "first-page": "4508",
+      "article-title": "Policy learning with constraints in model-free reinforcement learning: A survey",
+      "author": "Liu",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b49",
+      "series-title": "Sambo-rl: Shifts-aware model-based offline reinforcement learning",
+      "author": "Luo",
+      "year": "2024"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b50",
+      "series-title": "A SWAT-based reinforcement learning framework for crop management",
+      "author": "Madondo",
+      "year": "2023"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b51",
+      "series-title": "AIAFS 2023-Artificial Intelligence for Agriculture and Food Systems",
+      "first-page": "7",
+      "article-title": "Farm-gym: A modular reinforcement learning platform for stochastic agronomic games",
+      "author": "Maillard",
+      "year": "2023"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b52",
+      "series-title": "Nitrogen Use Efficiency and Nutrient Performance Indicators",
+      "first-page": "14",
+      "author": "Norton",
+      "year": "2015"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b53",
+      "series-title": "CropGym: a reinforcement learning environment for crop management",
+      "author": "Overweg",
+      "year": "2021"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b54",
+      "series-title": "International Conference on Machine Learning",
+      "first-page": "2778",
+      "article-title": "Curiosity-driven exploration by self-supervised prediction",
+      "author": "Pathak",
+      "year": "2017"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b55",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.compag.2020.105942",
+      "article-title": "Introducing digital twins to agriculture",
+      "volume": "184",
+      "author": "Pylianidis",
+      "year": "2021",
+      "journal-title": "Comput. Electron. Agric."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b56",
+      "series-title": "Stable baselines3",
+      "author": "Raffin",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b57",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.agsy.2024.104091",
+      "article-title": "Field monitoring reveals scope to reduce environmental impact of ware potato cultivation in the Netherlands without compromising yield",
+      "volume": "220",
+      "author": "Ravensbergen",
+      "year": "2024",
+      "journal-title": "Agricult. Sys."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b58",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3389/fenvs.2022.955142",
+      "article-title": "Contrasting corn yield responses to nitrogen fertilization in southeast coastal plain soils",
+      "volume": "10",
+      "author": "Raza",
+      "year": "2022",
+      "journal-title": "Front. Environ. Sci."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b59",
+      "first-page": "48",
+      "article-title": "A survey of multi-objective sequential decision-making",
+      "author": "Roijers",
+      "year": "2013",
+      "journal-title": "J. Artificial Intelligence Res."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b60",
+      "doi-asserted-by": "crossref",
+      "first-page": "133",
+      "DOI": "10.1111/j.1540-5915.1985.tb01479.x",
+      "article-title": "Concepts theory, and techniques principles of multiobjective optimization",
+      "volume": "16",
+      "author": "Rosenthal",
+      "year": "1985",
+      "journal-title": "Decis. Sci."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b61",
+      "series-title": "Proximal policy optimization algorithms",
+      "author": "Schulman",
+      "year": "2017"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b62",
+      "series-title": "A Stochastic Weather Generator for Use in Climate Impact Studies",
+      "first-page": "1",
+      "author": "Semenov",
+      "year": "2002"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b63",
+      "series-title": "Towards Zero Hunger: Partnerships for Impact",
+      "first-page": "1",
+      "article-title": "Benchmarking nitrogen use efficiency of ware potato and winter wheat cropping systems in the Netherlands",
+      "author": "Silva",
+      "year": "2018"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b64",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.fcr.2021.108176",
+      "article-title": "Agronomic analysis of nitrogen performance indicators in intensive arable cropping systems: An appraisal of big data from commercial farms",
+      "volume": "269",
+      "author": "Silva",
+      "year": "2021",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b65",
+      "series-title": "Observational overfitting in reinforcement learning",
+      "author": "Song",
+      "year": "2019"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b66",
+      "series-title": "Reinforcement Learning: An Introduction",
+      "author": "Sutton",
+      "year": "2018"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b67",
+      "doi-asserted-by": "crossref",
+      "first-page": "123",
+      "DOI": "10.1300/J064v26n01_10",
+      "article-title": "Global soil nutrient depletion and yield reduction",
+      "volume": "26",
+      "author": "Tan",
+      "year": "2005",
+      "journal-title": "J. Sustain. Agric."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b68",
+      "series-title": "Optimizing crop management with reinforcement learning and imitation learning",
+      "author": "Tao",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b69",
+      "first-page": "10",
+      "article-title": "Transfer learning for reinforcement learning domains: A survey",
+      "author": "Taylor",
+      "year": "2009",
+      "journal-title": "J. Mach. Learn. Res."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b70",
+      "series-title": "Reward constrained policy optimization",
+      "author": "Tessler",
+      "year": "2018"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b71",
+      "series-title": "Domain randomization for transferring deep neural networks from simulation to the real world",
+      "author": "Tobin",
+      "year": "2017"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b72",
+      "series-title": "Gymnasium: A standard interface for reinforcement learning environments",
+      "author": "Towers",
+      "year": "2024"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b73",
+      "doi-asserted-by": "crossref",
+      "first-page": "2655",
+      "DOI": "10.1111/gcb.12865",
+      "article-title": "The contribution of agriculture, forestry and other land use activities to global warming, 1990\u20132012",
+      "volume": "21",
+      "author": "Tubiello",
+      "year": "2015",
+      "journal-title": "Global Change Biol."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b74",
+      "first-page": "11396",
+      "article-title": "Learning long-term crop management strategies with CyclesGym",
+      "volume": "35",
+      "author": "Turchetta",
+      "year": "2022",
+      "journal-title": "Adv. Neural Inf. Process. Syst."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b75",
+      "doi-asserted-by": "crossref",
+      "first-page": "98",
+      "DOI": "10.1016/j.fcr.2015.03.005",
+      "article-title": "From field to atlas: upscaling of location-specific yield gap estimates",
+      "volume": "177",
+      "author": "van Bussel",
+      "year": "2015",
+      "journal-title": "Field Crop. Res."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b76",
+      "first-page": "65",
+      "article-title": "Soil mining: An unseen contributor to farm income in southern mali",
+      "author": "Van der Pol",
+      "year": "1992",
+      "journal-title": "Judge"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b77",
+      "doi-asserted-by": "crossref",
+      "first-page": "203",
+      "DOI": "10.1016/j.agsy.2018.06.009",
+      "article-title": "Performance of the MARS-crop yield forecasting system for the European Union: Assessing accuracy, in-season, and year-to-year improvements from 1993 to 2015",
+      "volume": "168",
+      "author": "Van der Velde",
+      "year": "2019",
+      "journal-title": "Agricult. Sys."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b78",
+      "doi-asserted-by": "crossref",
+      "first-page": "16",
+      "DOI": "10.1111/j.1475-2743.1989.tb00755.x",
+      "article-title": "WOFOST: a simulation model of crop production",
+      "volume": "5",
+      "author": "Van Diepen",
+      "year": "1989",
+      "journal-title": "Soil Use Manag."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b79",
+      "series-title": "agrimatie.nl. price development of fertilizer",
+      "author": "Wageningen Economic Research",
+      "year": "2023"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b80",
+      "series-title": "agrimatie.nl. price development of seeds and grains",
+      "author": "Wageningen Economic Research",
+      "year": "2023"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b81",
+      "first-page": "27",
+      "article-title": "Agronomic and environmental benefits of nutrient expert on maize and rice in Northeast China",
+      "author": "Wang",
+      "year": "2020",
+      "journal-title": "Environ. Sci. Pollut. Res."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b82",
+      "series-title": "Multiple Criteria Decision Making Theory and Application: Proceedings of the Third Conference Hagen/K\u00d6nigswinter, West Germany, August (1979) 20\u201324",
+      "first-page": "468",
+      "article-title": "The use of reference objectives in multiobjective optimization",
+      "author": "Wierzbicki",
+      "year": "1980"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b83",
+      "series-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "first-page": "1712",
+      "article-title": "Optimizing nitrogen management with deep reinforcement learning and crop simulations",
+      "author": "Wu",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b84",
+      "first-page": "12",
+      "article-title": "The thresholds and management of irrigation and fertilization earning yields and water use efficiency in maize, wheat, and rice in China: A meta-analysis (1990\u20132020)",
+      "author": "Yang",
+      "year": "2022",
+      "journal-title": "Agronomy"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b85",
+      "doi-asserted-by": "crossref",
+      "first-page": "1339",
+      "DOI": "10.3390/agronomy14061339",
+      "article-title": "Effect of soil texture on soil nutrient status and rice nutrient absorption in paddy soils",
+      "volume": "14",
+      "author": "Ye",
+      "year": "2024",
+      "journal-title": "Agronomy"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b86",
+      "doi-asserted-by": "crossref",
+      "first-page": "51",
+      "DOI": "10.1038/nature15743",
+      "article-title": "Managing nitrogen for sustainable development",
+      "volume": "528",
+      "author": "Zhang",
+      "year": "2015",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b87",
+      "series-title": "A study on overfitting in deep reinforcement learning",
+      "author": "Zhang",
+      "year": "2018"
+    },
+    {
+      "issue": "25088",
+      "key": "10.1016/j.compag.2025.110554_b88",
+      "article-title": "Significant accumulation of nitrate in Chinese semi-humid croplands",
+      "volume": "6",
+      "author": "Zhou",
+      "year": "2016",
+      "journal-title": "Sci. Rep."
+    },
+    {
+      "key": "10.1016/j.compag.2025.110554_b89",
+      "series-title": "2023 IEEE International Conference on Robotics and Automation",
+      "first-page": "7176",
+      "article-title": "Real world offline reinforcement learning with realistic data source",
+      "author": "Zhou",
+      "year": "2023"
+    }
+  ],
+  "container-title": [
+    "Computers and Electronics in Agriculture"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S016816992500660X?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S016816992500660X?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        4
+      ]
+    ],
+    "date-time": "2025-11-04T12:04:23Z",
+    "timestamp": 1762257863000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S016816992500660X"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10
+      ]
+    ]
+  },
+  "references-count": 89,
+  "alternative-id": [
+    "S016816992500660X"
+  ],
+  "URL": "https://doi.org/10.1016/j.compag.2025.110554",
+  "relation": {},
+  "ISSN": [
+    "0168-1699"
+  ],
+  "issn-type": [
+    {
+      "value": "0168-1699",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        10
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Adaptive fertilizer management for optimizing nitrogen use efficiency with constrained reinforcement learning",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Computers and Electronics in Agriculture",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.compag.2025.110554",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "\u00a9 2025 The Authors. Published by Elsevier B.V.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "110554"
+}

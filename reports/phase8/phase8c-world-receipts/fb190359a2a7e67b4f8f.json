@@ -1,0 +1,26 @@
+{
+  "world": [
+    "china_ncp_luancheng",
+    2023,
+    "Historical",
+    "NASA"
+  ],
+  "native_simulations": 1,
+  "unique_executed_trajectories": 1,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "sha256": "40706a2df11c01b6f4c78f4d5665154ddcca9f5c95afa7ec680aa1e2afe99530"
+    }
+  ],
+  "complete_requested_paths": 1,
+  "cases_replayed": 152,
+  "public_prefix_nodes": 3,
+  "prefix_decisions_replayed": 456,
+  "worker": 9,
+  "cases": 153
+}

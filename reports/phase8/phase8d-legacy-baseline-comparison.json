@@ -1,0 +1,14 @@
+{
+  "NUE_premerge_commit": "c3f5d3d481b32268051d77c02364eed7fdff1f28",
+  "root_premerge_commit": "adc38b3359803293747b28de58dfaf8360b1accc",
+  "selected_legacy_test_failures_before_merge": 9,
+  "selected_legacy_test_failures_in_Phase8D_full_compatibility_run": 9,
+  "same_failed_test_ids": true,
+  "canonical_active_suite": {
+    "passed": 232,
+    "failed": 0,
+    "skipped": 0
+  },
+  "log": "reports/phase8/phase8d-premerge-primary-legacy-baseline.log",
+  "interpretation": "All9 failing compatibility test IDs already fail on unchanged primary before merging; failure details include environment/fixture differences. No claim of an all-directory passing suite."
+}

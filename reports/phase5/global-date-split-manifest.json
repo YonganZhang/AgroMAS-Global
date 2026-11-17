@@ -1,0 +1,334 @@
+{
+  "acquisition_cutoff": "2026-11-01",
+  "heldout_unlocked": false,
+  "regions": {
+    "australia_wa_perth": {
+      "calibration_outputs_seen": false,
+      "envelope": "NH Sep1(previous)-Aug31(harvest);SH Jan1-Dec31(harvest)",
+      "method": "Date-only fixed cutoffs Train<=2009,Dev2010-2014,Held-Out>=2015;NLindependent>=2022",
+      "raw_weather_sha256": "39ff5d144d0dc8fc372918d130c09f45f8182320bf80a47a634b47cace3efbae",
+      "region_id": "australia_wa_perth",
+      "rejected": [
+        {
+          "harvest_year": 2026,
+          "missing_count": 60,
+          "reason": "incomplete_date_envelope"
+        }
+      ],
+      "roles": {
+        "Dev": [
+          2010,
+          2011,
+          2012,
+          2013,
+          2014
+        ],
+        "Held-Out": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ],
+        "Public-Reused-Benchmark": [],
+        "Train": [
+          1984,
+          1985,
+          1986,
+          1987,
+          1988,
+          1989,
+          1990,
+          1991,
+          1992,
+          1993,
+          1994,
+          1995,
+          1996,
+          1997,
+          1998,
+          1999,
+          2000,
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009
+        ]
+      }
+    },
+    "china_ncp_luancheng": {
+      "calibration_outputs_seen": false,
+      "envelope": "NH Sep1(previous)-Aug31(harvest);SH Jan1-Dec31(harvest)",
+      "method": "Date-only fixed cutoffs Train<=2009,Dev2010-2014,Held-Out>=2015;NLindependent>=2022",
+      "raw_weather_sha256": "703f833fccf9ddd95c0a94b87e81b4856c24e7ff0ca9dc0a7d6100ea697e5b42",
+      "region_id": "china_ncp_luancheng",
+      "rejected": [
+        {
+          "harvest_year": 1984,
+          "missing_count": 122,
+          "reason": "incomplete_date_envelope"
+        }
+      ],
+      "roles": {
+        "Dev": [
+          2010,
+          2011,
+          2012,
+          2013,
+          2014
+        ],
+        "Held-Out": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "Public-Reused-Benchmark": [],
+        "Train": [
+          1985,
+          1986,
+          1987,
+          1988,
+          1989,
+          1990,
+          1991,
+          1992,
+          1993,
+          1994,
+          1995,
+          1996,
+          1997,
+          1998,
+          1999,
+          2000,
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009
+        ]
+      }
+    },
+    "france_paris_beauce": {
+      "calibration_outputs_seen": false,
+      "envelope": "NH Sep1(previous)-Aug31(harvest);SH Jan1-Dec31(harvest)",
+      "method": "Date-only fixed cutoffs Train<=2009,Dev2010-2014,Held-Out>=2015;NLindependent>=2022",
+      "raw_weather_sha256": "72ec670007cb07b5bd66f532e04c4d987a1872ef79ee117ce14baf1e17be7b83",
+      "region_id": "france_paris_beauce",
+      "rejected": [
+        {
+          "harvest_year": 1984,
+          "missing_count": 122,
+          "reason": "incomplete_date_envelope"
+        }
+      ],
+      "roles": {
+        "Dev": [
+          2010,
+          2011,
+          2012,
+          2013,
+          2014
+        ],
+        "Held-Out": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "Public-Reused-Benchmark": [],
+        "Train": [
+          1985,
+          1986,
+          1987,
+          1988,
+          1989,
+          1990,
+          1991,
+          1992,
+          1993,
+          1994,
+          1995,
+          1996,
+          1997,
+          1998,
+          1999,
+          2000,
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009
+        ]
+      }
+    },
+    "netherlands_lelystad": {
+      "calibration_outputs_seen": false,
+      "envelope": "NH Sep1(previous)-Aug31(harvest);SH Jan1-Dec31(harvest)",
+      "method": "Date-only fixed cutoffs Train<=2009,Dev2010-2014,Held-Out>=2015;NLindependent>=2022",
+      "raw_weather_sha256": "7ded8a8b926e5e4906d47185c1746783c335caf3391a345ca3a2f1a06970ee67",
+      "region_id": "netherlands_lelystad",
+      "rejected": [
+        {
+          "harvest_year": 1984,
+          "missing_count": 122,
+          "reason": "incomplete_date_envelope"
+        }
+      ],
+      "roles": {
+        "Dev": [
+          2010,
+          2011,
+          2012,
+          2013,
+          2014
+        ],
+        "Held-Out": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "Public-Reused-Benchmark": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021
+        ],
+        "Train": [
+          1985,
+          1986,
+          1987,
+          1988,
+          1989,
+          1990,
+          1991,
+          1992,
+          1993,
+          1994,
+          1995,
+          1996,
+          1997,
+          1998,
+          1999,
+          2000,
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009
+        ]
+      }
+    },
+    "usa_kansas_wichita": {
+      "calibration_outputs_seen": false,
+      "envelope": "NH Sep1(previous)-Aug31(harvest);SH Jan1-Dec31(harvest)",
+      "method": "Date-only fixed cutoffs Train<=2009,Dev2010-2014,Held-Out>=2015;NLindependent>=2022",
+      "raw_weather_sha256": "8ac1a5866cfc0409ec0461432bd01c38745fff6b2cc64c03096679104bc3d8aa",
+      "region_id": "usa_kansas_wichita",
+      "rejected": [
+        {
+          "harvest_year": 1984,
+          "missing_count": 122,
+          "reason": "incomplete_date_envelope"
+        }
+      ],
+      "roles": {
+        "Dev": [
+          2010,
+          2011,
+          2012,
+          2013,
+          2014
+        ],
+        "Held-Out": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "Public-Reused-Benchmark": [],
+        "Train": [
+          1985,
+          1986,
+          1987,
+          1988,
+          1989,
+          1990,
+          1991,
+          1992,
+          1993,
+          1994,
+          1995,
+          1996,
+          1997,
+          1998,
+          1999,
+          2000,
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009
+        ]
+      }
+    }
+  },
+  "rule": "No yield/soil/calendar/forecast calibration output used to assign roles",
+  "status": "date_metadata_frozen_before_regional_simulation"
+}

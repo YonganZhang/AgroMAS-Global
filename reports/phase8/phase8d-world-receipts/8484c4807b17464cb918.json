@@ -1,0 +1,101 @@
+{
+  "world": [
+    "france_paris_beauce",
+    2025,
+    "idealized_mid",
+    "NASA"
+  ],
+  "native_simulations": 7,
+  "unique_native_executed_trajectories": 7,
+  "unique_executed_trajectories": 10,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        20.0,
+        100.0,
+        100.0
+      ],
+      "sha256": "ece70d1ede5140ec09efc40eae7391622e57995d805a90b0c8f9f3f02b75ded6"
+    },
+    {
+      "doses": [
+        60.0,
+        60.0,
+        80.0
+      ],
+      "sha256": "492dfd0c37be8503b6eda96dc5f282f37c734e08c4d0567dbaaa4613cbb0221f"
+    },
+    {
+      "doses": [
+        60.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "f795bc2ca2bbe42764093918f5888a5678367c1d71076860714a00adb9cc01ee"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "8fdc52096ec126eddf4f8ecf386b42712c1ac74164ebbceb3d6adf28eeb98a92"
+    },
+    {
+      "doses": [
+        60.0,
+        0.0,
+        80.0
+      ],
+      "sha256": "442ca45c30a5d93ce1eb9cf81dd9f3feadf247fe4ff3a6658592c936cf589a24"
+    },
+    {
+      "doses": [
+        100.0,
+        60.0,
+        60.0
+      ],
+      "sha256": "f99fc15f03f68663585f8de837b4822f7ee60dc17670dae2bd3b81f0134d38c3"
+    },
+    {
+      "doses": [
+        100.0,
+        20.0,
+        60.0
+      ],
+      "sha256": "d5c9e517c671ba2f61fdf3745a3b638ff2cd6cd7f4919ef9ec4bfc341b513310"
+    },
+    {
+      "doses": [
+        80.0,
+        20.0,
+        60.0
+      ],
+      "sha256": "7b37e193e981b61e095e377a7ed32b8ab296ae2ef2c430fc0e67e3f6d5435a9e"
+    },
+    {
+      "doses": [
+        100.0,
+        80.0,
+        40.0
+      ],
+      "sha256": "ac035ddc70687aa6ba815586e6c3d377798dc385c1c719193f82494f31d8f86b"
+    },
+    {
+      "doses": [
+        100.0,
+        100.0,
+        20.0
+      ],
+      "sha256": "5a90b6a2482efeb074203131c9933848c9675c4e46a6f2695a1af8351bc7eca1"
+    }
+  ],
+  "complete_requested_paths": 10,
+  "cases_replayed": 83,
+  "public_prefix_nodes": 12,
+  "prefix_decisions_replayed": 258,
+  "archived_records_verified": 90,
+  "archived_requested_paths": 6,
+  "worker": 5,
+  "cases": 90
+}

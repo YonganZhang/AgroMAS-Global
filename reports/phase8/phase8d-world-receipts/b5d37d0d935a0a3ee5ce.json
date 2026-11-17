@@ -1,0 +1,189 @@
+{
+  "world": [
+    "france_paris_beauce",
+    2021,
+    "Historical",
+    "NASA"
+  ],
+  "native_simulations": 14,
+  "unique_native_executed_trajectories": 14,
+  "unique_executed_trajectories": 21,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        100.0,
+        20.0,
+        100.0
+      ],
+      "sha256": "8d626bd7e79cde0b37038dab6b3d43752384345a49bdca8514cb0315dc520d11"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "f31c7a526d70a8edf4281e83aae35fecd1066888a1a0d802c23476e72f1830e1"
+    },
+    {
+      "doses": [
+        100.0,
+        100.0,
+        20.0
+      ],
+      "sha256": "ad9dda79860cfde9d97a2f5745277778aae538b4a1633f39f6af2298f90171bf"
+    },
+    {
+      "doses": [
+        20.0,
+        100.0,
+        100.0
+      ],
+      "sha256": "9ce38987ef3d1baab966bec377aa4e0d001fc84f973bce643f669269cc2cc71d"
+    },
+    {
+      "doses": [
+        100.0,
+        40.0,
+        80.0
+      ],
+      "sha256": "2acb489f40f33e29d6efa4bd4febfd0c382b478a7dc7d2f6bbcb3d22a3e4482c"
+    },
+    {
+      "doses": [
+        80.0,
+        60.0,
+        40.0
+      ],
+      "sha256": "16913509e33eda4adead634f891b32f3ae434f2eab68433b6f839e1684470a0b"
+    },
+    {
+      "doses": [
+        80.0,
+        40.0,
+        100.0
+      ],
+      "sha256": "93d8895088c2dd456268a372bd08d0bc9548edcdfcb5673bfcfbb3cab53a7436"
+    },
+    {
+      "doses": [
+        60.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "57427931a954557215667d3293a20a91d702ccf9b92a917633c990d17127bf94"
+    },
+    {
+      "doses": [
+        100.0,
+        40.0,
+        40.0
+      ],
+      "sha256": "136c2c62bbf1d90e462a8da92f52893b4d310ebfdefde22a99bc61c695041443"
+    },
+    {
+      "doses": [
+        40.0,
+        80.0,
+        100.0
+      ],
+      "sha256": "67a67ff221552f29b9f123cba9c16145f23c554c66bb5feaac62ee1a1d259f05"
+    },
+    {
+      "doses": [
+        100.0,
+        80.0,
+        40.0
+      ],
+      "sha256": "3381eb67de7fc4d4c2c7a3b6ac27e6e76480a4294a7acd26bcef0e2d19d5262e"
+    },
+    {
+      "doses": [
+        100.0,
+        40.0,
+        10.0
+      ],
+      "sha256": "7020c9c9dbf85858b369f6e146ad7cd1b153af11673f3b25b9fb11f83b6c644d"
+    },
+    {
+      "doses": [
+        80.0,
+        60.0,
+        0.0
+      ],
+      "sha256": "d6bc5ffcac8c7be62d0dabc04faeb3ba5a64f633f0cd3253b9d48707b785638e"
+    },
+    {
+      "doses": [
+        60.0,
+        40.0,
+        20.0
+      ],
+      "sha256": "d66f8805ff1a2b9bb8aca6bc48f66ab54cdd68236103d36d7d3a14cbd63aa3a9"
+    },
+    {
+      "doses": [
+        80.0,
+        40.0,
+        0.0
+      ],
+      "sha256": "561eae5fc8384a85c3121875d8a0f73d73f11d028858616b783e9cf51de0eac2"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        20.0
+      ],
+      "sha256": "34ded976d3be1104e6b6bc09a2da7767d4dc7afc607be0574889c4d03c98825f"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        0.0
+      ],
+      "sha256": "8fa2a2d9f53d10892470a7aeefb802e06966a9290a50cbdca445feaeb36a986d"
+    },
+    {
+      "doses": [
+        100.0,
+        80.0,
+        0.0
+      ],
+      "sha256": "471366a00cf557b59035219f5232d61fc57268a2e48fec4e2be56366ca606b45"
+    },
+    {
+      "doses": [
+        80.0,
+        60.0,
+        80.0
+      ],
+      "sha256": "99b11835bc1889e34fe45efdbbd00f7120ffbdd59efb3e4812dce6674b99e163"
+    },
+    {
+      "doses": [
+        60.0,
+        100.0,
+        60.0
+      ],
+      "sha256": "755edb1256105623325976148ca118e7a601a584d6fe4804673fadafc59dd904"
+    },
+    {
+      "doses": [
+        100.0,
+        60.0,
+        60.0
+      ],
+      "sha256": "b2e551b717ee9360679ba6f11e09b8062f6625c2bad311062b48a8768ed39270"
+    }
+  ],
+  "complete_requested_paths": 21,
+  "cases_replayed": 151,
+  "public_prefix_nodes": 17,
+  "prefix_decisions_replayed": 478,
+  "archived_records_verified": 157,
+  "archived_requested_paths": 13,
+  "worker": 7,
+  "cases": 165
+}

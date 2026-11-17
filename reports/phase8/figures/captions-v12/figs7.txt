@@ -1,0 +1,2 @@
+Supplementary complete 180-cell factorial advantage surface across three climate regimes. Heatmaps display paired compliance differences between soft-coupled control and masked reinforcement learning with black outlines marking the 90 canonical continuity cells.
+三类气候情景下完整180格全因子优势曲面补充图。热图完整保留软耦合与掩码强化学习的逐格差值，黑框标示90个核心连续性检查单元。

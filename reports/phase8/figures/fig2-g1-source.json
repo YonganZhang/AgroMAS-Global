@@ -1,0 +1,78 @@
+{
+  "sources": {
+    "reports/phase8/phase8b-G1-verdict.json": "cecfbd68835e0adaeb65ea3a3dfc929eca03396bcf1a6511424def319a410540",
+    "reports/phase8/phase8b-full-TRAIN-physical-decoding.json": "8200496edef187a69a6a757cdae3fc9fcdcf473e5a4b23f56af57ea1a5b3c8f9"
+  },
+  "values": {
+    "Full-Telemetry": {
+      "upper_surplus_BSS": [
+        0.14818017015944185,
+        0.16752830709597666,
+        0.17419157894679638,
+        0.20754273453419048
+      ],
+      "joint_BSS": [
+        0.099453442829333,
+        0.15247894114018634,
+        0.17149279148969976,
+        0.16266764630215957
+      ],
+      "coverage": [
+        0.8945717234262127,
+        1.0,
+        1.0,
+        1.0,
+        0.7393188854489164,
+        0.7335397316821466
+      ],
+      "regret": [
+        3.7259523951007494,
+        8.183989310080737
+      ]
+    },
+    "Sensorless": {
+      "upper_surplus_BSS": [
+        0.06194983566396339,
+        0.09637689176921371,
+        0.064100889480731,
+        0.08011932569574598
+      ],
+      "joint_BSS": [
+        0.05723480678521786,
+        0.09217277672530844,
+        0.07460818832377758,
+        0.07887126147637191
+      ],
+      "coverage": [
+        0.9081940144478845,
+        1.0,
+        1.0,
+        0.9969040247678018,
+        0.8020639834881321,
+        0.7420020639834881
+      ],
+      "regret": [
+        4.914448530391842,
+        8.544425774000308
+      ]
+    },
+    "within_region_native_Nloss_R2": [
+      [
+        0.0758314736287089,
+        -67.03625091123388,
+        -1.6401185508384182,
+        -0.26603091875673424,
+        -0.9082749921646507
+      ],
+      [
+        0.008862551264157359,
+        -54.54879393707442,
+        -0.8636730284885445,
+        -0.3073245833959086,
+        -0.3220348682107428
+      ]
+    ]
+  },
+  "font": "/mnt/data/yongan-admin-2/.local/share/fonts/msttcorefonts/Times.TTF",
+  "scope": "MLP first registered architecture;G1 literal upper-surplus event;retrospective crossyear diagnostic;TRAIN decoding associations,not physical identification"
+}

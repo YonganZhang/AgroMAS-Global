@@ -1,0 +1,106 @@
+{
+  "world": [
+    "australia_wa_perth",
+    2025,
+    "idealized_high",
+    "NASA"
+  ],
+  "native_simulations": 11,
+  "unique_executed_trajectories": 11,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        40.0,
+        20.0,
+        40.0
+      ],
+      "sha256": "53fd595c562272662b6711d79150fa76b7d08d6216eed336c4438968874cda0d"
+    },
+    {
+      "doses": [
+        0.0,
+        20.0,
+        80.0
+      ],
+      "sha256": "a1e2bd80ca1959b8d5047c7ff3b98ae17b77613b289371d8b175f0262bc9c2c5"
+    },
+    {
+      "doses": [
+        60.0,
+        20.0,
+        20.0
+      ],
+      "sha256": "dc8f97597de627a3c922ab7c572e16b493ad01b30ebdd2bd24ff6acef6bcc776"
+    },
+    {
+      "doses": [
+        10.0,
+        100.0,
+        0.0
+      ],
+      "sha256": "305acb8673f720c0a49c83be854276eb32a603bdf145d317575b41b172eb4e47"
+    },
+    {
+      "doses": [
+        40.0,
+        10.0,
+        60.0
+      ],
+      "sha256": "0b4dd9073012eb5b66d6337641c726147a2cab83b30d80ce05e78d6e09899b26"
+    },
+    {
+      "doses": [
+        0.0,
+        80.0,
+        20.0
+      ],
+      "sha256": "6ba6dac9363881cc6fa057ef153e35d7b88466143babd7978622ace25f7f16a3"
+    },
+    {
+      "doses": [
+        0.0,
+        40.0,
+        80.0
+      ],
+      "sha256": "542de9335515f7a503b81bafaef2620153611405cb7ef4ea93122b2fd95f08f7"
+    },
+    {
+      "doses": [
+        0.0,
+        40.0,
+        60.0
+      ],
+      "sha256": "1913aa2a8bc6f2660d2822dd8e352c05585bf907a66bff609d1feed16a76c994"
+    },
+    {
+      "doses": [
+        40.0,
+        0.0,
+        60.0
+      ],
+      "sha256": "eb29ffd5da50e25b18a4a1dcba7b53c994111f0ab0bc3033b50e99f38f0ef990"
+    },
+    {
+      "doses": [
+        10.0,
+        10.0,
+        80.0
+      ],
+      "sha256": "463e67a560b65fae0351d06bd046ffcf9e449ea040ccd9b52b60e860560adba3"
+    },
+    {
+      "doses": [
+        10.0,
+        60.0,
+        20.0
+      ],
+      "sha256": "4574eb3251cfe33522a1af2f9c50e4bdb2fda9e904392528175b4eafe18e7027"
+    }
+  ],
+  "complete_requested_paths": 11,
+  "cases_replayed": 79,
+  "public_prefix_nodes": 15,
+  "prefix_decisions_replayed": 255,
+  "worker": 15,
+  "cases": 90
+}

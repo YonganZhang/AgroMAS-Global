@@ -1,0 +1,11 @@
+{
+  "v8_source": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/NUE_PCSE-Gym/pcse_gym/agromas_v8/models.py",
+  "v6_source": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/NUE_PCSE-Gym/pcse_gym/agromas_v6/core.py",
+  "pcse_source": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/pcse/pcse/__init__.py",
+  "python": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.venv/bin/python",
+  "torch": "2.15.0+cpu",
+  "scope": "canonical active tests/target plus all Phase8 tests; no exclusions or skips",
+  "exit_code": 0,
+  "elapsed_seconds": 62.89014151878655,
+  "crop_caches_restored": true
+}

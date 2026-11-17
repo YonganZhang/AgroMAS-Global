@@ -1,0 +1,36 @@
+{
+  "Claude_Opus55": "provider exit1; wrapperclassifiedQUOTA but underlyingeligibleprimaryMODEL_UNSUPPORTED, otheraccountsWEEK_EMPTY",
+  "quota_refreshed_once": true,
+  "current_Sonnet55": "explicit attempt rejected: noeligibleprovider; primaryMODEL_UNSUPPORTED, otheraccountsweeklyempty; no execution",
+  "legacy46_not_used": true,
+  "fallback": "Existing corrected DeepSeek Flash high review supplies authorized fallback; no duplicate extraDeepSeek job",
+  "coverage": "Claude absent, not accepted; Gemini/Kimi/DeepSeek stillrunning; finalcouncil may meetquorum3 butnotall4",
+  "raw_account_metadata_private": true,
+  "reason_is_not_general_quota_exhaustion": "Primary had nonzero weekly and five-hour balance but unsupportedcurrentmodel; alternativeaccountsweeklyempty. No recovery claimed.",
+  "inspected_at_UTC": "2026-11-15T12:57:27.967479+00:00",
+  "refresh_snapshot_updated_at": 1794747250.3794477,
+  "snapshot_fresh": true,
+  "sanitized_account_capabilities": [
+    {
+      "weekly_remaining": null,
+      "five_hour_remaining": null,
+      "sampled_at": 1794747253.1680033,
+      "current_Opus_supported": false,
+      "current_Sonnet_supported": false
+    },
+    {
+      "weekly_remaining": null,
+      "five_hour_remaining": null,
+      "sampled_at": 1794747256.0700052,
+      "current_Opus_supported": false,
+      "current_Sonnet_supported": false
+    },
+    {
+      "weekly_remaining": null,
+      "five_hour_remaining": null,
+      "sampled_at": 1794747259.087987,
+      "current_Opus_supported": false,
+      "current_Sonnet_supported": false
+    }
+  ]
+}

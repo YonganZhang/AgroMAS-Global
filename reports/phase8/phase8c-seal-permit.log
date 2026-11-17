@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8c/scripts/phase8c-seal-permit.py", line 20, in <module>
+    file=R/relative;assert sha(file)==digest,relative;unchanged_models[relative]=digest
+                           ^^^^^^^^^
+  File "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8c/scripts/phase8c-seal-permit.py", line 8, in sha
+    with p.open('rb') as f:
+         ^^^^^^^^^^^^
+  File "/mnt/data/yongan-admin-2/projects/自己-智慧农业-精准施肥智能体/cache/python/cpython-3.11.15-linux-x86_64-gnu/lib/python3.11/pathlib.py", line 1044, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8c/models/phase8-controls/PPO-Sensorless-seed29/model.zip'

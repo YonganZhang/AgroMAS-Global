@@ -1,0 +1,12 @@
+{
+  "seeds": [
+    4,
+    17,
+    29
+  ],
+  "decision_steps": 151552,
+  "source": "TRAIN1995\u20132009only",
+  "hyperparameters": "matchedv6defaults;noevalbasedextension",
+  "policy_inputs": "sensorlesscurrentprefix+frozencausalsurrogatestats;91D;nohiddenLAI/SM/uptake",
+  "new_NN_architecture_search": false
+}

@@ -1,0 +1,11 @@
+{
+  "substantive_blockers": 0,
+  "Kimi_path_suggestion": {
+    "disposition": "Not reproduced on JSON-decoded current path; path already names开源andexists. Serialized as readableUnicode withoutchangingdecodedvalue.",
+    "decoded_path": "/mnt/data/yongan-admin-2/projects/顶刊论文/智慧农业_选题与开源数据调研/MASTER_PLAN_AGROMAS_GLOBAL_TOP_JOURNAL.md",
+    "exists": true,
+    "sha256_matches": true
+  },
+  "DeepSeek_TOP_merge_note": "Will keep PRIMARY canonical TOP and add onlythe newdecision; no wholesale WT TOP checkout",
+  "plan_warnings": "RequiredlongQ8andpreexistingQ2titles, zeroerrors; no globalthresholdchanges"
+}

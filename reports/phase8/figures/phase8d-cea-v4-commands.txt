@@ -1,0 +1,11 @@
+Run from the actual checkout root; plotting scripts assert cwd matches their own checkout.
+/usr/bin/python3 scripts/phase8d-final-figures.py
+/usr/bin/python3 scripts/phase8d-supplement-figures.py
+/usr/bin/python3 scripts/phase8d-update-figure-metadata.py
+/usr/bin/python3 scripts/phase8d-verify-figure-redesign.py
+plan check
+
+All figure PNGs are450DPI; PDF/SVG companions retain editable vector text. Quantitative labels are queried from frozen data. User-requested numerical callouts explicitly override the default4-word annotation limit (caption guard18-word maximum); no set_title/suptitle is permitted. Historical paired tie counts are not equivalence tests or evidence of superiority. Data text/boundary/DPI audits do not replace direct PNG inspection.
+
+Fig1: two pure Image2 local edits from user-selected v3-3; originals/prompts and byte-identical best copy retained. Do not call any PPTX conversion or overwrite existing fig1-architecture artifacts. Regeneration of raw AI images is not a deterministic reproduction step.
+OptionA authorized by continue-5c6220be8081cb09.md: only Sensorless34.4% at cap50; Full/no-eco cap50 are Not evaluated. No new simulation. No manuscript compile or integration.

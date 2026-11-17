@@ -1,0 +1,93 @@
+{
+  "world": [
+    "netherlands_lelystad",
+    2016,
+    "Historical",
+    "WUR"
+  ],
+  "native_simulations": 7,
+  "unique_native_executed_trajectories": 7,
+  "unique_executed_trajectories": 9,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        100.0,
+        40.0,
+        80.0
+      ],
+      "sha256": "94b00600f81c0584ac4ec84cd4b4ead48ad402f4601dea6d5732025ef2c5fca7"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "079259db139646648aeea840d69c3b739c5be1d298d38bbc0cba3f3b75dc4dcb"
+    },
+    {
+      "doses": [
+        100.0,
+        100.0,
+        10.0
+      ],
+      "sha256": "526b6d84fbd9f61a882ddc3fc6098f2fddc220343adeddba2777210573f00f4e"
+    },
+    {
+      "doses": [
+        100.0,
+        20.0,
+        100.0
+      ],
+      "sha256": "825383ad623422dda1984a069fc7b5e857d9dc5fd5bd33dfc9ce2fc140971f8d"
+    },
+    {
+      "doses": [
+        80.0,
+        60.0,
+        60.0
+      ],
+      "sha256": "2356f6c6662e1f90268dd143cf03f791e63ea0a0f6e527af80a44d65134215bd"
+    },
+    {
+      "doses": [
+        80.0,
+        40.0,
+        80.0
+      ],
+      "sha256": "8121cab01f8425638151e346103b43986ffcc0e08af2734d62e0d2f408d05abe"
+    },
+    {
+      "doses": [
+        100.0,
+        100.0,
+        20.0
+      ],
+      "sha256": "a3e572424c4663057929448706aea7a9f642b8549e44dba2b910778fa5d21cb6"
+    },
+    {
+      "doses": [
+        60.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "33b9bf15ff00ce2f08413b3eec98523dbe169cf03c1d5019633ab26f35d4a547"
+    },
+    {
+      "doses": [
+        100.0,
+        60.0,
+        60.0
+      ],
+      "sha256": "b282a974db69372a07ce42be4b139d813ec530537899a845619b0b16315d25e2"
+    }
+  ],
+  "complete_requested_paths": 9,
+  "cases_replayed": 7,
+  "public_prefix_nodes": 11,
+  "prefix_decisions_replayed": 31,
+  "archived_records_verified": 7,
+  "archived_requested_paths": 3,
+  "worker": 12,
+  "cases": 14
+}

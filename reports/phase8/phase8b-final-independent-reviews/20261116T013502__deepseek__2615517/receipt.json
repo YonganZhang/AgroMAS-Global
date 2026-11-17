@@ -1,0 +1,11 @@
+{
+  "job_id": "20261116T013502__deepseek__2615517",
+  "process_exit_code": 0,
+  "complete": true,
+  "error_class": "NONE",
+  "proof": [
+    "2026-11-16T01:54:06+08:00\t1144\tdeepseek\tmodel_end\trc=0",
+    "2026-11-16T01:54:06+08:00\t1144\tdeepseek\tcomplete_marker_found\tresult.md complete"
+  ],
+  "original_result_sha256": "d19e5ea8fe172d384807789835163d37ca2538e44adc5b9d61a5bc75d9715f1b"
+}

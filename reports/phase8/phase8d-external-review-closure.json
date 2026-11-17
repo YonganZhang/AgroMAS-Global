@@ -1,0 +1,57 @@
+{
+  "status": "PASS_WITH_EXPLICIT_COVERAGE",
+  "initial_council_quorum": "Not met: Gemini timeout; retained, never counted as pass",
+  "coverage": "Completed DeepSeek source/scientific review plus cross-model reporting follow-up; completed Gemini7-image publication review, text/cohort/supplement closure and final2-image PASS. Remaining images unchanged. All concrete findings resolved without inference/model/outcome changes.",
+  "unresolved_material_findings": [],
+  "jobs": [
+    {
+      "job_id": "20261116T122110__gemini__1628864",
+      "disposition": "FAILED_TIMEOUT_NOT_COUNTED_AS_PASS",
+      "files": {
+        "reports/phase8/phase8d-review-broad-gemini-timeout-result.md": "c511b3aeac845447d18ffc2e8d16fcd007364b060f8aa06a52bb996359327a66",
+        "reports/phase8/phase8d-review-broad-gemini-timeout-status.md": "76a03810b2e65dcf9be94d6efdf813e332b18ee7e3bcbb8a23ccb140eccd2960"
+      }
+    },
+    {
+      "job_id": "20261116T122110__deepseek__1628866",
+      "disposition": "COMPLETE_REPORTING_FINDINGS_FIXED",
+      "files": {
+        "reports/phase8/phase8d-review-full-deepseek-result.md": "f4c6ea60b93abf8e0f5e13a6044c36bdae6095fdecb9561e0d094ad9c48565f2",
+        "reports/phase8/phase8d-review-full-deepseek-status.md": "42a68f39457d41dc4ab49510b5cb84299004b63c8f8c45e4947aee10b257dd92"
+      }
+    },
+    {
+      "job_id": "20261116T124000__deepseek__1988258",
+      "disposition": "F2_F5_PASS_F1_SUPPLEMENT_RESIDUAL_LATER_CLOSED",
+      "files": {
+        "reports/phase8/phase8d-review-deepseek-followup-result.md": "ba9ffadedc85cc46f2789bfa5f2b9b6dd172b0c5be25098b702cd0e590190750",
+        "reports/phase8/phase8d-review-deepseek-followup-status.md": "51957a51fb2fe68c65edb62f811a4ffc3a45f7f488c9512db5fadcc14867c3d1"
+      }
+    },
+    {
+      "job_id": "20261116T124150__gemini__2045537",
+      "disposition": "SCIENTIFIC_AND_STRATA_PASS_LAYOUT_FINDINGS_LATER_CLOSED",
+      "files": {
+        "reports/phase8/phase8d-review-gemini-publication-result.md": "25d857036bc1238f56f466efad10b3b8ae20dedea21f172a64e9c9e535fa13f7",
+        "reports/phase8/phase8d-review-gemini-publication-status.md": "80c87d650ead3d86991df96c0db14f8b6480cf8868eed5b0f9c1b34c96bbe625"
+      }
+    },
+    {
+      "job_id": "20261116T124846__gemini__2137353",
+      "disposition": "TEXT_AND_SUPPLEMENT_F1_PASS_TWO_VISUAL_RESIDUALS_LATER_CLOSED",
+      "files": {
+        "reports/phase8/phase8d-review-gemini-closure1-result.md": "82c105d89f30a46e07b42a39c63c1e33b7569dc9e71ad2df2b8e111e26a589c7",
+        "reports/phase8/phase8d-review-gemini-closure1-status.md": "ad619aa77626a34b80f5bd10fb02bdd4d4fd514729be5a1a869be54c9268d0b4"
+      }
+    },
+    {
+      "job_id": "20261116T125643__gemini__2279550",
+      "disposition": "PASS_NO_REMAINING_VISUAL_BLOCKERS",
+      "files": {
+        "reports/phase8/phase8d-review-gemini-visual-final-result.md": "d4f738d810f636fca466eea164799480e81127d81bf4e93960e7840f42715d56",
+        "reports/phase8/phase8d-review-gemini-visual-final-status.md": "8130721aa747a974f93efb00d992d082555f17d78f2eee3a664e51f6ed635f7c"
+      }
+    }
+  ],
+  "no_other_providers_invoked": true
+}

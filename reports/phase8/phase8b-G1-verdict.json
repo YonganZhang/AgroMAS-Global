@@ -1,0 +1,767 @@
+{
+  "status": "G1_PASS",
+  "passing_architectures": [
+    "mlp",
+    "residual-mlp"
+  ],
+  "results": {
+    "Full-Telemetry-mlp": {
+      "samples": 19770,
+      "unique_prefix_groups": 1200,
+      "caps": {
+        "25": {
+          "brier": 0.03714109448182107,
+          "tree_brier": 0.043602054308565535,
+          "climatology_brier": 0.07809979754217694,
+          "BSS_vs_ExtraTrees": 0.14818017015944185,
+          "BSS_vs_region_stage_climatology": 0.5244405792247614,
+          "additional_events": {
+            "surplus_corridor": {
+              "brier": 0.046951345062316435,
+              "BSS_vs_ExtraTrees": 0.12078007220266918,
+              "BSS_vs_climatology": 0.22133194195416417,
+              "TRAIN_all_climates_legal_base_rate": 0.09177204518630923,
+              "Dev_macro_base_rate": 0.06823529411764706,
+              "diagnostic_not_gate": true
+            },
+            "joint_surplus_and_NUE": {
+              "brier": 0.022998091063348422,
+              "BSS_vs_ExtraTrees": 0.099453442829333,
+              "BSS_vs_climatology": 0.09357392093728101,
+              "TRAIN_all_climates_legal_base_rate": 0.039065924801888384,
+              "Dev_macro_base_rate": 0.026873065015479876,
+              "diagnostic_not_gate": true
+            }
+          },
+          "primary_event": "S_N <= cap only, as literally specified; distinct from corridor and full joint compliance",
+          "TRAIN_all_climates_upper_surplus_base_rate": 0.679430112965773
+        },
+        "35": {
+          "brier": 0.0377651006315988,
+          "tree_brier": 0.04536502676728586,
+          "climatology_brier": 0.07407856982345382,
+          "BSS_vs_ExtraTrees": 0.16752830709597666,
+          "BSS_vs_region_stage_climatology": 0.4902020824429836,
+          "additional_events": {
+            "surplus_corridor": {
+              "brier": 0.05562327432870922,
+              "BSS_vs_ExtraTrees": 0.1588756471239149,
+              "BSS_vs_climatology": 0.27127186589706453,
+              "TRAIN_all_climates_legal_base_rate": 0.12446467712021582,
+              "Dev_macro_base_rate": 0.08928792569659444,
+              "diagnostic_not_gate": true
+            },
+            "joint_surplus_and_NUE": {
+              "brier": 0.036044859081031194,
+              "BSS_vs_ExtraTrees": 0.15247894114018634,
+              "BSS_vs_climatology": 0.1467399488784893,
+              "TRAIN_all_climates_legal_base_rate": 0.07020738492665655,
+              "Dev_macro_base_rate": 0.04569659442724458,
+              "diagnostic_not_gate": true
+            }
+          },
+          "primary_event": "S_N <= cap only, as literally specified; distinct from corridor and full joint compliance",
+          "TRAIN_all_climates_upper_surplus_base_rate": 0.7121227448996796
+        },
+        "40": {
+          "brier": 0.03769069210427086,
+          "tree_brier": 0.04564096362229103,
+          "climatology_brier": 0.07269383073418384,
+          "BSS_vs_ExtraTrees": 0.17419157894679638,
+          "BSS_vs_region_stage_climatology": 0.48151456975637086,
+          "additional_events": {
+            "surplus_corridor": {
+              "brier": 0.059197359738429794,
+              "BSS_vs_ExtraTrees": 0.17386672002807002,
+              "BSS_vs_climatology": 0.28691294518852895,
+              "TRAIN_all_climates_legal_base_rate": 0.13990895295902883,
+              "Dev_macro_base_rate": 0.09944272445820435,
+              "diagnostic_not_gate": true
+            },
+            "joint_surplus_and_NUE": {
+              "brier": 0.04061804149797571,
+              "BSS_vs_ExtraTrees": 0.17149279148969976,
+              "BSS_vs_climatology": 0.1671906607939373,
+              "TRAIN_all_climates_legal_base_rate": 0.085348170628899,
+              "Dev_macro_base_rate": 0.05362229102167183,
+              "diagnostic_not_gate": true
+            }
+          },
+          "primary_event": "S_N <= cap only, as literally specified; distinct from corridor and full joint compliance",
+          "TRAIN_all_climates_upper_surplus_base_rate": 0.7275670207384927
+        },
+        "50": {
+          "brier": 0.033556538759228385,
+          "tree_brier": 0.04234491905314758,
+          "climatology_brier": 0.0676855119648207,
+          "BSS_vs_ExtraTrees": 0.20754273453419048,
+          "BSS_vs_region_stage_climatology": 0.5042286334973831,
+          "additional_events": {
+            "surplus_corridor": {
+              "brier": 0.06184976147594666,
+              "BSS_vs_ExtraTrees": 0.1893831450537966,
+              "BSS_vs_climatology": 0.372026316862198,
+              "TRAIN_all_climates_legal_base_rate": 0.16946552014837296,
+              "Dev_macro_base_rate": 0.12495356037151703,
+              "diagnostic_not_gate": true
+            },
+            "joint_surplus_and_NUE": {
+              "brier": 0.04895986209514171,
+              "BSS_vs_ExtraTrees": 0.16266764630215957,
+              "BSS_vs_climatology": 0.2533273093602072,
+              "TRAIN_all_climates_legal_base_rate": 0.11148204350025291,
+              "Dev_macro_base_rate": 0.07541795665634675,
+              "diagnostic_not_gate": true
+            }
+          },
+          "primary_event": "S_N <= cap only, as literally specified; distinct from corridor and full joint compliance",
+          "TRAIN_all_climates_upper_surplus_base_rate": 0.7571235879278367
+        }
+      },
+      "conformal_alpha": 0.1,
+      "conformal_radius_kg_ha": 4.563563415129238,
+      "uncalibrated_90pct_coverage": 0.8618108244815377,
+      "Dev_calibration_set_90pct_coverage": 0.9000505816894284,
+      "Dev_crossyear_diagnostic_90pct_coverage": 0.8708143651997977,
+      "Dev_crossyear_macro_90pct_coverage": 0.8945717234262127,
+      "metric_weighting": "equal region-year-stage; pooled coverage separately reported",
+      "partial_profit_ranking_regret_EUR_ha": 3.7259523951007494,
+      "ExtraTrees_regret_EUR_ha": 8.183989310080737,
+      "pooled_prefix_regret_EUR_ha": 3.0625596161953372,
+      "pooled_ExtraTrees_regret_EUR_ha": 4.626895129811867,
+      "regret_weighting": "equal region-year-stage means of unique-prefix regrets",
+      "by_region": {
+        "australia_wa_perth": {
+          "samples": 4845,
+          "coverage": 1.0,
+          "crossyear_coverage": 1.0,
+          "joint_raw_point_RMSE": [
+            0.5781869276672448,
+            15.867873163638949,
+            0.4623030234982022
+          ]
+        },
+        "china_ncp_luancheng": {
+          "samples": 390,
+          "coverage": 1.0,
+          "crossyear_coverage": 1.0,
+          "joint_raw_point_RMSE": [
+            0.6604578658340887,
+            14.719908494086775,
+            1.192913458938702
+          ]
+        },
+        "france_paris_beauce": {
+          "samples": 4845,
+          "coverage": 1.0,
+          "crossyear_coverage": 1.0,
+          "joint_raw_point_RMSE": [
+            0.45722838643981395,
+            12.99885506662264,
+            0.39715345669452673
+          ]
+        },
+        "netherlands_lelystad": {
+          "samples": 4845,
+          "coverage": 0.792156862745098,
+          "crossyear_coverage": 0.7393188854489164,
+          "joint_raw_point_RMSE": [
+            0.9986890504291045,
+            20.584825778817148,
+            0.3716123265800699
+          ]
+        },
+        "usa_kansas_wichita": {
+          "samples": 4845,
+          "coverage": 0.8,
+          "crossyear_coverage": 0.7335397316821466,
+          "joint_raw_point_RMSE": [
+            1.7513942254408703,
+            36.565379345623626,
+            0.6831744192221875
+          ]
+        }
+      },
+      "gates": {
+        "BSS_positive_both_references_all_caps": true,
+        "coverage_85_to_95": true,
+        "ranking_regret_strictly_lower_than_ExtraTrees": true
+      },
+      "passed": true,
+      "coverage_scope": "G1 coverage uses leave-one-Dev-year-out conformal radii, frozen predictors, equal region-year-stage weights. Final pooled Dev calibration-set coverage is secondary only; correlated candidate prefixes are not independent farms. This is retrospective cross-conformal verification, not prospective validation."
+    },
+    "Full-Telemetry-residual-mlp": {
+      "samples": 19770,
+      "unique_prefix_groups": 1200,
+      "caps": {
+        "25": {
+          "brier": 0.03794734888515123,
+          "tree_brier": 0.043602054308565535,
+          "climatology_brier": 0.07809979754217694,
+          "BSS_vs_ExtraTrees": 0.1296889679416653,
+          "BSS_vs_region_stage_climatology": 0.5141171926257788,
+          "additional_events": {
+            "surplus_corridor": {
+              "brier": 0.04655887655542987,
+              "BSS_vs_ExtraTrees": 0.12812951302975395,
+              "BSS_vs_climatology": 0.2278408649615008,
+              "TRAIN_all_climates_legal_base_rate": 0.09177204518630923,
+              "Dev_macro_base_rate": 0.06823529411764706,
+              "diagnostic_not_gate": true
+            },
+            "joint_surplus_and_NUE": {
+              "brier": 0.022886685259883306,
+              "BSS_vs_ExtraTrees": 0.10381580979635618,
+              "BSS_vs_climatology": 0.0979647690881803,
+              "TRAIN_all_climates_legal_base_rate": 0.039065924801888384,
+              "Dev_macro_base_rate": 0.026873065015479876,
+              "diagnostic_not_gate": true
+            }
+          },
+          "primary_event": "S_N <= cap only, as literally specified; distinct from corridor and full joint compliance",
+          "TRAIN_all_climates_upper_surplus_base_rate": 0.679430112965773
+        },
+        "35": {
+          "brier": 0.03849385022227515,
+          "tree_brier": 0.04536502676728586,
+          "climatology_brier": 0.07407856982345382,
+          "BSS_vs_ExtraTrees": 0.1514641792290472,
+          "BSS_vs_region_stage_climatology": 0.4803645600338289,
+          "additional_events": {
+            "surplus_corridor": {
+              "brier": 0.05541573328471065,
+              "BSS_vs_ExtraTrees": 0.1620140424887203,
+              "BSS_vs_climatology": 0.2739908895354265,
+              "TRAIN_all_climates_legal_base_rate": 0.12446467712021582,
+              "Dev_macro_base_rate": 0.08928792569659444,
+              "diagnostic_not_gate": true
+            },
+            "joint_surplus_and_NUE": {
+              "brier": 0.03606452367131063,
+              "BSS_vs_ExtraTrees": 0.15201656856333123,
+              "BSS_vs_climatology": 0.1462744453438688,
+              "TRAIN_all_climates_legal_base_rate": 0.07020738492665655,
+              "Dev_macro_base_rate": 0.04569659442724458,
+              "diagnostic_not_gate": true
+            }
+          },
+          "primary_event": "S_N <= cap only, as literally specified; distinct from corridor and full joint compliance",
+          "TRAIN_all_climates_upper_surplus_base_rate": 0.7121227448996796
+        },
+        "40": {
+          "brier": 0.038375980516194334,
+          "tree_brier": 0.04564096362229103,
+          "climatology_brier": 0.07269383073418384,
+          "BSS_vs_ExtraTrees": 0.1591768124402282,
+          "BSS_vs_region_stage_climatology": 0.47208751927626424,
+          "additional_events": {
+            "surplus_corridor": {
+              "brier": 0.059356896731364614,
+              "BSS_vs_ExtraTrees": 0.17164028932520636,
+              "BSS_vs_climatology": 0.2849911742695548,
+              "TRAIN_all_climates_legal_base_rate": 0.13990895295902883,
+              "Dev_macro_base_rate": 0.09944272445820435,
+              "diagnostic_not_gate": true
+            },
+            "joint_surplus_and_NUE": {
+              "brier": 0.040706272450781934,
+              "BSS_vs_ExtraTrees": 0.16969309909396146,
+              "BSS_vs_climatology": 0.16538162326297368,
+              "TRAIN_all_climates_legal_base_rate": 0.085348170628899,
+              "Dev_macro_base_rate": 0.05362229102167183,
+              "diagnostic_not_gate": true
+            }
+          },
+          "primary_event": "S_N <= cap only, as literally specified; distinct from corridor and full joint compliance",
+          "TRAIN_all_climates_upper_surplus_base_rate": 0.7275670207384927
+        },
+        "50": {
+          "brier": 0.03438761616108994,
+          "tree_brier": 0.04234491905314758,
+          "climatology_brier": 0.0676855119648207,
+          "BSS_vs_ExtraTrees": 0.18791635620014613,
+          "BSS_vs_region_stage_climatology": 0.49195012103974656,
+          "additional_events": {
+            "surplus_corridor": {
+              "brier": 0.062087685498035255,
+              "BSS_vs_ExtraTrees": 0.18626485942262871,
+              "BSS_vs_climatology": 0.369610624046373,
+              "TRAIN_all_climates_legal_base_rate": 0.16946552014837296,
+              "Dev_macro_base_rate": 0.12495356037151703,
+              "diagnostic_not_gate": true
+            },
+            "joint_surplus_and_NUE": {
+              "brier": 0.04821389300279828,
+              "BSS_vs_ExtraTrees": 0.17542552651562826,
+              "BSS_vs_climatology": 0.26470386814690894,
+              "TRAIN_all_climates_legal_base_rate": 0.11148204350025291,
+              "Dev_macro_base_rate": 0.07541795665634675,
+              "diagnostic_not_gate": true
+            }
+          },
+          "primary_event": "S_N <= cap only, as literally specified; distinct from corridor and full joint compliance",
+          "TRAIN_all_climates_upper_surplus_base_rate": 0.7571235879278367
+        }
+      },
+      "conformal_alpha": 0.1,
+      "conformal_radius_kg_ha": 5.016042181452249,
+      "uncalibrated_90pct_coverage": 0.8513909964592817,
+      "Dev_calibration_set_90pct_coverage": 0.9000505816894284,
+      "Dev_crossyear_diagnostic_90pct_coverage": 0.8809812847749114,
+      "Dev_crossyear_macro_90pct_coverage": 0.9028689370485037,
+      "metric_weighting": "equal region-year-stage; pooled coverage separately reported",
+      "partial_profit_ranking_regret_EUR_ha": 4.69597962956284,
+      "ExtraTrees_regret_EUR_ha": 8.183989310080737,
+      "pooled_prefix_regret_EUR_ha": 3.062680671406248,
+      "pooled_ExtraTrees_regret_EUR_ha": 4.626895129811867,
+      "regret_weighting": "equal region-year-stage means of unique-prefix regrets",
+      "by_region": {
+        "australia_wa_perth": {
+          "samples": 4845,
+          "coverage": 1.0,
+          "crossyear_coverage": 1.0,
+          "joint_raw_point_RMSE": [
+            0.5891271300174321,
+            15.847527640752496,
+            0.3422826526322641
+          ]
+        },
+        "china_ncp_luancheng": {
+          "samples": 390,
+          "coverage": 1.0,
+          "crossyear_coverage": 1.0,
+          "joint_raw_point_RMSE": [
+            0.6827848698993154,
+            14.95295409271021,
+            0.8399780809504774
+          ]
+        },
+        "france_paris_beauce": {
+          "samples": 4845,
+          "coverage": 1.0,
+          "crossyear_coverage": 1.0,
+          "joint_raw_point_RMSE": [
+            0.4555189455967963,
+            13.027595622031981,
+            0.23331447391068266
+          ]
+        },
+        "netherlands_lelystad": {
+          "samples": 4845,
+          "coverage": 0.8249742002063983,
+          "crossyear_coverage": 0.7902992776057791,
+          "joint_raw_point_RMSE": [
+            0.9924824322217003,
+            20.12561684618068,
+            0.3585658395587573
+          ]
+        },
+        "usa_kansas_wichita": {
+          "samples": 4845,
+          "coverage": 0.7671826625386997,
+          "crossyear_coverage": 0.7240454076367389,
+          "joint_raw_point_RMSE": [
+            1.8326849240131373,
+            38.04846718389277,
+            0.781903708268986
+          ]
+        }
+      },
+      "gates": {
+        "BSS_positive_both_references_all_caps": true,
+        "coverage_85_to_95": true,
+        "ranking_regret_strictly_lower_than_ExtraTrees": true
+      },
+      "passed": true,
+      "coverage_scope": "G1 coverage uses leave-one-Dev-year-out conformal radii, frozen predictors, equal region-year-stage weights. Final pooled Dev calibration-set coverage is secondary only; correlated candidate prefixes are not independent farms. This is retrospective cross-conformal verification, not prospective validation."
+    },
+    "Sensorless-mlp": {
+      "samples": 19770,
+      "unique_prefix_groups": 1200,
+      "caps": {
+        "25": {
+          "brier": 0.039762460494066044,
+          "tree_brier": 0.042388415892672865,
+          "climatology_brier": 0.07809979754217694,
+          "BSS_vs_ExtraTrees": 0.06194983566396339,
+          "BSS_vs_region_stage_climatology": 0.49087626670744233,
+          "additional_events": {
+            "surplus_corridor": {
+              "brier": 0.046725790676847664,
+              "BSS_vs_ExtraTrees": 0.07797000925439346,
+              "BSS_vs_climatology": 0.22507266535801085,
+              "TRAIN_all_climates_legal_base_rate": 0.09177204518630923,
+              "Dev_macro_base_rate": 0.06823529411764706,
+              "diagnostic_not_gate": true
+            },
+            "joint_surplus_and_NUE": {
+              "brier": 0.02364799003482972,
+              "BSS_vs_ExtraTrees": 0.05723480678521786,
+              "BSS_vs_climatology": 0.0679593873273372,
+              "TRAIN_all_climates_legal_base_rate": 0.039065924801888384,
+              "Dev_macro_base_rate": 0.026873065015479876,
+              "diagnostic_not_gate": true
+            }
+          },
+          "primary_event": "S_N <= cap only, as literally specified; distinct from corridor and full joint compliance",
+          "TRAIN_all_climates_upper_surplus_base_rate": 0.679430112965773
+        },
+        "35": {
+          "brier": 0.04014129573261491,
+          "tree_brier": 0.044422608681630546,
+          "climatology_brier": 0.07407856982345382,
+          "BSS_vs_ExtraTrees": 0.09637689176921371,
+          "BSS_vs_region_stage_climatology": 0.45812539539733554,
+          "additional_events": {
+            "surplus_corridor": {
+              "brier": 0.05452472717958641,
+              "BSS_vs_ExtraTrees": 0.10994974996976781,
+              "BSS_vs_climatology": 0.28566408253417785,
+              "TRAIN_all_climates_legal_base_rate": 0.12446467712021582,
+              "Dev_macro_base_rate": 0.08928792569659444,
+              "diagnostic_not_gate": true
+            },
+            "joint_surplus_and_NUE": {
+              "brier": 0.036525494971521,
+              "BSS_vs_ExtraTrees": 0.09217277672530844,
+              "BSS_vs_climatology": 0.13536225411296898,
+              "TRAIN_all_climates_legal_base_rate": 0.07020738492665655,
+              "Dev_macro_base_rate": 0.04569659442724458,
+              "diagnostic_not_gate": true
+            }
+          },
+          "primary_event": "S_N <= cap only, as literally specified; distinct from corridor and full joint compliance",
+          "TRAIN_all_climates_upper_surplus_base_rate": 0.7121227448996796
+        },
+        "40": {
+          "brier": 0.04072612154679686,
+          "tree_brier": 0.04351550406346749,
+          "climatology_brier": 0.07269383073418384,
+          "BSS_vs_ExtraTrees": 0.064100889480731,
+          "BSS_vs_region_stage_climatology": 0.43975821420502403,
+          "additional_events": {
+            "surplus_corridor": {
+              "brier": 0.05863799726621418,
+              "BSS_vs_ExtraTrees": 0.09784283524123705,
+              "BSS_vs_climatology": 0.2936509845140456,
+              "TRAIN_all_climates_legal_base_rate": 0.13990895295902883,
+              "Dev_macro_base_rate": 0.09944272445820435,
+              "diagnostic_not_gate": true
+            },
+            "joint_surplus_and_NUE": {
+              "brier": 0.04168221166249901,
+              "BSS_vs_ExtraTrees": 0.07460818832377758,
+              "BSS_vs_climatology": 0.14537151789991998,
+              "TRAIN_all_climates_legal_base_rate": 0.085348170628899,
+              "Dev_macro_base_rate": 0.05362229102167183,
+              "diagnostic_not_gate": true
+            }
+          },
+          "primary_event": "S_N <= cap only, as literally specified; distinct from corridor and full joint compliance",
+          "TRAIN_all_climates_upper_surplus_base_rate": 0.7275670207384927
+        },
+        "50": {
+          "brier": 0.03763378681432088,
+          "tree_brier": 0.04091159632501787,
+          "climatology_brier": 0.0676855119648207,
+          "BSS_vs_ExtraTrees": 0.08011932569574598,
+          "BSS_vs_region_stage_climatology": 0.44399051256521627,
+          "additional_events": {
+            "surplus_corridor": {
+              "brier": 0.062621752078868,
+              "BSS_vs_ExtraTrees": 0.09810266704988446,
+              "BSS_vs_climatology": 0.3641881333236435,
+              "TRAIN_all_climates_legal_base_rate": 0.16946552014837296,
+              "Dev_macro_base_rate": 0.12495356037151703,
+              "diagnostic_not_gate": true
+            },
+            "joint_surplus_and_NUE": {
+              "brier": 0.0499758468038025,
+              "BSS_vs_ExtraTrees": 0.07887126147637191,
+              "BSS_vs_climatology": 0.23783282053606658,
+              "TRAIN_all_climates_legal_base_rate": 0.11148204350025291,
+              "Dev_macro_base_rate": 0.07541795665634675,
+              "diagnostic_not_gate": true
+            }
+          },
+          "primary_event": "S_N <= cap only, as literally specified; distinct from corridor and full joint compliance",
+          "TRAIN_all_climates_upper_surplus_base_rate": 0.7571235879278367
+        }
+      },
+      "conformal_alpha": 0.1,
+      "conformal_radius_kg_ha": -1.2525981458227307,
+      "uncalibrated_90pct_coverage": 0.9083965604451189,
+      "Dev_calibration_set_90pct_coverage": 0.9000505816894284,
+      "Dev_crossyear_diagnostic_90pct_coverage": 0.8875063227111786,
+      "Dev_crossyear_macro_90pct_coverage": 0.9081940144478845,
+      "metric_weighting": "equal region-year-stage; pooled coverage separately reported",
+      "partial_profit_ranking_regret_EUR_ha": 4.914448530391842,
+      "ExtraTrees_regret_EUR_ha": 8.544425774000308,
+      "pooled_prefix_regret_EUR_ha": 3.9504473024519755,
+      "pooled_ExtraTrees_regret_EUR_ha": 6.110484543422102,
+      "regret_weighting": "equal region-year-stage means of unique-prefix regrets",
+      "by_region": {
+        "australia_wa_perth": {
+          "samples": 4845,
+          "coverage": 1.0,
+          "crossyear_coverage": 1.0,
+          "joint_raw_point_RMSE": [
+            0.47686669227425743,
+            13.599038988901032,
+            0.505321441404293
+          ]
+        },
+        "china_ncp_luancheng": {
+          "samples": 390,
+          "coverage": 1.0,
+          "crossyear_coverage": 1.0,
+          "joint_raw_point_RMSE": [
+            0.6306057710764187,
+            14.25404135011081,
+            1.0237842025691286
+          ]
+        },
+        "france_paris_beauce": {
+          "samples": 4845,
+          "coverage": 0.996078431372549,
+          "crossyear_coverage": 0.9969040247678018,
+          "joint_raw_point_RMSE": [
+            0.5447068111612218,
+            16.277787837140114,
+            0.5058861772305027
+          ]
+        },
+        "netherlands_lelystad": {
+          "samples": 4845,
+          "coverage": 0.7966976264189887,
+          "crossyear_coverage": 0.8020639834881321,
+          "joint_raw_point_RMSE": [
+            0.9386629776149096,
+            19.572449245008603,
+            0.4921355452102963
+          ]
+        },
+        "usa_kansas_wichita": {
+          "samples": 4845,
+          "coverage": 0.7993808049535603,
+          "crossyear_coverage": 0.7420020639834881,
+          "joint_raw_point_RMSE": [
+            2.008792039013916,
+            42.1863754989709,
+            0.7074500641556133
+          ]
+        }
+      },
+      "gates": {
+        "BSS_positive_both_references_all_caps": true,
+        "coverage_85_to_95": true,
+        "ranking_regret_strictly_lower_than_ExtraTrees": true
+      },
+      "passed": true,
+      "coverage_scope": "G1 coverage uses leave-one-Dev-year-out conformal radii, frozen predictors, equal region-year-stage weights. Final pooled Dev calibration-set coverage is secondary only; correlated candidate prefixes are not independent farms. This is retrospective cross-conformal verification, not prospective validation."
+    },
+    "Sensorless-residual-mlp": {
+      "samples": 19770,
+      "unique_prefix_groups": 1200,
+      "caps": {
+        "25": {
+          "brier": 0.038703431682642696,
+          "tree_brier": 0.042388415892672865,
+          "climatology_brier": 0.07809979754217694,
+          "BSS_vs_ExtraTrees": 0.08693375613187626,
+          "BSS_vs_region_stage_climatology": 0.5044362098155077,
+          "additional_events": {
+            "surplus_corridor": {
+              "brier": 0.0468518933699492,
+              "BSS_vs_ExtraTrees": 0.07548165189822742,
+              "BSS_vs_climatology": 0.22298130590874699,
+              "TRAIN_all_climates_legal_base_rate": 0.09177204518630923,
+              "Dev_macro_base_rate": 0.06823529411764706,
+              "diagnostic_not_gate": true
+            },
+            "joint_surplus_and_NUE": {
+              "brier": 0.0228096564410177,
+              "BSS_vs_ExtraTrees": 0.09065632512079613,
+              "BSS_vs_climatology": 0.1010007136831843,
+              "TRAIN_all_climates_legal_base_rate": 0.039065924801888384,
+              "Dev_macro_base_rate": 0.026873065015479876,
+              "diagnostic_not_gate": true
+            }
+          },
+          "primary_event": "S_N <= cap only, as literally specified; distinct from corridor and full joint compliance",
+          "TRAIN_all_climates_upper_surplus_base_rate": 0.679430112965773
+        },
+        "35": {
+          "brier": 0.039448053417976504,
+          "tree_brier": 0.044422608681630546,
+          "climatology_brier": 0.07407856982345382,
+          "BSS_vs_ExtraTrees": 0.11198251096206102,
+          "BSS_vs_region_stage_climatology": 0.46748359867111033,
+          "additional_events": {
+            "surplus_corridor": {
+              "brier": 0.0545933385056958,
+              "BSS_vs_ExtraTrees": 0.10882975302310849,
+              "BSS_vs_climatology": 0.28476519615509566,
+              "TRAIN_all_climates_legal_base_rate": 0.12446467712021582,
+              "Dev_macro_base_rate": 0.08928792569659444,
+              "diagnostic_not_gate": true
+            },
+            "joint_surplus_and_NUE": {
+              "brier": 0.03604484512681591,
+              "BSS_vs_ExtraTrees": 0.10411914498742936,
+              "BSS_vs_climatology": 0.14674027920505317,
+              "TRAIN_all_climates_legal_base_rate": 0.07020738492665655,
+              "Dev_macro_base_rate": 0.04569659442724458,
+              "diagnostic_not_gate": true
+            }
+          },
+          "primary_event": "S_N <= cap only, as literally specified; distinct from corridor and full joint compliance",
+          "TRAIN_all_climates_upper_surplus_base_rate": 0.7121227448996796
+        },
+        "40": {
+          "brier": 0.04016836691027626,
+          "tree_brier": 0.04351550406346749,
+          "climatology_brier": 0.07269383073418384,
+          "BSS_vs_ExtraTrees": 0.07691826683908842,
+          "BSS_vs_region_stage_climatology": 0.4474308685539208,
+          "additional_events": {
+            "surplus_corridor": {
+              "brier": 0.058738735847324766,
+              "BSS_vs_ExtraTrees": 0.09629295228217294,
+              "BSS_vs_climatology": 0.292437494952561,
+              "TRAIN_all_climates_legal_base_rate": 0.13990895295902883,
+              "Dev_macro_base_rate": 0.09944272445820435,
+              "diagnostic_not_gate": true
+            },
+            "joint_surplus_and_NUE": {
+              "brier": 0.041292377401365404,
+              "BSS_vs_ExtraTrees": 0.08326294580365601,
+              "BSS_vs_climatology": 0.15336445900297002,
+              "TRAIN_all_climates_legal_base_rate": 0.085348170628899,
+              "Dev_macro_base_rate": 0.05362229102167183,
+              "diagnostic_not_gate": true
+            }
+          },
+          "primary_event": "S_N <= cap only, as literally specified; distinct from corridor and full joint compliance",
+          "TRAIN_all_climates_upper_surplus_base_rate": 0.7275670207384927
+        },
+        "50": {
+          "brier": 0.03687531784601493,
+          "tree_brier": 0.04091159632501787,
+          "climatology_brier": 0.0676855119648207,
+          "BSS_vs_ExtraTrees": 0.09865854284778208,
+          "BSS_vs_region_stage_climatology": 0.4551962927431096,
+          "additional_events": {
+            "surplus_corridor": {
+              "brier": 0.0623514046623204,
+              "BSS_vs_ExtraTrees": 0.10199629196231341,
+              "BSS_vs_climatology": 0.3669330277071443,
+              "TRAIN_all_climates_legal_base_rate": 0.16946552014837296,
+              "Dev_macro_base_rate": 0.12495356037151703,
+              "diagnostic_not_gate": true
+            },
+            "joint_surplus_and_NUE": {
+              "brier": 0.04931912732198143,
+              "BSS_vs_ExtraTrees": 0.09097557238937293,
+              "BSS_vs_climatology": 0.24784825933640509,
+              "TRAIN_all_climates_legal_base_rate": 0.11148204350025291,
+              "Dev_macro_base_rate": 0.07541795665634675,
+              "diagnostic_not_gate": true
+            }
+          },
+          "primary_event": "S_N <= cap only, as literally specified; distinct from corridor and full joint compliance",
+          "TRAIN_all_climates_upper_surplus_base_rate": 0.7571235879278367
+        }
+      },
+      "conformal_alpha": 0.1,
+      "conformal_radius_kg_ha": -2.6998505812372002,
+      "uncalibrated_90pct_coverage": 0.917298937784522,
+      "Dev_calibration_set_90pct_coverage": 0.9000505816894284,
+      "Dev_crossyear_diagnostic_90pct_coverage": 0.8745574102175012,
+      "Dev_crossyear_macro_90pct_coverage": 0.8976264189886481,
+      "metric_weighting": "equal region-year-stage; pooled coverage separately reported",
+      "partial_profit_ranking_regret_EUR_ha": 5.421357941051622,
+      "ExtraTrees_regret_EUR_ha": 8.544425774000308,
+      "pooled_prefix_regret_EUR_ha": 4.753268507971591,
+      "pooled_ExtraTrees_regret_EUR_ha": 6.110484543422102,
+      "regret_weighting": "equal region-year-stage means of unique-prefix regrets",
+      "by_region": {
+        "australia_wa_perth": {
+          "samples": 4845,
+          "coverage": 1.0,
+          "crossyear_coverage": 0.9663570691434469,
+          "joint_raw_point_RMSE": [
+            0.4773449553161125,
+            13.6384508191422,
+            0.2938173577034112
+          ]
+        },
+        "china_ncp_luancheng": {
+          "samples": 390,
+          "coverage": 1.0,
+          "crossyear_coverage": 1.0,
+          "joint_raw_point_RMSE": [
+            0.6120965217737662,
+            13.681105702499899,
+            0.8147873889590144
+          ]
+        },
+        "france_paris_beauce": {
+          "samples": 4845,
+          "coverage": 0.9964912280701754,
+          "crossyear_coverage": 0.9964912280701754,
+          "joint_raw_point_RMSE": [
+            0.555605134093311,
+            16.979128249763477,
+            0.19100602713617992
+          ]
+        },
+        "netherlands_lelystad": {
+          "samples": 4845,
+          "coverage": 0.8002063983488132,
+          "crossyear_coverage": 0.7880288957688338,
+          "joint_raw_point_RMSE": [
+            0.9206231793022049,
+            18.77133936971107,
+            0.21931619602492083
+          ]
+        },
+        "usa_kansas_wichita": {
+          "samples": 4845,
+          "coverage": 0.7954592363261094,
+          "crossyear_coverage": 0.7372549019607844,
+          "joint_raw_point_RMSE": [
+            1.989439070536721,
+            41.03797871145217,
+            0.520061014180124
+          ]
+        }
+      },
+      "gates": {
+        "BSS_positive_both_references_all_caps": true,
+        "coverage_85_to_95": true,
+        "ranking_regret_strictly_lower_than_ExtraTrees": true
+      },
+      "passed": true,
+      "coverage_scope": "G1 coverage uses leave-one-Dev-year-out conformal radii, frozen predictors, equal region-year-stage weights. Final pooled Dev calibration-set coverage is secondary only; correlated candidate prefixes are not independent farms. This is retrospective cross-conformal verification, not prospective validation."
+    }
+  },
+  "G2_executed": false,
+  "G3_executed": false,
+  "Dev_accesses": 1,
+  "no_Dev_hyperparameter_adjustment": true,
+  "prediction_files": {
+    "data/phase8-g1-predictions/Full-Telemetry-mlp-members.npy": "1f78355f13993e073500bb43703c8c3e282ca2a9b349e8858d655402e22cfe5a",
+    "data/phase8-g1-predictions/actual.npy": "b6c5cf0bfca9a98607105374c99d92a4b0f89011204210f1b32ed7fa636f2110",
+    "data/phase8-g1-predictions/Sensorless-mlp-conformal-scores.npy": "9c342708eaa59491adc2c7f091bd105101c1bf1f46973753e1dcb2e158b72dff",
+    "data/phase8-g1-predictions/Full-Telemetry-residual-mlp-conformal-scores.npy": "040ee99bb3016edb6953e395cbddfb09c5c74807fa297de7dc0c8f1f0a624153",
+    "data/phase8-g1-predictions/Sensorless-mlp-members.npy": "d0e41b8ea30659882d69ad5289aa5deaf31aaff7a23582b3914c605ec354a8d7",
+    "data/phase8-g1-predictions/Full-Telemetry-residual-mlp-members.npy": "f8aa87131c182f495bdb1a4688bb5e746e8e8011cbd899436a98b065f37685e8",
+    "data/phase8-g1-predictions/Sensorless-residual-mlp-members.npy": "18e27d316022da484f017fec5f85a3975271dd5b7042a3c820173e811024514c",
+    "data/phase8-g1-predictions/Full-Telemetry-ExtraTrees-members.npy": "e7a3865e88e121154450ff36f5863ba9c0c0d2d0956fedbf36775f2b0cec8400",
+    "data/phase8-g1-predictions/meta.json": "b9b06928eadf947bada73c62ad161ad0efd2f89720a13ffd629eabda98f361ce",
+    "data/phase8-g1-predictions/Sensorless-ExtraTrees-members.npy": "bf99aa68c33c0eb4ee595cce7131e7753f397a67c99c4f293522cbc8d4bbc5c3",
+    "data/phase8-g1-predictions/Full-Telemetry-mlp-conformal-scores.npy": "7f177a0949488f88cd433fba90f6861df687aeb2c9eed6355e9bb3b38c6d1308",
+    "data/phase8-g1-predictions/Sensorless-residual-mlp-conformal-scores.npy": "6bc58ce9c27fe25d39c566da010efa15b9c972457178c9c0332a998c5fcd7610"
+  }
+}

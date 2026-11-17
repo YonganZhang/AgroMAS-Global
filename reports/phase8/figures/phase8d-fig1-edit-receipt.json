@@ -1,0 +1,44 @@
+{
+  "source": "Phase8C archived native PPTX",
+  "modified_text_objects": [
+    {
+      "before": "Private 64-D (P2)",
+      "after": "Private P2: Static3 + AE"
+    },
+    {
+      "before": "PCA/Ridge \u22644-D",
+      "after": "Causal anomaly PCA \u22644-D"
+    },
+    {
+      "before": "Output correction",
+      "after": "Static3 + accepted anomaly"
+    },
+    {
+      "before": "32 joint members",
+      "after": "32 centered residuals"
+    },
+    {
+      "before": "Yield, grain N, executed N",
+      "after": "Each region \u00d7 stage bank"
+    },
+    {
+      "before": "t\u22121; LOYO / LORO; OOD: \u0394y = 0",
+      "after": "t\u22121; anomaly OOD \u2192 Static3"
+    },
+    {
+      "before": "TRAIN 1995\u20132009 analogs\nFirst 7-day rain, then temperature\nNo identity or later truth revealed",
+      "after": "TRAIN 1995\u20132009 analogs\nCausal temperature de-shift\nFuture descriptors retain warming"
+    },
+    {
+      "before": "Composite = profit + 200 P(active joint) \u2212 200 distance\nTier2-Composite: tier masks + composite ranking\nSoft-Coupled: composite without hard-tail masks\nArchived bare: partial profit only\nController OOD / empty set: dose 0, never compliance\nReplan from updated public observations",
+      "after": "Score = profit + 250 P(active joint) \u2212 300 distance\nTier2: corridor \u2192 upper-surplus fallback\nSoft-Coupled: score without hard-tail masks\nArchived bare: partial profit only\nUpper NUE penalty \u00d71.5; surplus margin 2 kg/ha\nController OOD: dose 0, never compliance"
+    },
+    {
+      "before": "Typed numerical specialists; nodewise nonanticipative planning, without a global chance/CVaR optimality claim.",
+      "after": "Full weather \u00d7 32 residual integration; nonanticipative planning; no global chance/CVaR optimality claim."
+    }
+  ],
+  "artwork_unchanged": true,
+  "geometry_bounds_passed": true,
+  "backup": "cache/fig1-before-phase8d-20261116T120800.pptx"
+}

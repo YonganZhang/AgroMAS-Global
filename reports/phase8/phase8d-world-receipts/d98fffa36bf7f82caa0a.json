@@ -1,0 +1,93 @@
+{
+  "world": [
+    "france_paris_beauce",
+    2019,
+    "idealized_mid",
+    "NASA"
+  ],
+  "native_simulations": 7,
+  "unique_native_executed_trajectories": 7,
+  "unique_executed_trajectories": 9,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        20.0,
+        100.0,
+        100.0
+      ],
+      "sha256": "28d243235cefbd76da2e59cf119ae9e4c8e7c43d26c79a9361e38190ebae0357"
+    },
+    {
+      "doses": [
+        60.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "6c9993f7d47c04104da19c985077c663b8e5c0c1b5f4d0654e5adb8532502bf6"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "9541edcceb13205d441cd05df37644b802ade88ba500eb56bfa8b4dbd46cd365"
+    },
+    {
+      "doses": [
+        100.0,
+        80.0,
+        40.0
+      ],
+      "sha256": "89a8fe8fb2c9e5068627b7ce1761dda6ea0aca9efb0633aa28752a3253446ab8"
+    },
+    {
+      "doses": [
+        60.0,
+        20.0,
+        80.0
+      ],
+      "sha256": "d97f44e144e0b03b2319750ca104a771bc559afefb8521dbec8231f36fdd78ff"
+    },
+    {
+      "doses": [
+        100.0,
+        100.0,
+        20.0
+      ],
+      "sha256": "c1ea1b6a217819aa26cb459a386b5caf6be9280b2868fd01bb1bc6a9f4b94f60"
+    },
+    {
+      "doses": [
+        100.0,
+        60.0,
+        60.0
+      ],
+      "sha256": "a1a8d826cff5e6da1d5ab1df81efc8cfc5003679168498756b9a46ddae2f3f86"
+    },
+    {
+      "doses": [
+        60.0,
+        100.0,
+        60.0
+      ],
+      "sha256": "f1ea967f93beba85da37950b45060752a16c44b76043a566203950089d7c6019"
+    },
+    {
+      "doses": [
+        60.0,
+        60.0,
+        60.0
+      ],
+      "sha256": "14eaa2da66e380450e9e2b1cc4be0399c9484790efeb392831f11c4234038fe2"
+    }
+  ],
+  "complete_requested_paths": 9,
+  "cases_replayed": 83,
+  "public_prefix_nodes": 12,
+  "prefix_decisions_replayed": 258,
+  "archived_records_verified": 90,
+  "archived_requested_paths": 7,
+  "worker": 3,
+  "cases": 90
+}

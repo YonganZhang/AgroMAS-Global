@@ -1,0 +1,37 @@
+{
+  "actual_primary_source": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/NUE_PCSE-Gym/pcse_gym/agromas_v8/models.py",
+  "canonical_exit_code": 0,
+  "canonical_passed": 232,
+  "canonical_skipped": 0,
+  "canonical_log_sha256": "94b511d3d7fa1f0ae406a53812bb4a74922b7176a5e9fbecc4535bb185048c4c",
+  "future_weather_invariance_passed": 120,
+  "scripts": [
+    {
+      "script": "phase8d-verify-online-invariance.py",
+      "source_sha256": "2639d698901e25c01e372617dc8b6636af6f0d84bfc6e8305eab85b8f41cd249",
+      "exit_code": 0,
+      "only_transformation": "write results to distinct phase8d-primary names"
+    },
+    {
+      "script": "phase8d-verify-positive-action-invariance.py",
+      "source_sha256": "5d8f70e4643d193191355be9a3583fdec055b1d81197ed6f1ac2de9bf4a90d83",
+      "exit_code": 0,
+      "only_transformation": "write results to distinct phase8d-primary names"
+    },
+    {
+      "script": "phase8d-final-hard-online.py",
+      "source_sha256": "07e2b4b614c166c7c573bd58d3e8cdc2620f619ad08220051b9155dc7be1fb54",
+      "exit_code": 0,
+      "only_transformation": "write results to distinct phase8d-primary names"
+    },
+    {
+      "script": "phase8d-final-hard-positive-action.py",
+      "source_sha256": "4204858c6f29708c30d440a487adbc4e5311f4231a92f27727eeb8ba5281134a",
+      "exit_code": 0,
+      "only_transformation": "write results to distinct phase8d-primary names"
+    }
+  ],
+  "elapsed_seconds": 104.41827862197533,
+  "root_commit": "848d616be5182b51afc8afbe23c441b76f232398",
+  "NUE_commit": "c242b6dd62d853c5888144bab864f9a509599633"
+}

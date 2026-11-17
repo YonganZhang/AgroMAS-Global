@@ -1,0 +1,25 @@
+{
+  "packages": {
+    "torch": "2.10.0+cu128",
+    "lightning": "2.6.5",
+    "numpy": "2.4.6",
+    "scikit-learn": "1.9.1",
+    "scipy": "1.17.1",
+    "pcse": "6.0.13",
+    "stable-baselines3": "2.9.2",
+    "sb3-contrib": "2.9.2"
+  },
+  "torch_cuda_build": "12.8",
+  "cuda_available": true,
+  "gpu_name": "NVIDIA GeForce RTX 5080",
+  "CUDA_fit_devices": [
+    0,
+    1,
+    5,
+    7
+  ],
+  "python": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/cache/python/cpython-3.11.15-linux-x86_64-gnu/bin/python3.11",
+  "v8_source": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/NUE_PCSE-Gym/pcse_gym/agromas_v8/models.py",
+  "pcse_source": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/pcse/pcse/__init__.py",
+  "note": "Task-local CUDA virtualenv uses unchanged original runtime dependencies through a pth; .venv baseline environment was not modified. Canonical regression tests use original torch2.15CPU, actual fits use task torch2.10cu128."
+}

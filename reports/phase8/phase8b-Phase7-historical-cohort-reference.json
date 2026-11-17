@@ -1,0 +1,30 @@
+[
+  {
+    "scheme": "LOYO",
+    "cohort": "Former-Held-Out",
+    "n": 40,
+    "pooled_joint": 0.0,
+    "scope": "HistoricalPhase7observable-imputationinterface;notcurrentmatchedworld-modelpolicy"
+  },
+  {
+    "scheme": "LOYO",
+    "cohort": "Public-Reused",
+    "n": 4,
+    "pooled_joint": 0.0,
+    "scope": "HistoricalPhase7observable-imputationinterface;notcurrentmatchedworld-modelpolicy"
+  },
+  {
+    "scheme": "LORO",
+    "cohort": "Former-Held-Out",
+    "n": 40,
+    "pooled_joint": 0.0,
+    "scope": "HistoricalPhase7observable-imputationinterface;notcurrentmatchedworld-modelpolicy"
+  },
+  {
+    "scheme": "LORO",
+    "cohort": "Public-Reused",
+    "n": 4,
+    "pooled_joint": 0.0,
+    "scope": "HistoricalPhase7observable-imputationinterface;notcurrentmatchedworld-modelpolicy"
+  }
+]

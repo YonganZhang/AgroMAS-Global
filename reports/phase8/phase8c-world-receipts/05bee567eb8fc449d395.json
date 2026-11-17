@@ -1,0 +1,106 @@
+{
+  "world": [
+    "france_paris_beauce",
+    2019,
+    "Historical",
+    "NASA"
+  ],
+  "native_simulations": 11,
+  "unique_executed_trajectories": 11,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        100.0,
+        40.0,
+        80.0
+      ],
+      "sha256": "2692cd7d595b74145eb774c8d989a78e3687d1ae4d705f4db20dd125f926bf07"
+    },
+    {
+      "doses": [
+        60.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "f58c0b15bb30c6473777ee8187ff5fc48d828a3a3d1ad7323b0a373847fb7fc3"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "92799a3943fd9ad7a4b36484c65b052f7f695e37c8b8c6c90823f5cecc9b1703"
+    },
+    {
+      "doses": [
+        100.0,
+        100.0,
+        20.0
+      ],
+      "sha256": "1dda7fc47659ebc7a5feffc5fa41be8f54d2868ab12f20424a642f1a1fd4d27c"
+    },
+    {
+      "doses": [
+        20.0,
+        100.0,
+        100.0
+      ],
+      "sha256": "75a45bd89bee051e2a4a6aeb9db720c6ca633dba383e10ead00724815bd58442"
+    },
+    {
+      "doses": [
+        100.0,
+        20.0,
+        100.0
+      ],
+      "sha256": "48b0bb3784cb05ffa3f5b7adae1d2100ee593cd8addbd2fcefa45e96c9608ff2"
+    },
+    {
+      "doses": [
+        100.0,
+        60.0,
+        40.0
+      ],
+      "sha256": "3092ee4f84f5a25c029a813ec0a585cfa4899d665af60f09be1433bd7643ed5b"
+    },
+    {
+      "doses": [
+        60.0,
+        60.0,
+        100.0
+      ],
+      "sha256": "0c1c843899668a6c4abdec9e5eabf233848db7b9296876a070ff0b319f9d4bc6"
+    },
+    {
+      "doses": [
+        40.0,
+        60.0,
+        100.0
+      ],
+      "sha256": "3380e62c7dcc6044de38c471a567ec2777690e06344a2246c671d50f0cd64c5f"
+    },
+    {
+      "doses": [
+        40.0,
+        20.0,
+        80.0
+      ],
+      "sha256": "b94e6504a66fc95980f8c1dfbc1f938968110b6d812f79c84b9ee0b4b069f2ae"
+    },
+    {
+      "doses": [
+        100.0,
+        60.0,
+        60.0
+      ],
+      "sha256": "bf86ed9a8133040ee9de2b0d14054d542cad0bb82a83d76fcd8744eba4714862"
+    }
+  ],
+  "complete_requested_paths": 11,
+  "cases_replayed": 142,
+  "public_prefix_nodes": 16,
+  "prefix_decisions_replayed": 443,
+  "worker": 1,
+  "cases": 153
+}

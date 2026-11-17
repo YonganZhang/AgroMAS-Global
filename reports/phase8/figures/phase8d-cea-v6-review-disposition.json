@@ -1,0 +1,48 @@
+{
+  "review_status": "All required review executions completed; no unresolved material findings after local correction and final verification. No third external round requested.",
+  "models": {
+    "Gemini": "gemini-4-carbon-medium, medium tier, two actual-image rounds",
+    "DeepSeek": "deepseek-flash, medium tier, high reasoning; first attempt failed with empty final; bounded retry completed"
+  },
+  "gemini_round2": "Five PASS; P2 conditional on Weather zero diamond and crop-note collision. Both corrected locally and inspected. Do not describe this as an unconditional six-figure Gemini approval.",
+  "resolved": [
+    "G1 deposition vs surplus stroke/color distinction, exact organic N pool/units, BSS baseline key, track-matched before/after key, centroid/marginal/cohort/shading key.",
+    "P1 waterfall labels/hatching, explicit symlog and seed4, markers for coincident trajectories, aggregate scope and cropping disclosure.",
+    "Gaps bar-label collisions, dual-axis mapping, fixed physical endpoint color scales and two-decimal yield; NUE target band now a data-coordinate rectangle spanning exactly0.50\u20130.90.",
+    "P2 model-matched KDEs; public diamond scheme legend; Weather LOYO genuine0% marker unclipped with0% annotation; above300 notes moved into blank left space.",
+    "Stress white contrast on dark cells; subsidy/price header units; h legend above curves.",
+    "Closure scope labels above bars, explicit symlog and solid/dashed mapping, overlap markers, required-cell frame key, parity markers unclipped.",
+    "Train/Dev baseline has explicit year/role assertions; all four deposition coefficients tied to helper source; required query cells asserted present.",
+    "Inter-model fills labeled descriptive gaps/ranges, paired P1 win/tie/loss key added."
+  ],
+  "false_positive": {
+    "claim": "DeepSeek says abstention is assigned surplus because stack display order lists surplus before abstention.",
+    "resolution": "Mask priority is determined by exclusions, not display order: every other failing mask has ~ab. All12 abstentions are separate and no abstention enters the surplus mask. Frozen case counts independently recomputed.",
+    "counts_by_display_order": {
+      "compliant": 13,
+      "surplus": 10,
+      "NUE_gt_090": 15,
+      "low_NUE": 2,
+      "abstention": 12
+    }
+  },
+  "intentional": [
+    "Fewer composite panels follow the user specification; retain a\u2013c, gaps a\u2013d, stress a\u2013h rather than splitting every internal axis.",
+    "I.MLP and II.Soft-Coupled deliberately repeat the identical anchor for model and architecture typologies, not independent estimates.",
+    "Phase spaces remain0\u2013300 per requested axis lock; one high-grain-N case per model is disclosed above300.",
+    "PPO/DVS and organic N trajectories can coincide; marker styles disclose overlap without numerical offsets."
+  ],
+  "limits": [
+    "Full cap50 and remove-eco cap50 not evaluated; Sensorless complete cap50=34.4%.",
+    "Archived Bare2x not evaluated; DVS uses Full-Telemetry only.",
+    "No-econ warming cases at subsidy50 absent in frozen data; only Historical no-econ markers shown and labeled.",
+    "Fixed Jan-Oct climate windows; descriptive zero-split Train/Dev reference is not continuous evaluation of Held-Out policies.",
+    "No manuscript integration or submission-readiness claim."
+  ],
+  "review_files": [
+    "phase8d-cea-v6-gemini-round1.md",
+    "phase8d-cea-v6-gemini-round2.md",
+    "phase8d-cea-v6-deepseek-failed.md",
+    "phase8d-cea-v6-deepseek-review.md"
+  ]
+}

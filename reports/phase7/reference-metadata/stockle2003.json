@@ -1,0 +1,821 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        11
+      ]
+    ],
+    "date-time": "2026-11-11T02:00:40Z",
+    "timestamp": 1794362440166,
+    "version": "4.9.0"
+  },
+  "reference-count": 89,
+  "publisher": "Elsevier BV",
+  "issue": "3-4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2003,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2003-01-01T00:00:00Z",
+        "timestamp": 1041379200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "European Journal of Agronomy"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2003,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1016/s1161-0301(02)00109-0",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2002,
+        12,
+        28
+      ]
+    ],
+    "date-time": "2002-12-28T12:42:19Z",
+    "timestamp": 1041079339000
+  },
+  "page": "289-307",
+  "source": "Crossref",
+  "is-referenced-by-count": 1084,
+  "title": [
+    "CropSyst, a cropping systems simulation model"
+  ],
+  "prefix": "10.1016",
+  "volume": "18",
+  "author": [
+    {
+      "given": "Claudio O.",
+      "family": "St\u00f6ckle",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Marcello",
+      "family": "Donatelli",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Roger",
+      "family": "Nelson",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Acutis, M., Donatelli, M., 2003. SOILPAR 2.00: software to estimate soil hydrological parameters and functions. Eur. J. Agron. 18, 373\u2013377.",
+      "DOI": "10.1016/S1161-0301(02)00128-4"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB2",
+      "unstructured": "Acutis, M., Donatelli, M., St\u00f6ckle, C.O., 1998. Comparing the performance of three weather generators. Proceedings of the Fifth European Society for Agronomy Congress, Nitra, Slovak Republic, 28 June\u20132 July, vol. II, pp. 117\u2013118."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB3",
+      "unstructured": "Acutis, M., Donatelli, M., St\u00f6ckle, C.O., 1999. Performance of two weather generators as a function of the number of available years of measured climatic data. Proceedings First International Symposium Modelling Cropping Systems, Lleida, Spain, 21\u201323 June, pp. 129\u2013130."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB4",
+      "unstructured": "Allen, R.G., Pereira, L.S., Raes, D., Smith, M., 1998. Crop evapotranspiration: Guidelines for computing crop water requirements. Irr. Drain. Paper 56. UN-FAO, Rome."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB5",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Arkin, G.F., Vanderlip, R.L., Ritchie, J.T., 1976. A dynamic grain sorghum growth model. Trans. ASAE 19, 622\u2013626, 630.",
+      "DOI": "10.13031/2013.36082"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB6",
+      "doi-asserted-by": "crossref",
+      "first-page": "233",
+      "DOI": "10.1016/S0167-8809(97)00041-8",
+      "article-title": "Application of crop simulation modeling and GIS to agroclimatic assessment in Burkina Faso",
+      "volume": "64",
+      "author": "Badini",
+      "year": "1997",
+      "journal-title": "Agric. Ecosyst. Environ."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB7",
+      "unstructured": "Bechini, L., Bocchi S., Maggiore, T., 1999. Spatial interpolation of soil properties for irrigation planning. A case study in Northern Italy. Proceedings First International Symposium Modelling Cropping Systems, Lleida, Spain, 21\u201323 June, pp. 143\u2013144."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB8",
+      "unstructured": "Belhouchette, H., Donatelli, M., Braudeau, E., Wery, J., 2001. Test of the cropping systems model CropSyst in Tunisian conditions. Proceedings Second International Symposium Modelling Cropping Systems, 16\u201318 July, Florence, Italy, pp. 47\u201348."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB9",
+      "unstructured": "Berti, A., Morari, F., Borin, M., Giardini, L., 2001. Use of CropSyst to simulate a four year rotation with different fertilization levels. Proceedings Second International Symposium Modelling Cropping Systems, Florence, Italy, 16\u201318 July, pp. 105\u2013106."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB10",
+      "unstructured": "Bindi, M., Donatelli, M., Fibbi, L., St\u00f6ckle, C.O., 1999. Estimating the effect of climate change on cropping systems at four European sites. Proceedings First International Symposium Modelling Cropping Systems, Lleida, Spain, 21\u201323 June, pp. 147\u2013148."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB11",
+      "unstructured": "Bocchi, S., Confalonieri, R., Bechini, L., 2001. CropSyst for rice in Northern Italy. Proceedings Second Modelling Cropping Systems International Symposium, Florence, Italy, 16\u201318 July 2001, pp. 51\u201352."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB12",
+      "series-title": "Understanding Options for Agricultural Production",
+      "first-page": "99",
+      "article-title": "The CROPGRO model for grain legumes",
+      "author": "Boote",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB13",
+      "doi-asserted-by": "crossref",
+      "first-page": "171",
+      "DOI": "10.1016/0308-521X(96)00011-X",
+      "article-title": "The \u2018School of de Wit\u2019 crop growth simulation models: a pedigree and historical overview",
+      "volume": "52",
+      "author": "Bouman",
+      "year": "1996",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB14",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1016/0378-4290(91)90054-Y",
+      "article-title": "Simulation of soybean nitrogen nutrition for a silty clay soil in southern France",
+      "volume": "26",
+      "author": "Bouniols",
+      "year": "1991",
+      "journal-title": "Field Crop Res."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB15",
+      "series-title": "Soil Physics with Basic",
+      "author": "Campbell",
+      "year": "1985"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB16",
+      "first-page": "1683",
+      "article-title": "Comparing the performance of WGEN and ClimGen in the generation of temperature and solar radiation",
+      "volume": "44",
+      "author": "Castellvi",
+      "year": "2002",
+      "journal-title": "Trans. ASAE"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB17",
+      "first-page": "1143",
+      "article-title": "Comparing a locally calibrated versus a generalized temperature generation process",
+      "volume": "44",
+      "author": "Castellvi",
+      "year": "2002",
+      "journal-title": "Trans. ASAE"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB18",
+      "unstructured": "Chen, S., Zhao, B., Stockle, C.O., Harrison, J., Nelson, R. 2002. Use of models as decision support tools in dairy nutrient management. ASAE Paper No. 02-4094, St. Joseph, MI."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB19",
+      "unstructured": "Confalonieri, R., Maggiore, T., Bechini, L., 2001. Application of the simulation model CropSyst to an intensive forage system in Northern Italy. In: Proceedings Second International Symposium Modelling Cropping Systems, Florence, Italy, 16\u201318 July, pp. 59\u201360."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB20",
+      "unstructured": "Crisci, A., Moonen, C., Ercoli, L., Bindi, M., 2001. Study of the impact of climate change on wheat and sunflower yields using an historical weather data-set and a crop simulation model. Proceedings Second International Symposium Modelling Cropping Systems, Florence, Italy, 16\u201318 July, pp. 119\u2013120."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB21",
+      "unstructured": "de Wit, C.T., Brouwer, R., Penning de Vries, F.W.T., 1970. The simulation of photosynthetic systems. In: Setlik, I. (Ed.), Prediction and measurement of photosynthetic productivity. Proceeding IBP/PP Technical Meeting Trebon 1969. Pudoc, Wageningen, The Netherlands, pp. 47\u201350."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB22",
+      "unstructured": "Diaz-Ambrona, C.G.H., O'Leary, G.J., O'Connell, M.G., Connor, D.J., 2001. Application of CropSyst to a new location and crops: advantages and limitations. Proceedings Second International Symposium Modelling Cropping Systems, Florence, Italy, 16\u201318 July, pp. 127\u2013128."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB23",
+      "doi-asserted-by": "crossref",
+      "first-page": "35",
+      "DOI": "10.1016/S1161-0301(96)02029-1",
+      "article-title": "CropSyst validation for cropping systems at two locations of Northern and Southern Italy",
+      "volume": "6",
+      "author": "Donatelli",
+      "year": "1996",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB24",
+      "unstructured": "Donatelli, M., Spallacci, P., Marchetti, R., Papini, R., 1996b. Evaluation of CropSyst simulations of growth of maize and of water balance and soil nitrate content following organic and mineral fertilization applied to maize. Proceedings Fourth European Society for Agronomy Congress, Veldhoven-Wageningen, The Netherlands, 7\u201311 July, vol. I, pp. 342\u2013343."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB25",
+      "unstructured": "Donatelli, M., St\u00f6ckle, C.O., Nelson, R.L., Francaviglia, R., 1999a. Evaluating cropping systems in lowland areas of Italy using the cropping system simulation model CropSyst and the GIS software arcview. Proceedings Seventh ICCTA Conference, Firenze, Italy, 16\u201317 November 1998, pp. 114\u2013121."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB26",
+      "first-page": "87",
+      "article-title": "Using the software CropSyst and arcview in evaluating the effect of management in cropping systems in two areas of the low Po valley, Italy",
+      "volume": "22",
+      "author": "Donatelli",
+      "year": "1999",
+      "journal-title": "Rev. de Cien. Agric."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB27",
+      "unstructured": "Donatelli, M., St\u00f6ckle, C.O., Nelson, R.L., Bellocchi, G., 2002a. ET_CSDLL: a DLL for the computation of reference and crop evapotranspiration. Agron. J., (submitted for publication)."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB28",
+      "unstructured": "Donatelli, M., Acutis, M., Fila, G., Bellocchi, G., 2002b. A method to quantify time mismatch of model estimates. Seventh Congress of the European Society for Agronomy, Cordoba, Spain, July 15\u201318, 269\u2013270."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB29",
+      "unstructured": "Donatelli, M., Tubiello, F., Peruch, U., Rosenzweig, C., 2002c. Scenarios of climate change effects on sugar beet in Northern and Central Italy. Ital. J. Agron., in press."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB30",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Donatelli, M., Bellocchi, G., Fontana, F., 2003. RadEst3.00: Software to estimate daily radiation data from commonly available meteorological variables. Eur. J. Agron., 18, 363\u2013367.",
+      "DOI": "10.1016/S1161-0301(02)00130-2"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB31",
+      "unstructured": "Eruygur, O.H., 2000. Use of bio-physical models in agricultural economics: an application of Cropsyst. MS thesis, Dept. Agr. Economics, Middle East Technical University of Ankara, Turkey, pp. 139."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB32",
+      "doi-asserted-by": "crossref",
+      "first-page": "15",
+      "DOI": "10.1007/s002710050067",
+      "article-title": "A model for assessing crop response to salinity",
+      "volume": "19",
+      "author": "Ferrer-Alegre",
+      "year": "1999",
+      "journal-title": "Irrig. Sci."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB33",
+      "unstructured": "Ferrer-Alegre, F., Villar, J.M., Carrasco, I., St\u00f6ckle, C.O., 1999. Developing management decision tools from yield experiments with the aid of a simulation model: an example with N fertilization in corn. Proceedings of the First International Symposium Modelling Cropping Systems, Lleida, Spain, 21\u201323 June, pp. 175\u2013176."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB34",
+      "unstructured": "Ferrer-Alegre, F., Villar, J.M., Castellv\u0131\u0301, F., Ballesta, A., St\u00f6ckle, C.O., 1999. Contribution of simulation techniques to the evaluation of alternative cropping systems in Andorra. Proceedings First International Symposium Modelling Cropping Systems, Lleida, Spain, 21\u201323 June, pp. 177\u2013178."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB35",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Fila, G., Bellocchi, G., Acutis, M., Donatelli, M., 2003. IRENE: a software to evaluate model performance. Eur. J. Agron., 18, 369\u2013372.",
+      "DOI": "10.1016/S1161-0301(02)00129-6"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB36",
+      "unstructured": "Garc\u0131\u0301a de Cort\u00e1zar, V., Silva, P., Acevedo, E., 2002. Validation of a predictive model of the effect of temperature and humidity on wheat straw decomposition. Agricultura T\u00e9cnica (Chile), (in press)."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB37",
+      "unstructured": "Godwin, D.C., Jones, C.A., 1991. Nitrogen dynamics in soil plant systems. In: Hanks, J., Ritchie, J.T. (Eds.), Modeling plant and soil systems, Amer. Soc. of Agronomy, No. 31, pp. 297\u2013302."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB38",
+      "doi-asserted-by": "crossref",
+      "first-page": "425",
+      "DOI": "10.1093/oxfordjournals.aob.a088044",
+      "article-title": "Decline in percentage N of C3 and C4 crops with increasing plant mass",
+      "volume": "66",
+      "author": "Greenwood",
+      "year": "1990",
+      "journal-title": "Ann. Bot."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB39",
+      "doi-asserted-by": "crossref",
+      "first-page": "43",
+      "DOI": "10.1016/B978-0-12-024301-3.50009-5",
+      "article-title": "Canopy temperature and crop water stress",
+      "volume": "1",
+      "author": "Jackson",
+      "year": "1982",
+      "journal-title": "Adv. Irrig."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB40",
+      "doi-asserted-by": "crossref",
+      "first-page": "256",
+      "DOI": "10.2134/agronj1999.00021962009100020013x",
+      "article-title": "Simulation of corn water uptake using models with different levels of process detail",
+      "volume": "91",
+      "author": "Jara",
+      "year": "1999",
+      "journal-title": "Agron. J."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB41",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Keating, B.A., Carberry, P.S., Hammer, G.L., Probert, M.E., Robertson, M.J., Holzworth, D., Huth, N.I., Hargreaves, J.N.G., Meinke, H., Hochman, Z., McLean, G., Verburg, K., Snow, V., Dimes, J.P., Silburn, M., Wang, E., Brown, S., Bristow, K.L., Asseng, S., Chapman, S., McCown, R.L., Freebairn, D.M., Smith, C.J., 2003. An overview of APSIM, a model designed for farming systems simulation. Eur. J. Agron., 18, 267\u2013288.",
+      "DOI": "10.1016/S1161-0301(02)00108-9"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB42",
+      "series-title": "Understanding Options for Agricultural Production",
+      "first-page": "157",
+      "article-title": "Decision support system for agrotechnology transfer DSSAT v3",
+      "author": "Jones",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB43",
+      "doi-asserted-by": "crossref",
+      "first-page": "421",
+      "DOI": "10.1016/S0308-521X(01)00054-3",
+      "article-title": "Approaches to modular model development",
+      "volume": "70",
+      "author": "Jones",
+      "year": "2001",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB44",
+      "doi-asserted-by": "crossref",
+      "first-page": "51",
+      "DOI": "10.1016/0378-4290(89)90023-3",
+      "article-title": "Radiation-use efficiency in biomass accumulation prior to grain filling for five grain crop species",
+      "volume": "20",
+      "author": "Kiniry",
+      "year": "1989",
+      "journal-title": "Field Crop Res."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB45",
+      "unstructured": "Lindemann, E.R., St\u00f6ckle, C.O., Redell, D., 1987. Field testing a computer-assisted on-farm irrigation scheduling program. ASAE Paper No. 87\u20132560, St. Joseph, MI."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB46",
+      "series-title": "Crop Ecology: Productivity and Management in Agricultural Systems",
+      "author": "Loomis",
+      "year": "1992"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/S1161-0301(02)00109-0_BIB47",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.2134/jeq1997.00472425002600020009x",
+      "article-title": "Testing denitrification functions of dynamic crop models",
+      "volume": "26",
+      "author": "Marchetti",
+      "year": "1997",
+      "journal-title": "J. Envir. Qual."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB48",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Marchetti, R., Spallacci P., Ceotto E., Papini R., 1998. Predicting yield variability for corn grown in a silty-clay soil in Northern Italy. In: Proceedings Fourth International ASA-CSSA-SSSA Conference on Precision Agriculture, St. Paul, MN, 19\u201322 July, pp. 467\u2013478.",
+      "DOI": "10.2134/1999.precisionagproc4.c41"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB49",
+      "unstructured": "Marcos, J., 2000. Simulation-based assessment of alternative crops in the dryland Pacific Northwest. Ph. D. dissertation, Washington State University, Pullman, Washington."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB50",
+      "unstructured": "Marcos, J., Fiez, T., St\u00f6ckle, C.O., Huggins, D., 1999. Model-based assessment of alternative crop adaptation to the dryland cropping areas of the Pacific Northwest. Agronomy Abstracts, ASA Annual Meeting, Salt Lake City, UT, American Society of Agronomy, Madison, WI."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB51",
+      "unstructured": "Mazzetto, F., Ceccon P., Bonera R., Sacco D., Acutis M., 2001. A model of multicriteria analysis aimed at evaluating different cropping systems. Proceedings Second Modelling Cropping Systems International Symposium, Florence, Italy, 16\u201318 July 2001, pp. 150\u2013151."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB52",
+      "doi-asserted-by": "crossref",
+      "first-page": "255",
+      "DOI": "10.1016/0308-521X(94)00055-V",
+      "article-title": "APSIM: a novel software system for model development, model testing and simulation in agricultural systems research",
+      "volume": "50",
+      "author": "McCown",
+      "year": "1996",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB53",
+      "unstructured": "McKinion, J.M., Baker, D.N., Whisler, F.D., Lambert, J.R., 1988. Application of the GOSSYM/COMAX system to cotton crop management. ASAE Paper No. 88\u20137532, St. Joseph, MI."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB54",
+      "doi-asserted-by": "crossref",
+      "first-page": "493",
+      "DOI": "10.1016/S0308-521X(01)00057-9",
+      "article-title": "Increasing profits and reducing risks in crop production using participatory systems simulation approaches",
+      "volume": "70",
+      "author": "Meinke",
+      "year": "2001",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB55",
+      "first-page": "205",
+      "volume": "19",
+      "author": "Monteith",
+      "year": "1965"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB56",
+      "doi-asserted-by": "crossref",
+      "first-page": "277",
+      "DOI": "10.1098/rstb.1977.0140",
+      "article-title": "Climate and crop efficiency of crop production in Britain",
+      "volume": "281",
+      "author": "Monteith",
+      "year": "1977",
+      "journal-title": "Phil. Trans. Res. Soc. Lond. Ser. B"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB57",
+      "unstructured": "Morari, F., Berti, A., Borin, M., Giardini, L., 2000. CropSyst model in simulating cropping systems with different input levels. Proceedigns Nineth International Conference on the UN-FAO ESCORENA network, Gargnano del Garda (BS), Italy, 6\u20139 September, pp. 257\u2013262."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB58",
+      "doi-asserted-by": "crossref",
+      "first-page": "147",
+      "DOI": "10.1016/0308-521X(95)00043-5",
+      "article-title": "Simulation of durum wheat (Triticum durum) growth under differential water and nitrogen regimes in a mediterranean type of environment using CropSyst",
+      "volume": "51",
+      "author": "Pala",
+      "year": "1996",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB59",
+      "doi-asserted-by": "crossref",
+      "first-page": "121",
+      "DOI": "10.1016/S0308-521X(97)00076-0",
+      "article-title": "Validation of CropSyst for winter and spring wheat under different tillage and residue management practices in a wheat-fallow region",
+      "volume": "57",
+      "author": "Pannkuk",
+      "year": "1998",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB60",
+      "doi-asserted-by": "crossref",
+      "first-page": "23",
+      "DOI": "10.1016/S0167-8809(01)00157-8",
+      "article-title": "Nitrate from an irrigated crop rotation at the Pasco-Quincy area (Washington, USA) available for groundwater contamination: a long-term simulation study",
+      "volume": "88",
+      "author": "Peralta",
+      "year": "2001",
+      "journal-title": "Agric. Ecosyst. Environ."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB61",
+      "doi-asserted-by": "crossref",
+      "first-page": "81",
+      "DOI": "10.1175/1520-0493(1972)100<0081:OTAOSH>2.3.CO;2",
+      "article-title": "On the assessment of surface heat flux and evaporation using large scale parameters",
+      "volume": "100",
+      "author": "Priestley",
+      "year": "1972",
+      "journal-title": "Mon. Weath. Rev."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB62",
+      "unstructured": "Renard, K.G., Foster, G.R., Weesies, G.A., McCool, D.K., Yoder, D.C., 1997. Predicting Soil Erosion by Water: A Guide to Conservation Planning with the Revised Universal Soil Loss Equation (RUSLE). US Dept Agric., Agriculture Research Service. Agriculture Handbook No. 703, pp. 384."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB63",
+      "unstructured": "Richardson, C.W., Wright, D.A., 1984. WGEN: A model for generating daily weather variables. U.S. Department of Agriculture, Agricultural Research Service, ARS-8, pp. 83."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB64",
+      "unstructured": "Richter, G.M., Agostini, F., Donatelli, M., Smith, P., Smith, J., 1999. Modelling the N-dynamics of a wheat-sugar beet rotation at different complexity. Proceedings First International Symposium Modelling Cropping Systems, Lleida, Spain, 21\u201323 June, pp. 239\u2013240."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB65",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ritchie, J.T., NeSmith, D.S., 1991. Temperature and crop development. In: Hanks J., Ritchie J.T., (Eds.), Modeling Plant and Soil Systems, Agronomy Monograph No.31, ASA, CSSA, and SSSA, Madison, WI, pp. 5\u201329.",
+      "DOI": "10.2134/agronmonogr31.c2"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB66",
+      "series-title": "Understanding Options for Agricultural Production",
+      "first-page": "79",
+      "article-title": "Cereal growth, development and yield",
+      "author": "Ritchie",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB67",
+      "unstructured": "Rivington, M., Matthews, K.B., Sibbald, A.R., St\u00f6ckle, C.O., 2001. Integrating CropSyst with a multiple-objective land use planning tool (LADSS). Proceedings Second International Symposium Modelling Cropping Systems, Florence, Italy, 16\u201318 July, pp. 171\u2013172."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB68",
+      "doi-asserted-by": "crossref",
+      "first-page": "1519",
+      "DOI": "10.2136/sssaj1990.03615995005400060002x",
+      "article-title": "Simulating water movement in layered and gradational soils using the Kirchhoff transform",
+      "volume": "54",
+      "author": "Ross",
+      "year": "1990",
+      "journal-title": "Soil Sci. Soc. Am. J."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB69",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sadras, V.O., 2002. Interaction between rainfall and nitrogen fertilisation of wheat in environments prone to terminal drought: economic and environmental risk analysis. Field Crops Res., 77, 201\u2013215.",
+      "DOI": "10.1016/S0378-4290(02)00083-7"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB70",
+      "doi-asserted-by": "crossref",
+      "first-page": "1031",
+      "DOI": "10.2136/sssaj1986.03615995005000040039x",
+      "article-title": "Estimating generalized soil\u2013water characteristics from texture",
+      "volume": "50",
+      "author": "Saxton",
+      "year": "1986",
+      "journal-title": "Soil Sci. Soc. Amer. J."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB71",
+      "unstructured": "Scott, M., L.W. Vail, J.A. Jaksch, Anderson K.K., Stockle. C.O., 2001. Early warning of ENSO events for regional agriculture. Report for the Office of Global Programs, U.S. NOAA, Contract 28340A. Battelle Pacific Northwest Division, Richland, Washington."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB72",
+      "unstructured": "Silvestri, N., Bellocchi, G., Mazzoncini, M., Menini, S., 1999. Evaluation of the CropSyst model for simulating soil water, soil nitrate, green area index and above\u2013ground biomass of maize under different management. Proceedings First International Symposium Modelling Cropping Systems, Lleida, Spain, 21\u201323 June, pp. 253\u2013254."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB73",
+      "doi-asserted-by": "crossref",
+      "unstructured": "St\u00f6ckle, C.O., Bellocchi, G., Nelson, R.L., 1998. Evaluation of the weather generator ClimGen for several world locations. Proceedings Seventh International Congress for Computer Technology in Agriculture, Florence, Italy, 15\u201318 November 1998, pp. 34\u201341.",
+      "DOI": "10.1016/S0262-1762(99)80582-3"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB74",
+      "doi-asserted-by": "crossref",
+      "first-page": "89",
+      "DOI": "10.1016/S1161-0301(97)00033-6",
+      "article-title": "Comparison of CropSyst performance for water management in Southwestern France using submodels of different levels of complexity",
+      "volume": "7",
+      "author": "St\u00f6ckle",
+      "year": "1997",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB75",
+      "doi-asserted-by": "crossref",
+      "first-page": "66",
+      "DOI": "10.13031/2013.30964",
+      "article-title": "Simulation of crop response to water and nitrogen: an application example using spring wheat",
+      "volume": "32",
+      "author": "St\u00f6ckle",
+      "year": "1989",
+      "journal-title": "Trans. ASAE"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB76",
+      "doi-asserted-by": "crossref",
+      "first-page": "161",
+      "DOI": "10.1016/S1161-0301(97)00038-5",
+      "article-title": "Modelling crop nitrogen requirements: a critical analysis",
+      "volume": "7",
+      "author": "St\u00f6ckle",
+      "year": "1997",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB77",
+      "doi-asserted-by": "crossref",
+      "first-page": "119",
+      "DOI": "10.1016/S0168-1923(98)00086-0",
+      "article-title": "Modeling transpiration and soil water content from from a corn field: 20 min vs. daytime integration step",
+      "volume": "92",
+      "author": "St\u00f6ckle",
+      "year": "1998",
+      "journal-title": "Agric. For. Meteorol."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB78",
+      "doi-asserted-by": "crossref",
+      "first-page": "335",
+      "DOI": "10.1016/0308-521X(94)90006-2",
+      "article-title": "CropSyst, a cropping systems model: water/nitrogen budgets and crop yield",
+      "volume": "46",
+      "author": "St\u00f6ckle",
+      "year": "1994",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB79",
+      "series-title": "Cropsyst User's manual (Version 3.0)",
+      "author": "St\u00f6ckle",
+      "year": "2000"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB80",
+      "doi-asserted-by": "crossref",
+      "first-page": "225",
+      "DOI": "10.1016/0308-521X(92)90067-X",
+      "article-title": "A method for estimating the direct and climatic effects of rising atmospheric carbon dioxide on growth and yield of crops: Part I\u2014modification of the EPIC model for climate change analysis",
+      "volume": "38",
+      "author": "St\u00f6ckle",
+      "year": "1992",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB81",
+      "doi-asserted-by": "crossref",
+      "first-page": "562",
+      "DOI": "10.13031/2013.33979",
+      "article-title": "Real-time irrigation decision analysis using simulation",
+      "volume": "26",
+      "author": "Swaney",
+      "year": "1983",
+      "journal-title": "Trans. ASAE"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB82",
+      "series-title": "Limitations to efficient water use in crop production",
+      "article-title": "Efficient water use in crop production: research or re-search?",
+      "author": "Tanner",
+      "year": "1983"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB83",
+      "doi-asserted-by": "crossref",
+      "first-page": "179",
+      "DOI": "10.1016/S1161-0301(00)00073-3",
+      "article-title": "Effects of climate change and elevated CO2 on cropping systems: model predictions at two Italian locations",
+      "volume": "2\u20133",
+      "author": "Tubiello",
+      "year": "2000",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB84",
+      "unstructured": "US Department of Agriculture, Soil Conservation Service. 1972. National Engineering Handbook, 4. Hydrology. Washington, DC, pp. 548."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB85",
+      "unstructured": "Van Keulen, H., Seligman, N.G., 1987. Simulation of water use, nitrogen nutrition and growth of a spring wheat crop, Pudoc, Wageningen."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB86",
+      "first-page": "99",
+      "article-title": "Comparison between two simulation models to evaluate cropping systems in Southern Italy. Yield response and soil water dynamics",
+      "volume": "129",
+      "author": "Ventrella",
+      "year": "1999",
+      "journal-title": "Agric. Med."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB87",
+      "unstructured": "Wilkerson, G.G., Mishoe, J.W., Jones, J.W., Boggess, W.G., Swaney, D.P., 1983. Within-season decision making for pest control in soybeans. ASAE Paper No. 83\u20134044, St. Joseph, MI."
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB88",
+      "doi-asserted-by": "crossref",
+      "first-page": "129",
+      "DOI": "10.13031/2013.32748",
+      "article-title": "A modeling approach to determining the relationship between erosion and soil productivity",
+      "volume": "27",
+      "author": "Williams",
+      "year": "1984",
+      "journal-title": "Trans. ASAE"
+    },
+    {
+      "key": "10.1016/S1161-0301(02)00109-0_BIB89",
+      "doi-asserted-by": "crossref",
+      "first-page": "1309",
+      "DOI": "10.1175/1520-0477(1982)063<1309:SCOTEO>2.0.CO;2",
+      "article-title": "Some comments on the evaluation of model performance",
+      "volume": "63",
+      "author": "Willmott",
+      "year": "1982",
+      "journal-title": "Bull. Amer. Meteorol. Soc."
+    }
+  ],
+  "container-title": [
+    "European Journal of Agronomy"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1161030102001090?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1161030102001090?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        11
+      ]
+    ],
+    "date-time": "2020-03-11T23:19:12Z",
+    "timestamp": 1583968752000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1161030102001090"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2003,
+        1
+      ]
+    ]
+  },
+  "references-count": 89,
+  "journal-issue": {
+    "issue": "3-4",
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S1161030102001090"
+  ],
+  "URL": "https://doi.org/10.1016/s1161-0301(02)00109-0",
+  "relation": {},
+  "ISSN": [
+    "1161-0301"
+  ],
+  "issn-type": [
+    {
+      "value": "1161-0301",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2003,
+        1
+      ]
+    ]
+  }
+}

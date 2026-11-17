@@ -1,0 +1,2413 @@
+{
+  "all_disk_hashes_verified": true,
+  "files": [
+    {
+      "path": "models/phase8-v8/Full-Telemetry-observable-ood.joblib",
+      "sha256": "f8986bf843c495f7c42eb253916f6c4a6c1a5905bca66ae514e269de0c966d04",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-v8/Sensorless-ExtraTrees-fold-1.joblib",
+      "sha256": "19ad595ce5dbe5a24abc3f8a3ba296e361240ac3d1f6aed6875cc53b2310d742",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "models/phase8-v8/Full-Telemetry-ExtraTrees-fold-1.joblib",
+      "sha256": "b2d6e6df9a87dbb11793cfc989b5a7452f4fcee4eb917cd68d765e7761aef740",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "models/phase8-v8/Sensorless-observable-ood.joblib",
+      "sha256": "a7334c2654f7ad9a69949e3e805f863d295e28a201c53386c8b8a8d3087743bf",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-v8/Full-Telemetry-mlp-fold-1-seed20261117/model.pt",
+      "sha256": "5065927821f317172705831b0db108c627547ed8609b5da3deb556fcf8474f67",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-v8/Full-Telemetry-residual-mlp-fold-1-seed20261115/model.pt",
+      "sha256": "2c946d86f33ec8e500e95d7b49893ebfe8ded909f342d1c8e1e54d985093d3e6",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-v8/Sensorless-mlp-fold-1-seed20261117/model.pt",
+      "sha256": "5fec1330c416fbbf711d3c39a63def1432136a3f07e0fece11a02a8843c825a8",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-v8/Full-Telemetry-mlp-fold-1-seed20261115/model.pt",
+      "sha256": "5b9c6a5c1627a3a87395f7dab825568d4b16040fcd83ebdc7b6236f5a2588002",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-v8/Full-Telemetry-residual-mlp-fold-1-seed20261117/model.pt",
+      "sha256": "6b2327ea5022b544621a695dedfbc7f4cfcb5a23878206222880d871d1a2c4df",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-v8/Full-Telemetry-residual-mlp-fold-1-seed20261116/model.pt",
+      "sha256": "c2bc5b715d3c47fddcffc81fad48a3bb452bedbb6665657799e479e7dc825439",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-v8/Sensorless-mlp-fold-1-seed20261116/model.pt",
+      "sha256": "436dfc76c1f795e77c00284572ecec68748edd87391c3e35eca5419f02d20f1c",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-v8/Sensorless-residual-mlp-fold-1-seed20261117/model.pt",
+      "sha256": "0d8c691c407e1c8ed3f47106fc4d13ab3610ba5fe077058cc512e69620057122",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-v8/Sensorless-residual-mlp-fold-1-seed20261116/model.pt",
+      "sha256": "74296491c158b0cddae996c5dcbb7cf0095bbb857ab130435334646f756eb14b",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-v8/Sensorless-residual-mlp-fold-1-seed20261115/model.pt",
+      "sha256": "b4e560185c52cc87334bdf4af62e2f7988065608704eb5a1c70fb2d6fd486c48",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-v8/Full-Telemetry-mlp-fold-1-seed20261116/model.pt",
+      "sha256": "40a5c4d61478d2a35a6cdced2f2b9357f122436c278a90cd9df71a6b67882254",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-v8/Sensorless-mlp-fold-1-seed20261115/model.pt",
+      "sha256": "ecffc9e93e330e92efbb00a6489f780706ddb2fb72cc6f73109730b24fc24444",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/Sensorless-Linear-fold-1.joblib",
+      "sha256": "3ba72999fe247536593faabf04c34ebfd6b078524b8415bdb42b65ebbdd7d005",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/PureWeather-ood.joblib",
+      "sha256": "56927c48294da1981abf6a497f6481860252d8e2e6a0a686bbc6a25ab1968565",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/Full-Telemetry-Linear-fold-1.joblib",
+      "sha256": "a04546b71a2b22cdfd07f6c49fc02ea81b2c1960737ead53791c6bc0867a9e59",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/PPO-Sensorless-seed29/vecnormalize.pkl",
+      "sha256": "f89fe7ff065b47afb306984e11df198b75488ba6c9a06c2701e4016ff06cf538",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/pure-weather/Sensorless-mlp-fold-1-seed20261117/model.pt",
+      "sha256": "b0709d4f2d13871dc38989c7ca61217ddf72d88a781c33b045813d50f3686947",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/pure-weather/Sensorless-mlp-fold-1-seed20261116/model.pt",
+      "sha256": "1b9c1ffb7414b7d78282bd55bbb58d11155d3220ceeecb48bbaa623af1405b68",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/pure-weather/Sensorless-mlp-fold-1-seed20261115/model.pt",
+      "sha256": "ca2497b7ab620d1493f4c2293bc2f1753407d0c866ad906f024b347604d9dea0",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/PPO-Sensorless-seed17/vecnormalize.pkl",
+      "sha256": "0e81be2c43442dfaee92cbf7021e3227f803f47a55ae9a55d5029f98ebe8eaa3",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2018/ExtraTrees64.joblib",
+      "sha256": "c7365c80428e5d261a018dd0cc2f318d03580bd22388e1c2b2524385325190be",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2018/Linear64.joblib",
+      "sha256": "144dce5861747581998f472aa0e03a3cca46013a2c32c57efd3db16254554c7e",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2018/Weather.joblib",
+      "sha256": "2377b43f1cb445528fbe6fae616f7ea1daffc16c0866a47dccd5e74f376e946e",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2018/Static3.joblib",
+      "sha256": "1eb81aef8d0c626c5a58fa009e6cbf5f87f8c94bf355781e3536d0544399e7ff",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2018/Full64.joblib",
+      "sha256": "04be622dd328edac2c4800e15847ad9907315dc9b5ebeb9b43c2ad2965050d5a",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2023/ExtraTrees64.joblib",
+      "sha256": "5094c2a32df31b8e93db67f94fb9c56e00d6b230a10ba1ba8fe47690e3e307a6",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2023/Linear64.joblib",
+      "sha256": "369c1fb74badaf2db8220f31627b02fabfde9bf9c37b587e3f1d023c74a440e3",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2023/Weather.joblib",
+      "sha256": "65131b7da296ab882a56bc04c5ddd551555bbc660ce2e3bcac5974b37dbffa27",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2023/Static3.joblib",
+      "sha256": "d071726d9140050c2a56549f60bcc8908863f0fe2d9fc4ba4da6ab893d7c39c7",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2023/Full64.joblib",
+      "sha256": "723d4e8fe349b40a4297eac91db82318d75ccb0c085e009182a9e99306b31642",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2022/ExtraTrees64.joblib",
+      "sha256": "0068e979688520f53adea6a1e3894b2726b6487a60d58b6f9d6b6885f1c069fa",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2022/Linear64.joblib",
+      "sha256": "1cb94d1a597e8c5d8dc87ec2dae72f4cac45e4c29d7d5c9cb44d5e40c21fbfdd",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2022/Weather.joblib",
+      "sha256": "febba3f760e004594ee89227b372dcc5433d950e1a00f4e5a7e25e2d7f952e1c",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2022/Static3.joblib",
+      "sha256": "8aa7ad7f0bfd6664c4780591d641372bed2e8fcc4661c5ca73dd5293a9eb1d8c",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2022/Full64.joblib",
+      "sha256": "3cd6a44281c6151d3796b220c0d117eb8a291d2158720361de490964981a059f",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-france_paris_beauce/ExtraTrees64.joblib",
+      "sha256": "71888d0fe5f1003fbbc908b68aa126e7b8b09fbfc5d726494ecb13f5f1b5da2d",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-france_paris_beauce/Linear64.joblib",
+      "sha256": "93d2d83eb9da7142adb9fcad0b6950d78773cd4543738ddb7410252245f2089a",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-france_paris_beauce/Weather.joblib",
+      "sha256": "017146fc8eafa9153fc37aacddca618de402ecd5da954bb0b41c9b10daf06a27",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-france_paris_beauce/Static3.joblib",
+      "sha256": "f356c9ef41becc3cd7a9737df9b0abee45753d557d564f14429b1e4f2360fb6d",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-france_paris_beauce/Full64.joblib",
+      "sha256": "d28a324b959818c5de4ad746a970a71c56f5cd5210530e8399db6ec22db09b3e",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2021/ExtraTrees64.joblib",
+      "sha256": "e3a36355c2c6dde6cec45d35124f978d4fd97d739a77e67769b427beebfad6aa",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2021/Linear64.joblib",
+      "sha256": "c921070e69e25d9b3dd4c841e442a25bc5dc4e52edcdb1995ffc9d5930b82f1a",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2021/Weather.joblib",
+      "sha256": "47f879b1dfe941def941a555bd0a3cfda65a1c2391dd4063a7fdaca979d00040",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2021/Static3.joblib",
+      "sha256": "7e7424d01ef39d3e899b5d1bd78ac8d62eecbcc66b0f6f8e3897a2bbd3215a74",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2021/Full64.joblib",
+      "sha256": "95d7f35d5df0b412e7a5df6033918b7e8feb2ac556ce21c5ce7d3e460c9f5c6d",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-australia_wa_perth/ExtraTrees64.joblib",
+      "sha256": "fba2c00c45a16021ead5e4f25ba0346ffd8dd21c53adaceec006c4699ccfbdb1",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-australia_wa_perth/Linear64.joblib",
+      "sha256": "af95952b569be4f4f736dd06f068544f59c57256b2496d7acfe8e3984000feef",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-australia_wa_perth/Weather.joblib",
+      "sha256": "62ea04e19ab7613be57903227ea5ef44a0169978fc8167fa0d8b7481e6273b88",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-australia_wa_perth/Static3.joblib",
+      "sha256": "8548913d19bf06e639209e27771e5ae43eff5930c8dc7435cb06f98475d524eb",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-australia_wa_perth/Full64.joblib",
+      "sha256": "4962e366da9db235fb832fd3fe6b5c340d558bc86a082bc35350755f8525ea96",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-china_ncp_luancheng/ExtraTrees64.joblib",
+      "sha256": "3b07fdfe53fff7f7e404d5b578c4161a5dbbef6614e7ea5b890ecea04a8f2ad5",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-china_ncp_luancheng/Linear64.joblib",
+      "sha256": "aa2727cb0fb6421740cd2a793fbdf5af97e8ccd85312164499f21f7ca5f09520",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-china_ncp_luancheng/Weather.joblib",
+      "sha256": "ed6605d72bd98f9d4c9b0b40d4dbac44f891afaa5bda90dee953c0a452078624",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-china_ncp_luancheng/Static3.joblib",
+      "sha256": "749e13adef51572f9ed2383aa23ab57e822ae0938b980c7376e05ca790c042c3",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-china_ncp_luancheng/Full64.joblib",
+      "sha256": "4d6d57402d04458e2f27e854f2f4df058adeac3ed938113d04de5b7b1744ae9c",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-netherlands_lelystad/ExtraTrees64.joblib",
+      "sha256": "0d9db3e6502f2c5dc2408f63faf5071de122cbca503041fbf38bcafd19443d6e",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-netherlands_lelystad/Linear64.joblib",
+      "sha256": "7b4456420256c6002b929b70efd1724a4d12350f645189d3b79bcf03b9694cc9",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-netherlands_lelystad/Weather.joblib",
+      "sha256": "323c3b0896874c559a58c0f16fb35d7601293a43bc702de43446f7c491297678",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-netherlands_lelystad/Static3.joblib",
+      "sha256": "e9917c598187650237432419fc06da733e6974033d825b5903d99f9b8dc2c8ed",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-netherlands_lelystad/Full64.joblib",
+      "sha256": "eba75bbe969c036e4d1c11546decfd5d00ccbda7d68195162e0bbb5404d0f7b7",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2020/ExtraTrees64.joblib",
+      "sha256": "505c8ce6b187e66385e70227a6d3bbf48c3603e660174fd46265d371e08f9fdb",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2020/Linear64.joblib",
+      "sha256": "a590277361428ebedc7b91714f50a08a9946a51a29f6fc376246f42905f97fbe",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2020/Weather.joblib",
+      "sha256": "c4d903d42b0613cbe41577abec1d378d6addf6fa6ca8d1fdbdd7932b78b20bfa",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2020/Static3.joblib",
+      "sha256": "b0aaf2a1160714d4d82a28057fe470b4828e7df1219876e9633890926ff4f5bb",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2020/Full64.joblib",
+      "sha256": "813f4b83ba12f20219744088a4c8da1250863cde1c069284f2e937a09bb3706d",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2024/ExtraTrees64.joblib",
+      "sha256": "4351fc5291c3ca456886727d81932ad86a0e2604ce2faf7d467e99e2242da4d2",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2024/Linear64.joblib",
+      "sha256": "8f80dad0ab757e558fc385d1c2dad7ddbc8d071f66ab62429ef5cf16de357de0",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2024/Weather.joblib",
+      "sha256": "f02adcd3e8719a70234f646a9562c097f5d7c8624d7098e87e685ea8581fe55a",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2024/Static3.joblib",
+      "sha256": "114275a58e1a1f6f155ee7ca0eeab6ff0d26b30d45495097b5ba0f95f8a45cdb",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2024/Full64.joblib",
+      "sha256": "a20d38ea75191809f97e1e0647a070caa4d8b8db81faf38fa15bba77d6121f60",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-usa_kansas_wichita/ExtraTrees64.joblib",
+      "sha256": "4d5a897def2b6a0dce8450bc7409c698e46c51b5fe39cc87163e7d6a65b9495a",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-usa_kansas_wichita/Linear64.joblib",
+      "sha256": "83d8c043149c490db58fb030f15bc72ff8c4b52d0a286166fbed740be4176885",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-usa_kansas_wichita/Weather.joblib",
+      "sha256": "c0edc1a2390e8674b932ed85ce7fc934c66b629e806fbc9f8865c03e9a3e38da",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-usa_kansas_wichita/Static3.joblib",
+      "sha256": "17efb67413cbd4f5272a8982ad7355ee2f1724a81fbbee2696969159c942c688",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LORO-usa_kansas_wichita/Full64.joblib",
+      "sha256": "5ba6012b4f8fba0f1111cf8d1f861bc067bd77d09aa917bc98127fae536e389d",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2025/ExtraTrees64.joblib",
+      "sha256": "20e02a7a67796334c5c40c4cfb99409d066f9f06cd6183a33128a8b200919578",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2025/Linear64.joblib",
+      "sha256": "22f949f2a2c61319a44dd7f80edf4664e92ff2b916993efda6763b0499cdfc12",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2025/Weather.joblib",
+      "sha256": "c75ecd4450aab98f2a563b1622d383abf2f2b2c35f99dbc7f8b693d9309ba651",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2025/Static3.joblib",
+      "sha256": "267b5564230e3979d7c4fb8b844b872e4ecae7dfdfc29f34e5c94a598e3a571c",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2025/Full64.joblib",
+      "sha256": "7f876b8bb22119786d83555291e565d1b5ab6b9285c6186532f306bb7c74944c",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2019/ExtraTrees64.joblib",
+      "sha256": "3e11e79e2dfa4f2539d86f25ca00447deb5a92c600b7e5ea83960d737aaa749c",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2019/Linear64.joblib",
+      "sha256": "14e5d5db42c71a77227fe4fdcb1d179da84f21875ddec148dd1b998927de4929",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2019/Weather.joblib",
+      "sha256": "8302d2180e15f619950f65011615bbac22a095d84ccf0f3e13d5d135d871c5f6",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2019/Static3.joblib",
+      "sha256": "9fcc7ff5d3e40ef946f6c53c39018a91e65ee80b03165110026e7ed12d33a5dc",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2019/Full64.joblib",
+      "sha256": "31c353396062af9f1eaaebc3e8769fe687e2a785b754ab7c7373325a72025dff",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2026/ExtraTrees64.joblib",
+      "sha256": "839723aa5735461a7356e70c1a607019fd73bfb6f90351013df24acf406b3618",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2026/Linear64.joblib",
+      "sha256": "a90662ae0d113284d58d748de5d3bc2987e7fd0baa104521cfee5fbe5a1705ca",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2026/Weather.joblib",
+      "sha256": "c6c9932a418f1c920b482a7a79ed546f1160b5c6d1c483825f0d36108a43b803",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2026/Static3.joblib",
+      "sha256": "42863a37c19150db5bcf9fcb4b6c7b9faebe9c89ab14d988f2c7fc013dfeca89",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/p2-adapters/LOYO-2026/Full64.joblib",
+      "sha256": "b73b6f55ab8f230d2b7f56c77e0c7eb2d5b09ba6564326994b012e477e80b7d1",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8-controls/PPO-Sensorless-seed4/vecnormalize.pkl",
+      "sha256": "332d9dc4695c94193480a9a9028b69f95f17c2052e499017cccaa245c470fea9",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8c-controls/ppo-sensorless-reconstructed-seed4/model.zip",
+      "sha256": "8bfb6384f1602a9c37e23f5100eb44c851a8d17a3aee937bae9db851f8763027",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "models/phase8c-controls/ppo-sensorless-reconstructed-seed4/vecnormalize.pkl",
+      "sha256": "332d9dc4695c94193480a9a9028b69f95f17c2052e499017cccaa245c470fea9",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8c-controls/ppo-sensorless-reconstructed-seed4/receipt.json",
+      "sha256": "84b3a356e8e32678de4867236007563701d4b02bc5fd341ce25da68767246c14",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8c-controls/ppo-sensorless-reconstructed-seed17/model.zip",
+      "sha256": "3477046f95d51c6b9952c8995f02c7059dfdcaed03381f93c17be653e94a2447",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "models/phase8c-controls/ppo-sensorless-reconstructed-seed17/vecnormalize.pkl",
+      "sha256": "0e81be2c43442dfaee92cbf7021e3227f803f47a55ae9a55d5029f98ebe8eaa3",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8c-controls/ppo-sensorless-reconstructed-seed17/receipt.json",
+      "sha256": "162a0c677b6b806dccc5709763b69033fad96a4e11be94bfd2386fe2e6c64fb0",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8c-controls/ppo-sensorless-reconstructed-seed29/model.zip",
+      "sha256": "bf9d9e14ac8d25e98afb074217981dcfdaf65d650cb52fd586cf353c8972ebd0",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "models/phase8c-controls/ppo-sensorless-reconstructed-seed29/vecnormalize.pkl",
+      "sha256": "f89fe7ff065b47afb306984e11df198b75488ba6c9a06c2701e4016ff06cf538",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8c-controls/ppo-sensorless-reconstructed-seed29/receipt.json",
+      "sha256": "db79cf3347cfa0d00b2c10429722fb4cb0a3298b2ea18e0f62c7641b31aba3e0",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/online_features.py",
+      "sha256": "7c29b906c69939a59a9b82a4ba9cf18220ba0b8c359a8e638afc47a37210c822",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/offline_verification.py",
+      "sha256": "7421564f072a1a1b45170cce293b9c7cafc0b608e00c7a40092c5eca2969edec",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/prior_adapter.py",
+      "sha256": "787fb7022877ca45274fa99627100df6cdc9a7fdac31171f1db71d95d9795170",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/referee.py",
+      "sha256": "b59008c8554ea6d7178b064a0d4463402aa17a4ee8bf196460ac580dbf821f7a",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/data.py",
+      "sha256": "b81acf3d30202d8c025bafef0cec17424fa28ed83b1f1c67ed0bdeec85b33957",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/trajectory_cache.py",
+      "sha256": "708ec75df8755890b24a1784b02b14cc8fee68a8b253a0ed731afa57fa364464",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/climate.py",
+      "sha256": "aa4444ecf912efcc8d4c3bed28fd046d1dd60cb911e54d73ea8b5499d85866b7",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/agents.py",
+      "sha256": "477dfba9a88058b572917408bd430ad23675f8ba5c58d892da81fef7b41d6007",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/tree_weather.py",
+      "sha256": "2ee866a9d3e0eebfe010e7cc19acfeded8b2a6bf1a0b88fb971ae93a3a78961d",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/__init__.py",
+      "sha256": "2a0e17437e2811a4f39191fb6c65f2aad14f70048ec51fe81f4659136d097f61",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/controller.py",
+      "sha256": "059e7ca6617e9438d9f2e0bd9180981b2d604e7bdcecdceba252b75c980281f4",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/models.py",
+      "sha256": "2da076ea4d3444a6b74e9bf0eaba60f323bcd00792a239fec41bf0718739234c",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/ood.py",
+      "sha256": "72bbda6953f0f79bdd07e693a89bd85b6b2ffcdfb1624fed0802f86d17b38974",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/ledger.py",
+      "sha256": "bfb9b923f4c70411fc4ae838b8b3df6fb4fab3c2eb127494cd00e0a93830a47c",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/lightning_container.py",
+      "sha256": "4cbc22bf06e3aebc929016df62acd3ae7a71b0a50c214b670f95424e545b5d15",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/policies.py",
+      "sha256": "33776215af7612a25d636abf48f79aac56e1ae40e9f0591fa1baf76f125ae47b",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/planning.py",
+      "sha256": "3019a5e5e9a5befeb7ca4e95b79d2d30eb5b990784e3027e3bd73956c91d66ae",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/joint_model.py",
+      "sha256": "5c61bd704130fea2d6325cb1f371ff3ef89abeb6782d72aa8afc0ae63ca83db9",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/decoding.py",
+      "sha256": "99fec7fe4255d3c076e57e31802b0df364eb62cd45c7230d22a97b4dd02e0640",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/book_policy.py",
+      "sha256": "6a5f65c31928538ededf5ac0a19c23d90f86e862d765522bd19293f2329dd917",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "NUE_PCSE-Gym/pcse_gym/agromas_v8/scoring.py",
+      "sha256": "a4306fbe0f60912380453da9c71e66cc1922ef07205927601110bcfe0f42117a",
+      "tracked_blob_verified": true,
+      "commit": "c242b6dd62d853c5888144bab864f9a509599633"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2023/ExtraTrees64.joblib",
+      "sha256": "b249e9c4288fb57cb6a10958232e1aa232953dd4ba5c327deffd41527dea7bbf",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2023/Linear64.joblib",
+      "sha256": "ee8996e659278f4bf42c615188fd8de27e7f1205c4a8fb14f97365ab95584086",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2023/Weather.joblib",
+      "sha256": "36ed5f52814828d935ac66902adb2bfdc9bad21d90b55175eaae55967b59d7f2",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2023/Static3.joblib",
+      "sha256": "ec525db048364fa6ba726a7e0385e8327fcdc721825f7ebf4e685143e97f0476",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2023/Full64.joblib",
+      "sha256": "898f18656623435aea40615b28240c1af2a92d49b18adfd748bf6652db5e8267",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2026/ExtraTrees64.joblib",
+      "sha256": "eaabbc27019fd6aecb67956f01f82e37a22666f90e3d4d2c7082882782bb0128",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2026/Linear64.joblib",
+      "sha256": "358054dd723a21b3dd1452b05b1e36aa31cb5fefbabb6f431bd5cfd93f7455e2",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2026/Weather.joblib",
+      "sha256": "13f990ff3b6a13050325b9762f9ab8cbc007f73560fc8bbe9e752cc54d6cb137",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2026/Static3.joblib",
+      "sha256": "b07022124826e88e10838c491870f5f6d07fd842f52baa2e24b4cfb8a3457351",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2026/Full64.joblib",
+      "sha256": "c324f091e00ede81629cc14d035cc9bf60da1dbab48ba5ebab17244ad686b542",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2025/ExtraTrees64.joblib",
+      "sha256": "8d4da7b012ab0524e868b80cb8231654386cf73d6d52212e1c8759e73815d6e4",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2025/Linear64.joblib",
+      "sha256": "f350dec10877d81c929b2917e7ab9d890a05877bbdff870399001ca45ae547b3",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2025/Weather.joblib",
+      "sha256": "007809751d5156c1679766e3e371846696eb19ed5c2884088621a853652c9f27",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2025/Static3.joblib",
+      "sha256": "a03bded981ff1917d6ca4524ef4f5b7e1514f179c9acacdb9b6f354d88dc9f24",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2025/Full64.joblib",
+      "sha256": "248d90580cea4a0ea73c7da00ee7abe86ebf6a7eb1c48ffa4ea5d15da67f3091",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2019/ExtraTrees64.joblib",
+      "sha256": "8e3260a21a27b08993eb357191a74adff4a15aa2cab82d76dd969e948c3fa68f",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2019/Linear64.joblib",
+      "sha256": "c910ec1ee094f8ee55675d0985ab08c9751b474fbfdbba5315096b698499dc5f",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2019/Weather.joblib",
+      "sha256": "56ecf5f28c94bc37a3a6d0430e93ad50cd30cbfabc2ff6c47b5c58dee7e37586",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2019/Static3.joblib",
+      "sha256": "8715d0d60545257d6956b3b8df7fe04d15ea9bf7905831d8041f3f019d18e17a",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2019/Full64.joblib",
+      "sha256": "3364d778bb9d5184babeb36d198c48725a2bc17d73c726a6fcd2edd36dd377e7",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-france_paris_beauce/ExtraTrees64.joblib",
+      "sha256": "255aabbb57bff9698cfe4a7303ad144ad36e443a8befd4dcc7696bec678fa0ff",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-france_paris_beauce/Linear64.joblib",
+      "sha256": "1e0803c3fa9c71edb01ae84fadd8c87c83cd3a7bd753c51ed03d53501973662f",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-france_paris_beauce/Weather.joblib",
+      "sha256": "31045c89bc5cda7ec0395b5130ff7e449d5ffde130fb74a9b0fb4f4844d36b94",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-france_paris_beauce/Static3.joblib",
+      "sha256": "5cfdba54b7e698c2abbf962efad87dc744c22560a1fbd7ea4e7168133d916ccc",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-france_paris_beauce/Full64.joblib",
+      "sha256": "dcae343c38f21cbea976cdf84e232266791db81d569660916866bd193dcb5c20",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2023/ExtraTrees64.joblib",
+      "sha256": "b249e9c4288fb57cb6a10958232e1aa232953dd4ba5c327deffd41527dea7bbf",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2023/Linear64.joblib",
+      "sha256": "ee8996e659278f4bf42c615188fd8de27e7f1205c4a8fb14f97365ab95584086",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2023/Weather.joblib",
+      "sha256": "36ed5f52814828d935ac66902adb2bfdc9bad21d90b55175eaae55967b59d7f2",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2023/Static3.joblib",
+      "sha256": "ec525db048364fa6ba726a7e0385e8327fcdc721825f7ebf4e685143e97f0476",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2023/Full64.joblib",
+      "sha256": "898f18656623435aea40615b28240c1af2a92d49b18adfd748bf6652db5e8267",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2019/ExtraTrees64.joblib",
+      "sha256": "8e3260a21a27b08993eb357191a74adff4a15aa2cab82d76dd969e948c3fa68f",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2019/Linear64.joblib",
+      "sha256": "c910ec1ee094f8ee55675d0985ab08c9751b474fbfdbba5315096b698499dc5f",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2019/Weather.joblib",
+      "sha256": "56ecf5f28c94bc37a3a6d0430e93ad50cd30cbfabc2ff6c47b5c58dee7e37586",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2019/Static3.joblib",
+      "sha256": "8715d0d60545257d6956b3b8df7fe04d15ea9bf7905831d8041f3f019d18e17a",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2019/Full64.joblib",
+      "sha256": "3364d778bb9d5184babeb36d198c48725a2bc17d73c726a6fcd2edd36dd377e7",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2019/ExtraTrees64.joblib",
+      "sha256": "8e3260a21a27b08993eb357191a74adff4a15aa2cab82d76dd969e948c3fa68f",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2019/Linear64.joblib",
+      "sha256": "c910ec1ee094f8ee55675d0985ab08c9751b474fbfdbba5315096b698499dc5f",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2019/Weather.joblib",
+      "sha256": "56ecf5f28c94bc37a3a6d0430e93ad50cd30cbfabc2ff6c47b5c58dee7e37586",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2019/Static3.joblib",
+      "sha256": "8715d0d60545257d6956b3b8df7fe04d15ea9bf7905831d8041f3f019d18e17a",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2019/Full64.joblib",
+      "sha256": "3364d778bb9d5184babeb36d198c48725a2bc17d73c726a6fcd2edd36dd377e7",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2026/ExtraTrees64.joblib",
+      "sha256": "eaabbc27019fd6aecb67956f01f82e37a22666f90e3d4d2c7082882782bb0128",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2026/Linear64.joblib",
+      "sha256": "358054dd723a21b3dd1452b05b1e36aa31cb5fefbabb6f431bd5cfd93f7455e2",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2026/Weather.joblib",
+      "sha256": "13f990ff3b6a13050325b9762f9ab8cbc007f73560fc8bbe9e752cc54d6cb137",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2026/Static3.joblib",
+      "sha256": "b07022124826e88e10838c491870f5f6d07fd842f52baa2e24b4cfb8a3457351",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2026/Full64.joblib",
+      "sha256": "c324f091e00ede81629cc14d035cc9bf60da1dbab48ba5ebab17244ad686b542",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2022/ExtraTrees64.joblib",
+      "sha256": "a3ec220a5b5f238598e8da83c20e179d97043729f96d41353ec6775a0b5fc18b",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2022/Linear64.joblib",
+      "sha256": "8b88968e825ace52b65020501b2599041e599b4a02200bfed380112ddb526570",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2022/Weather.joblib",
+      "sha256": "99d41728a8fd1ce82434244a11de8e20897c802c660cbaecbcb123ba8043a719",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2022/Static3.joblib",
+      "sha256": "f7c5e24f8bfecfafe218abe8703fe11cfe55e064dd09f094de8c06252c7ed0c8",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2022/Full64.joblib",
+      "sha256": "29d70644f34277a9997ce44be0f5ac2c64d4ddd11e85ee1ba2c934648c6492c4",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2018/ExtraTrees64.joblib",
+      "sha256": "a4532129f3b2e9dcfa66e978e295df8a10d20107165c64b70ef0d5e640a0a075",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2018/Linear64.joblib",
+      "sha256": "cde889027eb2eac4773db67e2c3d2c61cc43de738889a8b0ee0ff15e6f5715fc",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2018/Weather.joblib",
+      "sha256": "c10ba129c2aa0408b629dd8878a03590858c4b93906488a2448d884d08a6a495",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2018/Static3.joblib",
+      "sha256": "350549c40ff5e90d0fb280e7126f95926acf03bf5a3d5fc998dd2c85ac3b1a6d",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2018/Full64.joblib",
+      "sha256": "36d9b909675f4795eecee0c95746d6e9cd77fb29f894f18482e2d18fa0595ef6",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2022/ExtraTrees64.joblib",
+      "sha256": "a3ec220a5b5f238598e8da83c20e179d97043729f96d41353ec6775a0b5fc18b",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2022/Linear64.joblib",
+      "sha256": "8b88968e825ace52b65020501b2599041e599b4a02200bfed380112ddb526570",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2022/Weather.joblib",
+      "sha256": "99d41728a8fd1ce82434244a11de8e20897c802c660cbaecbcb123ba8043a719",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2022/Static3.joblib",
+      "sha256": "f7c5e24f8bfecfafe218abe8703fe11cfe55e064dd09f094de8c06252c7ed0c8",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2022/Full64.joblib",
+      "sha256": "29d70644f34277a9997ce44be0f5ac2c64d4ddd11e85ee1ba2c934648c6492c4",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2020/ExtraTrees64.joblib",
+      "sha256": "df464b79b4d92c9e190068e9bf3741d4821ad2d210e1bdf95196847d6b3d6112",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2020/Linear64.joblib",
+      "sha256": "5a86369f30224758b2ea5701347f3d420ba252456f10baba9166de688330c662",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2020/Weather.joblib",
+      "sha256": "61d8e9513dc46f3088a46a53b03bed5c93e46b694d6efae50004c09df03dcc95",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2020/Static3.joblib",
+      "sha256": "99fc3afad2bee1ac6766031d83786896e7a5809f5280dd5914d63b3ffa4a354e",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2020/Full64.joblib",
+      "sha256": "71a8dcf8f218a5b839e5413236ee142b5ef3005f3dea960ddb37f47508844d5b",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2025/ExtraTrees64.joblib",
+      "sha256": "8d4da7b012ab0524e868b80cb8231654386cf73d6d52212e1c8759e73815d6e4",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2025/Linear64.joblib",
+      "sha256": "f350dec10877d81c929b2917e7ab9d890a05877bbdff870399001ca45ae547b3",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2025/Weather.joblib",
+      "sha256": "007809751d5156c1679766e3e371846696eb19ed5c2884088621a853652c9f27",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2025/Static3.joblib",
+      "sha256": "a03bded981ff1917d6ca4524ef4f5b7e1514f179c9acacdb9b6f354d88dc9f24",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2025/Full64.joblib",
+      "sha256": "248d90580cea4a0ea73c7da00ee7abe86ebf6a7eb1c48ffa4ea5d15da67f3091",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2023/ExtraTrees64.joblib",
+      "sha256": "b249e9c4288fb57cb6a10958232e1aa232953dd4ba5c327deffd41527dea7bbf",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2023/Linear64.joblib",
+      "sha256": "ee8996e659278f4bf42c615188fd8de27e7f1205c4a8fb14f97365ab95584086",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2023/Weather.joblib",
+      "sha256": "36ed5f52814828d935ac66902adb2bfdc9bad21d90b55175eaae55967b59d7f2",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2023/Static3.joblib",
+      "sha256": "ec525db048364fa6ba726a7e0385e8327fcdc721825f7ebf4e685143e97f0476",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2023/Full64.joblib",
+      "sha256": "898f18656623435aea40615b28240c1af2a92d49b18adfd748bf6652db5e8267",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2026/ExtraTrees64.joblib",
+      "sha256": "eaabbc27019fd6aecb67956f01f82e37a22666f90e3d4d2c7082882782bb0128",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2026/Linear64.joblib",
+      "sha256": "358054dd723a21b3dd1452b05b1e36aa31cb5fefbabb6f431bd5cfd93f7455e2",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2026/Weather.joblib",
+      "sha256": "13f990ff3b6a13050325b9762f9ab8cbc007f73560fc8bbe9e752cc54d6cb137",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2026/Static3.joblib",
+      "sha256": "b07022124826e88e10838c491870f5f6d07fd842f52baa2e24b4cfb8a3457351",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2026/Full64.joblib",
+      "sha256": "c324f091e00ede81629cc14d035cc9bf60da1dbab48ba5ebab17244ad686b542",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2021/ExtraTrees64.joblib",
+      "sha256": "8aa9771353436f6ff31c4611064c217a71a3e7f99099bfbc9459e41af8ff92f5",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2021/Linear64.joblib",
+      "sha256": "e0703b9a2399136d0d1b12f59bff3da30ef633e1c0f2372bb7d9e42831fd8490",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2021/Weather.joblib",
+      "sha256": "3a6e1161d5a8245870e998aa766e3e55202aa398f3afcba0a2fcdf03938a6da8",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2021/Static3.joblib",
+      "sha256": "d2ecfa3327a47fa70563948c8b35dcb62bef7b899ea5befd8eda7a380406af24",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2021/Full64.joblib",
+      "sha256": "d9cd465d3b3de013cc34c8f591af09d20d508cf97c8b3888551ad482bd4bb4fe",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2025/ExtraTrees64.joblib",
+      "sha256": "8d4da7b012ab0524e868b80cb8231654386cf73d6d52212e1c8759e73815d6e4",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2025/Linear64.joblib",
+      "sha256": "f350dec10877d81c929b2917e7ab9d890a05877bbdff870399001ca45ae547b3",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2025/Weather.joblib",
+      "sha256": "007809751d5156c1679766e3e371846696eb19ed5c2884088621a853652c9f27",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2025/Static3.joblib",
+      "sha256": "a03bded981ff1917d6ca4524ef4f5b7e1514f179c9acacdb9b6f354d88dc9f24",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2025/Full64.joblib",
+      "sha256": "248d90580cea4a0ea73c7da00ee7abe86ebf6a7eb1c48ffa4ea5d15da67f3091",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2019/ExtraTrees64.joblib",
+      "sha256": "8e3260a21a27b08993eb357191a74adff4a15aa2cab82d76dd969e948c3fa68f",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2019/Linear64.joblib",
+      "sha256": "c910ec1ee094f8ee55675d0985ab08c9751b474fbfdbba5315096b698499dc5f",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2019/Weather.joblib",
+      "sha256": "56ecf5f28c94bc37a3a6d0430e93ad50cd30cbfabc2ff6c47b5c58dee7e37586",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2019/Static3.joblib",
+      "sha256": "8715d0d60545257d6956b3b8df7fe04d15ea9bf7905831d8041f3f019d18e17a",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2019/Full64.joblib",
+      "sha256": "3364d778bb9d5184babeb36d198c48725a2bc17d73c726a6fcd2edd36dd377e7",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2023/ExtraTrees64.joblib",
+      "sha256": "b249e9c4288fb57cb6a10958232e1aa232953dd4ba5c327deffd41527dea7bbf",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2023/Linear64.joblib",
+      "sha256": "ee8996e659278f4bf42c615188fd8de27e7f1205c4a8fb14f97365ab95584086",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2023/Weather.joblib",
+      "sha256": "36ed5f52814828d935ac66902adb2bfdc9bad21d90b55175eaae55967b59d7f2",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2023/Static3.joblib",
+      "sha256": "ec525db048364fa6ba726a7e0385e8327fcdc721825f7ebf4e685143e97f0476",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2023/Full64.joblib",
+      "sha256": "898f18656623435aea40615b28240c1af2a92d49b18adfd748bf6652db5e8267",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2020/ExtraTrees64.joblib",
+      "sha256": "df464b79b4d92c9e190068e9bf3741d4821ad2d210e1bdf95196847d6b3d6112",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2020/Linear64.joblib",
+      "sha256": "5a86369f30224758b2ea5701347f3d420ba252456f10baba9166de688330c662",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2020/Weather.joblib",
+      "sha256": "61d8e9513dc46f3088a46a53b03bed5c93e46b694d6efae50004c09df03dcc95",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2020/Static3.joblib",
+      "sha256": "99fc3afad2bee1ac6766031d83786896e7a5809f5280dd5914d63b3ffa4a354e",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2020/Full64.joblib",
+      "sha256": "71a8dcf8f218a5b839e5413236ee142b5ef3005f3dea960ddb37f47508844d5b",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2024/ExtraTrees64.joblib",
+      "sha256": "eff6c733d9da01ac6b2c60f96dd8c0a4a8d46543e879519c42277ccccf8a3487",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2024/Linear64.joblib",
+      "sha256": "09bb16d79a3e66a3d761401dd9b3912701f21b39847fce4e4649fb053698149e",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2024/Weather.joblib",
+      "sha256": "97fc19d9daecee60f9c7344ba71fce0ab9e8c64b4e1c83f7cf8f39f3d397516d",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2024/Static3.joblib",
+      "sha256": "28832b24a76f7ff0cbc6e00c197157f0bf6bbf7d88c1b1582f30250971456037",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2024/Full64.joblib",
+      "sha256": "da0c362853f27f46afa5818d84a49cc57e5a26fae5d9135aa409ac0285f3c370",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-australia_wa_perth/ExtraTrees64.joblib",
+      "sha256": "fcd8adedee5ac85676c98f5111bb2ce37bf2b766591322350a88ec507f7aca5e",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-australia_wa_perth/Linear64.joblib",
+      "sha256": "e458a267b7e917ad3b7258f6fd8a5a35f834a016c6f1d9ade2f1da5c02809f13",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-australia_wa_perth/Weather.joblib",
+      "sha256": "e80118253e96a35c4157ed69fca4f1ccff9ecbfacb91a00c0e19fa248d0505cf",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-australia_wa_perth/Static3.joblib",
+      "sha256": "c78e723f6b88faba752b645492c227ac1155f3a4f5de8355c9fbc0fb2bec81b6",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-australia_wa_perth/Full64.joblib",
+      "sha256": "a0ee1810c92c9f51a62cebae023231b5c2c56d6801f459bba815f4f505141fca",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2024/ExtraTrees64.joblib",
+      "sha256": "eff6c733d9da01ac6b2c60f96dd8c0a4a8d46543e879519c42277ccccf8a3487",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2024/Linear64.joblib",
+      "sha256": "09bb16d79a3e66a3d761401dd9b3912701f21b39847fce4e4649fb053698149e",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2024/Weather.joblib",
+      "sha256": "97fc19d9daecee60f9c7344ba71fce0ab9e8c64b4e1c83f7cf8f39f3d397516d",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2024/Static3.joblib",
+      "sha256": "28832b24a76f7ff0cbc6e00c197157f0bf6bbf7d88c1b1582f30250971456037",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2024/Full64.joblib",
+      "sha256": "da0c362853f27f46afa5818d84a49cc57e5a26fae5d9135aa409ac0285f3c370",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2018/ExtraTrees64.joblib",
+      "sha256": "a4532129f3b2e9dcfa66e978e295df8a10d20107165c64b70ef0d5e640a0a075",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2018/Linear64.joblib",
+      "sha256": "cde889027eb2eac4773db67e2c3d2c61cc43de738889a8b0ee0ff15e6f5715fc",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2018/Weather.joblib",
+      "sha256": "c10ba129c2aa0408b629dd8878a03590858c4b93906488a2448d884d08a6a495",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2018/Static3.joblib",
+      "sha256": "350549c40ff5e90d0fb280e7126f95926acf03bf5a3d5fc998dd2c85ac3b1a6d",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2018/Full64.joblib",
+      "sha256": "36d9b909675f4795eecee0c95746d6e9cd77fb29f894f18482e2d18fa0595ef6",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2024/ExtraTrees64.joblib",
+      "sha256": "eff6c733d9da01ac6b2c60f96dd8c0a4a8d46543e879519c42277ccccf8a3487",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2024/Linear64.joblib",
+      "sha256": "09bb16d79a3e66a3d761401dd9b3912701f21b39847fce4e4649fb053698149e",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2024/Weather.joblib",
+      "sha256": "97fc19d9daecee60f9c7344ba71fce0ab9e8c64b4e1c83f7cf8f39f3d397516d",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2024/Static3.joblib",
+      "sha256": "28832b24a76f7ff0cbc6e00c197157f0bf6bbf7d88c1b1582f30250971456037",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2024/Full64.joblib",
+      "sha256": "da0c362853f27f46afa5818d84a49cc57e5a26fae5d9135aa409ac0285f3c370",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2024/ExtraTrees64.joblib",
+      "sha256": "eff6c733d9da01ac6b2c60f96dd8c0a4a8d46543e879519c42277ccccf8a3487",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2024/Linear64.joblib",
+      "sha256": "09bb16d79a3e66a3d761401dd9b3912701f21b39847fce4e4649fb053698149e",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2024/Weather.joblib",
+      "sha256": "97fc19d9daecee60f9c7344ba71fce0ab9e8c64b4e1c83f7cf8f39f3d397516d",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2024/Static3.joblib",
+      "sha256": "28832b24a76f7ff0cbc6e00c197157f0bf6bbf7d88c1b1582f30250971456037",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2024/Full64.joblib",
+      "sha256": "da0c362853f27f46afa5818d84a49cc57e5a26fae5d9135aa409ac0285f3c370",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2018/ExtraTrees64.joblib",
+      "sha256": "a4532129f3b2e9dcfa66e978e295df8a10d20107165c64b70ef0d5e640a0a075",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2018/Linear64.joblib",
+      "sha256": "cde889027eb2eac4773db67e2c3d2c61cc43de738889a8b0ee0ff15e6f5715fc",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2018/Weather.joblib",
+      "sha256": "c10ba129c2aa0408b629dd8878a03590858c4b93906488a2448d884d08a6a495",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2018/Static3.joblib",
+      "sha256": "350549c40ff5e90d0fb280e7126f95926acf03bf5a3d5fc998dd2c85ac3b1a6d",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2018/Full64.joblib",
+      "sha256": "36d9b909675f4795eecee0c95746d6e9cd77fb29f894f18482e2d18fa0595ef6",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2022/ExtraTrees64.joblib",
+      "sha256": "a3ec220a5b5f238598e8da83c20e179d97043729f96d41353ec6775a0b5fc18b",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2022/Linear64.joblib",
+      "sha256": "8b88968e825ace52b65020501b2599041e599b4a02200bfed380112ddb526570",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2022/Weather.joblib",
+      "sha256": "99d41728a8fd1ce82434244a11de8e20897c802c660cbaecbcb123ba8043a719",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2022/Static3.joblib",
+      "sha256": "f7c5e24f8bfecfafe218abe8703fe11cfe55e064dd09f094de8c06252c7ed0c8",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2022/Full64.joblib",
+      "sha256": "29d70644f34277a9997ce44be0f5ac2c64d4ddd11e85ee1ba2c934648c6492c4",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-china_ncp_luancheng/ExtraTrees64.joblib",
+      "sha256": "ceff8552b6c6350cc03e5660b9c4511151b6b8a680984aa2ef45e5ca31e40382",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-china_ncp_luancheng/Linear64.joblib",
+      "sha256": "0861dd8344d1f1f865a12d271e3b6f68a8afd12915e02a2e8a3bb709cc67f9ea",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-china_ncp_luancheng/Weather.joblib",
+      "sha256": "7944aada4724263d270e4fabf20da5e3dbf166bd3ea1d62b31178ec619a1f306",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-china_ncp_luancheng/Static3.joblib",
+      "sha256": "7c74bfbc3ab93e1d783843406465505dfc1d9a984841e6a025af020009740709",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-china_ncp_luancheng/Full64.joblib",
+      "sha256": "ce5275ede6b001c7a70a726b4e79d87290c2703126ffcd6763df25ea80221ce3",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2020/ExtraTrees64.joblib",
+      "sha256": "df464b79b4d92c9e190068e9bf3741d4821ad2d210e1bdf95196847d6b3d6112",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2020/Linear64.joblib",
+      "sha256": "5a86369f30224758b2ea5701347f3d420ba252456f10baba9166de688330c662",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2020/Weather.joblib",
+      "sha256": "61d8e9513dc46f3088a46a53b03bed5c93e46b694d6efae50004c09df03dcc95",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2020/Static3.joblib",
+      "sha256": "99fc3afad2bee1ac6766031d83786896e7a5809f5280dd5914d63b3ffa4a354e",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2020/Full64.joblib",
+      "sha256": "71a8dcf8f218a5b839e5413236ee142b5ef3005f3dea960ddb37f47508844d5b",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2022/ExtraTrees64.joblib",
+      "sha256": "a3ec220a5b5f238598e8da83c20e179d97043729f96d41353ec6775a0b5fc18b",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2022/Linear64.joblib",
+      "sha256": "8b88968e825ace52b65020501b2599041e599b4a02200bfed380112ddb526570",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2022/Weather.joblib",
+      "sha256": "99d41728a8fd1ce82434244a11de8e20897c802c660cbaecbcb123ba8043a719",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2022/Static3.joblib",
+      "sha256": "f7c5e24f8bfecfafe218abe8703fe11cfe55e064dd09f094de8c06252c7ed0c8",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2022/Full64.joblib",
+      "sha256": "29d70644f34277a9997ce44be0f5ac2c64d4ddd11e85ee1ba2c934648c6492c4",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2024/ExtraTrees64.joblib",
+      "sha256": "eff6c733d9da01ac6b2c60f96dd8c0a4a8d46543e879519c42277ccccf8a3487",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2024/Linear64.joblib",
+      "sha256": "09bb16d79a3e66a3d761401dd9b3912701f21b39847fce4e4649fb053698149e",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2024/Weather.joblib",
+      "sha256": "97fc19d9daecee60f9c7344ba71fce0ab9e8c64b4e1c83f7cf8f39f3d397516d",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2024/Static3.joblib",
+      "sha256": "28832b24a76f7ff0cbc6e00c197157f0bf6bbf7d88c1b1582f30250971456037",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2024/Full64.joblib",
+      "sha256": "da0c362853f27f46afa5818d84a49cc57e5a26fae5d9135aa409ac0285f3c370",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-netherlands_lelystad/ExtraTrees64.joblib",
+      "sha256": "81b179fbb0fe74de4d7a02d981f97aec8cfddeba21832529cfa99fdfb092c142",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-netherlands_lelystad/Linear64.joblib",
+      "sha256": "4ba37401db1a57dce089fe6a78a316c54678c12afd1fc1deeb064d150d933707",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-netherlands_lelystad/Weather.joblib",
+      "sha256": "f02054253c986f22dd0e5e986f9ad4d530aa0568e74f072346d4a7ca6a53d1bd",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-netherlands_lelystad/Static3.joblib",
+      "sha256": "06225c438097b27effd9cccdb743dfb804b3adc64944b6101fc3a7bdb804a332",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-netherlands_lelystad/Full64.joblib",
+      "sha256": "4b095523578563b8bcc4a3086a1d322bcb444cf7ac77508ddcde1b210ff11eec",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2022/ExtraTrees64.joblib",
+      "sha256": "a3ec220a5b5f238598e8da83c20e179d97043729f96d41353ec6775a0b5fc18b",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2022/Linear64.joblib",
+      "sha256": "8b88968e825ace52b65020501b2599041e599b4a02200bfed380112ddb526570",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2022/Weather.joblib",
+      "sha256": "99d41728a8fd1ce82434244a11de8e20897c802c660cbaecbcb123ba8043a719",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2022/Static3.joblib",
+      "sha256": "f7c5e24f8bfecfafe218abe8703fe11cfe55e064dd09f094de8c06252c7ed0c8",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2022/Full64.joblib",
+      "sha256": "29d70644f34277a9997ce44be0f5ac2c64d4ddd11e85ee1ba2c934648c6492c4",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2026/ExtraTrees64.joblib",
+      "sha256": "eaabbc27019fd6aecb67956f01f82e37a22666f90e3d4d2c7082882782bb0128",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2026/Linear64.joblib",
+      "sha256": "358054dd723a21b3dd1452b05b1e36aa31cb5fefbabb6f431bd5cfd93f7455e2",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2026/Weather.joblib",
+      "sha256": "13f990ff3b6a13050325b9762f9ab8cbc007f73560fc8bbe9e752cc54d6cb137",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2026/Static3.joblib",
+      "sha256": "b07022124826e88e10838c491870f5f6d07fd842f52baa2e24b4cfb8a3457351",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2026/Full64.joblib",
+      "sha256": "c324f091e00ede81629cc14d035cc9bf60da1dbab48ba5ebab17244ad686b542",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2020/ExtraTrees64.joblib",
+      "sha256": "df464b79b4d92c9e190068e9bf3741d4821ad2d210e1bdf95196847d6b3d6112",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2020/Linear64.joblib",
+      "sha256": "5a86369f30224758b2ea5701347f3d420ba252456f10baba9166de688330c662",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2020/Weather.joblib",
+      "sha256": "61d8e9513dc46f3088a46a53b03bed5c93e46b694d6efae50004c09df03dcc95",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2020/Static3.joblib",
+      "sha256": "99fc3afad2bee1ac6766031d83786896e7a5809f5280dd5914d63b3ffa4a354e",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2020/Full64.joblib",
+      "sha256": "71a8dcf8f218a5b839e5413236ee142b5ef3005f3dea960ddb37f47508844d5b",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2025/ExtraTrees64.joblib",
+      "sha256": "8d4da7b012ab0524e868b80cb8231654386cf73d6d52212e1c8759e73815d6e4",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2025/Linear64.joblib",
+      "sha256": "f350dec10877d81c929b2917e7ab9d890a05877bbdff870399001ca45ae547b3",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2025/Weather.joblib",
+      "sha256": "007809751d5156c1679766e3e371846696eb19ed5c2884088621a853652c9f27",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2025/Static3.joblib",
+      "sha256": "a03bded981ff1917d6ca4524ef4f5b7e1514f179c9acacdb9b6f354d88dc9f24",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2025/Full64.joblib",
+      "sha256": "248d90580cea4a0ea73c7da00ee7abe86ebf6a7eb1c48ffa4ea5d15da67f3091",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2020/ExtraTrees64.joblib",
+      "sha256": "df464b79b4d92c9e190068e9bf3741d4821ad2d210e1bdf95196847d6b3d6112",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2020/Linear64.joblib",
+      "sha256": "5a86369f30224758b2ea5701347f3d420ba252456f10baba9166de688330c662",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2020/Weather.joblib",
+      "sha256": "61d8e9513dc46f3088a46a53b03bed5c93e46b694d6efae50004c09df03dcc95",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2020/Static3.joblib",
+      "sha256": "99fc3afad2bee1ac6766031d83786896e7a5809f5280dd5914d63b3ffa4a354e",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2020/Full64.joblib",
+      "sha256": "71a8dcf8f218a5b839e5413236ee142b5ef3005f3dea960ddb37f47508844d5b",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2021/ExtraTrees64.joblib",
+      "sha256": "8aa9771353436f6ff31c4611064c217a71a3e7f99099bfbc9459e41af8ff92f5",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2021/Linear64.joblib",
+      "sha256": "e0703b9a2399136d0d1b12f59bff3da30ef633e1c0f2372bb7d9e42831fd8490",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2021/Weather.joblib",
+      "sha256": "3a6e1161d5a8245870e998aa766e3e55202aa398f3afcba0a2fcdf03938a6da8",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2021/Static3.joblib",
+      "sha256": "d2ecfa3327a47fa70563948c8b35dcb62bef7b899ea5befd8eda7a380406af24",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2021/Full64.joblib",
+      "sha256": "d9cd465d3b3de013cc34c8f591af09d20d508cf97c8b3888551ad482bd4bb4fe",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2018/ExtraTrees64.joblib",
+      "sha256": "a4532129f3b2e9dcfa66e978e295df8a10d20107165c64b70ef0d5e640a0a075",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2018/Linear64.joblib",
+      "sha256": "cde889027eb2eac4773db67e2c3d2c61cc43de738889a8b0ee0ff15e6f5715fc",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2018/Weather.joblib",
+      "sha256": "c10ba129c2aa0408b629dd8878a03590858c4b93906488a2448d884d08a6a495",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2018/Static3.joblib",
+      "sha256": "350549c40ff5e90d0fb280e7126f95926acf03bf5a3d5fc998dd2c85ac3b1a6d",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2018/Full64.joblib",
+      "sha256": "36d9b909675f4795eecee0c95746d6e9cd77fb29f894f18482e2d18fa0595ef6",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2021/ExtraTrees64.joblib",
+      "sha256": "8aa9771353436f6ff31c4611064c217a71a3e7f99099bfbc9459e41af8ff92f5",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2021/Linear64.joblib",
+      "sha256": "e0703b9a2399136d0d1b12f59bff3da30ef633e1c0f2372bb7d9e42831fd8490",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2021/Weather.joblib",
+      "sha256": "3a6e1161d5a8245870e998aa766e3e55202aa398f3afcba0a2fcdf03938a6da8",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2021/Static3.joblib",
+      "sha256": "d2ecfa3327a47fa70563948c8b35dcb62bef7b899ea5befd8eda7a380406af24",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2021/Full64.joblib",
+      "sha256": "d9cd465d3b3de013cc34c8f591af09d20d508cf97c8b3888551ad482bd4bb4fe",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2019/ExtraTrees64.joblib",
+      "sha256": "8e3260a21a27b08993eb357191a74adff4a15aa2cab82d76dd969e948c3fa68f",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2019/Linear64.joblib",
+      "sha256": "c910ec1ee094f8ee55675d0985ab08c9751b474fbfdbba5315096b698499dc5f",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2019/Weather.joblib",
+      "sha256": "56ecf5f28c94bc37a3a6d0430e93ad50cd30cbfabc2ff6c47b5c58dee7e37586",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2019/Static3.joblib",
+      "sha256": "8715d0d60545257d6956b3b8df7fe04d15ea9bf7905831d8041f3f019d18e17a",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2019/Full64.joblib",
+      "sha256": "3364d778bb9d5184babeb36d198c48725a2bc17d73c726a6fcd2edd36dd377e7",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-usa_kansas_wichita/ExtraTrees64.joblib",
+      "sha256": "634ddc2d7b50ce49bdebdf0c4c4f30fe603ae09b833b123fbad044eab3fc5ce4",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-usa_kansas_wichita/Linear64.joblib",
+      "sha256": "07606eb658957264a6d8874240b7953eda7c1ef379eb899ab8dc52673f5ba9bd",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-usa_kansas_wichita/Weather.joblib",
+      "sha256": "10408a9028229a2979b5357f2e046049ad8fdddcbbe3202f2eceaf57a8a222b0",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-usa_kansas_wichita/Static3.joblib",
+      "sha256": "98871a97113d525538d5229591214e996a99045db75bc7552808212d85642671",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LORO-usa_kansas_wichita/Full64.joblib",
+      "sha256": "2cc4508427542690e95598bc9a0e27514125a3b53837302b7095910db27917e0",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2021/ExtraTrees64.joblib",
+      "sha256": "8aa9771353436f6ff31c4611064c217a71a3e7f99099bfbc9459e41af8ff92f5",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2021/Linear64.joblib",
+      "sha256": "e0703b9a2399136d0d1b12f59bff3da30ef633e1c0f2372bb7d9e42831fd8490",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2021/Weather.joblib",
+      "sha256": "3a6e1161d5a8245870e998aa766e3e55202aa398f3afcba0a2fcdf03938a6da8",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2021/Static3.joblib",
+      "sha256": "d2ecfa3327a47fa70563948c8b35dcb62bef7b899ea5befd8eda7a380406af24",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-australia_wa_perth-2021/Full64.joblib",
+      "sha256": "d9cd465d3b3de013cc34c8f591af09d20d508cf97c8b3888551ad482bd4bb4fe",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2018/ExtraTrees64.joblib",
+      "sha256": "a4532129f3b2e9dcfa66e978e295df8a10d20107165c64b70ef0d5e640a0a075",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2018/Linear64.joblib",
+      "sha256": "cde889027eb2eac4773db67e2c3d2c61cc43de738889a8b0ee0ff15e6f5715fc",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2018/Weather.joblib",
+      "sha256": "c10ba129c2aa0408b629dd8878a03590858c4b93906488a2448d884d08a6a495",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2018/Static3.joblib",
+      "sha256": "350549c40ff5e90d0fb280e7126f95926acf03bf5a3d5fc998dd2c85ac3b1a6d",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-france_paris_beauce-2018/Full64.joblib",
+      "sha256": "36d9b909675f4795eecee0c95746d6e9cd77fb29f894f18482e2d18fa0595ef6",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2021/ExtraTrees64.joblib",
+      "sha256": "8aa9771353436f6ff31c4611064c217a71a3e7f99099bfbc9459e41af8ff92f5",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2021/Linear64.joblib",
+      "sha256": "e0703b9a2399136d0d1b12f59bff3da30ef633e1c0f2372bb7d9e42831fd8490",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2021/Weather.joblib",
+      "sha256": "3a6e1161d5a8245870e998aa766e3e55202aa398f3afcba0a2fcdf03938a6da8",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2021/Static3.joblib",
+      "sha256": "d2ecfa3327a47fa70563948c8b35dcb62bef7b899ea5befd8eda7a380406af24",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-china_ncp_luancheng-2021/Full64.joblib",
+      "sha256": "d9cd465d3b3de013cc34c8f591af09d20d508cf97c8b3888551ad482bd4bb4fe",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2025/ExtraTrees64.joblib",
+      "sha256": "8d4da7b012ab0524e868b80cb8231654386cf73d6d52212e1c8759e73815d6e4",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2025/Linear64.joblib",
+      "sha256": "f350dec10877d81c929b2917e7ab9d890a05877bbdff870399001ca45ae547b3",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2025/Weather.joblib",
+      "sha256": "007809751d5156c1679766e3e371846696eb19ed5c2884088621a853652c9f27",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2025/Static3.joblib",
+      "sha256": "a03bded981ff1917d6ca4524ef4f5b7e1514f179c9acacdb9b6f354d88dc9f24",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-netherlands_lelystad-2025/Full64.joblib",
+      "sha256": "248d90580cea4a0ea73c7da00ee7abe86ebf6a7eb1c48ffa4ea5d15da67f3091",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2023/ExtraTrees64.joblib",
+      "sha256": "b249e9c4288fb57cb6a10958232e1aa232953dd4ba5c327deffd41527dea7bbf",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2023/Linear64.joblib",
+      "sha256": "ee8996e659278f4bf42c615188fd8de27e7f1205c4a8fb14f97365ab95584086",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2023/Weather.joblib",
+      "sha256": "36ed5f52814828d935ac66902adb2bfdc9bad21d90b55175eaae55967b59d7f2",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2023/Static3.joblib",
+      "sha256": "ec525db048364fa6ba726a7e0385e8327fcdc721825f7ebf4e685143e97f0476",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "models/phase8d-controls/p2-adapters/LOYO-usa_kansas_wichita-2023/Full64.joblib",
+      "sha256": "898f18656623435aea40615b28240c1af2a92d49b18adfd748bf6652db5e8267",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "scripts/phase8d-run-campaign.py",
+      "sha256": "275c21fc84f49f851a0f0c8a0b6b1436fd334c9f06ebdc516a3ffdb16df68a3f",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "reports/phase8/phase8d-frozen-cases-v4.json",
+      "sha256": "0f1eaf265db4699315730b8119293c5c68b3542f3b23c36f22efde498aa5c0e1",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "reports/phase8/phase8d-root-cause-verification.json",
+      "sha256": "0d4a216d0acd197c6cd3fc4a1b3e6a255416916e85c958d284f04be899ffb9a7",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "reports/phase8/phase8d-G1-verdict.json",
+      "sha256": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "reports/phase8/phase8d-G2-control-calibration.json",
+      "sha256": "321f332a4a1e2f87c333e7d08a41fcf841dd9dad4112e51bbf973a7a20edacac",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "reports/phase8/phase8d-P2-adapter-training-freeze.json",
+      "sha256": "d5ead22ab701d452f0fca92ac7155811c3cd427b2f5531173837365cf3d86d2c",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "reports/phase8/phase8d-protocol-amendment-first-pass-boundaries.json",
+      "sha256": "023a600663f5ec78afc57fe57110f26783ddb36ccb0183da47e1d48691b33684",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "reports/phase8/phase8d-G1-width-protocol-amendment.json",
+      "sha256": "91bd24d07957ffbcda552c70798a0c99cf7a894e31c23842e081a60da577c7b9",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "reports/phase8/phase8d-readonly-dependencies.json",
+      "sha256": "cc48a6cc416cc6418ed0086ced2b23ac65cafabe9c597aef32f98928646beb09",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "reports/phase5/regional-controls-v2.json",
+      "sha256": "648535833b7ac82958b8ee8972eb20ba383ce819c2e36755640e9336fb0cbef4",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "reports/phase5/regional-phenology-train-freeze-v2.json",
+      "sha256": "ecaae0f8a7909f768d3bdc113862b47db5a2bea965cfa2a2b4769a31cfaf3926",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "cache/phase5-regional-config/Wofost81_NWLP_CWB_CNB.conf",
+      "sha256": "279899a6a02caebe2d86e42964c93e5e92d07101accf8b2843dfd5156484c504",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/Wofost81_NWLP_MLWB_SNOMIN.conf",
+      "sha256": "3f3c8df76c6b9e81acab9ef575d5f78f0cc18524051153c06c77dc51b3d3a370",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/Wofost81_NWLP_FD.conf",
+      "sha256": "b265bc75031266e52faee7db9f2c55b71afdab8868cfc4a8fcad3d2e053cbdfa",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/Wofost8_ML_SNOMIN.conf",
+      "sha256": "6100455cacfb4d0a29f34faeadb3a9cc2f525788e9fd042124d8885a47110e1c",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/Lintul3.conf",
+      "sha256": "1b28ee5e0969c32955c8bec7fcf1e377283fcedb06da4346972e3ef33e6f7033",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/crop/crops.yaml",
+      "sha256": "f3af13ddb9a457e5014116abbc5b64fe40ec381305b31021d39c9884be461abb",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/crop/winterwheat.yaml",
+      "sha256": "cb584485bff761997bde182cc4ce963e821c2050d13a1011e5b2361e17ded54b",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/crop/wheat.yaml",
+      "sha256": "0103efa2e34e835ca1b7e3d107caa5220800e1bcfe1c7de7563360ac1678103e",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/site/arminda_site.yaml",
+      "sha256": "9508ee6faa30846e4d0989b2875614bbeb8c0b6e48463539f739151b4a9c11bd",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/soil/EC3-mediumfine_soil.yaml",
+      "sha256": "d892252066e8274ad6c6e0e1656de2e0bc3926912a402a11e0db24968fb88793",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/soil/EC1-coarse_soil.yaml",
+      "sha256": "d9ae46fc9f6ed4fcbfbf298c934317fdb12bf29023eb55b2dcaae19677cd6964",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/soil/EC6-fine_soil.yaml",
+      "sha256": "8c97c5540bd5da09e1e26f1304f9045d7be9fdd67f47a6f63774e44c7b89de0a",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/soil/arminda_soil.yaml",
+      "sha256": "f28973feca2849e98d2d39ab87659156fb4c0ac3099dfa0b8e68e5e04347f4de",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/agro/wheat_cropcalendar_cn.yaml",
+      "sha256": "391849544952fc1555f8dad157008c45db09433efb635ed97631b2d284431f38",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/agro/sugarbeet_calendar.yaml",
+      "sha256": "729c167220d9f16c249dad5009919d2071429ed8f501613e6ebe6b7b907da86c",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/agro/agromanagement_fertilization.yaml",
+      "sha256": "95ab105c519d08ae540f4d179fcd9f6dec2f5b2a5d3f0f3d845ed8194d424890",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/agro/wheat_cropcalendar.yaml",
+      "sha256": "f8d92266983a0fa968edb4865f72131a6b21c1f0ca2aa9615d2a4e44afdd1ca6",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "cache/phase5-regional-config/agro/potato_cropcalendar.yaml",
+      "sha256": "ff479dbacc8e29331ad6d377ee4b10ea662e617b3b303de938e9d50085350520",
+      "tracked_blob_verified": false,
+      "commit": null
+    },
+    {
+      "path": "scripts/phase8d-run-campaign-recovery1.py",
+      "sha256": "1551b295cdf1ba219f99092ad1733a3c44a10cd73acb82cff95a588df985106e",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    },
+    {
+      "path": "reports/phase8/phase8d-manual-recovery1.json",
+      "sha256": "60ff0c0de92f32b7c45056bfcb286ddff8e800eab29996f633d22dfa0b5b2211",
+      "tracked_blob_verified": true,
+      "commit": "4915534fa4d3de2573ed6013b741200a99b328c7"
+    }
+  ],
+  "tracked_blobs_verified": 378,
+  "permit_sha256": "e8ab0f0e901ec60702749a3a859e54264257718e8767737c097b402a42a654ae"
+}

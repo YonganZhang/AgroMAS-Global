@@ -1,0 +1,15 @@
+{
+  "scope": "Descriptive interval geometry only;no recalibration or new Dev scoring",
+  "tracks": {
+    "Full-Telemetry-mlp": {
+      "signed_radius": -5.73991591431394,
+      "macro_uncalibrated_width": 73.98340938390037,
+      "macro_calibrated_width": 62.503577555272514
+    },
+    "Sensorless-mlp": {
+      "signed_radius": -6.781251086203156,
+      "macro_uncalibrated_width": 83.09566747998335,
+      "macro_calibrated_width": 69.53316530757706
+    }
+  }
+}

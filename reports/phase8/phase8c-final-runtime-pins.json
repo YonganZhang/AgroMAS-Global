@@ -1,0 +1,10 @@
+{
+  "root_precloseout_commit": "5621e7286b07295015a777bdfa3be6a781a00a51",
+  "NUE_commit": "c3f5d3d481b32268051d77c02364eed7fdff1f28",
+  "PCSE_commit": "d1fe6d29de828033b850ec51d994988d8d6d406f",
+  "branch": "feat/phase8c-supplement-and-q84",
+  "evaluation_permit_sha256": "bc6350a612c24b5e5dfdb825e7816541363170f9ac56d1c6eadaf61e9488f2a5",
+  "real_runtime": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/cache/phase8b-venv/bin/python",
+  "canonical_test_runtime": "/mnt/data/yongan-admin-2/projects/\u81ea\u5df1-\u667a\u6167\u519c\u4e1a-\u7cbe\u51c6\u65bd\u80a5\u667a\u80fd\u4f53/.venv/bin/python",
+  "note": "Root and NUE are independent repos;no tracked gitlink. Final primary pins recorded after merge. PCSE read-only."
+}

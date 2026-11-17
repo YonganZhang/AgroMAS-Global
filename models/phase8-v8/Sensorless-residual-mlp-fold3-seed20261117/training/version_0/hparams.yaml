@@ -1,0 +1,10 @@
+lr: 0.001
+scheduler:
+  name: cosine
+slice_names: !!python/tuple
+- australia_wa_perth
+- china_ncp_luancheng
+- france_paris_beauce
+- netherlands_lelystad
+- usa_kansas_wichita
+weight_decay: 0.001

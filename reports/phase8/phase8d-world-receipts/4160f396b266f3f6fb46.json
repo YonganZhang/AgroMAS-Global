@@ -1,0 +1,189 @@
+{
+  "world": [
+    "netherlands_lelystad",
+    2022,
+    "idealized_high",
+    "NASA"
+  ],
+  "native_simulations": 16,
+  "unique_native_executed_trajectories": 16,
+  "unique_executed_trajectories": 21,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        100.0,
+        20.0,
+        80.0
+      ],
+      "sha256": "948291fa785a00b95327893f6b5ce5e2b20b6f250cdea6acc5865c8e15f3f325"
+    },
+    {
+      "doses": [
+        0.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "26e94a795e852b0a4324caa874b271b265ba9fd79180384dfa4219029d878557"
+    },
+    {
+      "doses": [
+        20.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "088291176c651490efdbad31f005ff712180362798dc0836d2ef7f76267c3e76"
+    },
+    {
+      "doses": [
+        20.0,
+        60.0,
+        80.0
+      ],
+      "sha256": "e5f28b0c55d1dcb72489aed2b2a00270d1b707276b8798e43926cdb9e88571c6"
+    },
+    {
+      "doses": [
+        100.0,
+        10.0,
+        80.0
+      ],
+      "sha256": "721ad6b210fe7452c30f3fb0dec4ca920105142396760eda7a38cf0e132bcc18"
+    },
+    {
+      "doses": [
+        0.0,
+        80.0,
+        100.0
+      ],
+      "sha256": "a67ade80566827b0bb93766be94163511f1133150055329ac757f08c3a9d82f4"
+    },
+    {
+      "doses": [
+        40.0,
+        60.0,
+        80.0
+      ],
+      "sha256": "310738a785aba29694d8c2d76d449fb61272a6a94101b23021297c7a5e0b10c5"
+    },
+    {
+      "doses": [
+        100.0,
+        40.0,
+        40.0
+      ],
+      "sha256": "049b87227d0300210c25cadb01515c1d34bfbd65c4517c0bb4704ff2d98c7cd1"
+    },
+    {
+      "doses": [
+        80.0,
+        0.0,
+        100.0
+      ],
+      "sha256": "65d376369529c6e038a882fcaa65d844b4353bc7aac6793325e6a623c0a471c2"
+    },
+    {
+      "doses": [
+        100.0,
+        20.0,
+        60.0
+      ],
+      "sha256": "a6ac6cefcfe98e1bdca8d0bb04297092b81f876e2e10f75e29430cbf9e99e926"
+    },
+    {
+      "doses": [
+        0.0,
+        100.0,
+        80.0
+      ],
+      "sha256": "3132ac131b7064ef4f6b7f32afc5a4d3072d7cf6cd1c9b59fe4ce428bdee3570"
+    },
+    {
+      "doses": [
+        40.0,
+        80.0,
+        80.0
+      ],
+      "sha256": "2a0dddd85cf4762a0e4940994547fb27010c54ff91338ddb8260dbf0709c5022"
+    },
+    {
+      "doses": [
+        100.0,
+        0.0,
+        80.0
+      ],
+      "sha256": "a364ee1310fa4b4bf86f8473cabf72d6ba8d90d967ecba425845f402aad6fdbd"
+    },
+    {
+      "doses": [
+        100.0,
+        40.0,
+        60.0
+      ],
+      "sha256": "02ad3cdec6147ee16440b13d90ea0af76f9a6c26424be61dd8f950caf3f1af57"
+    },
+    {
+      "doses": [
+        10.0,
+        80.0,
+        100.0
+      ],
+      "sha256": "18c324a60219623e004b966bb6b778a315b1975e3ac62bd87c93c18e3041bda8"
+    },
+    {
+      "doses": [
+        100.0,
+        60.0,
+        20.0
+      ],
+      "sha256": "2bf856de1198e4cdfe1f03d44e013453ebf0e64492ede19fd6837b5adcf350d6"
+    },
+    {
+      "doses": [
+        0.0,
+        80.0,
+        20.0
+      ],
+      "sha256": "472c8721ebc64bbdf5636f34d377a906faf80a7fe7b4615a4a416e9c234a4679"
+    },
+    {
+      "doses": [
+        20.0,
+        80.0,
+        100.0
+      ],
+      "sha256": "2ca6f68da97e8a19bc01d9e0cf6a123d07ff3a0574c581bf42fcfe625778b1fa"
+    },
+    {
+      "doses": [
+        100.0,
+        80.0,
+        10.0
+      ],
+      "sha256": "8681b44945c4bee0a4ab485690b371dcce493a51e6aba456594fe3ee7df72e92"
+    },
+    {
+      "doses": [
+        100.0,
+        80.0,
+        20.0
+      ],
+      "sha256": "e40ccd83732b054ab0efe219392fff86dca5ac8eac6285593c228d13bf71b476"
+    },
+    {
+      "doses": [
+        100.0,
+        10.0,
+        100.0
+      ],
+      "sha256": "681ac6f27eb631ae8a1523f1041e5ecc3b5c471dd257a1c1b7ec5f0b1ad0f157"
+    }
+  ],
+  "complete_requested_paths": 21,
+  "cases_replayed": 74,
+  "public_prefix_nodes": 17,
+  "prefix_decisions_replayed": 253,
+  "archived_records_verified": 90,
+  "archived_requested_paths": 13,
+  "worker": 8,
+  "cases": 90
+}

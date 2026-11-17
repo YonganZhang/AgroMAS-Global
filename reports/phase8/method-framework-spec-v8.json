@@ -1,0 +1,559 @@
+{
+  "schema_version": 1,
+  "title": "AgroMAS-Global：五专职团队与外部只读物理裁判",
+  "caption": "本轮按G1→G2→G3门槛执行；效果待实测。P1天气土壤主模型，P2回溯折内空间适配；原始64维仅留在数值后端，Q8.4图稿不启动。",
+  "sources": [
+    "_wiki-methodology/_wiki/method.md",
+    "_wiki-methodology/_wiki/paper-storyline/versions/storyline-v2.0.md"
+  ],
+  "nodes": [
+    {
+      "id": "sat",
+      "label": "AlphaEarth先验 2017–2025\n原始64维仅送数值编码器",
+      "role": "input",
+      "bounds": [
+        60,
+        160,
+        420,
+        100
+      ]
+    },
+    {
+      "id": "obs",
+      "label": "已有可观测前缀\n天气、DVS、已施氮",
+      "role": "input",
+      "bounds": [
+        780,
+        160,
+        420,
+        100
+      ]
+    },
+    {
+      "id": "book",
+      "label": "外部只读物理裁判\nWOFOST81-SNOMIN 真C/N账",
+      "role": "reference",
+      "bounds": [
+        1500,
+        160,
+        420,
+        100
+      ]
+    },
+    {
+      "id": "index",
+      "label": "层1 已核验输入与队列\n来源、时间、单位、掩码",
+      "role": "core",
+      "bounds": [
+        780,
+        350,
+        420,
+        100
+      ]
+    },
+    {
+      "id": "dl",
+      "label": "64-D PyTorch DL Tool\n预测产量、籽粒N、实际施氮",
+      "role": "pending",
+      "bounds": [
+        620,
+        640,
+        500,
+        120
+      ]
+    },
+    {
+      "id": "audit",
+      "label": "离线物理解释审计\nWOFOST机理对照，待验证",
+      "role": "pending",
+      "bounds": [
+        1500,
+        640,
+        500,
+        120
+      ]
+    },
+    {
+      "id": "reply",
+      "label": "空间数字孪生专职端\nSpatialTwinSurrogateAgent",
+      "role": "pending",
+      "bounds": [
+        620,
+        850,
+        500,
+        100
+      ]
+    },
+    {
+      "id": "clim",
+      "label": "气象专职端\nClimateForecastAgent",
+      "role": "pending",
+      "bounds": [
+        60,
+        1090,
+        420,
+        120
+      ]
+    },
+    {
+      "id": "eco",
+      "label": "生态盈余安全端\nUrbanEcoSafetyAgent",
+      "role": "pending",
+      "bounds": [
+        580,
+        1090,
+        420,
+        120
+      ]
+    },
+    {
+      "id": "econ",
+      "label": "NUE与经济政策端\nSocioEconomicPolicyAgent",
+      "role": "pending",
+      "bounds": [
+        1100,
+        1090,
+        420,
+        120
+      ]
+    },
+    {
+      "id": "core",
+      "label": "非预知分支树与农艺端\nCoreAgronomicAgent",
+      "role": "pending",
+      "bounds": [
+        1620,
+        1090,
+        420,
+        120
+      ]
+    },
+    {
+      "id": "advice",
+      "label": "分立约束与动态目标\n盈余安全、NUE走廊、政策收益",
+      "role": "pending",
+      "bounds": [
+        620,
+        1320,
+        900,
+        100
+      ]
+    },
+    {
+      "id": "action",
+      "label": "全季三阶段合法行动\n执行当前剂量，再查询",
+      "role": "pending",
+      "bounds": [
+        1620,
+        1550,
+        420,
+        100
+      ]
+    },
+    {
+      "id": "valid",
+      "label": "G1门槛 → G2对比 → G3消融\n原生季末账，评价一次",
+      "role": "pending",
+      "bounds": [
+        620,
+        1550,
+        500,
+        100
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "sat_index",
+      "source": "sat",
+      "target": "index",
+      "label": "已有向量与来源索引",
+      "kind": "flow",
+      "ports": [
+        1,
+        0.5,
+        0,
+        0.5
+      ],
+      "via": [
+        [
+          540,
+          210
+        ],
+        [
+          540,
+          400
+        ]
+      ]
+    },
+    {
+      "id": "obs_index",
+      "source": "obs",
+      "target": "index",
+      "label": "已有前缀字段与单位",
+      "kind": "flow",
+      "ports": [
+        0.5,
+        1,
+        0.5,
+        0
+      ]
+    },
+    {
+      "id": "book_index",
+      "source": "book",
+      "target": "index",
+      "label": "既有账簿与队列索引",
+      "kind": "flow",
+      "ports": [
+        0,
+        0.5,
+        1,
+        0.5
+      ],
+      "via": [
+        [
+          1360,
+          210
+        ],
+        [
+          1360,
+          400
+        ]
+      ]
+    },
+    {
+      "id": "index_dl",
+      "source": "index",
+      "target": "dl",
+      "label": "P1天气土壤；P2折内64维",
+      "kind": "pending",
+      "ports": [
+        0.35,
+        1,
+        0.35,
+        0
+      ]
+    },
+    {
+      "id": "book_audit",
+      "source": "book",
+      "target": "audit",
+      "label": "离线机理标签（非在线输入）",
+      "kind": "pending",
+      "ports": [
+        0.5,
+        1,
+        0.5,
+        0
+      ]
+    },
+    {
+      "id": "dl_audit",
+      "source": "dl",
+      "target": "audit",
+      "label": "内部表示与预测（仅离线）",
+      "kind": "pending"
+    },
+    {
+      "id": "audit_dl",
+      "source": "audit",
+      "target": "dl",
+      "label": "折内解释与校准诊断",
+      "kind": "pending",
+      "ports": [
+        0.6,
+        0,
+        0.8,
+        0
+      ],
+      "via": [
+        [
+          1800,
+          560
+        ],
+        [
+          1020,
+          560
+        ]
+      ]
+    },
+    {
+      "id": "dl_reply",
+      "source": "dl",
+      "target": "reply",
+      "label": "工具响应：物理单位与校准信息",
+      "kind": "pending",
+      "ports": [
+        0.5,
+        1,
+        0.5,
+        0
+      ]
+    },
+    {
+      "id": "reply_clim",
+      "source": "clim",
+      "target": "reply",
+      "label": "TRAIN整季天气类比分支",
+      "kind": "pending",
+      "ports": [
+        0.5,
+        0,
+        0,
+        0.5
+      ],
+      "via": [
+        [
+          270,
+          900
+        ]
+      ]
+    },
+    {
+      "id": "reply_eco",
+      "source": "reply",
+      "target": "eco",
+      "label": "S_N分布与适用域",
+      "kind": "pending",
+      "ports": [
+        0.35,
+        1,
+        0.5,
+        0
+      ]
+    },
+    {
+      "id": "reply_econ",
+      "source": "reply",
+      "target": "econ",
+      "label": "产量、实际N、NUE分布",
+      "kind": "pending",
+      "ports": [
+        1,
+        0.5,
+        0.5,
+        0
+      ],
+      "via": [
+        [
+          1310,
+          900
+        ]
+      ]
+    },
+    {
+      "id": "reply_core",
+      "source": "reply",
+      "target": "core",
+      "label": "农艺响应与适用域",
+      "kind": "pending",
+      "ports": [
+        1,
+        0.3,
+        0.5,
+        0
+      ],
+      "via": [
+        [
+          1400,
+          880
+        ],
+        [
+          1830,
+          880
+        ]
+      ]
+    },
+    {
+      "id": "clim_advice",
+      "source": "clim",
+      "target": "advice",
+      "label": "条件天气分支与概率",
+      "kind": "pending",
+      "ports": [
+        0.5,
+        1,
+        0,
+        0.5
+      ],
+      "via": [
+        [
+          270,
+          1370
+        ]
+      ]
+    },
+    {
+      "id": "eco_advice",
+      "source": "eco",
+      "target": "advice",
+      "label": "生态可行域",
+      "kind": "pending",
+      "ports": [
+        0.5,
+        1,
+        0.2,
+        0
+      ]
+    },
+    {
+      "id": "econ_advice",
+      "source": "econ",
+      "target": "advice",
+      "label": "经济与NUE排序",
+      "kind": "pending",
+      "ports": [
+        0.5,
+        1,
+        0.8,
+        0
+      ]
+    },
+    {
+      "id": "advice_core",
+      "source": "advice",
+      "target": "core",
+      "label": "三端建议汇总",
+      "kind": "pending",
+      "ports": [
+        1,
+        0.5,
+        0.25,
+        1
+      ],
+      "via": [
+        [
+          1725,
+          1370
+        ]
+      ]
+    },
+    {
+      "id": "query",
+      "source": "core",
+      "target": "reply",
+      "label": "候选完整序列与可观测前缀",
+      "kind": "pending",
+      "ports": [
+        1,
+        0.3,
+        0.2,
+        0
+      ],
+      "via": [
+        [
+          2160,
+          1126
+        ],
+        [
+          2160,
+          500
+        ],
+        [
+          720,
+          500
+        ]
+      ]
+    },
+    {
+      "id": "core_action",
+      "source": "core",
+      "target": "action",
+      "label": "预算合法当前剂量",
+      "kind": "pending",
+      "ports": [
+        0.75,
+        1,
+        0.75,
+        0
+      ]
+    },
+    {
+      "id": "feedback",
+      "source": "action",
+      "target": "core",
+      "label": "下一阶段可观测前缀",
+      "kind": "pending",
+      "ports": [
+        1,
+        0.5,
+        1,
+        0.7
+      ],
+      "via": [
+        [
+          2230,
+          1600
+        ],
+        [
+          2230,
+          1174
+        ]
+      ]
+    },
+    {
+      "id": "action_valid",
+      "source": "action",
+      "target": "valid",
+      "label": "行动与季节键（无隐藏真值）",
+      "kind": "pending",
+      "ports": [
+        0,
+        0.5,
+        1,
+        0.5
+      ]
+    },
+    {
+      "id": "book_valid",
+      "source": "book",
+      "target": "valid",
+      "label": "只读真实季末账：仅评价",
+      "kind": "pending",
+      "ports": [
+        1,
+        0.5,
+        0.5,
+        1
+      ],
+      "via": [
+        [
+          2390,
+          210
+        ],
+        [
+          2390,
+          1740
+        ],
+        [
+          870,
+          1740
+        ]
+      ]
+    },
+    {
+      "id": "twin_tool",
+      "source": "reply",
+      "target": "dl",
+      "label": "结构化数值工具调用（无原始向量）",
+      "kind": "pending",
+      "ports": [
+        0,
+        0.3,
+        0,
+        0.5
+      ],
+      "via": [
+        [
+          520,
+          880
+        ],
+        [
+          520,
+          700
+        ]
+      ]
+    }
+  ]
+}

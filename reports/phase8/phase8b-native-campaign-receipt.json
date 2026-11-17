@@ -1,0 +1,16 @@
+{
+  "exit_codes": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "result_count": 6,
+  "expected": 2017,
+  "single_pass": true,
+  "no_automatic_retry": true
+}

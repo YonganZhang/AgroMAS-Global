@@ -1,0 +1,8 @@
+{
+  "region_id": "usa_kansas_wichita",
+  "url": "https://power.larc.nasa.gov/api/temporal/daily/point?latitude=37.69&longitude=-97.34&start=19840101&end=20261101&community=AG&format=JSON&parameters=T2M&time-standard=LST",
+  "sha256": "3ab7f20075e98342cc8333fd3767a12373e2bf9f533d19b146613546ab54c3f4",
+  "timestamp": "2026-11-14T21:40:25.237799+00:00",
+  "reason": "Native PCSE NASA provider uses dailyT2M, not(Tmin+Tmax)/2",
+  "role_policy": "Existing frozen year roles unchanged; date/field validation required before use"
+}

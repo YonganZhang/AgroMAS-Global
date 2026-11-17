@@ -1,0 +1,10 @@
+{
+  "region_id": "china_ncp_luancheng",
+  "soil_latitude": 37.89,
+  "soil_longitude": 114.69,
+  "url": "https://rest.isric.org/soilgrids/v2.0/properties/query?lat=37.89&lon=114.69&property=sand&property=silt&property=clay&property=bdod&property=soc&property=phh2o&property=cec&property=nitrogen&depth=0-5cm&depth=5-15cm&depth=15-30cm&depth=30-60cm&depth=60-100cm&depth=100-200cm&value=mean",
+  "sha256": "453a823593688fbfe0421010566b88a2e5ba9406868c78e38d2650ea0237da3b",
+  "timestamp": "2026-11-14T20:27:30.451615+00:00",
+  "source": "ISRIC SoilGrids gridded estimates, not farm observations",
+  "selection": "Point fixed before any regional crop output; city-null alternatives explicitly separate from weather coordinates"
+}

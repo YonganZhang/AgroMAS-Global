@@ -1,0 +1,98 @@
+{
+  "world": [
+    "usa_kansas_wichita",
+    2021,
+    "idealized_mid",
+    "NASA"
+  ],
+  "native_simulations": 10,
+  "unique_executed_trajectories": 10,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        0.0,
+        40.0,
+        40.0
+      ],
+      "sha256": "bd1ed13023661709139220a5e26b25ef6671bd9188b8a958ba1332cc038ef7d1"
+    },
+    {
+      "doses": [
+        0.0,
+        20.0,
+        40.0
+      ],
+      "sha256": "fd0cf2da899e6fe4d3ccdd6f055cfd160d676e83fc47e6a638fd54519d2e41f0"
+    },
+    {
+      "doses": [
+        0.0,
+        0.0,
+        80.0
+      ],
+      "sha256": "5921ea72013289f14d0f12be13b21aa742ecd177336c57043781c95f4e390788"
+    },
+    {
+      "doses": [
+        0.0,
+        0.0,
+        60.0
+      ],
+      "sha256": "521797c5369f156c6d3970d161c51979146f1841536ac07daf2beb5ff23ddfa7"
+    },
+    {
+      "doses": [
+        0.0,
+        40.0,
+        20.0
+      ],
+      "sha256": "9ab5303817ac35484818a4c0ee4acef7ec7da6ac6eb5155d3c82328a945ac406"
+    },
+    {
+      "doses": [
+        20.0,
+        20.0,
+        40.0
+      ],
+      "sha256": "f6d50c2aa755506da12745c9cc5cf79ae1f8a78ffb8c645f7c0570fddf22536f"
+    },
+    {
+      "doses": [
+        0.0,
+        10.0,
+        80.0
+      ],
+      "sha256": "e910b0c52d3147bce06510ba75da15816713ad48855cfcc0d8ebe80522c019d9"
+    },
+    {
+      "doses": [
+        0.0,
+        20.0,
+        80.0
+      ],
+      "sha256": "5899713966bebc9eb66e6e118a705d81d726ae0697522d01ded4e28d5b8dc66a"
+    },
+    {
+      "doses": [
+        0.0,
+        20.0,
+        60.0
+      ],
+      "sha256": "63c3ccb26a11a387052152397e22808da2db9bbaf43c620885eb767ea8e68a65"
+    },
+    {
+      "doses": [
+        0.0,
+        10.0,
+        60.0
+      ],
+      "sha256": "9a5830072f2f3cacc70e4fa1094649486f2fa377aabbe72fb25727f158748d34"
+    }
+  ],
+  "complete_requested_paths": 10,
+  "cases_replayed": 80,
+  "public_prefix_nodes": 8,
+  "prefix_decisions_replayed": 262,
+  "worker": 10,
+  "cases": 90
+}

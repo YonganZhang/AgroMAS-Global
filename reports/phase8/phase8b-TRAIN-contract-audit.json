@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "rows": 177930,
+  "stage_counts": {
+    "1": 59310,
+    "2": 59310,
+    "3": 59310
+  },
+  "unique_causal_prefixes": 10980,
+  "prefix_causality_max_tolerance": 1e-10,
+  "Executed_N_bounds_all_pass": true,
+  "Sensorless_hidden_columns_zero": true,
+  "regions": {
+    "australia_wa_perth": 43605,
+    "china_ncp_luancheng": 3510,
+    "france_paris_beauce": 43605,
+    "netherlands_lelystad": 43605,
+    "usa_kansas_wichita": 43605
+  },
+  "CN_row_fraction": 0.019726858877086494,
+  "training_objective": "fixed sample-average standardized MSE; CN cardinality imbalance disclosed; evaluation BSS/coverage equal region-year-stage",
+  "inactive_columns": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "two_architecture_parameter_count": 13155,
+  "baseline_NN_preprocessing_difference": "NN fold-standardized inactive-masked inputs; tree raw identical information, no asymmetric extra covariates",
+  "conditional_OOF_not_operational_forecast": true,
+  "not_universal_DL_failure": "Two small MLPs and three-bin weather descriptors only; no claim all DL/backbones fail."
+}

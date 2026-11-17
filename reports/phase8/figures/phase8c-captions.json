@@ -1,0 +1,17 @@
+{
+  "english": [
+    "Five numerical specialists share forecasts without exposing hidden referee states. Public inputs and optional telemetry condition the response model, while candidate plans and weather branches define its queries. The spatial adapter adds output corrections. Current doses reach an independent physical referee through a one-way action interface.",
+    "Objective retention changes compliance under matched information. Panels compare the Sensorless benchmark, the three objective modes, regional behavior and the partial-profit versus nitrogen-mining diagnostic. Equal-region means use the 52 former-held-out farm-years.",
+    "Spatial-prior behavior depends on validation scope and applicability. Panels separate cohorts and folds, show regional compliance, report accepted prior decisions and compare Full64 with Static3 using marginal paired bootstrap intervals. The backbone is not region-wise held out.",
+    "Joint compliance varies across the full factorial stress design. Upper panels show Soft-Coupled compliance and lower panels its difference from matched PPO. Rows group region, nitrogen-price multiplier and experimental subsidy. Black outlines mark the 90-cell continuity subset. Bottom panels show the separate Historical cap-40 subsidy diagnostic. Climate perturbations are idealized.",
+    "Compact interfaces and physical closure use distinct evidence. Panels describe the neural and private-adapter parameter footprint, the Regime interface, maximum daily nitrogen and carbon residuals, and the configuration versus unique-trajectory denominators. No measured runtime-speed claim is made."
+  ],
+  "chinese": [
+    "五个数值专职模块在不接收隐藏物理状态的条件下共享预测。公共输入与可选遥测进入响应模型，候选剂量和天气分支构成查询，空间适配叠加输出修正，当前动作单向送入独立物理评价。",
+    "目标保持改变匹配信息条件下的达标行为。各面板比较无额外传感器基准、三种目标模式、区域结果以及部分收益和氮库消耗诊断，等权均值对应52个原留出农场年份。",
+    "空间先验行为取决于验证范围与适用性。各面板分别呈现队列与折、区域达标率、先验接受率以及Full64相对Static3的边际配对自举区间，骨干本身未进行区域留出。",
+    "完整因子设计中的联合达标率具有地区和情景差异。上排为软耦合达标率，下排为相对匹配PPO差值，行区分地区、氮价倍率和实验补贴，黑框标记90格连续性子集，底排为历史40上限下的独立补贴诊断，气候扰动为理想设定。",
+    "紧凑接口与物理闭合分别使用对应证据。各面板呈现神经骨干和私有适配规模、Regime接口、日尺度氮碳最大残差及配置与唯一轨迹分母，不提出实测运行速度结论。"
+  ],
+  "scope": "Simulator-based adaptive benchmark reuse;P2 retrospective causal t-1;not prospective field assurance. Source cohorts/folds unpooled;intervals marginal;Holm family13512. P2 prior OOD zeroes correction only."
+}

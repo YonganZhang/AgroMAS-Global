@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "<stdin>", line 9, in <module>
+  File "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/NUE_PCSE-Gym/pcse_gym/agromas_v8/policies.py", line 101, in choose
+    legal=base[3]+GRID<=220+1e-8;xx=np.c_[np.repeat(base[None],7,axis=0),GRID];members=self.models[int(state['stage'])](xx);stats=stats_from_members(members,0.);mask,tier=mask_from_stats(stats,legal,case.get('cap',40),True);cap=case.get('cap',40);price=case.get('price_multiplier',1);sub=case.get('subsidy',0)
+                                                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/NUE_PCSE-Gym/pcse_gym/agromas_v6/core.py", line 33, in __call__
+    members=project_members(raw,x)
+            ^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/NUE_PCSE-Gym/pcse_gym/agromas/continuation.py", line 22, in project_members
+    if np.any(lower>budget+1e-7):raise ValueError('Candidate exceeds available fertilizer budget')
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Candidate exceeds available fertilizer budget

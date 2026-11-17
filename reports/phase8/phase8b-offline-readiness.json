@@ -1,0 +1,12 @@
+{
+  "status": "ready_for_frozen_G1_Dev_scoring",
+  "physical_books": 250,
+  "TRAIN_books": 225,
+  "Dev_books": 25,
+  "physical_calls": 85750,
+  "daily_audit": "passed",
+  "native_endpoint_audit": "passed",
+  "TRAIN_decoding_complete": true,
+  "Dev_scoring_started": false,
+  "G2_G3_started": false
+}

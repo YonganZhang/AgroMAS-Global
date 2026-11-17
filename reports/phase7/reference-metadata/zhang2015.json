@@ -1,0 +1,1219 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        15
+      ]
+    ],
+    "date-time": "2026-11-15T10:03:32Z",
+    "timestamp": 1794737012925,
+    "version": "4.9.1"
+  },
+  "reference-count": 91,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "7580",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            11,
+            23
+          ]
+        ],
+        "date-time": "2015-11-23T00:00:00Z",
+        "timestamp": 1448236800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://www.springer.com/tdm"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Nature"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2015,
+        12
+      ]
+    ]
+  },
+  "DOI": "10.1038/nature15743",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        11,
+        23
+      ]
+    ],
+    "date-time": "2015-11-23T19:27:30Z",
+    "timestamp": 1448306850000
+  },
+  "page": "51-59",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 2965,
+  "title": [
+    "Managing nitrogen for sustainable development"
+  ],
+  "prefix": "10.1038",
+  "volume": "528",
+  "author": [
+    {
+      "given": "Xin",
+      "family": "Zhang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Eric A.",
+      "family": "Davidson",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Denise L.",
+      "family": "Mauzerall",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Timothy D.",
+      "family": "Searchinger",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Patrice",
+      "family": "Dumas",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ye",
+      "family": "Shen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2015,
+        11,
+        23
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "BFnature15743_CR1",
+      "doi-asserted-by": "crossref",
+      "first-page": "636",
+      "DOI": "10.1038/ngeo325",
+      "volume": "1",
+      "author": "JW Erisman",
+      "year": "2008",
+      "unstructured": "Erisman, J. W., Sutton, M. A., Galloway, J., Klimont, Z. & Winiwarter, W. How a century of ammonia synthesis changed the world. Nature Geosci. 1, 636\u2013639 (2008)",
+      "journal-title": "Nature Geosci."
+    },
+    {
+      "key": "BFnature15743_CR2",
+      "doi-asserted-by": "crossref",
+      "first-page": "337",
+      "DOI": "10.1038/nature10452",
+      "volume": "478",
+      "author": "JA Foley",
+      "year": "2011",
+      "unstructured": "Foley, J. A. et al. Solutions for a cultivated planet. Nature 478, 337\u2013342 (2011)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature15743_CR3",
+      "unstructured": "Alexandratos, N. & Bruinsma, J. World Agriculture towards 2030/2050: the 2012 Revision. Agricultural Development Economics Division of the Economic and Social Development Department Working Paper No. 12-03, http://www.fao.org/docrep/016/ap106e/ap106e.pdf (Food and Agriculture Organization of the United Nations, 2012)"
+    },
+    {
+      "key": "BFnature15743_CR4",
+      "doi-asserted-by": "crossref",
+      "first-page": "254",
+      "DOI": "10.1038/nature11420",
+      "volume": "490",
+      "author": "ND Mueller",
+      "year": "2012",
+      "unstructured": "Mueller, N. D. et al. Closing yield gaps through nutrient and water management. Nature 490, 254\u2013257 (2012)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature15743_CR5",
+      "doi-asserted-by": "crossref",
+      "first-page": "6223",
+      "DOI": "10.1126/science.1259855",
+      "volume": "347",
+      "author": "W Steffen",
+      "year": "2015",
+      "unstructured": "Steffen, W. et al. Planetary boundaries: guiding human development on a changing planet. Science 347, 6223 (2015). This paper provides the most recent updates on the research under the planetary boundaries framework.",
+      "journal-title": "Science"
+    },
+    {
+      "key": "BFnature15743_CR6",
+      "doi-asserted-by": "crossref",
+      "first-page": "341",
+      "DOI": "10.1641/0006-3568(2003)053[0341:TNC]2.0.CO;2",
+      "volume": "53",
+      "author": "JN Galloway",
+      "year": "2003",
+      "unstructured": "Galloway, J. N. et al. The nitrogen cascade. Bioscience 53, 341\u2013356 (2003). This is a classic paper on the many interacting environmental impacts of reactive forms of N as they move through the biosphere.",
+      "journal-title": "Bioscience"
+    },
+    {
+      "key": "BFnature15743_CR7",
+      "doi-asserted-by": "crossref",
+      "first-page": "889",
+      "DOI": "10.1126/science.1136674",
+      "volume": "320",
+      "author": "JN Galloway",
+      "year": "2008",
+      "unstructured": "Galloway, J. N. et al. Transformation of the nitrogen cycle: recent trends, questions, and potential solutions. Science 320, 889\u2013892 (2008)",
+      "journal-title": "Science"
+    },
+    {
+      "key": "BFnature15743_CR8",
+      "doi-asserted-by": "crossref",
+      "first-page": "410",
+      "DOI": "10.1038/nclimate1458",
+      "volume": "2",
+      "author": "DS Reay",
+      "year": "2012",
+      "unstructured": "Reay, D. S. et al. Global agriculture and nitrous oxide emissions. Nature Clim. Change 2, 410\u2013416 (2012)",
+      "journal-title": "Clim. Change"
+    },
+    {
+      "key": "BFnature15743_CR9",
+      "doi-asserted-by": "crossref",
+      "first-page": "746",
+      "DOI": "10.1002/gbc.20066",
+      "volume": "27",
+      "author": "TJ Griffis",
+      "year": "2013",
+      "unstructured": "Griffis, T. J. et al. Reconciling the differences between top-down and bottom-up estimates of nitrous oxide emissions for the U.S. corn belt. Glob. Biogeochem. Cycles 27, 746\u2013754 (2013)",
+      "journal-title": "Glob. Biogeochem. Cycles"
+    },
+    {
+      "key": "BFnature15743_CR10",
+      "doi-asserted-by": "crossref",
+      "first-page": "2284",
+      "DOI": "10.1016/j.atmosenv.2010.11.045",
+      "volume": "45",
+      "author": "S Avnery",
+      "year": "2011",
+      "unstructured": "Avnery, S., Mauzerall, D. L., Liu, J. & Horowitz, L. W. Global crop yield reductions due to surface ozone exposure: 1. Year 2000 crop production losses and economic damage. Atmos. Environ. 45, 2284\u20132296 (2011)",
+      "journal-title": "Atmos. Environ."
+    },
+    {
+      "key": "BFnature15743_CR11",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.1007/s10533-012-9802-4",
+      "volume": "114",
+      "author": "GP Robertson",
+      "year": "2013",
+      "unstructured": "Robertson, G. P. et al. Nitrogen\u2013climate interactions in US agriculture. Biogeochemistry 114, 41\u201370 (2013)",
+      "journal-title": "Biogeochemistry"
+    },
+    {
+      "key": "BFnature15743_CR12",
+      "doi-asserted-by": "crossref",
+      "first-page": "1085",
+      "DOI": "10.1056/NEJMoa0803894",
+      "volume": "360",
+      "author": "M Jerrett",
+      "year": "2009",
+      "unstructured": "Jerrett, M. et al. Long-term ozone exposure and mortality. N. Engl. J. Med. 360, 1085\u20131095 (2009)",
+      "journal-title": "N. Engl. J. Med."
+    },
+    {
+      "key": "BFnature15743_CR13",
+      "doi-asserted-by": "crossref",
+      "first-page": "442",
+      "DOI": "10.1016/S0140-6736(05)70241-5",
+      "volume": "365",
+      "author": "PA Sanchez",
+      "year": "2005",
+      "unstructured": "Sanchez, P. A. & Swaminathan, M. Hunger in Africa: the link between unhealthy people and unhealthy soils. Lancet 365, 442\u2013444 (2005)",
+      "journal-title": "Lancet"
+    },
+    {
+      "key": "BFnature15743_CR14",
+      "doi-asserted-by": "crossref",
+      "first-page": "315",
+      "DOI": "10.1146/annurev.energy.28.040202.122858",
+      "volume": "28",
+      "author": "KG Cassman",
+      "year": "2003",
+      "unstructured": "Cassman, K. G., Dobermann, A., Walters, D. T. & Yang, H. Meeting cereal demand while protecting natural resources and improving environmental quality. Annu. Rev. Environ. Resour. 28, 315\u2013358 (2003)",
+      "journal-title": "Annu. Rev. Environ. Resour."
+    },
+    {
+      "key": "BFnature15743_CR15",
+      "doi-asserted-by": "crossref",
+      "first-page": "305",
+      "DOI": "10.2134/jeq2015.02.0078",
+      "volume": "44",
+      "author": "EA Davidson",
+      "year": "2015",
+      "unstructured": "Davidson, E. A., Suddick, E. C., Rice, C. W. & Prokopy, L. S. More food, low pollution (Mo Fo Lo Po): a grand challenge for the 21st century. J. Environ. Qual. 44, 305\u2013311 (2015). This paper reports outcomes of an interdisciplinary conference on the technical, social, and economic impediments to improving NUE in crop and animal production systems, and it introduces a series of papers addressing this issue.",
+      "journal-title": "J. Environ. Qual."
+    },
+    {
+      "key": "BFnature15743_CR16",
+      "unstructured": "Leadership Council of the Sustainable Development Solutions Network (SDSN). Indicators and a Monitoring Framework for Sustainable Development Goals\u2014Revised Working Draft, 16 January 2015. http://unsdsn.org/resources (SDSN, 2015)"
+    },
+    {
+      "key": "BFnature15743_CR17",
+      "unstructured": "Newell Price, J. et al. An Inventory of Mitigation Methods and Guide to their Effects on Diffuse Water Pollution, Greenhouse Gas Emissions and Ammonia Emissions from Agriculture. http://www.avondtc.org.uk/Portals/0/Farmscoper/DEFRA%20user%20guide.pdf (Defra Project WQ0106, ADAS and Rothamsted Research North Wyke, 2011)"
+    },
+    {
+      "key": "BFnature15743_CR18",
+      "doi-asserted-by": "crossref",
+      "first-page": "431",
+      "DOI": "10.1016/j.ecolecon.2004.02.011",
+      "volume": "49",
+      "author": "S Dinda",
+      "year": "2004",
+      "unstructured": "Dinda, S. Environmental Kuznets curve hypothesis: a survey. Ecol. Econ. 49, 431\u2013455 (2004)",
+      "journal-title": "Ecol. Econ."
+    },
+    {
+      "key": "BFnature15743_CR19",
+      "doi-asserted-by": "crossref",
+      "first-page": "353",
+      "DOI": "10.2307/2118443",
+      "volume": "110",
+      "author": "GM Grossman",
+      "year": "1995",
+      "unstructured": "Grossman, G. M. & Krueger, A. B. Economic growth and the environment. Q. J. Econ. 110, 353\u2013377 (1995). This was among the first set of studies to provide empirical evidence for the EKC hypothesis.",
+      "journal-title": "Q. J. Econ."
+    },
+    {
+      "key": "BFnature15743_CR20",
+      "doi-asserted-by": "crossref",
+      "first-page": "91",
+      "DOI": "10.1016/0921-8009(95)00059-3",
+      "volume": "15",
+      "author": "K Arrow",
+      "year": "1995",
+      "unstructured": "Arrow, K. et al. Economic growth, carrying capacity, and the environment. Ecol. Econ. 15, 91\u201395 (1995)",
+      "journal-title": "Ecol. Econ."
+    },
+    {
+      "key": "BFnature15743_CR21",
+      "unstructured": "Panayotou, T. Empirical Tests and Policy Analysis of Environmental Degradation at Different Stages of Economic Development. Working Paper 238 (Technology and Employment Programme, International Labour Organization, 1993)"
+    },
+    {
+      "key": "BFnature15743_CR22",
+      "doi-asserted-by": "crossref",
+      "first-page": "401",
+      "DOI": "10.1017/S1355770X97000211",
+      "volume": "2",
+      "author": "MA Cole",
+      "year": "1997",
+      "unstructured": "Cole, M. A., Rayner, A. J. & Bates, J. M. The environmental Kuznets curve: an empirical analysis. Environ. Dev. Econ. 2, 401\u2013416 (1997)",
+      "journal-title": "Environ. Dev. Econ."
+    },
+    {
+      "key": "BFnature15743_CR23",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Brock, W. A. & Taylor, M. S. in Handbook of Economic Growth Vol. 1B (eds Aghion, P. & Durlauf, S.) Ch. 28, 1749\u20131821 (Elsevier, 2005)",
+      "DOI": "10.1016/S1574-0684(05)01028-2"
+    },
+    {
+      "key": "BFnature15743_CR24",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Li, F., Dong, S., Li, F. & Yang, L. Is there an inverted U-shaped curve? Empirical analysis of the environmental Kuznets curve in agrochemicals. Front. Environ. Sci. Eng. 1\u201312 (2014)",
+      "DOI": "10.1007/s11783-014-0700-y"
+    },
+    {
+      "key": "BFnature15743_CR25",
+      "doi-asserted-by": "crossref",
+      "first-page": "1509",
+      "DOI": "10.1007/s10668-015-9618-1",
+      "volume": "17",
+      "author": "AP Singh",
+      "year": "2015",
+      "unstructured": "Singh, A. P. & Narayanan, K. Impact of economic growth and population on agrochemical use: evidence from post-liberalization India. Environ. Dev. Sustain. 17, 1509\u20131525 (2015)",
+      "journal-title": "Dev. Sustain."
+    },
+    {
+      "key": "BFnature15743_CR26",
+      "doi-asserted-by": "crossref",
+      "first-page": "233",
+      "DOI": "10.1023/B:FRES.0000003619.50198.55",
+      "volume": "67",
+      "author": "C van Beek",
+      "year": "2003",
+      "unstructured": "van Beek, C., Brouwer, L. & Oenema, O. The use of farmgate balances and soil surface balances as estimator for nitrogen leaching to surface water. Nutr. Cycl. Agroecosyst. 67, 233\u2013244 (2003)",
+      "journal-title": "Nutr. Cycl. Agroecosyst."
+    },
+    {
+      "key": "BFnature15743_CR27",
+      "doi-asserted-by": "crossref",
+      "first-page": "903",
+      "DOI": "10.1111/j.1365-2389.2009.01217.x",
+      "volume": "61",
+      "author": "J Van Groenigen",
+      "year": "2010",
+      "unstructured": "Van Groenigen, J., Velthof, G., Oenema, O., Van Groenigen, K. & Van Kessel, C. Towards an agronomic assessment of N2O emissions: a case study for arable crops. Eur. J. Soil Sci. 61, 903\u2013913 (2010)",
+      "journal-title": "Eur. J. Soil Sci."
+    },
+    {
+      "key": "BFnature15743_CR28",
+      "doi-asserted-by": "crossref",
+      "first-page": "20882",
+      "DOI": "10.1073/pnas.1012878108",
+      "volume": "110",
+      "author": "L Bouwman",
+      "year": "2013",
+      "unstructured": "Bouwman, L. et al. Exploring global changes in nitrogen and phosphorus cycles in agriculture induced by livestock production over the 1900\u20132050 period. Proc. Natl Acad. Sci. USA 110, 20882\u201320887 (2013)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature15743_CR29",
+      "doi-asserted-by": "crossref",
+      "first-page": "8035",
+      "DOI": "10.1073/pnas.0913658107",
+      "volume": "107",
+      "author": "J Liu",
+      "year": "2010",
+      "unstructured": "Liu, J. et al. A high-resolution assessment on global nitrogen flows in cropland. Proc. Natl Acad. Sci. USA 107, 8035\u20138040 (2010)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature15743_CR30",
+      "doi-asserted-by": "crossref",
+      "first-page": "105011",
+      "DOI": "10.1088/1748-9326/9/10/105011",
+      "volume": "9",
+      "author": "L Lassaletta",
+      "year": "2014",
+      "unstructured": "Lassaletta, L., Billen, G., Grizzetti, B., Anglade, J. & Garnier, J. 50 year trends in nitrogen use efficiency of world cropping systems: the relationship between yield and nitrogen input to cropland. Environ. Res. Lett. 9, 105011 (2014).This paper presents the 50-year trend of NUE and the yield response to N input on a country scale.",
+      "journal-title": "Environ. Res. Lett."
+    },
+    {
+      "key": "BFnature15743_CR31",
+      "doi-asserted-by": "crossref",
+      "first-page": "558",
+      "DOI": "10.1002/gbc.20053",
+      "volume": "27",
+      "author": "RT Conant",
+      "year": "2013",
+      "unstructured": "Conant, R. T., Berdanier, A. B. & Grace, P. R. Patterns and trends in nitrogen use and nitrogen recovery efficiency in world agriculture. Glob. Biogeochem. Cycles 27, 558\u2013566 (2013).This study creates a global N input database by country and several major crops and found no convergence in N use among countries.",
+      "journal-title": "Glob. Biogeochem. Cycles"
+    },
+    {
+      "key": "BFnature15743_CR32",
+      "doi-asserted-by": "crossref",
+      "first-page": "303",
+      "DOI": "10.1023/A:1009783302364",
+      "volume": "52",
+      "author": "F Brouwer",
+      "year": "1998",
+      "unstructured": "Brouwer, F. Nitrogen balances at farm level as a tool to monitor effects of agri-environmental policy. Nutr. Cycl. Agroecosyst. 52, 303\u2013308 (1998)",
+      "journal-title": "Nutr. Cycl. Agroecosyst."
+    },
+    {
+      "key": "BFnature15743_CR33",
+      "doi-asserted-by": "crossref",
+      "first-page": "312",
+      "DOI": "10.2134/jeq2014.03.0129",
+      "volume": "44",
+      "author": "X Zhang",
+      "year": "2015",
+      "unstructured": "Zhang, X., Mauzerall, D. L., Davidson, E. A., Kanter, D. R. & Cai, R. The economic and environmental consequences of implementing nitrogen-efficient technologies and management practices in agriculture. J. Environ. Qual. 44, 312\u2013324 (2015).This paper develops a bioeconomic model to examine how technological and socioeconomic factors influence farming decisions and the resulting environmental impact.",
+      "journal-title": "J. Environ. Qual."
+    },
+    {
+      "key": "BFnature15743_CR34",
+      "doi-asserted-by": "crossref",
+      "first-page": "46",
+      "DOI": "10.1016/j.cosust.2014.07.005",
+      "volume": "9\u201310",
+      "author": "C Snyder",
+      "year": "2014",
+      "unstructured": "Snyder, C., Davidson, E., Smith, P. & Venterea, R. Agriculture: sustainable crop and animal production to help mitigate nitrous oxide emissions. Curr. Opin. Environ. Sustain. 9\u201310, 46\u201354 (2014)",
+      "journal-title": "Curr. Opin. Environ. Sustain."
+    },
+    {
+      "key": "BFnature15743_CR35",
+      "unstructured": "Food and Agriculture Organization of the United Nations. FAOSTAT Online Database http://faostat.fao.org/ (2015)"
+    },
+    {
+      "key": "BFnature15743_CR36",
+      "doi-asserted-by": "crossref",
+      "unstructured": "World Bank Group. World Development Indicators 2012 http://data.worldbank.org/sites/default/files/wdi-2012-ebook.pdf (World Bank Publications, 2012)",
+      "DOI": "10.1596/978-0-8213-9616-2"
+    },
+    {
+      "key": "BFnature15743_CR37",
+      "doi-asserted-by": "crossref",
+      "first-page": "225",
+      "DOI": "10.1007/s10533-013-9923-4",
+      "volume": "118",
+      "author": "L Lassaletta",
+      "year": "2014",
+      "unstructured": "Lassaletta, L. et al. Food and feed trade as a driver in the global nitrogen cycle: 50-year trends. Biogeochemistry 118, 225\u2013241 (2014)",
+      "journal-title": "Biogeochemistry"
+    },
+    {
+      "key": "BFnature15743_CR38",
+      "unstructured": "Heffer, P. Assessment of Fertilizer Use by Crop at the Global Level 2007\u20132007/08 (International Fertilizer Industry Association, 2009)"
+    },
+    {
+      "key": "BFnature15743_CR39",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1029/2007GB002947",
+      "volume": "22",
+      "author": "C Monfreda",
+      "year": "2008",
+      "unstructured": "Monfreda, C., Ramankutty, N. & Foley, J. A. Farming the planet: 2. Geographic distribution of crop areas, yields, physiological types, and net primary production in the year 2000. Glob. Biogeochem. Cycles 22, 1\u201319 (2008)",
+      "journal-title": "Glob. Biogeochem. Cycles"
+    },
+    {
+      "key": "BFnature15743_CR40",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1007/s11104-008-9668-3",
+      "volume": "311",
+      "author": "DF Herridge",
+      "year": "2008",
+      "unstructured": "Herridge, D. F., Peoples, M. B. & Boddey, R. M. Global inputs of biological nitrogen fixation in agricultural systems. Plant Soil 311, 1\u201318 (2008)",
+      "journal-title": "Plant Soil"
+    },
+    {
+      "key": "BFnature15743_CR41",
+      "doi-asserted-by": "crossref",
+      "first-page": "450",
+      "DOI": "10.1016/j.enpol.2011.12.010",
+      "volume": "42",
+      "author": "K Jayanthakumaran",
+      "year": "2012",
+      "unstructured": "Jayanthakumaran, K., Verma, R. & Liu, Y. CO2 emissions, energy consumption, trade and income: a comparative analysis of China and India. Energy Policy 42, 450\u2013460 (2012)",
+      "journal-title": "Energy Policy"
+    },
+    {
+      "key": "BFnature15743_CR42",
+      "doi-asserted-by": "crossref",
+      "first-page": "49",
+      "DOI": "10.1016/j.ecolecon.2012.01.014",
+      "volume": "76",
+      "author": "J He",
+      "year": "2012",
+      "unstructured": "He, J. & Wang, H. Economic structure, development policy and environmental quality: An empirical analysis of environmental Kuznets curves with Chinese municipal data. Ecol. Econ. 76, 49\u201359 (2012)",
+      "journal-title": "Ecol. Econ."
+    },
+    {
+      "key": "BFnature15743_CR43",
+      "doi-asserted-by": "crossref",
+      "first-page": "123",
+      "DOI": "10.1016/j.enpol.2014.11.019",
+      "volume": "76",
+      "author": "U Al-Mulali",
+      "year": "2015",
+      "unstructured": "Al-Mulali, U., Saboori, B. & Ozturk, I. Investigating the environmental Kuznets curve hypothesis in Vietnam. Energy Policy 76, 123\u2013131 (2015)",
+      "journal-title": "Energy Policy"
+    },
+    {
+      "key": "BFnature15743_CR44",
+      "first-page": "86",
+      "volume": "5",
+      "author": "MS Alam",
+      "year": "2013",
+      "unstructured": "Alam, M. S. & Kabir, N. Economic growth and environmental sustainability: empirical evidence from East and South-East Asia. Int. J. Econ. Finance 5, 86\u201397 (2013)",
+      "journal-title": "Int. J. Econ. Finance"
+    },
+    {
+      "key": "BFnature15743_CR45",
+      "doi-asserted-by": "crossref",
+      "first-page": "541",
+      "DOI": "10.1016/j.jclepro.2008.09.007",
+      "volume": "17",
+      "author": "X Diao",
+      "year": "2009",
+      "unstructured": "Diao, X., Zeng, S., Tam, C. M. & Tam, V. W. EKC analysis for studying economic growth and environmental quality: a case study in China. J. Clean. Prod. 17, 541\u2013548 (2009)",
+      "journal-title": "J. Clean. Prod."
+    },
+    {
+      "key": "BFnature15743_CR46",
+      "doi-asserted-by": "crossref",
+      "first-page": "14",
+      "DOI": "10.1016/j.enpol.2012.04.036",
+      "volume": "57",
+      "author": "M-L Song",
+      "year": "2013",
+      "unstructured": "Song, M.-L., Zhang, W. & Wang, S.-H. Inflection point of environmental Kuznets curve in mainland China. Energy Policy 57, 14\u201320 (2013)",
+      "journal-title": "Energy Policy"
+    },
+    {
+      "key": "BFnature15743_CR47",
+      "doi-asserted-by": "crossref",
+      "first-page": "388",
+      "DOI": "10.1016/j.reseneeco.2007.11.001",
+      "volume": "30",
+      "author": "M Wagner",
+      "year": "2008",
+      "unstructured": "Wagner, M. The carbon Kuznets curve: a cloudy picture emitted by bad econometrics? Resour. Energy Econ. 30, 388\u2013408 (2008)",
+      "journal-title": "Resour. Energy Econ."
+    },
+    {
+      "key": "BFnature15743_CR48",
+      "doi-asserted-by": "crossref",
+      "first-page": "648",
+      "DOI": "10.1016/j.ecolecon.2006.08.005",
+      "volume": "62",
+      "author": "G M\u00fcller-F\u00fcrstenberger",
+      "year": "2007",
+      "unstructured": "M\u00fcller-F\u00fcrstenberger, G. & Wagner, M. Exploring the environmental Kuznets hypothesis: theoretical and econometric problems. Ecol. Econ. 62, 648\u2013660 (2007)",
+      "journal-title": "Ecol. Econ."
+    },
+    {
+      "key": "BFnature15743_CR49",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1111/1468-0106.12048",
+      "volume": "19",
+      "author": "GC Chow",
+      "year": "2014",
+      "unstructured": "Chow, G. C. & Li, J. Environmental Kuznets curve: conclusive econometric evidence for CO2 . Pac. Econ. Rev. 19, 1\u20137 (2014)",
+      "journal-title": "Pac. Econ. Rev."
+    },
+    {
+      "key": "BFnature15743_CR50",
+      "doi-asserted-by": "crossref",
+      "first-page": "289",
+      "DOI": "10.1002/jae.616",
+      "volume": "16",
+      "author": "MH Pesaran",
+      "year": "2001",
+      "unstructured": "Pesaran, M. H., Shin, Y. & Smith, R. J. Bounds testing approaches to the analysis of level relationships. J. Appl. Econ. 16, 289\u2013326 (2001)",
+      "journal-title": "J. Appl. Econ."
+    },
+    {
+      "key": "BFnature15743_CR51",
+      "doi-asserted-by": "crossref",
+      "first-page": "948",
+      "DOI": "10.1002/jae.2421",
+      "volume": "30",
+      "author": "M Wagner",
+      "year": "2015",
+      "unstructured": "Wagner, M. The environmental Kuznets curve, cointegration and nonlinearity. J. Appl. Econ. 30, 948\u2013967 (2015)",
+      "journal-title": "J. Appl. Econ."
+    },
+    {
+      "key": "BFnature15743_CR52",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Wagner, M. & Hong, S. H. Cointegrating polynomial regressions: fully modified OLS estimation and inference. Econom. Theory, http://dx.doi.org/10.1017/S0266466615000213 (2015)",
+      "DOI": "10.1017/S0266466615000213"
+    },
+    {
+      "key": "BFnature15743_CR53",
+      "doi-asserted-by": "crossref",
+      "first-page": "1419",
+      "DOI": "10.1016/j.worlddev.2004.03.004",
+      "volume": "32",
+      "author": "DI Stern",
+      "year": "2004",
+      "unstructured": "Stern, D. I. The rise and fall of the environmental Kuznets curve. World Dev. 32, 1419\u20131439 (2004)",
+      "journal-title": "World Dev."
+    },
+    {
+      "key": "BFnature15743_CR54",
+      "first-page": "32",
+      "volume": "29",
+      "author": "TA Cavlovic",
+      "year": "2000",
+      "unstructured": "Cavlovic, T. A., Baker, K. H., Berrens, R. P. & Gawande, K. A meta-analysis of environmental Kuznets curve studies. Agric. Res. Econ. Rev. 29, 32\u201342 (2000)",
+      "journal-title": "Econ. Rev."
+    },
+    {
+      "key": "BFnature15743_CR55",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1017/CBO9780511976988",
+      "volume-title": "The European Nitrogen Assessment: Sources, Effects and Policy Perspectives",
+      "author": "MA Sutton",
+      "year": "2011",
+      "unstructured": "Sutton, M. A. et al. (eds) The European Nitrogen Assessment: Sources, Effects and Policy Perspectives (Cambridge Univ. Press, 2011)"
+    },
+    {
+      "key": "BFnature15743_CR56",
+      "doi-asserted-by": "crossref",
+      "first-page": "5143",
+      "DOI": "10.5194/bg-9-5143-2012",
+      "volume": "9",
+      "author": "H van Grinsven",
+      "year": "2012",
+      "unstructured": "van Grinsven, H. et al. Management, regulation and environmental impacts of nitrogen fertilization in northwestern Europe under the Nitrates Directive: a benchmark study. Biogeosciences 9, 5143\u20135160 (2012)",
+      "journal-title": "Biogeosciences"
+    },
+    {
+      "key": "BFnature15743_CR57",
+      "doi-asserted-by": "crossref",
+      "first-page": "356",
+      "DOI": "10.2134/jeq2014.03.0102",
+      "volume": "44",
+      "author": "HJ van Grinsven",
+      "year": "2015",
+      "unstructured": "van Grinsven, H. J. et al. Losses of ammonia and nitrate from agriculture and their effect on nitrogen recovery in the European Union and the United States between 1900 and 2050. J. Environ. Qual. 44, 356\u2013367 (2015)",
+      "journal-title": "J. Environ. Qual."
+    },
+    {
+      "key": "BFnature15743_CR58",
+      "doi-asserted-by": "crossref",
+      "first-page": "449",
+      "DOI": "10.2134/jeq2014.02.0085",
+      "volume": "44",
+      "author": "RB Ferguson",
+      "year": "2015",
+      "unstructured": "Ferguson, R. B. Groundwater quality and nitrogen use efficiency in Nebraska\u2019s Central Platte River valley. J. Environ. Qual. 44, 449\u2013459 (2015)",
+      "journal-title": "J. Environ. Qual."
+    },
+    {
+      "key": "BFnature15743_CR59",
+      "doi-asserted-by": "crossref",
+      "first-page": "382",
+      "DOI": "10.2134/jeq2014.02.0091",
+      "volume": "44",
+      "author": "DL Osmond",
+      "year": "2015",
+      "unstructured": "Osmond, D. L., Hoag, D. L., Luloff, A. E., Meals, D. W. & Neas, K. Farmers\u2019 use of nutrient management: lessons from watershed case studies. J. Environ. Qual. 44, 382\u2013390 (2015)",
+      "journal-title": "J. Environ. Qual."
+    },
+    {
+      "key": "BFnature15743_CR60",
+      "doi-asserted-by": "crossref",
+      "first-page": "402",
+      "DOI": "10.2134/jeq2014.07.0304",
+      "volume": "44",
+      "author": "MR Perez",
+      "year": "2015",
+      "unstructured": "Perez, M. R. Regulating farmer nutrient management: a three-state case study on the Delmarva Peninsula. J. Environ. Qual. 44, 402\u2013414 (2015)",
+      "journal-title": "J. Environ. Qual."
+    },
+    {
+      "key": "BFnature15743_CR61",
+      "unstructured": "International Fertilizer Industry Association (IFA). The Global \u20184R\u2019 Nutrient Stewardship Framework. Developing Fertilizer Best Management Practices for Delivering Economic, Social, and Environmental Benefits. AgCom/09/44, https://www.ipni.net/ipniweb/portal/4r.nsf/article/global-4r-framework (IFA Task Force on Fertilizer Best Management Practices, IFA, 2009)"
+    },
+    {
+      "key": "BFnature15743_CR62",
+      "first-page": "1",
+      "volume": "9\u201310",
+      "author": "E Davidson",
+      "year": "2014",
+      "unstructured": "Davidson, E., Galloway, J., Millar, N. & Leach, A. N-related greenhouse gases in North America: innovations for a sustainable future. Curr. Opin. Environ. Sust. 9\u201310, 1\u20138 (2014)",
+      "journal-title": "Sust."
+    },
+    {
+      "key": "BFnature15743_CR63",
+      "unstructured": "Sawyer, J. E. et al. Concepts and Rationale for Regional Nitrogen Rate Guidelines for Corn. http://www.extension.iastate.edu/publications/pm2015.pdf (Iowa State University Extension, 2006)"
+    },
+    {
+      "key": "BFnature15743_CR64",
+      "doi-asserted-by": "crossref",
+      "first-page": "97",
+      "DOI": "10.1146/annurev.environ.032108.105046",
+      "volume": "34",
+      "author": "GP Robertson",
+      "year": "2009",
+      "unstructured": "Robertson, G. P. & Vitousek, P. M. Nitrogen in agriculture: balancing the cost of an essential resource. Annu. Rev. Environ. Resour. 34, 97\u2013125 (2009)",
+      "journal-title": "Annu. Rev. Environ. Resour."
+    },
+    {
+      "key": "BFnature15743_CR65",
+      "doi-asserted-by": "crossref",
+      "first-page": "1276",
+      "DOI": "10.2134/agronj2011.0053",
+      "volume": "103",
+      "author": "TD Setiyono",
+      "year": "2011",
+      "unstructured": "Setiyono, T. D. et al. Maize-N: a decision tool for nitrogen management in maize. Agron. J. 103, 1276\u20131283 (2011)",
+      "journal-title": "Agron. J."
+    },
+    {
+      "key": "BFnature15743_CR66",
+      "doi-asserted-by": "crossref",
+      "first-page": "972",
+      "DOI": "10.2134/jeq2012.0465",
+      "volume": "42",
+      "author": "Y Li",
+      "year": "2013",
+      "unstructured": "Li, Y. et al. An analysis of China\u2019s fertilizer policies: impacts on the industry, food security, and the environment. J. Environ. Qual. 42, 972\u2013981 (2013)",
+      "journal-title": "J. Environ. Qual."
+    },
+    {
+      "key": "BFnature15743_CR67",
+      "doi-asserted-by": "crossref",
+      "first-page": "497",
+      "DOI": "10.1016/j.envpol.2006.04.017",
+      "volume": "145",
+      "author": "X Ju",
+      "year": "2007",
+      "unstructured": "Ju, X., Kou, C., Christie, P., Dou, Z. & Zhang, F. Changes in the soil environment from excessive application of fertilizers and manures to two contrasting intensive cropping systems on the North China Plain. Environ. Pollut. 145, 497\u2013506 (2007)",
+      "journal-title": "Environ. Pollut."
+    },
+    {
+      "key": "BFnature15743_CR68",
+      "doi-asserted-by": "crossref",
+      "first-page": "938",
+      "DOI": "10.1002/2015JG002913",
+      "volume": "120",
+      "author": "JE Hickman",
+      "year": "2015",
+      "unstructured": "Hickman, J. E., Tully, K. L., Groffman, P. M., Diru, W. & Palm, C. A. A potential tipping point in tropical agriculture: avoiding rapid increases in nitrous oxide fluxes from agricultural intensification in Kenya. J. Geophys. Res. Biogeosci. 120, 938\u2013951 (2015)",
+      "journal-title": "J. Geophys. Res. Biogeosci."
+    },
+    {
+      "key": "BFnature15743_CR69",
+      "doi-asserted-by": "crossref",
+      "first-page": "370",
+      "DOI": "10.1016/j.cosust.2011.08.001",
+      "volume": "3",
+      "author": "JE Hickman",
+      "year": "2011",
+      "unstructured": "Hickman, J. E., Havlikova, M., Kroeze, C. & Palm, C. A. Current and future nitrous oxide emissions from African agriculture. Curr. Opin. Environ. Sust. 3, 370\u2013378 (2011)",
+      "journal-title": "Curr. Opin. Environ. Sust."
+    },
+    {
+      "key": "BFnature15743_CR70",
+      "doi-asserted-by": "crossref",
+      "first-page": "105009",
+      "DOI": "10.1088/1748-9326/9/10/105009",
+      "volume": "9",
+      "author": "M Zhou",
+      "year": "2014",
+      "unstructured": "Zhou, M. et al. Regional nitrogen budget of the Lake Victoria Basin, East Africa: syntheses, uncertainties and perspectives. Environ. Res. Lett. 9, 105009 (2014)",
+      "journal-title": "Environ. Res. Lett."
+    },
+    {
+      "key": "BFnature15743_CR71",
+      "doi-asserted-by": "crossref",
+      "first-page": "547",
+      "DOI": "10.1111/agec.12073",
+      "volume": "44",
+      "author": "TS Jayne",
+      "year": "2013",
+      "unstructured": "Jayne, T. S. & Rashid, S. Input subsidy programs in sub-Saharan Africa: a synthesis of recent evidence. Agric. Econ. 44, 547\u2013562 (2013)",
+      "journal-title": "Agric. Econ."
+    },
+    {
+      "key": "BFnature15743_CR72",
+      "doi-asserted-by": "crossref",
+      "first-page": "025001",
+      "DOI": "10.1088/1748-9326/10/2/025001",
+      "volume": "10",
+      "author": "G Billen",
+      "year": "2015",
+      "unstructured": "Billen, G., Lassaletta, L. & Garnier, J. A vast range of opportunities for feeding the world in 2050: trade-off between diet, N contamination and international trade. Environ. Res. Lett. 10, 025001 (2015)",
+      "journal-title": "Environ. Res. Lett."
+    },
+    {
+      "key": "BFnature15743_CR73",
+      "unstructured": "Heffer, P. Assessment of Fertilizer Use by Crop at the Global Level 2010\u20132010/11. http://www.fertilizer.org/En/Statistics/Agriculture_Committee_Databases.aspx (International Fertilizer Industry Association, 2013)"
+    },
+    {
+      "key": "BFnature15743_CR74",
+      "doi-asserted-by": "crossref",
+      "first-page": "73",
+      "DOI": "10.1007/s10705-008-9201-3",
+      "volume": "83",
+      "author": "W-M Shi",
+      "year": "2009",
+      "unstructured": "Shi, W.-M., Yao, J. & Yan, F. Vegetable cultivation under greenhouse conditions leads to rapid accumulation of nutrients, acidification and salinity of soils and groundwater contamination in South-Eastern China. Nutr. Cycl. Agroecosyst. 83, 73\u201384 (2009)",
+      "journal-title": "Nutr. Cycl. Agroecosyst."
+    },
+    {
+      "key": "BFnature15743_CR75",
+      "doi-asserted-by": "crossref",
+      "first-page": "3041",
+      "DOI": "10.1073/pnas.0813417106",
+      "volume": "106",
+      "author": "X-T Ju",
+      "year": "2009",
+      "unstructured": "Ju, X.-T. et al. Reducing environmental risk by improving N management in intensive Chinese agricultural systems. Proc. Natl Acad. Sci. USA 106, 3041\u20133046 (2009)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature15743_CR76",
+      "doi-asserted-by": "crossref",
+      "first-page": "262",
+      "DOI": "10.1038/24376",
+      "volume": "396",
+      "author": "LE Drinkwater",
+      "year": "1998",
+      "unstructured": "Drinkwater, L. E., Wagoner, P. & Sarrantonio, M. Legume-based cropping systems have reduced carbon and nitrogen losses. Nature 396, 262\u2013265 (1998)",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "BFnature15743_CR77",
+      "unstructured": "Searchinger, T. et al. Creating a Sustainable Food Future: a Menu of Solutions to Sustainably Feed more than 9 billion people by 2050. World Resources Report 2013-14, Interim Findings (World Resources Institute, 2013)"
+    },
+    {
+      "key": "BFnature15743_CR78",
+      "doi-asserted-by": "crossref",
+      "first-page": "3858",
+      "DOI": "10.1038/ncomms4858",
+      "volume": "5",
+      "author": "BL Bodirsky",
+      "year": "2014",
+      "unstructured": "Bodirsky, B. L. et al. Reactive nitrogen requirements to feed the world in 2050 and potential to mitigate nitrogen pollution. Nature Commun. 5, 3858 (2014)",
+      "journal-title": "Nature Commun."
+    },
+    {
+      "key": "BFnature15743_CR79",
+      "doi-asserted-by": "crossref",
+      "first-page": "20260",
+      "DOI": "10.1073/pnas.1116437108",
+      "volume": "108",
+      "author": "D Tilman",
+      "year": "2011",
+      "unstructured": "Tilman, D., Balzer, C., Hill, J. & Befort, B. L. Global food demand and the sustainable intensification of agriculture. Proc. Natl Acad. Sci. USA 108, 20260\u201320264 (2011)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature15743_CR80",
+      "first-page": "392",
+      "volume": "5",
+      "author": "W de Vries",
+      "year": "2013",
+      "unstructured": "de Vries, W., Kros, J., Kroeze, C. & Seitzinger, S. P. Assessing planetary and regional nitrogen boundaries related to food security and adverse environmental impacts. Curr. Opin. Environ. Sustain. 5, 392\u2013402 (2013)",
+      "journal-title": "Sustain."
+    },
+    {
+      "key": "BFnature15743_CR81",
+      "unstructured": "Nakicenovic, N. & Swart, R. (eds) IPCC Special Report on Emissions Scenarios (Cambridge Univ. Press, 2000)"
+    },
+    {
+      "key": "BFnature15743_CR82",
+      "doi-asserted-by": "crossref",
+      "first-page": "358",
+      "DOI": "10.1016/j.biosystemseng.2012.08.009",
+      "volume": "114",
+      "author": "DJ Mulla",
+      "year": "2013",
+      "unstructured": "Mulla, D. J. Twenty five years of remote sensing in precision agriculture: key advances and remaining knowledge gaps. Biosystems Eng. 114, 358\u2013371 (2013)",
+      "journal-title": "Biosystems Eng."
+    },
+    {
+      "key": "BFnature15743_CR83",
+      "doi-asserted-by": "crossref",
+      "first-page": "368",
+      "DOI": "10.2134/jeq2014.01.0036",
+      "volume": "44",
+      "author": "MB David",
+      "year": "2014",
+      "unstructured": "David, M. B. et al. Navigating the socio-bio-geo-chemistry and engineering of nitrogen management in two Illinois tile-drained watersheds. J. Environ. Qual. 44, 368\u2013381 (2014)",
+      "journal-title": "J. Environ. Qual."
+    },
+    {
+      "key": "BFnature15743_CR84",
+      "doi-asserted-by": "crossref",
+      "first-page": "391",
+      "DOI": "10.2134/jeq2014.02.0089",
+      "volume": "44",
+      "author": "C Weber",
+      "year": "2014",
+      "unstructured": "Weber, C. & McCann, L. Adoption of nitrogen-efficient technologies by US corn farmers. J. Environ. Qual. 44, 391\u2013410 (2014)",
+      "journal-title": "J. Environ. Qual."
+    },
+    {
+      "key": "BFnature15743_CR85",
+      "doi-asserted-by": "crossref",
+      "first-page": "217",
+      "DOI": "10.1016/j.envsci.2010.03.007",
+      "volume": "13",
+      "author": "J Powell",
+      "year": "2010",
+      "unstructured": "Powell, J., Gourley, C., Rotz, C. & Weaver, D. Nitrogen use efficiency: a potential performance indicator and policy tool for dairy farms. Environ. Sci. Policy 13, 217\u2013228 (2010)",
+      "journal-title": "Environ. Sci. Policy"
+    },
+    {
+      "key": "BFnature15743_CR86",
+      "doi-asserted-by": "crossref",
+      "first-page": "336",
+      "DOI": "10.2134/jeq2014.07.0299",
+      "volume": "44",
+      "author": "J Powell",
+      "year": "2015",
+      "unstructured": "Powell, J. & Rotz, C. Measures of nitrogen use efficiency and nitrogen loss from dairy production systems. J. Environ. Qual. 44, 336\u2013344 (2015)",
+      "journal-title": "J. Environ. Qual."
+    },
+    {
+      "key": "BFnature15743_CR87",
+      "doi-asserted-by": "crossref",
+      "first-page": "3086",
+      "DOI": "10.1073/pnas.1010808108",
+      "volume": "108",
+      "author": "GK MacDonald",
+      "year": "2011",
+      "unstructured": "MacDonald, G. K., Bennett, E. M., Potter, P. A. & Ramankutty, N. Agronomic phosphorus imbalances across the world\u2019s croplands. Proc. Natl Acad. Sci. USA 108, 3086\u20133091 (2011)",
+      "journal-title": "Proc. Natl Acad. Sci. USA"
+    },
+    {
+      "key": "BFnature15743_CR88",
+      "doi-asserted-by": "crossref",
+      "first-page": "1904",
+      "DOI": "10.1111/j.1365-2486.2012.02653.x",
+      "volume": "18",
+      "author": "GK MacDonald",
+      "year": "2012",
+      "unstructured": "MacDonald, G. K., Bennett, E. M. & Taranu, Z. E. The influence of time, soil characteristics, and land-use history on soil phosphorus legacies: a global meta-analysis. Glob. Change Biol. 18, 1904\u20131917 (2012)",
+      "journal-title": "Glob. Change Biol."
+    },
+    {
+      "key": "BFnature15743_CR89",
+      "doi-asserted-by": "crossref",
+      "first-page": "292",
+      "DOI": "10.1016/j.gloenvcha.2008.10.009",
+      "volume": "19",
+      "author": "D Cordell",
+      "year": "2009",
+      "unstructured": "Cordell, D., Drangert, J.-O. & White, S. The story of phosphorus: global food security and food for thought. Glob. Environ. Change 19, 292\u2013305 (2009)",
+      "journal-title": "Glob. Environ. Change"
+    },
+    {
+      "key": "BFnature15743_CR90",
+      "doi-asserted-by": "crossref",
+      "first-page": "1255",
+      "DOI": "10.1016/j.scitotenv.2013.08.061",
+      "volume": "468\u2013469",
+      "author": "O Schoumans",
+      "year": "2014",
+      "unstructured": "Schoumans, O. et al. Mitigation options to reduce phosphorus losses from the agricultural sector and improve surface water quality: a review. Sci. Total Environ. 468\u2013469, 1255\u20131266 (2014)",
+      "journal-title": "Sci. Total Environ."
+    },
+    {
+      "key": "BFnature15743_CR91",
+      "doi-asserted-by": "crossref",
+      "first-page": "478",
+      "DOI": "10.1080/10643380801910017",
+      "volume": "39",
+      "author": "CJ Stevens",
+      "year": "2009",
+      "unstructured": "Stevens, C. J. & Quinton, J. N. Diffuse pollution swapping in arable agricultural systems. Crit. Rev. Environ. Sci. Technol. 39, 478\u2013520 (2009)",
+      "journal-title": "Crit. Rev. Environ. Sci. Technol."
+    }
+  ],
+  "container-title": [
+    "Nature"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://www.nature.com/articles/nature15743.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://www.nature.com/articles/nature15743",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://www.nature.com/articles/nature15743.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        18
+      ]
+    ],
+    "date-time": "2023-05-18T13:46:54Z",
+    "timestamp": 1684417614000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/nature15743"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        11,
+        23
+      ]
+    ]
+  },
+  "references-count": 91,
+  "journal-issue": {
+    "issue": "7580",
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "BFnature15743"
+  ],
+  "URL": "https://doi.org/10.1038/nature15743",
+  "relation": {},
+  "ISSN": [
+    "0028-0836",
+    "1476-4687"
+  ],
+  "issn-type": [
+    {
+      "value": "0028-0836",
+      "type": "print"
+    },
+    {
+      "value": "1476-4687",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2015,
+        11,
+        23
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "5 February 2015",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "10 September 2015",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "23 November 2015",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "2 December 2015",
+      "order": 4,
+      "name": "change_date",
+      "label": "Change Date",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "Correction",
+      "order": 5,
+      "name": "change_type",
+      "label": "Change Type",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "Minor changes were made to refs 20, 23, 25, 38, 61 and 81.",
+      "order": 6,
+      "name": "change_details",
+      "label": "Change Details",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing financial interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ]
+}

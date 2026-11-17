@@ -1,0 +1,15 @@
+{
+  "TRAIN_only": true,
+  "percentile": 0.99,
+  "scope": "observed context only; not a calibrated safety guarantee",
+  "files": {
+    "models/phase8-v8/Full-Telemetry-observable-ood.joblib": {
+      "sha256": "f8986bf843c495f7c42eb253916f6c4a6c1a5905bca66ae514e269de0c966d04",
+      "threshold": 70.59271715845125
+    },
+    "models/phase8-v8/Sensorless-observable-ood.joblib": {
+      "sha256": "a7334c2654f7ad9a69949e3e805f863d295e28a201c53386c8b8a8d3087743bf",
+      "threshold": 59.53825611496485
+    }
+  }
+}

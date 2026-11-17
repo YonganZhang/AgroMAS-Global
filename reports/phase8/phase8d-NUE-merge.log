@@ -1,0 +1,21 @@
+Updating c3f5d3d..c242b6d
+Fast-forward
+ pcse_gym/agromas_v8/climate.py              |  9 +++--
+ pcse_gym/agromas_v8/decoding.py             | 49 ++++++++++++++++++++++++
+ pcse_gym/agromas_v8/joint_model.py          | 27 +++++++++++---
+ pcse_gym/agromas_v8/offline_verification.py | 46 +++++++++++++++++++++++
+ pcse_gym/agromas_v8/online_features.py      | 20 +++++++++-
+ pcse_gym/agromas_v8/planning.py             | 17 +++++----
+ pcse_gym/agromas_v8/prior_adapter.py        | 52 ++++++++++++++++++++++++--
+ pcse_gym/agromas_v8/scoring.py              | 28 ++++++++++++++
+ pcse_gym/agromas_v8/trajectory_cache.py     | 31 +++++++++++++--
+ pcse_gym/agromas_v8/tree_weather.py         |  4 +-
+ tests/phase8/test_composite_scoring.py      |  6 +--
+ tests/phase8/test_trajectory_cache.py       | 16 ++++++++
+ tests/phase8d/test_root_causes.py           | 58 +++++++++++++++++++++++++++++
+ tests/test_phase8_planning.py               |  6 +--
+ tests/test_phase8_prior_adapter.py          |  4 +-
+ 15 files changed, 340 insertions(+), 33 deletions(-)
+ create mode 100644 pcse_gym/agromas_v8/decoding.py
+ create mode 100644 pcse_gym/agromas_v8/offline_verification.py
+ create mode 100644 tests/phase8d/test_root_causes.py

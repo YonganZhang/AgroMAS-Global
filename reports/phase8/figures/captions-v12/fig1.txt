@@ -1,0 +1,2 @@
+Architecture of AgroMAS-Global linking five specialized numerical modules with an external mechanistic referee. The spatial twin, climate forecast, urban eco-safety, socio-economic policy and core agronomic modules exchange public histories and scenario weights while remaining isolated from hidden soil pools.
+AgroMAS-Global五专职数值模块与外部机理裁判协同架构图。地空孪生、气候预测、城市生态安全、社会经济政策与核心农艺模块仅交换公开观测和方案分布，与隐藏土壤库保持严格隔离。

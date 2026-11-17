@@ -1,0 +1,17 @@
+{
+  "root_merge": "168e15be6f68fa4af24ba3251807444a1cd62515",
+  "feature_tip": "b2ae0e4c68c7bde628016a042122149c404b224d",
+  "canonical_PRIMARY_TOP_kept_byte_exact": true,
+  "TOP_before": {
+    "_wiki-methodology/_top/_questions/Q8.md": "d160d66fdde78834dd8fe248f7516647ec44b84be645a21cda6a5c695acbb8e9",
+    "_wiki-methodology/_top/_task_plan.md": "4b39d886ac1cb374ade066fb9063a5272472a88d27b79015c17756ed6fbc76cb",
+    "_wiki-methodology/_top/_logs/2026-11-15-plan.md": "e23faf8dbb20bdf2ee242d48465c8ed3bed3fa9f8a7a8fd8f833b76438e3b413"
+  },
+  "TOP_after": {
+    "_wiki-methodology/_top/_questions/Q8.md": "d160d66fdde78834dd8fe248f7516647ec44b84be645a21cda6a5c695acbb8e9",
+    "_wiki-methodology/_top/_task_plan.md": "4b39d886ac1cb374ade066fb9063a5272472a88d27b79015c17756ed6fbc76cb",
+    "_wiki-methodology/_top/_logs/2026-11-15-plan.md": "e23faf8dbb20bdf2ee242d48465c8ed3bed3fa9f8a7a8fd8f833b76438e3b413"
+  },
+  "NUE_commit": "0354e3c6e53af2b5dc5fd32a40c53d2d16be840e",
+  "PCSE_commit": "d1fe6d29de828033b850ec51d994988d8d6d406f"
+}

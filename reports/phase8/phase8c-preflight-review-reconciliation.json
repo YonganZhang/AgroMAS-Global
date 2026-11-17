@@ -1,0 +1,38 @@
+{
+  "review_job": "20261116T053239__deepseek__2483861",
+  "actual_model": "deepseek-flash/high",
+  "completion": "COMPLETE",
+  "provider_exit_code": 0,
+  "error_class": "NONE",
+  "findings": [
+    {
+      "severity": "high",
+      "issue": "P1/G3 world base inherited subsidy50 from last archived case",
+      "resolution": "Normalize every base to cap40/price1/sub0/tax0; freeze new v2, preserve v1 unchanged; independent specification guards added",
+      "validated_standard_P1_cases": 924,
+      "validated_worlds": 66,
+      "old_design_native_executions": 0
+    },
+    {
+      "severity": "low",
+      "issue": "Unused native NL helper climate/tax defaults",
+      "resolution": "Deferred because no new campaign configuration invokes this helper; all active routes propagate climate/tax. Existing scientific reference archive remains unchanged."
+    },
+    {
+      "severity": "low",
+      "issue": "213pass log predates added climate test",
+      "resolution": "Final preflight214passed;design-v2 regression adds3contract guards; new log and receipt retained"
+    }
+  ],
+  "new_design": {
+    "version": 2,
+    "total": 18268,
+    "new_native": 17549,
+    "reused": 719,
+    "path": "reports/phase8/phase8c-frozen-cases-v2.json",
+    "sha256": "5cbf3009ff7344cd04b4a4e48767ab001818bca7b6876aa3cff8a199658b4b54"
+  },
+  "no_new_model_fits": true,
+  "no_test_outcome_tuning": true,
+  "final_independent_council_still_required": true
+}

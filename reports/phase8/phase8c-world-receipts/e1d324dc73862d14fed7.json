@@ -1,0 +1,50 @@
+{
+  "world": [
+    "netherlands_lelystad",
+    2018,
+    "Historical",
+    "WUR"
+  ],
+  "native_simulations": 4,
+  "unique_executed_trajectories": 4,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        100.0,
+        40.0,
+        80.0
+      ],
+      "sha256": "664e0c93ecf939fa6ce00b32c2e5b575281913b0f32c4fea7e7f9795fe950654"
+    },
+    {
+      "doses": [
+        100.0,
+        20.0,
+        100.0
+      ],
+      "sha256": "05ea7bfcf473880e4177eb821cf24b833cdcafb2333aea70182e337b1420e25f"
+    },
+    {
+      "doses": [
+        80.0,
+        80.0,
+        60.0
+      ],
+      "sha256": "de9de94d169194cfe8b9e87f52d569b42eeb47eccac1287a15db4b8dba0d5bed"
+    },
+    {
+      "doses": [
+        100.0,
+        100.0,
+        20.0
+      ],
+      "sha256": "fa19cfad0099742766e7c01c3eab05822e2b825e0ca3beba1581fd9672104f13"
+    }
+  ],
+  "complete_requested_paths": 4,
+  "cases_replayed": 3,
+  "public_prefix_nodes": 7,
+  "prefix_decisions_replayed": 14,
+  "worker": 0,
+  "cases": 7
+}

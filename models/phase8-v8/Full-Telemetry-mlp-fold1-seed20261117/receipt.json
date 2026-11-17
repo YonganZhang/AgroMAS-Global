@@ -1,0 +1,21 @@
+{
+  "key": "Full-Telemetry-mlp-fold1-seed20261117",
+  "track": "Full-Telemetry",
+  "architecture": "mlp",
+  "fold": 1,
+  "seed": 20261117,
+  "n_fit": 142344,
+  "n_validation": 35586,
+  "parameters": 13155,
+  "epochs": 80,
+  "global_steps": 5600,
+  "elapsed_seconds": 25.503939766902477,
+  "cuda_device": "NVIDIA GeForce RTX 5080",
+  "torch": "2.10.0+cu128",
+  "lightning": "2.6.5",
+  "weight_path": "models/phase8-v8/Full-Telemetry-mlp-fold1-seed20261117/model.pt",
+  "weight_sha256": "a30f8e6fffccc3deb9479b87e68d909cb99445f8b657800402652b5d86c40653",
+  "prediction_path": "cache/phase8-train-arrays/Full-Telemetry-mlp-fold1-seed20261117-pred.npy",
+  "validation_role": "outer_TRAIN_OOF",
+  "Dev_used": false
+}

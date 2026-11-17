@@ -1,0 +1,4 @@
+DISPATCHED: gemini=gemini-4-carbon-high (why: Explicit provider/model selection), deepseek=deepseek-flash/high (why: MONETARY_BALANCE; selection: Explicit provider/model selection); tier=gate
+Roster: gemini=gemini-4-carbon-high@alt, deepseek=deepseek-flash; quorum=2
+DISPATCHED: gemini=gemini-4-carbon-high (planned; serving unverified) [FAILED] (why: Explicit provider/model selection; Explicit provider/model selection; FAILED), deepseek=deepseek-flash/high [COMPLETE] (why: MONETARY_BALANCE; selection: Explicit provider/model selection); tier=gate
+DISPATCHED: gemini=gemini-4-carbon-high (planned; serving unverified) [FAILED] (why: Explicit provider/model selection; Explicit provider/model selection; FAILED), deepseek=deepseek-flash/high [COMPLETE] (why: MONETARY_BALANCE; selection: Explicit provider/model selection); tier=gate

@@ -1,0 +1,78 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Berghuijs et~al.(2024)Berghuijs, Silva, Reidsma, and
+  de~Wit]{berghuijs2024}
+Herman~N.C. Berghuijs, João~Vasco Silva, Pytrik Reidsma, and Allard~J.W.
+  de~Wit.
+\newblock Expanding the wofost crop model to explore options for sustainable
+  nitrogen management: A study for winter wheat in the netherlands.
+\newblock \emph{European Journal of Agronomy}, 154:\penalty0 127099, 2024.
+\newblock \doi{10.1016/j.eja.2024.127099}.
+\newblock URL \url{https://doi.org/10.1016/j.eja.2024.127099}.
+
+\bibitem[Brown et~al.(2025)Brown, Kazmierski, Pasquarella, et~al.]{brown2025}
+C.~F. Brown, M.~R. Kazmierski, V.~J. Pasquarella, et~al.
+\newblock Alphaearth foundations: An embedding field model for accurate and
+  efficient global mapping from sparse label data, 2025.
+\newblock URL \url{https://arxiv.org/abs/2507.22291}.
+
+\bibitem[Cawley and Talbot(2010)]{cawley2010}
+Gavin~C. Cawley and Nicola L.~C. Talbot.
+\newblock On over-fitting in model selection and subsequent selection bias in
+  performance evaluation.
+\newblock \emph{Journal of Machine Learning Research}, 11:\penalty0 2079--2107,
+  2010.
+\newblock URL \url{https://jmlr.org/papers/v11/cawley10a.html}.
+
+\bibitem[de~Wit et~al.(2019)de~Wit, Boogaard, Fumagalli, Janssen, Knapen, van
+  Kraalingen, Supit, van~der Wijngaart, and van Diepen]{dewit2019}
+Allard de~Wit, Hendrik Boogaard, Davide Fumagalli, Sander Janssen, Rob Knapen,
+  Daniel van Kraalingen, Iwan Supit, Raymond van~der Wijngaart, and Kees van
+  Diepen.
+\newblock 25 years of the wofost cropping systems model.
+\newblock \emph{Agricultural Systems}, 168:\penalty0 154--167, 2019.
+\newblock \doi{10.1016/j.agsy.2018.06.018}.
+\newblock URL \url{https://doi.org/10.1016/j.agsy.2018.06.018}.
+
+\bibitem[{EU Nitrogen Expert Panel}(2015)]{eunep2015}
+{EU Nitrogen Expert Panel}.
+\newblock Nitrogen use efficiency: An indicator for the utilization of nitrogen
+  in agriculture and food systems.
+\newblock Technical report, Wageningen University, 2015.
+\newblock URL
+  \url{https://www.eunep.com/wp-content/uploads/2023/12/Report-NUE-Indicator-Nitrogen-Expert-Panel-18-12-2015.pdf}.
+
+\bibitem[Holm(1979)]{holm1979}
+Sture Holm.
+\newblock A simple sequentially rejective multiple test procedure.
+\newblock \emph{Scandinavian Journal of Statistics}, 6:\penalty0 65--70, 1979.
+\newblock URL \url{https://www.jstor.org/stable/4615733}.
+
+\bibitem[Roberts et~al.(2017)Roberts, Bahn, Ciuti, Boyce, Elith,
+  Guillera-Arroita, Hauenstein, Lahoz-Monfort, Schröder, Thuiller, Warton,
+  Wintle, Hartig, and Dormann]{roberts2017}
+David~R. Roberts, Volker Bahn, Simone Ciuti, Mark~S. Boyce, Jane Elith,
+  Gurutzeta Guillera-Arroita, Severin Hauenstein, José~J. Lahoz-Monfort, Boris
+  Schröder, Wilfried Thuiller, David~I. Warton, Brendan~A. Wintle, Florian
+  Hartig, and Carsten~F. Dormann.
+\newblock Cross-validation strategies for data with temporal, spatial,
+  hierarchical, or phylogenetic structure.
+\newblock \emph{Ecography}, 40\penalty0 (8):\penalty0 913--929, 2017.
+\newblock \doi{10.1111/ecog.02881}.
+\newblock URL \url{https://doi.org/10.1111/ecog.02881}.
+
+\bibitem[Zhang et~al.(2015)Zhang, Davidson, Mauzerall, Searchinger, Dumas, and
+  Shen]{zhang2015}
+Xin Zhang, Eric~A. Davidson, Denise~L. Mauzerall, Timothy~D. Searchinger,
+  Patrice Dumas, and Ye~Shen.
+\newblock Managing nitrogen for sustainable development.
+\newblock \emph{Nature}, 528\penalty0 (7580):\penalty0 51--59, 2015.
+\newblock \doi{10.1038/nature15743}.
+\newblock URL \url{https://doi.org/10.1038/nature15743}.
+
+\end{thebibliography}

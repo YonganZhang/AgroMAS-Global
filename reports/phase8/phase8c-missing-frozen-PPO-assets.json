@@ -1,0 +1,77 @@
+{
+  "status": "blocked_before_campaign_seal",
+  "missing_frozen_assets": [
+    {
+      "path": "models/phase8-controls/PPO-Sensorless-seed29/model.zip",
+      "expected_sha256": "66f90f27cd9aa8ee7fce5813d7d3b5eb6b9b35bde3ea4fe0707e4b68e97ad924",
+      "primary_exists": false,
+      "worktree_exists": false
+    },
+    {
+      "path": "models/phase8-controls/PPO-Sensorless-seed17/model.zip",
+      "expected_sha256": "e56ed8fb1637a52976c219133013e1a781681faa5cd997f0566a1866c50e3e5f",
+      "primary_exists": false,
+      "worktree_exists": false
+    },
+    {
+      "path": "models/phase8-controls/PPO-Sensorless-seed4/model.zip",
+      "expected_sha256": "9a7084fe9457229e8db97cf9c10ae4d44ab2c9a239a61d233288ef8d150b8c98",
+      "primary_exists": false,
+      "worktree_exists": false
+    }
+  ],
+  "registered_model_assets": 98,
+  "native_campaign_started": false,
+  "phase8c_locked_case_executions": 0,
+  "TRAIN_integration_runs": 3,
+  "canonical_tests": {
+    "passed": 217,
+    "failed": 0,
+    "skipped": 0
+  },
+  "future_weather_checks": {
+    "soft": 60,
+    "hard_composite": 60,
+    "all_passed": true
+  },
+  "git_object_recovery": {
+    "git_fsck_exit_code": 0,
+    "unreachable_blobs": 9,
+    "candidate_blobs": 0,
+    "found": [],
+    "expected": 3,
+    "raw_nonmatching_blobs_not_disclosed": true
+  },
+  "search": {
+    "primary_models_cache_worktrees": "completed targeted scan; no Sensorless model.zip",
+    "tracked_git_history": "no Sensorless model.zip objects by path",
+    "unreachable_git_blobs": "9blobs;0in model-sized range;0matching original hashes",
+    "project_wide_zip_search": "bounded broader scan stopped after approximately180seconds;no matches;not an exhaustive filesystem proof",
+    "backups": "no matching project artifact paths found in available backup index scan"
+  },
+  "likely_cause": "Previous Phase8B promotion script moved data/cache/ExtraTrees binaries but did not include ignored SensorlessPPO model.zip;old worktree was then removed. This is a supported inference,not recovered deletion telemetry.",
+  "preservation": "All2017scored season bytes,1782legacy,242Phase7,2188tracked evidence/source andQ1-Q7/v1 unchanged. These manifests did not cover the three ignored Phase8B policy archives.",
+  "restoration_boundary": "Do not invent original model files,relax registered hashes,retrain under old names,or omit PPO baseline silently.",
+  "proposed_rebuild": {
+    "authorization_required": true,
+    "TRAIN_only": true,
+    "seed_list": [
+      4,
+      17,
+      29
+    ],
+    "fixed_timesteps_per_seed": 151552,
+    "original_script": "scripts/phase8-train-sensorless-ppo.py",
+    "runtime": "preserved phase8b-venv Torch2.10.0+cu128; original device=cpu",
+    "hyperparameter_changes": 0,
+    "checkpoint_selection": "final fixed budget; no Dev or evaluation selection",
+    "output": "models/phase8c-controls/ppo-sensorless-reconstructed-seed{seed}/",
+    "validate": "compare TRAIN curve and normalizer hashes where possible; never claim original zip SHA recovered",
+    "new_design": "v3 explicitly version reconstructed PPO;remove198oldPPOepisode reuse entries;allPPOcases evaluated with newly frozen checkpoints",
+    "expected_case_total": 18268,
+    "expected_reused": 521,
+    "expected_new_cases": 17747
+  },
+  "acceleration_directive": "Attempt31 authorizes16world-partitioned workers and exact native trajectory/prefix caching,with equivalence against run_episode;not implemented yet because the frozen-policy artifact blocker was found first.",
+  "nue_feature_commit": "e1f5626d1b7f0d758782f7a84fc179dd55322107"
+}

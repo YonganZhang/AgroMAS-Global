@@ -1,0 +1,84 @@
+{
+  "status": "complete",
+  "root_code_commit": "f7a55728772176002e16fab4367e9757895ecb90",
+  "NUE_main_commit": "c3f5d3d481b32268051d77c02364eed7fdff1f28",
+  "PCSE_readonly_commit": "d1fe6d29de828033b850ec51d994988d8d6d406f",
+  "campaign": {
+    "configurations": 18268,
+    "new": 17747,
+    "reused": 521,
+    "worlds": 170,
+    "workers_passed": 16,
+    "unique_native_trajectories": 1917,
+    "exact_cache_hits": 15830
+  },
+  "statistics": {
+    "summary_groups": 367,
+    "Holm_contrasts": 13512,
+    "bootstrap_draws": 5000,
+    "factorial_cells": 180,
+    "continuity_cells": 90
+  },
+  "validation": {
+    "primary_tests_passed": 223,
+    "failed": 0,
+    "skipped": 0,
+    "future_weather_checks": 120,
+    "daily_record_scope": {
+      "scored_case_configurations": 17747,
+      "daily_records": 5928274,
+      "all_passed": true,
+      "max_N": 1.9269918993813917e-11,
+      "max_C": 2.1145751816220582e-10
+    },
+    "unique_physical_daily_states": 652512
+  },
+  "promotion": {
+    "status": "passed",
+    "files_verified": 66623,
+    "inventory_sha256": "527d60f72aa1fb8f416563e043b9f7c0392b5a3707f0fd5d053510293a58b2e1",
+    "all_file_SHA256_match": true,
+    "all_link_targets_match": true,
+    "archived_result_links_verified": 521,
+    "no_link_points_to_removed_source": true,
+    "committed_code_ancestry_verified": true,
+    "private_permissions_verified": true,
+    "frozen_dependencies_verified": 153,
+    "frozen_cache_files_archived_separately": 18
+  },
+  "cleanup": {
+    "worktree_removed": "/mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8c",
+    "root_feature_branch_removed": true,
+    "NUE_feature_branch_removed": true,
+    "all521links_resolve_after_cleanup": true
+  },
+  "external_reviews": {
+    "actual_models": [
+      "gemini-4-carbon-high",
+      "deepseek-flash/high"
+    ],
+    "technical_rounds": 2,
+    "visual_rounds": 2,
+    "scientific_and_promotion_findings_resolved": true,
+    "last_snapshot_findings": "Figure4 duplicate titles and omitted runtime dependency; corrected with actual-PDF single-title check and full153file primary verification",
+    "no_third_external_clean_pass_claimed": true
+  },
+  "deliverables": {
+    "english": "manuscript/phase8/en.pdf",
+    "chinese": "manuscript/phase8/zh.pdf",
+    "supplement": "manuscript/phase8/supplement.pdf",
+    "editable_figure": "reports/phase8/figures/fig1-architecture.pptx",
+    "report": "reports/phase8/PHASE8_TOP_JOURNAL_REPORT.md"
+  },
+  "plan": {
+    "Q8_4": "Completed through official CLI",
+    "Q8_5": "Final cleanup registration closes next;preserves prior completed-attempt history"
+  },
+  "limitations": [
+    "Simulator-based adaptive reuse;not field or prospective assurance",
+    "Historical Soft-Coupled/PPO difference CI crosses zero;no universal win",
+    "Full64 LORO prior rejected100%;not whole-system zero-shot transfer",
+    "Original PPO ZIP containers not recovered;versioned reconstructions reproduce198archivedepisodes exactly",
+    "Final localized visual fixes verified programmatically;no third external clean visual pass"
+  ]
+}

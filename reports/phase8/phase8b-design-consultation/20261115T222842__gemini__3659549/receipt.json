@@ -1,0 +1,10 @@
+{
+  "job_id": "20261115T222842__gemini__3659549",
+  "status": "COMPLETE",
+  "provider_exit_code": 0,
+  "requested_model": "gemini-4-carbon-high",
+  "served_model": "gemini-4-carbon-high",
+  "served_model_verified": true,
+  "result_sha256": "f482d8b7602d67df1de9e9a7726170bd86ee77118316ee54308bb8c964612e9d",
+  "scope": "design consultation, not implementation/result gate"
+}

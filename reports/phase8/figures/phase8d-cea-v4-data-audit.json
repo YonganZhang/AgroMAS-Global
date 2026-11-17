@@ -1,0 +1,70 @@
+{
+  "matched_climate_n": 31,
+  "matched_region_equal_pct": {
+    "joint_p": 19.39393939393939,
+    "joint_r": 17.57575757575757
+  },
+  "matched_pooled_pct": {
+    "joint_p": 29.03225806451613,
+    "joint_r": 25.806451612903224
+  },
+  "Full_cap50_record_count": 0,
+  "Full_cap50_display": "Not evaluated, OptionA confirmed by leader",
+  "heatmap_shape": [
+    10,
+    5
+  ],
+  "required_positive_cells": 30,
+  "minimum_required_R2": 0.005571150874843278,
+  "negative_exploratory_cells": 6,
+  "geometry": {
+    "fig2-g1": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "fig2-p1-regimes": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "figs2-g3-subsidy": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "fig3-p2-transfer": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "fig4-factorial-stress": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    },
+    "fig5-deployment-closure": {
+      "overlapping_text_spans_over_20pct": 0,
+      "out_of_page_spans": 0,
+      "dpi": [
+        450.0118,
+        450.0118
+      ]
+    }
+  }
+}

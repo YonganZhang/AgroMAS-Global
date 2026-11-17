@@ -1,0 +1,46 @@
+{
+  "records": [
+    {
+      "variant": "Full64",
+      "private_tool_loaded": true,
+      "TRAIN_fixture_only": true,
+      "prior_future_rejected": true,
+      "dose": 0.0,
+      "radius": -1.2525981458227307
+    },
+    {
+      "variant": "Static3",
+      "private_tool_loaded": true,
+      "TRAIN_fixture_only": true,
+      "prior_future_rejected": false,
+      "dose": 0.0,
+      "radius": -3.1071789228584805
+    },
+    {
+      "variant": "Weather",
+      "private_tool_loaded": true,
+      "TRAIN_fixture_only": true,
+      "prior_future_rejected": false,
+      "dose": 0.0,
+      "radius": -12.645718154437532
+    },
+    {
+      "variant": "Linear64",
+      "private_tool_loaded": true,
+      "TRAIN_fixture_only": true,
+      "prior_future_rejected": true,
+      "dose": 0.0,
+      "radius": 16.370704976574437
+    },
+    {
+      "variant": "ExtraTrees64",
+      "private_tool_loaded": true,
+      "TRAIN_fixture_only": true,
+      "prior_future_rejected": true,
+      "dose": 0.0,
+      "radius": 10.755328049497308
+    }
+  ],
+  "native_runs": 0,
+  "outer_label_scoring": false
+}

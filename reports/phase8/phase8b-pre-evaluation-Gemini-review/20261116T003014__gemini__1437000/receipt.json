@@ -1,0 +1,15 @@
+{
+  "job_id": "20261116T003014__gemini__1437000",
+  "provider": "gemini",
+  "CLI_model": "gemini-4-carbon-high",
+  "process_exit_code": 0,
+  "review_complete": true,
+  "error_class": "NONE",
+  "actual_event_evidence": [
+    "2026-11-16T00:49:45+08:00\t1171\tgemini\tmodel_attempt_ok\tmodel=gemini-4-carbon-high rc=0",
+    "2026-11-16T00:49:45+08:00\t1171\tgemini\tmodel_end\trc=0",
+    "2026-11-16T00:49:45+08:00\t1171\tgemini\tcomplete_marker_found\tresult.md complete"
+  ],
+  "findings_present": true,
+  "postfix_external_pass_claimed": false
+}

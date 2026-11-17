@@ -1,0 +1,452 @@
+{
+  "source": "fig1-candidates/candidate-e.png",
+  "executor": "Codex; Claude authoring unavailable; explicit latest instruction prohibits further Claude calls",
+  "native_text_boxes": 44,
+  "native_shapes": 93,
+  "bounds_passed": true,
+  "minimum_font_pt": 13,
+  "scientific_connector_corrections": true,
+  "limitation": "Editable geometric reconstruction preserves five-specialist/referee macro-layout; Original wheat/soil/tractor crops retained; text and simple schematics are native editable. Not author-final approved.",
+  "text_objects": [
+    {
+      "text": "Weather",
+      "bounds": [
+        1.17,
+        0.48000000000000004,
+        1.76,
+        0.4
+      ],
+      "font": 20
+    },
+    {
+      "text": "Observed public prefix",
+      "bounds": [
+        1.17,
+        0.9500000000000001,
+        1.76,
+        0.5499999999999999
+      ],
+      "font": 14
+    },
+    {
+      "text": "DVS + history",
+      "bounds": [
+        1.17,
+        1.8800000000000001,
+        1.76,
+        0.4
+      ],
+      "font": 20
+    },
+    {
+      "text": "Updated public history",
+      "bounds": [
+        1.17,
+        2.35,
+        1.76,
+        0.5499999999999999
+      ],
+      "font": 14
+    },
+    {
+      "text": "Telemetry",
+      "bounds": [
+        1.17,
+        3.2800000000000002,
+        1.76,
+        0.4
+      ],
+      "font": 20
+    },
+    {
+      "text": "LAI, water, plant N\nFull-Telemetry only",
+      "bounds": [
+        1.17,
+        3.75,
+        1.76,
+        0.7000000000000001
+      ],
+      "font": 14
+    },
+    {
+      "text": "Spatial Twin \u2014 private feature boundary",
+      "bounds": [
+        3.72,
+        0.48000000000000004,
+        6.76,
+        0.4
+      ],
+      "font": 20
+    },
+    {
+      "text": "",
+      "bounds": [
+        3.72,
+        0.9500000000000001,
+        6.76,
+        3.05
+      ],
+      "font": 16
+    },
+    {
+      "text": "36-D backbone",
+      "bounds": [
+        3.97,
+        1.23,
+        2.21,
+        0.4
+      ],
+      "font": 20
+    },
+    {
+      "text": "96 \u2192 96 \u2192 3",
+      "bounds": [
+        3.97,
+        1.7,
+        2.21,
+        0.45000000000000007
+      ],
+      "font": 16
+    },
+    {
+      "text": "Private 64-D (P2)",
+      "bounds": [
+        7.12,
+        1.23,
+        3.0599999999999996,
+        0.4
+      ],
+      "font": 20
+    },
+    {
+      "text": "PCA/Ridge \u22644-D",
+      "bounds": [
+        7.12,
+        1.7,
+        3.0599999999999996,
+        0.45000000000000007
+      ],
+      "font": 16
+    },
+    {
+      "text": "SiLU; dropout 0.05\n13,155 parameters\nThree frozen seeds",
+      "bounds": [
+        3.85,
+        2.45,
+        2.4,
+        1.35
+      ],
+      "font": 16
+    },
+    {
+      "text": "+",
+      "bounds": [
+        6.7,
+        2.65,
+        0.5,
+        0.55
+      ],
+      "font": 26
+    },
+    {
+      "text": "Output correction",
+      "bounds": [
+        7.05,
+        2.2,
+        3.1,
+        0.3
+      ],
+      "font": 14
+    },
+    {
+      "text": "32 joint members",
+      "bounds": [
+        7.7700000000000005,
+        2.88,
+        2.41,
+        0.4
+      ],
+      "font": 20
+    },
+    {
+      "text": "Yield, grain N, executed N",
+      "bounds": [
+        7.7700000000000005,
+        3.3499999999999996,
+        2.41,
+        0.30000000000000004
+      ],
+      "font": 14
+    },
+    {
+      "text": "P1 backbone",
+      "bounds": [
+        6.45,
+        3.5,
+        1.25,
+        0.4
+      ],
+      "font": 14
+    },
+    {
+      "text": "t\u22121; LOYO / LORO; OOD: \u0394y = 0",
+      "bounds": [
+        7.05,
+        0.87,
+        3.3,
+        0.3
+      ],
+      "font": 13
+    },
+    {
+      "text": "Climate",
+      "bounds": [
+        11.319999999999999,
+        0.48000000000000004,
+        4.26,
+        0.4
+      ],
+      "font": 20
+    },
+    {
+      "text": "TRAIN 1995\u20132009 analogs\nFirst 7-day rain, then temperature\nNo identity or later truth revealed",
+      "bounds": [
+        11.319999999999999,
+        0.9500000000000001,
+        4.26,
+        3.05
+      ],
+      "font": 16
+    },
+    {
+      "text": "Historical / +1.8\u00b0C, 450 ppm\n+3.5\u00b0C, 550 ppm\nIdealized; not operational NWP",
+      "bounds": [
+        12.4,
+        2.65,
+        3.1,
+        1.15
+      ],
+      "font": 15
+    },
+    {
+      "text": "Eco Safety",
+      "bounds": [
+        0.42,
+        5.08,
+        3.96,
+        0.4
+      ],
+      "font": 20
+    },
+    {
+      "text": "Upper-tail surplus: 0 \u2264 surplus \u2264 cap\nCaps 25 / 35 / 40 / 50 kg N ha\u207b\u00b9",
+      "bounds": [
+        0.42,
+        5.55,
+        3.96,
+        1.1
+      ],
+      "font": 17
+    },
+    {
+      "text": "Economics",
+      "bounds": [
+        0.42,
+        7.08,
+        3.96,
+        0.4
+      ],
+      "font": 20
+    },
+    {
+      "text": "Partial fertilizer-management budget\nN price 1\u00d7 / 2\u00d7; experimental subsidies\nNUE target: 0.5 \u2264 NUE \u2264 0.9",
+      "bounds": [
+        0.42,
+        7.55,
+        3.96,
+        1.4
+      ],
+      "font": 17
+    },
+    {
+      "text": "Agronomic Control",
+      "bounds": [
+        5.22,
+        5.08,
+        6.26,
+        0.4
+      ],
+      "font": 20
+    },
+    {
+      "text": "",
+      "bounds": [
+        5.22,
+        5.55,
+        6.26,
+        3.4
+      ],
+      "font": 16
+    },
+    {
+      "text": "a\u2081",
+      "bounds": [
+        5.4,
+        5.95,
+        0.5,
+        0.4
+      ],
+      "font": 18
+    },
+    {
+      "text": "a\u2082",
+      "bounds": [
+        6.85,
+        5.7,
+        0.5,
+        0.4
+      ],
+      "font": 18
+    },
+    {
+      "text": "a\u2083",
+      "bounds": [
+        8.25,
+        5.5200000000000005,
+        0.5,
+        0.4
+      ],
+      "font": 18
+    },
+    {
+      "text": "a\u2083",
+      "bounds": [
+        8.25,
+        5.88,
+        0.5,
+        0.4
+      ],
+      "font": 18
+    },
+    {
+      "text": "a\u2082",
+      "bounds": [
+        6.85,
+        6.35,
+        0.5,
+        0.4
+      ],
+      "font": 18
+    },
+    {
+      "text": "a\u2083",
+      "bounds": [
+        8.25,
+        6.17,
+        0.5,
+        0.4
+      ],
+      "font": 18
+    },
+    {
+      "text": "a\u2083",
+      "bounds": [
+        8.25,
+        6.529999999999999,
+        0.5,
+        0.4
+      ],
+      "font": 18
+    },
+    {
+      "text": "Shared root\n7-day rain \u2192 a\u2082\n7-day temperature \u2192 a\u2083",
+      "bounds": [
+        9.0,
+        5.65,
+        2.25,
+        1.05
+      ],
+      "font": 15
+    },
+    {
+      "text": "Composite = profit + 200 P(active joint) \u2212 200 distance\nTier2-Composite: tier masks + composite ranking\nSoft-Coupled: composite without hard-tail masks\nArchived bare: partial profit only\nController OOD / empty set: dose 0, never compliance\nReplan from updated public observations",
+      "bounds": [
+        5.3,
+        7.0,
+        6.1,
+        1.85
+      ],
+      "font": 15
+    },
+    {
+      "text": "External referee",
+      "bounds": [
+        12.319999999999999,
+        5.08,
+        3.26,
+        0.4
+      ],
+      "font": 20
+    },
+    {
+      "text": "WOFOST81-SNOMIN\nRealized yield, surplus, NUE\nNative N loss; daily C/N closure",
+      "bounds": [
+        12.319999999999999,
+        5.55,
+        3.26,
+        3.4
+      ],
+      "font": 16
+    },
+    {
+      "text": "No hidden-state / future-truth feedback",
+      "bounds": [
+        12.35,
+        8.5,
+        3.15,
+        0.4
+      ],
+      "font": 14
+    },
+    {
+      "text": "Branch weights / information partitions",
+      "bounds": [
+        11.85,
+        4.2,
+        3.7,
+        0.35
+      ],
+      "font": 14
+    },
+    {
+      "text": "Candidate-dose query",
+      "bounds": [
+        8.95,
+        4.1,
+        2.25,
+        0.6
+      ],
+      "font": 15
+    },
+    {
+      "text": "Joint-distribution bus",
+      "bounds": [
+        3.4,
+        4.1,
+        2.8,
+        0.4
+      ],
+      "font": 15
+    },
+    {
+      "text": "Typed numerical specialists; nodewise nonanticipative planning, without a global chance/CVaR optimality claim.",
+      "bounds": [
+        0.4,
+        9.4,
+        15,
+        0.35
+      ],
+      "font": 17
+    }
+  ]
+}

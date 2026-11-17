@@ -1,0 +1,52 @@
+{
+  "status": "PRE_CAMPAIGN_HALT",
+  "full_campaign_started": false,
+  "campaign_configurations_executed": 0,
+  "canonical_tests": {
+    "passed": 230,
+    "failed": 0,
+    "skipped": 0,
+    "log": "reports/phase8/phase8d-canonical-tests.log"
+  },
+  "warming_TRAIN_checks": 30,
+  "future_weather_invariance_checks": 120,
+  "archival_files_verified_unchanged": 392,
+  "G1": "Both tracks pass all BSS, coverage and regret gates; Full has lower regret and actual calibrated interval width, but fails strict signed-offset ordering. Criterion clarification required.",
+  "G1_radius": {
+    "Full": -5.73991591431394,
+    "Sensorless": -6.781251086203156
+  },
+  "G1_actual_width": {
+    "Full": 62.50357756,
+    "Sensorless": 69.53316531
+  },
+  "Dev": {
+    "cases": 300,
+    "native_trajectories": 84,
+    "mass_passed": true,
+    "soft_AU_cap25_compliance": {
+      "Full": 0.4,
+      "Sensorless": 0.2
+    },
+    "tree_AU_cap25_Sensorless": 0.0,
+    "Full_NL_N_cap25_35_40": [
+      214,
+      218,
+      218
+    ]
+  },
+  "P2": {
+    "LOYO_Full64_MSE_lower_than_Static3": true,
+    "LORO_Full64_acceptance_over_50pct": true,
+    "LORO_Full64_MSE_not_degraded": false
+  },
+  "physical_decoding": "Required positive within-region R2 gate fails; both weight conventions preserved. Neural auxiliary-stock-head sensitivity has not been run.",
+  "unfinished": [
+    "Clarify signed conformal offset versus actual interval width acceptance",
+    "Complete TRAIN-only neural auxiliary stock-head diagnostic with causal split and non-regression gates",
+    "Resolve remaining empirical Dev, P2 LORO and decoding failures without tuning held-out outcomes",
+    "Freeze evaluation permit and execute campaign only after gates pass or explicitly revised scientific protocol",
+    "Refresh statistics, figures, bilingual manuscripts and external reviews",
+    "Promote hashes, merge both repositories, verify primary and clean worktrees"
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "profile_id": "cc1f7a4ca691cfa9ac53f2c564b07b86d36805d21da262586699af42fbdd9d82",
+  "source_sha256": "1e5a069be3e9a9d253bfe06526ea8778d3785ccde04691bef7a9703d02a169dc",
+  "soil_coordinates": [
+    116.36,
+    -31.95
+  ],
+  "pedotransfer_source": "https://www.futurewater.nl/wp-content/uploads/2020/10/HiHydroSoil-v2.0-High-Resolution-Soil-Maps-of-Global-Hydraulic-Properties.pdf",
+  "method": "Pointwise published PTF replication; not official raster extraction or measured profile",
+  "assumptions": {
+    "CN_top": 9.0,
+    "CN_sub": 18.0,
+    "CRAIRC": 0.09,
+    "organic_C_to_OM": 1.72,
+    "Mualem_L": 0.5
+  },
+  "layers": [
+    {
+      "depth_cm": [
+        0,
+        20
+      ],
+      "source_inputs": {
+        "bdod": 1.1925000000000001,
+        "clay": 11.2,
+        "silt": 9.35,
+        "sand": 79.475,
+        "soc": 29.6,
+        "phh2o": 6.175,
+        "cec": 20.35
+      },
+      "theta_residual": 0.041,
+      "theta_saturated": 0.499116085,
+      "alpha_cm_inverse": 0.07179926112359371,
+      "n": 1.4861635280598968,
+      "ksat_cm_day": 74.2206921374015
+    },
+    {
+      "depth_cm": [
+        20,
+        30
+      ],
+      "source_inputs": {
+        "bdod": 1.25,
+        "clay": 13.9,
+        "silt": 9.3,
+        "sand": 76.8,
+        "soc": 15.6,
+        "phh2o": 6.2,
+        "cec": 19.4
+      },
+      "theta_residual": 0.041,
+      "theta_saturated": 0.48361852,
+      "alpha_cm_inverse": 0.07189692231889391,
+      "n": 1.46801492182123,
+      "ksat_cm_day": 66.7830116307127
+    },
+    {
+      "depth_cm": [
+        30,
+        40
+      ],
+      "source_inputs": {
+        "bdod": 1.35,
+        "clay": 20.4,
+        "silt": 9.4,
+        "sand": 70.2,
+        "soc": 11.9,
+        "phh2o": 6.3,
+        "cec": 19.4
+      },
+      "theta_residual": 0.041,
+      "theta_saturated": 0.45719341999999996,
+      "alpha_cm_inverse": 0.03239878322015768,
+      "n": 1.4621891009425076,
+      "ksat_cm_day": 17.88496110451237
+    },
+    {
+      "depth_cm": [
+        40,
+        60
+      ],
+      "source_inputs": {
+        "bdod": 1.35,
+        "clay": 20.4,
+        "silt": 9.4,
+        "sand": 70.2,
+        "soc": 11.9,
+        "phh2o": 6.3,
+        "cec": 19.4
+      },
+      "theta_residual": 0.041,
+      "theta_saturated": 0.45719341999999996,
+      "alpha_cm_inverse": 0.03239878322015768,
+      "n": 1.4621891009425076,
+      "ksat_cm_day": 17.88496110451237
+    },
+    {
+      "depth_cm": [
+        60,
+        80
+      ],
+      "source_inputs": {
+        "bdod": 1.36,
+        "clay": 21.2,
+        "silt": 10.0,
+        "sand": 68.8,
+        "soc": 8.3,
+        "phh2o": 6.4,
+        "cec": 19.4
+      },
+      "theta_residual": 0.041,
+      "theta_saturated": 0.45470215999999997,
+      "alpha_cm_inverse": 0.03188665772270161,
+      "n": 1.4566303778030352,
+      "ksat_cm_day": 17.88084341411438
+    },
+    {
+      "depth_cm": [
+        80,
+        100
+      ],
+      "source_inputs": {
+        "bdod": 1.36,
+        "clay": 21.2,
+        "silt": 10.0,
+        "sand": 68.8,
+        "soc": 8.3,
+        "phh2o": 6.4,
+        "cec": 19.4
+      },
+      "theta_residual": 0.041,
+      "theta_saturated": 0.45470215999999997,
+      "alpha_cm_inverse": 0.03188665772270161,
+      "n": 1.4566303778030352,
+      "ksat_cm_day": 17.88084341411438
+    },
+    {
+      "depth_cm": [
+        100,
+        125
+      ],
+      "source_inputs": {
+        "bdod": 1.38,
+        "clay": 20.5,
+        "silt": 11.9,
+        "sand": 67.6,
+        "soc": 8.6,
+        "phh2o": 6.3,
+        "cec": 18.2
+      },
+      "theta_residual": 0.041,
+      "theta_saturated": 0.44922310000000004,
+      "alpha_cm_inverse": 0.030336718382357564,
+      "n": 1.4477751623280817,
+      "ksat_cm_day": 17.021193151981073
+    }
+  ]
+}

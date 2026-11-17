@@ -1,0 +1,1107 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        14
+      ]
+    ],
+    "date-time": "2026-11-14T21:47:17Z",
+    "timestamp": 1794692837812,
+    "version": "4.9.1"
+  },
+  "reference-count": 126,
+  "publisher": "Copernicus GmbH",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            6,
+            14
+          ]
+        ],
+        "date-time": "2021-06-14T00:00:00Z",
+        "timestamp": 1623628800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "SOIL"
+  ],
+  "abstract": "<jats:p>SoilGrids produces maps of soil properties for the entire globe at medium spatial resolution (250\u2009m cell size) using state-of-the-art machine learning methods to generate the necessary models. It takes as inputs soil observations from about 240\u2009000 locations worldwide and over 400 global environmental covariates describing vegetation, terrain morphology, climate, geology and hydrology. The aim of this work was the production of global maps of soil properties, with cross-validation, hyper-parameter selection and quantification of spatially explicit uncertainty, as implemented in the SoilGrids version 2.0 product incorporating state-of-the-art practices and adapting them for global digital soil mapping with legacy data. The paper presents the evaluation of the global predictions produced for soil organic carbon content, total nitrogen, coarse fragments, pH (water), cation exchange capacity, bulk density and texture fractions at six standard depths (up to 200\u2009cm). The quantitative evaluation showed metrics in line with previous global, continental and large-region studies. The qualitative evaluation showed that coarse-scale patterns are well reproduced. The spatial uncertainty at global scale highlighted the need for more soil observations, especially in high-latitude regions.</jats:p>",
+  "DOI": "10.5194/soil-7-217-2021",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        14
+      ]
+    ],
+    "date-time": "2021-06-14T04:42:09Z",
+    "timestamp": 1623645729000
+  },
+  "page": "217-240",
+  "source": "Crossref",
+  "is-referenced-by-count": 2164,
+  "title": [
+    "SoilGrids 2.0: producing soil information for the globe with quantified spatial uncertainty"
+  ],
+  "prefix": "10.5194",
+  "volume": "7",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-1892-0764",
+      "authenticated-orcid": false,
+      "given": "Laura",
+      "family": "Poggio",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        },
+        {
+          "role": "corresponding-author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5851-2071",
+      "authenticated-orcid": false,
+      "given": "Luis M.",
+      "family": "de Sousa",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2367-3067",
+      "authenticated-orcid": false,
+      "given": "Niels H.",
+      "family": "Batjes",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-0959-9358",
+      "authenticated-orcid": false,
+      "given": "Gerard B. M.",
+      "family": "Heuvelink",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Bas",
+      "family": "Kempen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2324-3000",
+      "authenticated-orcid": false,
+      "given": "Eloi",
+      "family": "Ribeiro",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-4558-1286",
+      "authenticated-orcid": false,
+      "given": "David",
+      "family": "Rossiter",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "3145",
+  "published-online": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        14
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Aitchison, J.: The statistical analysis of compositional data, Chapman & Hall, London, UK, 1986.",
+      "DOI": "10.1007/978-94-009-4109-0"
+    },
+    {
+      "key": "ref2",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Akpa, S.\u00a0I.\u00a0C., Odeh, I.\u00a0O.\u00a0A., Bishop, T.\u00a0F.\u00a0A., and Hartemink, A.\u00a0E.: Digital Mapping of Soil Particle-Size Fractions for Nigeria, Soil Sci., 78, 1953\u20131966, 10.2136/sssaj2014.05.0202, 2014.",
+      "DOI": "10.2136/sssaj2014.05.0202"
+    },
+    {
+      "key": "ref3",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Arrouays, D., Grundy, M.\u00a0G., Hartemink, A.\u00a0E., Hempel, J.\u00a0W., Heuvelink, G.\u00a0B., Hong, S.\u00a0Y., Lagacherie, P., Lelyk, G., McBratney, A.\u00a0B., McKenzie, N.\u00a0J., de\u00a0Lourdes\u00a0Mendonca-Santos, M., Minasny, B., Montanarella, L., Odeh, I.\u00a0O., Sanchez, P.\u00a0A., Thompson, J.\u00a0A., and Zhang, G.-L.: GlobalSoilMap: Toward a Fine-Resolution Global Grid of Soil Properties, in: Advances in Agronomy, Academic Press, 93\u2013134, 10.1016/B978-0-12-800137-0.00003-0, 2014.",
+      "DOI": "10.1016/B978-0-12-800137-0.00003-0"
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Arrouays, D., Leenaars, J.\u00a0G.\u00a0B., Richer-de\u00a0Forges, A.\u00a0C., Adhikari, K., Ballabio, C., Greve, M., Grundy, M., Guerrero, E., Hempel, J., Hengl, T., Heuvelink, G., Batjes, N., Carvalho, E., Hartemink, A., Hewitt, A., Hong, S.-Y., Krasilnikov, P., Lagacherie, P., Lelyk, G., Libohova, Z., Lilly, A., McBratney, A., McKenzie, N., Vasquez, G.\u00a0M., Mulder, V.\u00a0L., Minasny, B., Montanarella, L., Odeh, I., Padarian, J., Poggio, L., Roudier, P., Saby, N., Savin, I., Searle, R., Solbovoy, V., Thompson, J., Smith, S., Sulaeman, Y., Vintila, R., Rossel, R.\u00a0V., Wilson, P., Zhang, G.-L., Swerts, M., Oorts, K., Karklins, A., Feng, L., Ibelles\u00a0Navarro, A.\u00a0R., Levin, A., Laktionova, T., Dell'Acqua, M., Suvannang, N., Ruam, W., Prasad, J., Patil, N., Husnjak, S., P\u00e1sztor, L., Okx, J., Hallet, S., Keay, C., Farewell, T., Lilja, H., Juilleret, J., Marx, S., Takata, Y., Kazuyuki, Y., Mansuy, N., Panagos, P., Van\u00a0Liedekerke, M., Skalsky, R., Sobocka, J., Kobza, J., Eftekhari, K., Alavipanah, S.\u00a0K., Moussadek, R., Badraoui, M., Da\u00a0Silva, M., Paterson, G., Gon\u00e7alves, M.\u00a0D.\u00a0C., Theocharopoulos, S., Yemefack, M., Tedou, S., Vrscaj, B., Grob, U., Koz\u00e1k, J., Boruvka, L., Dobos, E., Taboada, M., Moretti, L., and Rodriguez, D.: Soil legacy data rescue via GlobalSoilMap and other international and national initiatives, GeoResJ, 14, 1\u201319, 10.1016/j.grj.2017.06.001, 2017.",
+      "DOI": "10.1016/j.grj.2017.06.001"
+    },
+    {
+      "key": "ref5",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Arrouays, D., McBratney, A., Bouma, J., Libohova, Z., de\u00a0Forges, A.\u00a0C.\u00a0R., Morgan, C.\u00a0L., Roudier, P., Poggio, L., and Mulder, V.\u00a0L.: Impressions of digital soil maps: The good, the not so good, and making them ever better, Geoderma Regional, 20, e00255, 10.1016/j.geodrs.2020.e00255, 2020.",
+      "DOI": "10.1016/j.geodrs.2020.e00255"
+    },
+    {
+      "key": "ref6",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ballabio, C., Panagos, P., and Monatanarella, L.: Mapping topsoil physical properties at European scale using the LUCAS database, Geoderma, 261, 110\u2013123, 2016.",
+      "DOI": "10.1016/j.geoderma.2015.07.006"
+    },
+    {
+      "key": "ref7",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Banwart, S., Black, H., Cai, Z., Gicheru, P., Joosten, H., Victoria, R., Milne, E., Noellemeyer, E., Pascual, U., Nziguheba, G., Vargas, R., Bationo, A., Buschiazzo, D., de\u00a0Brogniez, D., Melillo, J., Richter, D., Termansen, M., van\u00a0Noordwijk, M., Goverse, T., Ballabio, C., Bhattacharyya, T., Goldhaber, M., Nikolaidis, N., Zhao, Y., Funk, R., Duffy, C., Pan, G., la\u00a0Scala, N., Gottschalk, P., Batjes, N., Six, J., van\u00a0Wesemael, B., Stocking, M., Bampa, F., Bernoux, M., Feller, C., Lemanceau, P., and Montanarella, L.: Benefits of soil carbon: report on the outcomes of an international scientific committee on problems of the environment rapid assessment workshop, Carbon Manag., 5, 185\u2013192, 10.1080/17583004.2014.913380, 2014.",
+      "DOI": "10.1080/17583004.2014.913380"
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Barnes, M.: Aichi targets: Protect biodiversity, not just area, Nature, 526, 195\u2013195, 10.1038/526195e, 2015.",
+      "DOI": "10.1038/526195e"
+    },
+    {
+      "key": "ref9",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Barnes, R., Sahr, K., Evenden, G., Johnson, A., and Warmerdam, F.: dggridR: Discrete Global Grids for R, R package version 2.0.4, available at: https://github.com/r-barnes/dggridR/ (last access: 21 May 2021), 2016.",
+      "DOI": "10.32614/CRAN.package.dggridR",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref10",
+      "unstructured": "Batjes, N.: ISRIC-WISE derived soil properties on a 5 by 5 arc-minutes global grid (ver. 1.2), Report 2012/01, ISRIC \u2013 World Soil Information, available at: http://www.isric.org/sites/default/files/isric_report_2012_01.pdf (last access: 21 May 2021), 2012.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref11",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Batjes, N.: Harmonised soil property values for broad-scale modelling (WISE30sec) with estimates of global soil carbon stocks, Geoderma, 269, 61\u201368, 10.1016/j.geoderma.2016.01.034 2016.",
+      "DOI": "10.1016/j.geoderma.2016.01.034"
+    },
+    {
+      "key": "ref12",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Batjes, N., Al-Adamat, R., Bhattacharyya, T., Bernoux, M., Cerri, C., Gicheru, P., Kamoni, P., Milne, E., Pal, D., and Rawajfih, Z.: Preparation of consistent soil data sets for SOC modelling purposes: secondary SOTER data sets for four case study areas, Agr. Ecosyst. Environ., 122, 26\u201334, 10.1016/j.agee.2007.01.005, 2007.",
+      "DOI": "10.1016/j.agee.2007.01.005"
+    },
+    {
+      "key": "ref13",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Batjes, N.\u00a0H.: Technologically achievable soil organic carbon sequestration in world croplands and grasslands, Land Degrad. Dev., 30, 25\u201332, 10.1002/ldr.3209, 2019.",
+      "DOI": "10.1002/ldr.3209"
+    },
+    {
+      "key": "ref14",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Batjes, N. H., Ribeiro, E., and van Oostrum, A.: Standardised soil profile data to support global mapping and modelling (WoSIS snapshot 2019), Earth Syst. Sci. Data, 12, 299\u2013320, 10.5194/essd-12-299-2020, 2020.",
+      "DOI": "10.5194/essd-12-299-2020"
+    },
+    {
+      "key": "ref15",
+      "unstructured": "Bontemps, S., Defourny, P., Radoux, J., Van\u00a0Bogaert, E., Lamarche, C., Achard, F., Mayaux, P., Boettcher, M., Brockmann, C., Kirches, G., Zulkhe, M., Kalogirou, V., Seifert, F. M., and Arino, O.: Consistent global land cover maps for climate modelling communities: Current achievements of the ESA's land cover CCI, in: Proceedings of the ESA Living Planet Symposium, Edinburgh, Scotland, 9\u201313, 2013."
+    },
+    {
+      "key": "ref16",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Borrelli, P., Robinson, D.\u00a0A., Fleischer, L.\u00a0R., Lugato, E., Ballabio, C., Alewell, C., Meusburger, K., Modugno, S., Sch\u00fctt, B., Ferro, V., Bagarello, V., Oost, K.\u00a0V., Montanarella, L., and Panagos, P.: An assessment of the global impact of 21st century land use change on soil erosion, Nat. Commun., 8, 2013, 10.1038/s41467-017-02142-7, 2017.",
+      "DOI": "10.1038/s41467-017-02142-7"
+    },
+    {
+      "key": "ref17",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Bouma, J.: Engaging Soil Science in Transdisciplinary Research Facing \u201cWicked\u201d Problems in the Information Society, Soil Sci. Soc. Am. J., 79, 454\u2013458, 10.2136/sssaj2014.11.0470, 2015.",
+      "DOI": "10.2136/sssaj2014.11.0470"
+    },
+    {
+      "key": "ref18",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Brus, D.\u00a0J.: Statistical sampling approaches for soil monitoring, Eur. J. Soil Sci., 65, 779\u2013791, 10.1111/ejss.12176, 2014.",
+      "DOI": "10.1111/ejss.12176"
+    },
+    {
+      "key": "ref19",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Brus, D.\u00a0J., Kempen, B., and Heuvelink, G.: Sampling for validation of digital soil maps, Eur. J. Soil Sci., 62, 394\u2013407, 10.1111/j.1365-2389.2011.01364.x, 2011.",
+      "DOI": "10.1111/j.1365-2389.2011.01364.x"
+    },
+    {
+      "key": "ref20",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Buchhorn, M., Lesiv, M., Tsendbazar, N.\u00a0E., Herold, M., Bertels, L., and Smets, B.: Copernicus Global Land Cover Layers \u2013 Collection 2, Remote Sens.-Basel, 12, 1044, 10.3390/rs12061044, 2020.",
+      "DOI": "10.3390/rs12061044"
+    },
+    {
+      "key": "ref21",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chen, J., Chen, J., Liao, A., Cao, X., Chen, L., Chen, X., He, C., Han, G., Peng, S., Lu, M., Zhang, W., Tong, X, and Mills, J.: Global land cover mapping at 30\u202fm resolution: A POK-based operational approach, ISPRS J. Photogramm., 103, 7\u201327, 2015.",
+      "DOI": "10.1016/j.isprsjprs.2014.09.002"
+    },
+    {
+      "key": "ref22",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Chen, S., Mulder, V.\u00a0L., Heuvelink, G.\u00a0B.\u00a0M., Poggio, L., Caubet, M., Rom\u00e1n\u00a0Dobarco, M., Walter, C., and Arrouays, D.: Model averaging for mapping topsoil organic carbon in France, Geoderma, 366, 114237, 10.1016/j.geoderma.2020.114237, 2020.",
+      "DOI": "10.1016/j.geoderma.2020.114237"
+    },
+    {
+      "key": "ref23",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Cowie, A.\u00a0L., Orr, B.\u00a0J., Castillo\u00a0Sanchez, V.\u00a0M., Chasek, P., Crossman, N.\u00a0D., Erlewein, A., Louwagie, G., Maron, M., Metternicht, G.\u00a0I., Minelli, S., Tengberg, A.\u00a0E., Walter, S., and Welton, S.: Land in balance: The scientific conceptual framework for Land Degradation Neutrality, Environ. Sci. Policy, 79, 25\u201335, 10.1016/j.envsci.2017.10.011, 2018.",
+      "DOI": "10.1016/j.envsci.2017.10.011"
+    },
+    {
+      "key": "ref24",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Dai, Y., Shangguan, W., Wei, N., Xin, Q., Yuan, H., Zhang, S., Liu, S., Lu, X., Wang, D., and Yan, F.: A review of the global soil property maps for Earth system models, SOIL, 5, 137\u2013158, 10.5194/soil-5-137-2019, 2019.",
+      "DOI": "10.5194/soil-5-137-2019"
+    },
+    {
+      "key": "ref25",
+      "doi-asserted-by": "publisher",
+      "unstructured": "de\u00a0Sousa, L.\u00a0M., Poggio, L., and Kempen, B.: Comparison of FOSS4G Supported Equal-Area Projections Using Discrete Distortion Indicatrices, ISPRS Int. J. Geo-Inf., 8, 351, 10.3390/ijgi8080351, 2019.",
+      "DOI": "10.3390/ijgi8080351"
+    },
+    {
+      "key": "ref26",
+      "doi-asserted-by": "crossref",
+      "unstructured": "de\u00a0Sousa, L.\u00a0M., Poggio, L., Dawes, G., Kempen, B., and Van\u00a0Den\u00a0Bosch, R.: Computational Infrastructure of SoilGrids 2.0, in: International Symposium on Environmental Software Systems, 24\u201331, 2020.",
+      "DOI": "10.1007/978-3-030-39815-6_3"
+    },
+    {
+      "key": "ref27",
+      "unstructured": "Deutsch, C. and Journel, A.: GSLIB: Geostatistical Software Library and User's Guide, edn. 2, Oxford University Press, New York, USA, 1998."
+    },
+    {
+      "key": "ref28",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Dinerstein, E., Olson, D., Joshi, A., Vynne, C., Burgess, N.\u00a0D., Wikramanayake, E., Hahn, N., Palminteri, S., Hedao, P., Noss, R., Hansen, M., Locke, H., Ellis, E.\u00a0C., Jones, B., Barber, C.\u00a0V., Hayes, R., Kormos, C., Martin, V., Crist, E., Sechrest, W., Price, L., Baillie, J.\u00a0E.\u00a0M., Weeden, D., Suckling, K., Davis, C., Sizer, N., Moore, R., Thau, D., Birch, T., Potapov, P., Turubanova, S., Tyukavina, A., de\u00a0Souza, N., Pintea, L., Brito, J.\u00a0C., Llewellyn, O.\u00a0A., Miller, A.\u00a0G., Patzelt, A., Ghazanfar, S.\u00a0A., Timberlake, J., Kl\u00f6ser, H., Shennan-Farp\u00f3n, Y., Kindt, R., Lilles\u00f8, J.-P.\u00a0B., van\u00a0Breugel, P., Graudal, L., Voge, M., Al-Shammari, K.\u00a0F., and Saleem, M.: An Ecoregion-Based Approach to Protecting Half the Terrestrial Realm, BioScience, 67, 534\u2013545, 10.1093/biosci/bix014, 2017.",
+      "DOI": "10.1093/biosci/bix014"
+    },
+    {
+      "key": "ref29",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Dorji, T., Odeh, I.\u00a0O.\u00a0A., Field, D.\u00a0J., and Baillie, I.\u00a0C.: Digital soil mapping of soil organic carbon stocks under different land use and land cover types in montane ecosystems, Eastern Himalayas, Forest Ecol. Manag., 318, 91\u2013102, 10.1016/j.foreco.2014.01.003, 2014.",
+      "DOI": "10.1016/j.foreco.2014.01.003"
+    },
+    {
+      "key": "ref30",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Ellili, Y., Walter, C., Michot, D., Pichelin, P., and Lemercier, B.: Mapping soil organic carbon stock change by soil monitoring and digital soil mapping at the landscape scale, Geoderma, 351, 1\u20138, 10.1016/j.geoderma.2019.03.005, 2019.",
+      "DOI": "10.1016/j.geoderma.2019.03.005"
+    },
+    {
+      "key": "ref31",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Fan, Y., Li, H., and Miguez-Macho, G.: Global Patterns of Groundwater Table Depth, Science, 339, 940\u2013943, 10.1126/science.1229881, 2013.",
+      "DOI": "10.1126/science.1229881"
+    },
+    {
+      "key": "ref32",
+      "unstructured": "FAO: Digital Soil Map of the World and derived properties (ver. 3.5), Report FAO Land and Water Digital Media Series 1, Food and Agriculture Organization of the United Nations (FAO), available at: http://www.fao.org/geonetwork/srv/en/metadata.show?id=14116 (last access: 21 May 2021), 1995.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref33",
+      "unstructured": "FAO: Guidelines for soil description, edn. 4, Report, Food and Agriculture Organization of the United Nations (FAO), available at: http://www.fao.org/docrep/019/a0541e/a0541e.pdf (last access: 21 May 2021), 2006.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref34",
+      "unstructured": "FAO and ITPS: Status of the world's soil resources (SWSR) \u2013 Main report, Report, Food and Agriculture Organization of the United Nations (FAO) and Intergovernmental Technical Panel on Soils (ITPS), available at: http://www.fao.org/3/a-i5199e.pdf (last access: 21 May 2021), 2015.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref35",
+      "unstructured": "FAO, IIASA, ISRIC, ISSCAS, and JRC: Harmonized World Soil Database (version 1.2), Report, edited by: Nachtergaele, F. O., van\u00a0Velthuizen, H., Verelst, L., Wiberg, D., Batjes, N. H., Dijkshoorn, J. A., van\u00a0Engelen, V. W. P., Fischer, G., Jones, A., Montanarella, L., Petri, M., Prieler, S., Teixeira, E., and Xuezheng, S., Food and Agriculture Organization of the United Nations (FAO), International Institute for Applied Systems Analysis (IIASA), ISRIC \u2013 World Soil Information, Institute of Soil Science \u2013 Chinese Academy of Sciences (ISSCAS), Joint Research Centre of the European Commission (JRC), available at: http://webarchive.iiasa.ac.at/Research/LUC/External-World-soil-database/HWSD_Documentation.pdf (last access: 21 May 2021), 2012.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref36",
+      "unstructured": "FAO, IFAD, UNICEF, WFP, and WHO: The State of Food Security and Nutrition in the World 2018, Building climate resilience for food security and nutrition, Report, Food and Agriculture Organization of the United Nations (FAO), available at: http://www.fao.org/3/I9553EN/i9553en.pdf (last access: 21 May 2021), 2018.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref37",
+      "unstructured": "FAO-ISRIC: Guidelines for soil description, edn. 3, Food and Agriculture Organization of the United Nations (FAO), Rome, Italy, 1986."
+    },
+    {
+      "key": "ref38",
+      "unstructured": "FAO-Unesco: FAO-Unesco Soil Map of the World, 1:5\u202f000\u202f000 (Vol. 1 to 10), United Nations Educational, Scientific, and Cultural Organization, Paris, France, 1971\u20131981."
+    },
+    {
+      "key": "ref39",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Fick, S.\u00a0E. and Hijmans, R.\u00a0J.: WorldClim 2: new 1\u202fkm spatial resolution climate surfaces for global land areas, Int. J. Climatol., 37, 4302\u20134315, 2017.",
+      "DOI": "10.1002/joc.5086"
+    },
+    {
+      "key": "ref40",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Fluet-Chouinard, E., Lehner, B., Rebelo, L.-M., Papa, F., and Hamilton, S.\u00a0K.: Development of a global inundation map at high spatial resolution from topographic downscaling of coarse-scale remote sensing data, Remote Sens. Environ., 158, 348\u2013361, 2015.",
+      "DOI": "10.1016/j.rse.2014.10.015"
+    },
+    {
+      "key": "ref41",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gomes, L.\u00a0C., Faria, R.\u00a0M., de\u00a0Souza, E., Veloso, G.\u00a0V., Schaefer, C.\u00a0E.\u00a0G., and Fernandes\u00a0Filho, E.\u00a0I.: Modelling and mapping soil organic carbon stocks in Brazil, Geoderma, 340, 337\u2013350, 2019.",
+      "DOI": "10.1016/j.geoderma.2019.01.007"
+    },
+    {
+      "key": "ref42",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Goovaerts, P.: Geostatistics for Natural Resources Evaluation, Oxford University Press, Oxford, UK, 500\u00a0pp., 1997.",
+      "DOI": "10.1093/oso/9780195115383.001.0001"
+    },
+    {
+      "key": "ref43",
+      "unstructured": "GRASS Development Team: Geographic Resources Analysis Support System (GRASS GIS) Software, version 7.8.0, available at: http://www.grass.osgeo.org (last access: 21\u00a0May\u00a02021), 2020.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref44",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Grunwald, S., Thompson, J.\u00a0A., and Boettinger, J.\u00a0L.: Digital soil mapping and modeling at continental scales: Finding solutions for global issues, Soil Sci. Soc. Am. J., 75, 1201\u20131213, 10.2136/sssaj2011.0025, 2011.",
+      "DOI": "10.2136/sssaj2011.0025"
+    },
+    {
+      "key": "ref45",
+      "unstructured": "GSP and FAO: Pillar 4 Implementation Plan \u2013 Towards a Global Soil Information System, Report, Global Soil Partnership, available at: http://www.fao.org/3/a-bl102e.pdf (last access: 21\u00a0May\u00a02021), 2016.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref46",
+      "unstructured": "GSP and ITPS: Global soil organic carbon map (GSOCmap), Report Technical Report, Global Soil Partnership (GSP) and International Panel on Soils (ITPS), available at: http://www.fao.org/3/i8891en/I8891EN.pdf (last access: 21\u00a0May\u00a02021), 2018.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref47",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Guevara, M., Olmedo, G. F., Stell, E., Yigini, Y., Aguilar Duarte, Y., Arellano Hern\u00e1ndez, C., Ar\u00e9valo, G. E., Arroyo-Cruz, C. E., Bolivar, A., Bunning, S., Bustamante Ca\u00f1as, N., Cruz-Gaistardo, C. O., Davila, F., Dell Acqua, M., Encina, A., Figueredo Tacona, H., Fontes, F., Hern\u00e1ndez Herrera, J. A., Ibelles Navarro, A. R., Loayza, V., Manueles, A. M., Mendoza Jara, F., Olivera, C., Osorio Hermosilla, R., Pereira, G., Prieto, P., Ramos, I. A., Rey Brina, J. C., Rivera, R., Rodr\u00edguez-Rodr\u00edguez, J., Roopnarine, R., Rosales Ibarra, A., Rosales Riveiro, K. A., Schulz, G. A., Spence, A., Vasques, G. M., Vargas, R. R., and Vargas, R.: No silver bullet for digital soil mapping: country-specific soil organic carbon estimates across Latin America, SOIL, 4, 173\u2013193, 10.5194/soil-4-173-2018, 2018.",
+      "DOI": "10.5194/soil-4-173-2018"
+    },
+    {
+      "key": "ref48",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Guyon, I., Weston, J., Barnhill, S., and Vapnik, V.: Gene selection for cancer classification using support vector machines, Mach. Learn., 46, 389\u2013422, 2002.",
+      "DOI": "10.1023/A:1012487302797"
+    },
+    {
+      "key": "ref49",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Han, E., Ines, A.\u00a0V.\u00a0M., and Koo, J.: Development of a 10\u202fkm resolution global soil profile dataset for crop modeling applications, Environ. Modell. Softw., 119, 70\u201383, 10.1016/j.envsoft.2019.05.012, 2019.",
+      "DOI": "10.1016/j.envsoft.2019.05.012"
+    },
+    {
+      "key": "ref50",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Hansen, M.\u00a0C., Potapov, P.\u00a0V., Moore, R., Hancher, M., Turubanova, S., Tyukavina, A., Thau, D., Stehman, S., Goetz, S., Loveland, T.\u00a0R., Kommareddy, A., Egorov, A., Chini, L., Justice, C. O., and Townshend, J. R.,G.: High-resolution global maps of 21st-century forest cover change, Science, 342, 850\u2013853, 2013.",
+      "DOI": "10.1126/science.1244693"
+    },
+    {
+      "key": "ref51",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Harden, J.\u00a0W., Hugelius, G., Ahlstr\u00f6m, A., Blankinship, J.\u00a0C., Bond-Lamberty, B., Lawrence, C.\u00a0R., Loisel, J., Malhotra, A., Jackson, R.\u00a0B., Ogle, S., Phillips, C., Ryals, R., Todd-Brown, K., Vargas, R., Vergara, S.\u00a0E., Cotrufo, M.\u00a0F., Keiluweit, M., Heckman, K.\u00a0A., Crow, S.\u00a0E., Silver, W.\u00a0L., DeLonge, M., and Nave, L.\u00a0E.: Networking our science to characterize the state, vulnerabilities, and management opportunities of soil organic matter, Global Change Biol., 24, 705\u2013718, 10.1111/gcb.13896, 2017.",
+      "DOI": "10.1111/gcb.13896"
+    },
+    {
+      "key": "ref52",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Hartmann, J. and Moosdorf, N.: The new global lithological map database GLiM: A representation of rock properties at the Earth surface, Geochem. Geophy. Geosy., 13, 10.1029/2012GC004370, 2012.",
+      "DOI": "10.1029/2012GC004370"
+    },
+    {
+      "key": "ref53",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Hengl, T., Mendes\u00a0de\u00a0Jesus, J., MacMillan, R.\u00a0A., Batjes, N.\u00a0H., Heuvelink, G.\u00a0B., Ribeiro, E.\u00a0C., Samuel-Rosa, A., Kempen, B., Leenaars, J.\u00a0G., Walsh, M.\u00a0G., and Gonzalez, M.\u00a0R.: SoilGrids1km \u2013 global soil information based on automated mapping, PLoS ONE, 9, e114788, 10.1371/journal.pone.0105992, 2014.",
+      "DOI": "10.1371/journal.pone.0105992"
+    },
+    {
+      "key": "ref54",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Hengl, T., Leenaars, J.\u00a0G.\u00a0B., Shepherd, K.\u00a0D., Walsh, M.\u00a0G., Heuvelink, G.\u00a0B.\u00a0M., Mamo, T., Tilahun, H., Berkhout, E., Cooper, M., Fegraus, E., Wheeler, I., and Kwabena, N.\u00a0A.: Soil nutrient maps of Sub-Saharan Africa: assessment of soil nutrient content at 250\u202fm spatial resolution using machine learning, Nutr. Cycl. Agroecosys., 109, 77\u2013102, 10.1007/s10705-017-9870-x, 2017a.",
+      "DOI": "10.1007/s10705-017-9870-x"
+    },
+    {
+      "key": "ref55",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Hengl, T., Mendes\u00a0de\u00a0Jesus, J., Heuvelink, G.\u00a0B.\u00a0M., Ruiperez\u00a0Gonzalez, M., Kilibarda, M., Blagoti\u0107, A., Shangguan, W., Wright, M.\u00a0N., Geng, X., Bauer-Marschallinger, B., Guevara, M.\u00a0A., Vargas, R., MacMillan, R.\u00a0A., Batjes, N.\u00a0H., Leenaars, J.\u00a0G.\u00a0B., Ribeiro, E., Wheeler, I., Mantel, S., and Kempen, B.: SoilGrids250m: Global gridded soil information based on machine learning, PLoS ONE, 12, e0169748, 10.1371/journal.pone.0169748, 2017b.",
+      "DOI": "10.1371/journal.pone.0169748"
+    },
+    {
+      "key": "ref56",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Heuvelink, G.\u00a0B.\u00a0M., Angelini, M.\u00a0E., Poggio, L., Bai, Z., Batjes, N.\u00a0H., van\u00a0den\u00a0Bosch, R., Bossio, D., Estella, S., Lehmann, J., Olmedo, G.\u00a0F., and Sanderman, J.: Machine learning in space and time for modelling soil organic carbon change, Eur. J. Soil Sci., 1\u201317, 10.1111/ejss.12998, 2020.",
+      "DOI": "10.1111/ejss.12998"
+    },
+    {
+      "key": "ref57",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Hounkpatin, O.\u00a0K., de\u00a0Hipt, F.\u00a0O., Bossa, A.\u00a0Y., Welp, G., and Amelung, W.: Soil organic carbon stocks and their determining factors in the Dano catchment (Southwest Burkina Faso), Catena, 166, 298\u2013309, 2018.",
+      "DOI": "10.1016/j.catena.2018.04.013"
+    },
+    {
+      "key": "ref58",
+      "unstructured": "IPBES: Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science \u2013 Policy Platform on Biodiversity and Ecosystem Services, edited by: Brondizio, E. S., Settele, J., D\u00edaz, S., and Ngo, H. T., Report, IPBES Secretariat, Bonn, Germany, available at: https://www.ipbes.net/global-assessment-report-biodiversity-ecosystem-services (last access: 21\u00a0May\u00a02021), 2019.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref59",
+      "unstructured": "IUSS Working Group WRB: World Reference Base for Soil Resources 2014, in: Update 2015 \u2013 International Soil Classification System for Naming Soils and Creating Legends for Soil Maps, no. 106 in World Soil Resources Reports, Food and Agriculture Organization of the United Nations (FAO), Rome, Italy, available at: http://www.fao.org/3/i3794en/I3794en.pdf (last access: 21\u00a0May\u00a02021), 2015.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref60",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Ivushkin, K., Bartholomeus, H., Bregt, A.\u00a0K., Pulatov, A., Kempen, B., and de\u00a0Sousa, L.: Global mapping of soil salinity change, Remote Sens. Environ., 231, 11260, 10.1016/j.rse.2019.111260, 2019.",
+      "DOI": "10.1016/j.rse.2019.111260"
+    },
+    {
+      "key": "ref61",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Janssen, P.\u00a0H.\u00a0M. and Heuberger, P.\u00a0S.\u00a0C.: Calibration of process-oriented models, Ecol. Model., 83, 55\u201366, 1995.",
+      "DOI": "10.1016/0304-3800(95)00084-9"
+    },
+    {
+      "key": "ref62",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Karger, D., Conrad, O., B\u00f6hner, J., Kawohl, T., Kreft, H., Soria-Auza, R., Zimmermann, N., Linder, H., and Kessler, M.: CHELSA climatologies at high resolution for the earth's land surface areas (Version 1.1), World Data Center for Climate, 2016.",
+      "DOI": "10.1038/sdata.2017.122"
+    },
+    {
+      "key": "ref63",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Kempen, B., Brus, D.\u00a0J., and de\u00a0Vries, F.: Operationalizing digital soil mapping for nationwide updating of the 1:50\u202f000 soil map of the Netherlands, Geoderma, 241\u2013242, 313\u2013329, 10.1016/j.geoderma.2014.11.030, 2015.",
+      "DOI": "10.1016/j.geoderma.2014.11.030"
+    },
+    {
+      "key": "ref64",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Kempen, B., Dalsgaard, S., Kaaya, A.\u00a0K., Chamuya, N., Ruip\u00e9rez-Gonz\u00e1lez, M., Pekkarinen, A., and Walsh, M.\u00a0G.: Mapping topsoil organic carbon concentrations and stocks for Tanzania, Geoderma, 337, 164\u2013180, 10.1016/j.geoderma.2018.09.011, 2019.",
+      "DOI": "10.1016/j.geoderma.2018.09.011"
+    },
+    {
+      "key": "ref65",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Keskin, H. and Grunwald, S.: Regression kriging as a workhorse in the digital soil mapper's toolbox, Geoderma, 326, 22\u201341, 10.1016/j.geoderma.2018.04.004, 2018.",
+      "DOI": "10.1016/j.geoderma.2018.04.004"
+    },
+    {
+      "key": "ref66",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Khaledian, Y. and Miller, B.\u00a0A.: Selecting appropriate machine learning methods for digital soil mapping, Appl. Math. Model., 81, 401\u2013418, 2020.",
+      "DOI": "10.1016/j.apm.2019.12.016"
+    },
+    {
+      "key": "ref67",
+      "unstructured": "Kuhn, M.: A Short Introduction to the caret Package, R Found Stat Comput, https://cran.microsoft.com/snapshot/2015-08-17/web/packages/caret/vignettes/caret.pdf (last access: 21\u00a0May\u00a02021), 10\u00a0pp., 2015.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref68",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lark, R. and Bishop, T.: Cokriging particle size fractions of the soil, Eur. J. Soil Sci., 58, 763\u2013774, 2007.",
+      "DOI": "10.1111/j.1365-2389.2006.00866.x"
+    },
+    {
+      "key": "ref69",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Liu, F., Zhang, G.-L., Song, X., Li, D., Zhao, Y., Yang, J., Wu, H., and Yang, F.: High-Resolution and Three-Dimensional Mapping of Soil Texture of China, Geoderma, 361, 114061, 10.1016/j.geoderma.2019.114061, 2020.",
+      "DOI": "10.1016/j.geoderma.2019.114061"
+    },
+    {
+      "key": "ref70",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Luo, Y., Ahlstr\u00f6m, A., Allison, S., Batjes, N., Brovkin, V., Carvalhais, N., Chappell, A., Ciais, P., Davidson, E., Finzi, A., Georgiou, K., Guenet, B., Hararuk, O., Harden, J., He, Y., Hopkins, F.\u00a0M., Jiang, L., Koven, C., Jackson, R., Jones, C., Lara, M., Liang, J., McGuire, A., Parton, W.\u00a0J., Peng, C., Randerson, J., Salazr, A., Sierra, C., Smoth, M., Tian, H., Todd-Brown, K., Torn, M., van\u00a0Groeningen, K., Wang, Y.\u00a0P., Westm, O., Wei, Y., Wieder, W., Xia, J., Xia, X., Xu, X., and Zhu, T.: Towards more realistic projections of soil carbon dynamics by Earth System Models, Global Biogeochem. Cy., 30, 40\u201356, 10.1002/2015GB005239, 2016.",
+      "DOI": "10.1002/2015GB005239"
+    },
+    {
+      "key": "ref71",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Ma, Y., Minasny, B., McBratney, A., Poggio, L., and Fajardo, M.: Predicting soil properties in 3D: Should depth be a covariate?, Geoderma, 383, 114794, 10.1016/j.geoderma.2020.114794, 2021.",
+      "DOI": "10.1016/j.geoderma.2020.114794"
+    },
+    {
+      "key": "ref72",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Malhotra, A., Todd-Brown, K., Nave, L.\u00a0E., Batjes, N.\u00a0H., Holmquist, J.\u00a0R., Hoyt, A.\u00a0M., Iversen, C.\u00a0M., Jackson, R.\u00a0B., Lajtha, K., Lawrence, C., Vindu\u0161kov\u00e1, O., Wieder, W., Williams, M., Hugelius, G., and Harden, J.: The landscape of soil carbon data: emerging questions, synergies and databases, Prog. Phys. Geog., 43, 707\u2013719, 10.1177/0309133319873309, 2019.",
+      "DOI": "10.1177/0309133319873309"
+    },
+    {
+      "key": "ref73",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Mallavan, B., Minasny, B., and Mcbratney, A.: Homosoil, a Methodology for Quantitative Extrapolation of Soil Information Across the Globe, in: Digital Soil Mapping, Progress in Soil Science, edited by: Boettinger, J. L., Howell, D. W., Moore, A. C., Hartemink, A. E., and Kienast-Brown, S., Springer, Dordrecht, The Netherlands, 137\u2013150, 10.1007/978-90-481-8863-5_12, 2010.",
+      "DOI": "10.1007/978-90-481-8863-5_12"
+    },
+    {
+      "key": "ref74",
+      "doi-asserted-by": "publisher",
+      "unstructured": "McBratney, A.\u00a0B., Mendon\u00e7a\u00a0Santos, M.\u00a0L., and Minasny, B.: On digital soil mapping, Geoderma, 117, 3\u201352, 10.1016/S0016-7061(03)00223-4, 2003.",
+      "DOI": "10.1016/S0016-7061(03)00223-4"
+    },
+    {
+      "key": "ref75",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Meinshausen, N.: Quantile regression forests, J. Mach. Learn. Res., 7, 983\u2013999, 2006.",
+      "DOI": "10.32614/CRAN.package.quantregForest"
+    },
+    {
+      "key": "ref76",
+      "unstructured": "Meyer, H. and Pebesma, E.: Predicting into unknown space? Estimating the area of applicability of spatial prediction models, ArXiv, abs/2005.07939, 2020."
+    },
+    {
+      "key": "ref77",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Meyer, H., Reudenbach, C., Hengl, T., Katurji, M., and Nauss, T.: Improving performance of spatio-temporal machine learning models using forward feature selection and target-oriented validation, Environ. Modell. Softw., 101, 1\u20139, 10.1016/j.envsoft.2017.12.001, 2018.",
+      "DOI": "10.1016/j.envsoft.2017.12.001"
+    },
+    {
+      "key": "ref78",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Minasny, B. and McBratney, A.\u00a0B.: Digital soil mapping: A brief history and some lessons, Geoderma, 264, 301\u2013311, 10.1016/j.geoderma.2015.07.017, 2016.",
+      "DOI": "10.1016/j.geoderma.2015.07.017"
+    },
+    {
+      "key": "ref79",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Mora-Vallejo, A., Claessens, L., Stoorvogel, J., and Heuvelink, G.\u00a0B.\u00a0M.: Small scale digital soil mapping in Southeastern Kenya, Catena, 76, 44\u201353, 10.1016/j.catena.2008.09.008, 2008.",
+      "DOI": "10.1016/j.catena.2008.09.008"
+    },
+    {
+      "key": "ref80",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Moulatlet, G.\u00a0M., Zuquim, G., Figueiredo, F.\u00a0O.\u00a0G., Lehtonen, S., Emilio, T., Ruokolainen, K., and Tuomisto, H.: Using digital soil maps to infer edaphic affinities of plant species in Amazonia: Problems and prospects, Ecol. Evol., 7, 8463\u20138477, 10.1002/ece3.3242, 2017.",
+      "DOI": "10.1002/ece3.3242"
+    },
+    {
+      "key": "ref81",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Nauman, T.\u00a0W. and Duniway, M.\u00a0C.: Relative prediction intervals reveal larger uncertainty in 3D approaches to predictive digital soil mapping of soil properties with legacy data, Geoderma, 347, 170\u2013184, 10.1016/j.geoderma.2019.03.037, 2019.",
+      "DOI": "10.1016/j.geoderma.2019.03.037"
+    },
+    {
+      "key": "ref82",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Nijbroek, R., Piikki, K., S\u00f6derstr\u00f6m, M., Kempen, B., Turner, K., Hengari, S., and Mutua, J.: Soil Organic Carbon Baselines for Land Degradation Neutrality: Map Accuracy and Cost Tradeoffs with Respect to Complexity in Otjozondjupa, Namibia, Sustainability, 10, 1610, 10.3390/su10051610, 2018.",
+      "DOI": "10.3390/su10051610"
+    },
+    {
+      "key": "ref83",
+      "unstructured": "NRCS National Soil Survey Center: Gridded Soil Survey Geographic (gSSURGO) Database User Guide, Version 2.2, Tech. Rep., National Soil Survey Center, available at: http://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcs142p2_051847&ext=pdf (last access: 21 May 2021), 2016.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref84",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Nussbaum, M., Spiess, K., Baltensweiler, A., Grob, U., Keller, A., Greiner, L., Schaepman, M. E., and Papritz, A.: Evaluation of digital soil mapping approaches with large sets of environmental covariates, SOIL, 4, 1\u201322, 10.5194/soil-4-1-2018, 2018.",
+      "DOI": "10.5194/soil-4-1-2018"
+    },
+    {
+      "key": "ref85",
+      "unstructured": "Omuto, C., Nachtergaele, F., and Vargas\u00a0Rojas, R.: State of the Art Report on Global and Regional Soil Information: Where are we? Where to go?, Report, Food and Agriculture Organization of the United Nations (FAO), available at: http://www.fao.org/docrep/017/i3161e/i3161e.pdf (last access: 21 May 2021), 2012.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref86",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Oreskes, N.: Evaluation (Not Validation) of Quantitative Models, Environ. Health Persp., 106, 1453\u20131460, 10.1289/ehp.98106s61453, 1998.",
+      "DOI": "10.1289/ehp.98106s61453"
+    },
+    {
+      "key": "ref87",
+      "unstructured": "Pachepsky, Y. and Rawls, W.\u00a0J. (Eds.): Development of Pedotransfer Functions in Soil Hydrology, in: Developments in Soil Science, Elsevier, 2004."
+    },
+    {
+      "key": "ref88",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Pekel, J.-F., Cottam, A., Gorelick, N., and Belward, A.\u00a0S.: High-resolution mapping of global surface water and its long-term changes, Nature, 540, 418\u2013422, 10.1038/nature20584, 2016.",
+      "DOI": "10.1038/nature20584"
+    },
+    {
+      "key": "ref89",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Pelletier, J., Broxton, P., Hazemberg, P., Zeng, X., Troch, P., Niu, G., Williams, Z., Brunke, M., and Gochis, D.: Global 1\u202fkm Gridded Thickness of Soil, Regolith, and Sedimentary Deposit Layers, 10.3334/ORNLDAAC/1304, 2016.",
+      "DOI": "10.3334/ORNLDAAC/1304"
+    },
+    {
+      "key": "ref90",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Piikki, K., S\u00f6derstr\u00f6m, M., and Stadig, H.: Local adaptation of a national digital soil map for use in precision agriculture, Advances in Animal Biosciences, 8, 430\u2013432, 10.1017/s2040470017000966, 2017.",
+      "DOI": "10.1017/s2040470017000966"
+    },
+    {
+      "key": "ref91",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Poggio, L. and Gimona, A.: 3D mapping of soil texture in Scotland, Geoderma Regional, 9, 5\u201316, 10.1016/j.geodrs.2016.11.003, 2017a.",
+      "DOI": "10.1016/j.geodrs.2016.11.003"
+    },
+    {
+      "key": "ref92",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Poggio, L. and Gimona, A.: Assimilation of optical and radar remote sensing data in 3D mapping of soil properties over large areas, Sci. Total Environ., 579, 1094\u20131110, 10.1016/j.scitotenv.2016.11.078, 2017b.",
+      "DOI": "10.1016/j.scitotenv.2016.11.078"
+    },
+    {
+      "key": "ref93",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Poggio, L., Gimona, A., and Brewer, M.\u00a0J.: Regional scale mapping of soil properties and their uncertainty with a large number of satellite-derived covariates, Geoderma, 209\u2013210, 1\u201314, 10.1016/j.geoderma.2013.05.029, 2013.",
+      "DOI": "10.1016/j.geoderma.2013.05.029"
+    },
+    {
+      "key": "ref94",
+      "unstructured": "R Core Team: A Language and Environment for Statistical Computing, R Foundation for Statistical Computing, Vienna, Austria, available at: http://www.R-project.org/ (last access: 21\u00a0May\u00a02021), 2020.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref95",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Reuter, H.\u00a0I. and Hengl, T.: Worldgrids \u2013 a public repository of global soil covariates, in: Digital Soil Assessments and Beyond \u2013 Proceedings of the 5th Global Workshop on Digital Soil Mapping, 287\u2013292, https://tinyurl.com/yyx7vd9s (last access: 21\u00a0May\u00a02021), 2012.",
+      "DOI": "10.1201/b12728-57",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref96",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Ribeiro, E., Batjes, N., and Van\u00a0Oostrum, A.: Towards the standardization and harmonization of world soil data, in: Procedures Manual Report 2018, World Soil Information Service (WoSIS), Wageningen, The Netherlands, Report\u00a02018/01, 10.17027/isric-wdcsoils.20180001, 2018.",
+      "DOI": "10.17027/isric-wdcsoils.20180001"
+    },
+    {
+      "key": "ref97",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Robinson, N., Regetz, J., and Guralnick, R.\u00a0P.: EarthEnv-DEM90: A nearly-global, void-free, multi-scale smoothed, 90\u202fm digital elevation model from fused ASTER and SRTM data, ISPRS J. Photogramm., 87, 57\u201367, 2014.",
+      "DOI": "10.1016/j.isprsjprs.2013.11.002"
+    },
+    {
+      "key": "ref98",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Rockstroem, J., Falkenmark, M., Lannerstad, M., and Karlberg, L.: The planetary water drama: Dual task of feeding humanity and curbing climate change, Geophys. Res. Lett., 39, L15401, 10.1029/2012gl051688, 2012.",
+      "DOI": "10.1029/2012gl051688"
+    },
+    {
+      "key": "ref99",
+      "unstructured": "Rossiter, D.\u00a0G.: Maps and Models Are Never Valid, but They Can Be Evaluated (with Responses), Pedometron, 41, 19\u201328, available at: http://www.pedometrics.org/Pedometron/Pedometron41.pdf (last access: 21\u00a0May\u00a02021), 2017.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref100",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Roudier, P., Burge, O.\u00a0R., Richardson, S.\u00a0J., McCarthy, J.\u00a0K., Grealish, G., and Ausseil, A.-G.: National Scale 3D Mapping of Soil pH Using a Data Augmentation Approach, Remote Sens.-Basel, 12, 2872, 10.3390/rs12182872, 2020.",
+      "DOI": "10.3390/rs12182872"
+    },
+    {
+      "key": "ref101",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Sanderman, J., Hengl, T., and Fiske, G.\u00a0J.: Soil carbon debt of 12\u202f000\u00a0years of human land use, P. Natl. Acad. Sci. USA, 114, 9575\u20139580, 10.1073/pnas.1706103114, 2017.",
+      "DOI": "10.1073/pnas.1706103114"
+    },
+    {
+      "key": "ref102",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Savtchenko, A., Ouzounov, D., Ahmad, S., Acker, J., Leptoukh, G., Koziana, J., and Nickless, D.: Terra and Aqua MODIS products available from NASA GES DAAC, Adv. Space Res., 34, 710\u2013714, 2004.",
+      "DOI": "10.1016/j.asr.2004.03.012"
+    },
+    {
+      "key": "ref103",
+      "unstructured": "Sayre, R., Dangermond, J., Frye, C., Vaughan, R., Aniello, P., Breyer, S., Cribbs, D., Hopkins, D., Nauman, R., Derrenbacher, W., Wright, D. J., Brown, C., Convis, C., Smith, J. H., Benson, L., VanSistine, P., Warner, H., Cress, J. J., Danielson, J. J., Hamann, S. L., Cecere, T., Reddy, A. D., Burton, D., Grosse, A., True, D., Metzger, M., Hartmann, J., Moosdorf, N., Durr, H., Paganini, M., Defourny, P., Arino, O., Maynard, S., Anderson, M., and Comer, P.: A new map of global ecological land units \u2013 an ecophysiographic stratification approach, Association of American Geographers, Washington D.C., USA, 2014."
+    },
+    {
+      "key": "ref104",
+      "unstructured": "Schoeneberger, P., Wysicki, D., Benham, E., and Broderson, W.: Field book for describing and sampling soils (ver. 3.0), Natural Resources Conservation Service, National Soil Survey Center, Lincoln, Nebraska, USA, available at: http://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs142p2_052523.pdf (last access: 21\u00a0May\u00a02021), 2012.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref105",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Shangguan, W., Dai, Y., Duan, Q., Liu, B., and Yuan, H.: A global soil data set for earth system modeling, J. Adv. Model. Earth Sy., 6, 249\u2013263, 10.1002/2013MS000293, 2014.",
+      "DOI": "10.1002/2013MS000293"
+    },
+    {
+      "key": "ref106",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Shrestha, D.\u00a0L. and Solomatine, D.\u00a0P.: Machine learning approaches for estimation of prediction interval for the model output, Neural Networks, 19, 225\u2013235, 10.1016/j.neunet.2006.01.012, 2006.",
+      "DOI": "10.1016/j.neunet.2006.01.012"
+    },
+    {
+      "key": "ref107",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Smith, P., Soussana, J.-F., Angers, D., Schipper, L., Chenu, C., Rasse, D., Batjes, N.\u00a0H., van\u00a0Egmond, F., McNeill, S., Kuhnert, M., Arias-Navaro, C., Olesen, J.\u00a0E., Chirinda, N., Fornara, D., Joosse, P., Wollenberg, L., Alvaro-Fuentes, J., and Cobena, A.: How to measure, report and verify soil carbon change to realise the potential of soil carbon sequestration for atmospheric greenhouse gas remova, Global Change Biol., 26, 219\u2013241, 10.1111/gcb.14815, 2019.",
+      "DOI": "10.1111/gcb.14815"
+    },
+    {
+      "key": "ref108",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Soussana, J.-F., Lutfalla, S., Ehrhardt, F., Rosenstock, T., Lamanna, C., Havl\u00edk, P., Richards, M., Wollenberg, E., Chotte, J.-L., Torquebiau, E., Ciais, P., Smith, P., and Lal, R.: Matching policy and science: Rationale for the \u201c4 per 1000 \u2013 soils for food security and climate\u201d initiative, Soil Till. Res., 188, 3\u201315, 10.1016/j.still.2017.12.002, 2017.",
+      "DOI": "10.1016/j.still.2017.12.002"
+    },
+    {
+      "key": "ref109",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Springmann, M., Clark, M., Mason-D'Croz, D., Wiebe, K., Bodirsky, B.\u00a0L., Lassaletta, L., de\u00a0Vries, W., Vermeulen, S.\u00a0J., Herrero, M., Carlson, K.\u00a0M., Jonell, M., Troell, M., DeClerck, F., Gordon, L.\u00a0J., Zurayk, R., Scarborough, P., Rayner, M., Loken, B., Fanzo, J., Godfray, H. C.\u00a0J., Tilman, D., Rockstr\u00f6m, J., and Willett, W.: Options for keeping the food system within environmental limits, Nature, 562, 519\u2013525, 10.1038/s41586-018-0594-0, 2018.",
+      "DOI": "10.1038/s41586-018-0594-0"
+    },
+    {
+      "key": "ref110",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Stockmann, U., Padarian, J., McBratney, A., Minasny, B., de\u00a0Brogniez, D., Montanarella, L., Hong, S.\u00a0Y., Rawlins, B.\u00a0G., and Field, D.\u00a0J.: Global soil organic carbon assessment, Global Food Security, 6, 9\u201316, 10.1016/j.gfs.2015.07.001, 2015.",
+      "DOI": "10.1016/j.gfs.2015.07.001"
+    },
+    {
+      "key": "ref111",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Stoorvogel, J.\u00a0J., Bakkenes, M., Temme, A.\u00a0J.\u00a0A.\u00a0M., Batjes, N.\u00a0H., and ten\u00a0Brink, B.: S-World: a Global Soil Map for Environmental Modelling, Land Degrad. Dev., 28, 22\u201333, 10.1002/ldr.2656, 2017.",
+      "DOI": "10.1002/ldr.2656"
+    },
+    {
+      "key": "ref112",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Strobl, C., Boulesteix, A.-L., Kneib, T., Augustin, T., and Zeileis, A.: Conditional variable importance for random forests, BMC Bioinformatics, 9, 307, 10.1186/1471-2105-9-307, 2008.",
+      "DOI": "10.1186/1471-2105-9-307"
+    },
+    {
+      "key": "ref113",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Todd-Brown, K. E. O., Randerson, J. T., Post, W. M., Hoffman, F. M., Tarnocai, C., Schuur, E. A. G., and Allison, S. D.: Causes of variation in soil carbon simulations from CMIP5 Earth system models and comparison with observations, Biogeosciences, 10, 1717\u20131736, 10.5194/bg-10-1717-2013, 2013.",
+      "DOI": "10.5194/bg-10-1717-2013"
+    },
+    {
+      "key": "ref114",
+      "unstructured": "T\u00f3th, G., Jones, A., and Montanarella, L.: LUCAS Topsoil survey: methodology, data and results, Report, Land Resource Management Unit \u2013 Soil Action, European Commission Joint Research Centre Institute for Environment and Sustainability, available at: https://esdac.jrc.ec.europa.eu/ESDB_Archive/eusoils_docs/other/EUR26102EN.pdf (last access: 21\u00a0May\u00a02021), 2013.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref115",
+      "unstructured": "UNEP: The benefits of soil carbon \u2013 managing soils for multiple, economic, societal and environmental benefits, United Nations Environmental Programme, Nairobi, Kenya, 19\u201333, https://tinyurl.com/2vu4nsf4 (last access: 21\u00a0May\u00a02021), 2012.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref116",
+      "doi-asserted-by": "publisher",
+      "unstructured": "van Bussel, L. G.\u00a0J., Grassini, P., Van\u00a0Wart, J., Wolf, J., Claessens, L., Yang, H., Boogaard, H., de\u00a0Groot, H., Saito, K., Cassman, K.\u00a0G., and van\u00a0Ittersum, M.\u00a0K.: From field to atlas: Upscaling of location-specific yield gap estimates, Field Crop. Res., 177, 98\u2013108, 10.1016/j.fcr.2015.03.005, 2015.",
+      "DOI": "10.1016/j.fcr.2015.03.005"
+    },
+    {
+      "key": "ref117",
+      "unstructured": "van\u00a0der\u00a0Esch, S., Brink, B.\u00a0T., Stehfest, E., Bakkenes, M., Sewell, A., Bouwman, A., Meijer, J., Westhoek, H., and van\u00a0den\u00a0Berg, M.: Exploring future changes in land use and land condition and the impacts on food, water, climate change and biodiversity: Scenarios for the UNCCD Global Land Outlook, Report, UNCCD, available at: https://tinyurl.com/yagvs9vu (last access: 21\u00a0May\u00a02021), 2017.",
+      "type": "web-resource"
+    },
+    {
+      "key": "ref118",
+      "doi-asserted-by": "publisher",
+      "unstructured": "van Ittersum, M.\u00a0K., Cassman, K.\u00a0G., Grassini, P., Wolf, J., Tittonell, P., and Hochman, Z.: Yield gap analysis with local to global relevance \u2013 A review, Field Crop. Res., 143, 4\u201317, 10.1016/j.fcr.2012.09.009, 2013.",
+      "DOI": "10.1016/j.fcr.2012.09.009"
+    },
+    {
+      "key": "ref119",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Vitharana, U.\u00a0W.\u00a0A., Mishra, U., and Mapa, R.\u00a0B.: National soil organic carbon estimates can improve global estimates, Geoderma, 337, 55\u201364, 10.1016/j.geoderma.2018.09.005, 2019.",
+      "DOI": "10.1016/j.geoderma.2018.09.005"
+    },
+    {
+      "key": "ref120",
+      "unstructured": "Wan, Z.: MODIS land surface temperature products users' guide, Institute for Computational Earth System Science, University of California, Santa Barbara, California, USA, available at: https://lpdaac.usgs.gov/documents/118/MOD11_User_Guide_V6.pdf, 2006."
+    },
+    {
+      "key": "ref121",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Wilson, A.\u00a0M. and Jetz, W.: Remotely sensed high-resolution global cloud dynamics for predicting ecosystem and biodiversity distributions, PLoS Biol., 14, e1002415, 10.1371/journal.pbio.1002415, 2016.",
+      "DOI": "10.1371/journal.pbio.1002415"
+    },
+    {
+      "key": "ref122",
+      "unstructured": "WOCAT: Where the land is greener: Case studies and analysis of soil and water conservation initiatives worldwide, CTA, UNEP, FAO and CDE, Berne, 2007."
+    },
+    {
+      "key": "ref123",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Wright, M.\u00a0N. and Ziegler, A.: ranger: A Fast Implementation of Random Forests for High Dimensional Data in C++ and R, J. Stat. Softw., 77, 1\u201317, 10.18637/jss.v077.i01, 2017.",
+      "DOI": "10.18637/jss.v077.i01"
+    },
+    {
+      "key": "ref124",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Yigini, Y. and Panagos, P.: Assessment of soil organic carbon stocks under future climate and land cover changes in Europe, Sci. Total Environ., 557\u2013558, 838\u2013850, 10.1016/j.scitotenv.2016.03.085, 2016.",
+      "DOI": "10.1016/j.scitotenv.2016.03.085"
+    },
+    {
+      "key": "ref125",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yoo, A.\u00a0B., Jette, M.\u00a0A., and Grondona, M.: Slurm: Simple linux utility for resource management, in: Workshop on Job Scheduling Strategies for Parallel Processing, 44\u201360, 2003.",
+      "DOI": "10.1007/10968987_3"
+    },
+    {
+      "key": "ref126",
+      "unstructured": "Zanter, K.: Landsat 4\u20137 Surface Reflectance Code (LEDAPS) Product Guide, available at: https://www.usgs.gov/land-resources/nli/landsat/landsat-normalized-difference-vegetation-index (last access: 21\u00a0May\u00a02021), 2019.",
+      "type": "web-resource"
+    }
+  ],
+  "container-title": [
+    "SOIL"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://soil.copernicus.org/articles/7/217/2021/soil-7-217-2021.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        14
+      ]
+    ],
+    "date-time": "2026-09-14T21:44:01Z",
+    "timestamp": 1789422241000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://soil.copernicus.org/articles/7/217/2021/"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        14
+      ]
+    ]
+  },
+  "references-count": 126,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.5194/soil-7-217-2021",
+  "relation": {
+    "has-preprint": [
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65",
+        "asserted-by": "subject"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65",
+        "asserted-by": "object"
+      }
+    ],
+    "has-review": [
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-RC1",
+        "asserted-by": "subject"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-AC2",
+        "asserted-by": "subject"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-SC1",
+        "asserted-by": "subject"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-AC1",
+        "asserted-by": "subject"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-SC2",
+        "asserted-by": "subject"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-AC5",
+        "asserted-by": "subject"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-SC3",
+        "asserted-by": "subject"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-AC4",
+        "asserted-by": "subject"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-RC2",
+        "asserted-by": "subject"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-AC3",
+        "asserted-by": "subject"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-SC2",
+        "asserted-by": "object"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-SC1",
+        "asserted-by": "object"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-SC3",
+        "asserted-by": "object"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-RC2",
+        "asserted-by": "object"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-RC1",
+        "asserted-by": "object"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-AC5",
+        "asserted-by": "object"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-AC4",
+        "asserted-by": "object"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-AC3",
+        "asserted-by": "object"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-AC2",
+        "asserted-by": "object"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/soil-2020-65-AC1",
+        "asserted-by": "object"
+      }
+    ],
+    "has-part": [
+      {
+        "id-type": "doi",
+        "id": "10.5194/gmd-18-8379-2025",
+        "asserted-by": "object"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/nhess-25-3641-2025",
+        "asserted-by": "object"
+      },
+      {
+        "id-type": "doi",
+        "id": "10.5194/gmd-14-7287-2021",
+        "asserted-by": "object"
+      },
+      {
+        "id-type": "doi",
+        "id": "https://doi.org/10.5194/soil-7-217-2021-supplement",
+        "asserted-by": "subject"
+      }
+    ]
+  },
+  "ISSN": [
+    "2199-398X"
+  ],
+  "issn-type": [
+    {
+      "value": "2199-398X",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        14
+      ]
+    ]
+  }
+}

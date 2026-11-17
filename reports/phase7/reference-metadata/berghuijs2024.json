@@ -1,0 +1,1140 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        9
+      ]
+    ],
+    "date-time": "2026-11-09T01:41:48Z",
+    "timestamp": 1794188508931,
+    "version": "4.8.0"
+  },
+  "reference-count": 101,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            1
+          ]
+        ],
+        "date-time": "2024-03-01T00:00:00Z",
+        "timestamp": 1709251200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            1
+          ]
+        ],
+        "date-time": "2024-03-01T00:00:00Z",
+        "timestamp": 1709251200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            15
+          ]
+        ],
+        "date-time": "2024-01-15T00:00:00Z",
+        "timestamp": 1705276800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "European Journal of Agronomy"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        3
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.eja.2024.127099",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        25
+      ]
+    ],
+    "date-time": "2024-01-25T08:12:12Z",
+    "timestamp": 1706170332000
+  },
+  "page": "127099",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 28,
+  "special_numbering": "C",
+  "title": [
+    "Expanding the WOFOST crop model to explore options for sustainable nitrogen management: A study for winter wheat in the Netherlands"
+  ],
+  "prefix": "10.1016",
+  "volume": "154",
+  "author": [
+    {
+      "given": "Herman N.C.",
+      "family": "Berghuijs",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jo\u00e3o Vasco",
+      "family": "Silva",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Pytrik",
+      "family": "Reidsma",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Allard J.W.",
+      "family": "de Wit",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.eja.2024.127099_bib1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Addiscott, T.M., Bailey, N.J., Bland, G.J. & Whitmore, A.P. (1991) Simulation of nitrogen in soil and winter wheat crops: a management model that makes the best use of limited information. In Nitrogen Turnover in the Soil-Crop System: Modelling of Biological Transformations, Transport of Nitrogen and Nitrogen Use Efficiency. Proceedings of a Workshop held at the Institute for Soil Fertility Research, Haren, The Netherlands, 5\u20136 June 1990, 305\u2013312 (Eds J. J. R. Groot, P. De Willigen and E. L. J. Verberne). Dordrecht: Springer Netherlands.",
+      "DOI": "10.1007/978-94-011-3434-7_15"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eja.2024.127099_bib2",
+      "doi-asserted-by": "crossref",
+      "first-page": "17",
+      "DOI": "10.1111/j.1399-3054.1985.tb01207.x",
+      "article-title": "Theory for growth of plants derived from the nitrogen productivity concept",
+      "volume": "64",
+      "author": "\u00c5gren",
+      "year": "1985",
+      "journal-title": "Physiol. Plant."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eja.2024.127099_bib3",
+      "doi-asserted-by": "crossref",
+      "first-page": "37",
+      "DOI": "10.1016/S1161-0301(99)00044-1",
+      "article-title": "Performance and application of the APSIM Nwheat model in the Netherlands",
+      "volume": "12",
+      "author": "Asseng",
+      "year": "2000",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "issue": "1-2",
+      "key": "10.1016/j.eja.2024.127099_bib4",
+      "doi-asserted-by": "crossref",
+      "first-page": "203",
+      "DOI": "10.1007/s11104-020-04668-0",
+      "article-title": "Identification of species traits enhancing yield in wheat-faba bean intercropping: development and sensitivity analysis of a minimalist mixture model",
+      "volume": "455",
+      "author": "Berghuijs",
+      "year": "2020",
+      "journal-title": "Plant Soil"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib5",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.fcr.2023.108891",
+      "article-title": "Catching-up with genetic progress: Simulation of potential production for modern wheat cultivars in the Netherlands",
+      "volume": "296",
+      "author": "Berghuijs",
+      "year": "2023",
+      "journal-title": "Field Crops Res."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib6",
+      "unstructured": "Berghuijs - Van Dijk, J.T., Kroes, J.G. & Rijtema, P.E. (1985).ANIMO: agricultural nitrogen model. In Nota / Institute for Land and Water Management Research, 86 Wageningen: Institute for Land and Water Management Research."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib7",
+      "series-title": "Nitrogen Turnover in the Soil-Crop System: Modelling of Biological Transformations, Transport of Nitrogen and Nitrogen Use Efficiency. Proceedings of a Workshop held at the Institute for Soil Fertility Research, Haren, The Netherlands, 5\u20136 June 1990",
+      "first-page": "181",
+      "article-title": "Simulation of soil nitrogen dynamics using the SOILN model",
+      "author": "Bergstr\u00f6m",
+      "year": "1991"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib8",
+      "unstructured": "Boogaard, H., De Wit, A.J.W., Te Roller, C.A. & Van Diepen, C.A., 2021 .(update spring 2021) WOFOST Control Centre 2.1: user's guide for the WOFOST Control Centre 2.1 and the crop growth simulation model WOFOST 7.1.7. Wageningen: Alterra, Wageningen University & Research Centre."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib9",
+      "unstructured": "Boons-Prins, E.L., De Koning, G.H.J., Van Diepen, C.A. & Penning-De Vries, F.W.T. , 1993, .Crop-specific simulation parameters for yield forecasting across the European Community In Simulation reports CABO-TTWageningen: CABO-DLO."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib10",
+      "unstructured": "Bouman, B.A.M., Kropff, M.J., Tuong, T.P., Wopereis, M.C.S., Ten Berge, H.F.M. & Van Laar, H.H. , 2001. ORYZA2000: modelling lowland rice. Los Ba\u00f1os, Phillipines."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib11",
+      "doi-asserted-by": "crossref",
+      "first-page": "168",
+      "DOI": "10.1016/j.agsy.2018.05.002",
+      "article-title": "Improving WOFOST model to simulate winter wheat phenology in Europe: evaluation and effects on yield",
+      "volume": "168",
+      "author": "Ceglar",
+      "year": "2019",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib12",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.scitotenv.2019.135925",
+      "article-title": "Balancing indicators for sustainable intensification of crop production at field and river basin levels",
+      "volume": "705",
+      "author": "Chukalla",
+      "year": "2020",
+      "journal-title": "Sci. Total Environ."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib13",
+      "unstructured": "CLO, 2022. Stikstofdepositie 1990\u20132000, URL: \u3008https://www.clo.nl/indicatoren/nl0189-stikstofdepositie\u3009."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib14",
+      "first-page": "237",
+      "article-title": "RothC-26.3 A model for the turnover of carbon in soil",
+      "volume": "Vol. 38",
+      "author": "Coleman",
+      "year": "1996"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib15",
+      "series-title": "Nitrogen Turnover in the Soil-Crop System: Modelling of Biological Transformations, Transport of Nitrogen and Nitrogen Use Efficiency. Proceedings of a Workshop held at the Institute for Soil Fertility Research, Haren, The Netherlands, 5\u20136 June 1990",
+      "first-page": "141",
+      "article-title": "Nitrogen turnover in the soil-crop system; comparison of fourteen simulation models",
+      "author": "De Willigen",
+      "year": "1991"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib16",
+      "doi-asserted-by": "crossref",
+      "first-page": "154",
+      "DOI": "10.1016/j.agsy.2018.06.018",
+      "article-title": "25 years of the WOFOST cropping systems model",
+      "volume": "168",
+      "author": "De Wit",
+      "year": "2019",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib17",
+      "unstructured": "De Wit, A.J.W., 2021. https://github.com/ajwdewit/pcse visited on March 26 2021."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib18",
+      "unstructured": "De Wit, A.J.W., Boogaard, H., Sutton, M.A. & Van den Derg, M. , 2020.System description of the WOFOST 7.2 cropping systems model. Wageningen: Wageningen Environmental Research."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib19",
+      "doi-asserted-by": "crossref",
+      "first-page": "56",
+      "DOI": "10.1016/j.agsy.2018.10.003",
+      "article-title": "The European crop monitoring and yield forecasting system: Celebrating 25\u00a0years of JRC MARS Bulletins",
+      "volume": "168",
+      "author": "van der Velde",
+      "year": "2019",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.eja.2024.127099_bib20",
+      "doi-asserted-by": "crossref",
+      "first-page": "387",
+      "DOI": "10.1007/s11540-020-09483-9",
+      "article-title": "Crop simulation models as decision-supporting tools for sustainable potato production: a review",
+      "volume": "64",
+      "author": "Divya",
+      "year": "2021",
+      "journal-title": "Potato Res."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib21",
+      "series-title": "Nitrogen Turnover in the Soil-Crop System: Modelling of Biological Transformations, Transport of Nitrogen and Nitrogen Use Efficiency. Proceedings of a Workshop held at the Institute for Soil Fertility Research, Haren, The Netherlands, 5\u20136 June 1990",
+      "first-page": "313",
+      "article-title": "Modelling water flow, nitrogen uptake and production for wheat",
+      "author": "Eckersten",
+      "year": "1991"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.eja.2024.127099_bib22",
+      "first-page": "739",
+      "article-title": "Modelling species competition in mixtures of perennial sow-thistle and spring barley based on shoot radiation use efficiency",
+      "volume": "61",
+      "author": "Eckersten",
+      "year": "2011",
+      "journal-title": "Acta Agric. Scand., Sect. B \u2014 Soil Plant Sci."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib23",
+      "unstructured": "EU Nitrogen Expert Panel, 2015.Nitrogen Use Efficiency (NUE) - an indicator for the utilization of nitrogen in agriculture and food systems. Wageningen: Wageningen University, Alterra."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib24",
+      "unstructured": "European Commission\u00a0, 2020. Farm to Fork Strategy; for a fair and environmental-friendly food system. https://ec.europa.eu/food/system/files/2020\u201305/f2f_action-plan_2020_strategy-info_en.pdf."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib25",
+      "series-title": "Nitrogen Turnover in the Soil-Crop System: Modelling of Biological Transformations, Transport of Nitrogen and Nitrogen Use Efficiency. Proceedings of a Workshop held at the Institute for Soil Fertility Research, Haren, The Netherlands, 5\u20136 June 1990",
+      "first-page": "199",
+      "article-title": "The distribution of water and nitrogen in the soil-crop system: a simulation study with validation from a winter wheat field trial",
+      "author": "Grant",
+      "year": "1991"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.eja.2024.127099_bib26",
+      "doi-asserted-by": "crossref",
+      "first-page": "181",
+      "DOI": "10.1093/oxfordjournals.aob.a088118",
+      "article-title": "Growth rate and %N of field grown crops: theory and experiments",
+      "volume": "67",
+      "author": "Greenwood",
+      "year": "1991",
+      "journal-title": "Ann. Bot."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib27",
+      "first-page": "3",
+      "article-title": "Benchmarking Eco-Efficiency and Footprints of Dutch Agriculture in European Context and Implications for Policies for Climate and Environment",
+      "author": "van Grinsven",
+      "year": "2019",
+      "journal-title": "Front. Sustain. Food Syst."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib28",
+      "unstructured": "Groenendijk, P., Renaud, L.V.,\u00a0Roelsma, J. , 2005. Prediction of nitrogen and phosphorus leaching to groundwater and surface waters: process descriptions of the animo4.0 model. Wageningen: Alterra."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib29",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Groenendijk, P., Boogaard, H., Heinen, M., Kroes, J., Supit, I. Wit, A. d , 2016. Simulation nitrogen-limited crop growth with SWAP/WOFOST: process descriptions and user manual. Wageningen: Wageningen Environmental Research.",
+      "DOI": "10.18174/400458"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib30",
+      "unstructured": "Groot, J.J.R.1987.Simulation of nitrogen balance in a system of winter wheat and soil. In Simulation Report CABO-TT, Vol. 13Wageningen: Centre for Agrobiological Research (CABO) and Department of Theoretical Production Ecology, Agricultural University."
+    },
+    {
+      "issue": "2-3",
+      "key": "10.1016/j.eja.2024.127099_bib31",
+      "doi-asserted-by": "crossref",
+      "first-page": "261",
+      "DOI": "10.1007/BF01051132",
+      "article-title": "Simulation of the nitrogen balance in the soil and a winter wheat crop",
+      "volume": "27",
+      "author": "Groot",
+      "year": "1991",
+      "journal-title": "Fertil. Res."
+    },
+    {
+      "issue": "2-3",
+      "key": "10.1016/j.eja.2024.127099_bib32",
+      "doi-asserted-by": "crossref",
+      "first-page": "349",
+      "DOI": "10.1007/BF01051140",
+      "article-title": "Response of wheat to nitrogen fertilization: a data set to validate simulation models for simulation models for nitrogen dynamics in the soil",
+      "volume": "27",
+      "author": "Groot",
+      "year": "1991",
+      "journal-title": "Fertil. Res."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib33",
+      "series-title": "Nitrogen Turnover in the Soil-Crop System: Modelling of Biological Transformations, Transport of Nitrogen and Nitrogen Use Efficiency. Proceedings of a Workshop held at the Institute for Soil Fertility Research, Haren, The Netherlands, 5\u20136 June 1990",
+      "first-page": "245",
+      "article-title": "Simulation of nitrogen dynamics and biomass production in winter wheat using the Danish simulation model DAISY",
+      "author": "Hansen",
+      "year": "1991"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib34",
+      "unstructured": "Heinen, M.2003.A simple denitrification model? Literature review, sensitivity analysis, and application. In Alterra-rapport, 132 Wageningen: Alterra, Green Wiorld Research."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib35",
+      "unstructured": "Heinen, M. & De Willigen, P. , 2005.Vergelijking van de organische stofmodellen MOTOR en MINIP. In Alterra rapportWageningen: Alterra."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib36",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Heinen, M., Brouwer, F., Teuling, K. & Walvoort, D. , 2021 .Bodemfysische schematisatie van Nederland; Update bodemfysische eenhedenkaart. In Wageningen Environmental Research Rapport, Vol. 3056Wageningen: Wageningen Environmental Research.",
+      "DOI": "10.18174/541544"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eja.2024.127099_bib37",
+      "doi-asserted-by": "crossref",
+      "first-page": "105",
+      "DOI": "10.1007/s10705-017-9875-5",
+      "article-title": "Nitrogen fertiliser replacement values for organic amendments appear to increase with N application rates",
+      "volume": "110",
+      "author": "Hijbeek",
+      "year": "2018",
+      "journal-title": "Nutr. Cycl. Agroecosystems"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib38",
+      "doi-asserted-by": "crossref",
+      "first-page": "327",
+      "DOI": "10.1016/j.envsoft.2014.07.009",
+      "article-title": "APSIM - Evolution towards a new generation of agricultural systems simulation",
+      "volume": "62",
+      "author": "Holzworth",
+      "year": "2014",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib39",
+      "doi-asserted-by": "crossref",
+      "first-page": "43",
+      "DOI": "10.1016/j.envsoft.2018.02.002",
+      "article-title": "APSIM next generation: overcoming challenges in modernising a farming systems model",
+      "volume": "103",
+      "author": "Holzworth",
+      "year": "2018",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib40",
+      "series-title": "Advances in crop modelling for a susainable agriculture",
+      "first-page": "173",
+      "article-title": "The DSSAT crop modeling ecosystem",
+      "author": "Hoogenboom",
+      "year": "2019"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.eja.2024.127099_bib41",
+      "doi-asserted-by": "crossref",
+      "first-page": "323",
+      "DOI": "10.1016/S1573-5214(01)80021-X",
+      "article-title": "Effect of application technique, manure characteristics, weather and field conditions on ammonia volatilization from manure applied to grassland",
+      "volume": "49",
+      "author": "Huijsmans",
+      "year": "2001",
+      "journal-title": "NJAS - Wagening. J. Life Sci."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib42",
+      "first-page": "235",
+      "article-title": "A simple model for calculating decomposition and accumulation of \"young\" soil organic matter",
+      "volume": "181",
+      "author": "Janssen",
+      "year": "1984",
+      "journal-title": "Plant Soil"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib43",
+      "first-page": "433",
+      "article-title": "Een \u00e9\u00e9n-parametermodel voor de berekening van de decompositie van organisch materiaal",
+      "volume": "66",
+      "author": "Janssen",
+      "year": "1986",
+      "journal-title": "Vakbl. voor Biol."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.eja.2024.127099_bib44",
+      "doi-asserted-by": "crossref",
+      "first-page": "397",
+      "DOI": "10.1006/anbo.1994.1133",
+      "article-title": "Determination of a critical nitrogen dilution curve for winter-wheat crops",
+      "volume": "74",
+      "author": "Justes",
+      "year": "1994",
+      "journal-title": "Ann. Bot."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib45",
+      "unstructured": "Keating, B., Meinke, H., Probert, M.E., Huth, N.I. & Hills, I.G. , 2001, NWheat: Documentation and Performance of a Weath Module for APSIM. In Tropical Agriculture Technical Memorandum, 1\u201367 Indooroopilly, Qld, Australia: CSIRO Tropical Agriculture."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.eja.2024.127099_bib46",
+      "doi-asserted-by": "crossref",
+      "first-page": "273",
+      "DOI": "10.1007/BF01051133",
+      "article-title": "Modelling nitrogen dynamics in a plant-soil system with a simple model for advisory purposes",
+      "volume": "27",
+      "author": "Kersebaum",
+      "year": "1991",
+      "journal-title": "Fertil. Res."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eja.2024.127099_bib47",
+      "first-page": "249",
+      "article-title": "Digital twins in the green life sciences",
+      "volume": "94",
+      "author": "Knibbe",
+      "year": "2022",
+      "journal-title": "NJAS: Impact Agric. Life Sci."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib48",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kroes, J.G., Dam, J.C. v, Bartholomeus, R.P., Groenendijk, P., Heinen, M., Hendriks, R.F.A., Mulder, H.M., Supit, I. & Walsum, P.E.V. v (2017).SWAP version 4: theory description and user manual. Wageningen: Wageningen Environmental Research.",
+      "DOI": "10.18174/416321"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.eja.2024.127099_bib49",
+      "doi-asserted-by": "crossref",
+      "first-page": "215",
+      "DOI": "10.1007/BF01051129",
+      "article-title": "Modelling water flow, nitrogen transport and root uptake including physical non-equilibrium and optimization of the root water potential",
+      "volume": "27",
+      "author": "Lafolie",
+      "year": "1991",
+      "journal-title": "Fertil. Res."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib50",
+      "article-title": "Microbial biomass C:N:P as a better indicator than soil and ecoenzymatic C:N:P for microbial nutrient limitation and C dynamics in Zoige Plateau peatland soils",
+      "volume": "175",
+      "author": "Luo",
+      "year": "2022",
+      "journal-title": "Int.\u00a0Biodet. & Biodegrad."
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.eja.2024.127099_bib51",
+      "doi-asserted-by": "crossref",
+      "first-page": "1355",
+      "DOI": "10.1016/j.soilbio.2009.02.031",
+      "article-title": "Soil carbon and nitrogen mineralization: theory and models across scales",
+      "volume": "41",
+      "author": "Manzoni",
+      "year": "2009",
+      "journal-title": "Soil Biol. Biochem."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib52",
+      "first-page": "3",
+      "article-title": "Using a crop modeling framework for precision cost-benefit analysis of variable seeding and nitrogen application rates",
+      "author": "McNunn",
+      "year": "2019",
+      "journal-title": "Front. Sustain. Food Syst."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib53",
+      "series-title": "Nitrogen Turnover in the Soil-Crop System: Modelling of Biological Transformations, Transport of Nitrogen and Nitrogen Use Efficiency. Proceedings of a Workshop held at the Institute for Soil Fertility Research, Haren, The Netherlands, 5\u20136 June 1990",
+      "first-page": "293",
+      "article-title": "Simulation of the effects of nitrogen supply on yield formation processes in winter wheat with the model TRITSIM",
+      "author": "Mirschel",
+      "year": "1991"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib54",
+      "first-page": "35",
+      "article-title": "Calibration of the century, apsim and ndicea models of decomposition and n mineralization of plant residues in the humid tropics",
+      "author": "Nascimento",
+      "year": "2011",
+      "journal-title": "Rev. Bras. De. Ci\u00eancia do Solo"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib55",
+      "unstructured": "NOAA (2021). https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_annmean_mlo.txt. (October 18 2021)."
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.eja.2024.127099_bib56",
+      "doi-asserted-by": "crossref",
+      "first-page": "1527",
+      "DOI": "10.1080/19440049.2012.712060",
+      "article-title": "Changes in time of sowing, flowering and maturity of cereals in Europe under climate change",
+      "volume": "29",
+      "author": "Olesen",
+      "year": "2012",
+      "journal-title": "Food Addit. Contam.: Part A"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.eja.2024.127099_bib57",
+      "doi-asserted-by": "crossref",
+      "first-page": "207",
+      "DOI": "10.1002/jsfa.4710",
+      "article-title": "Perspectives to breed for improved baking quality wheat varieties adapted to organic growing conditions",
+      "volume": "92",
+      "author": "Osman",
+      "year": "2012",
+      "journal-title": "J. Sci. Food Agric."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib58",
+      "unstructured": "Overweg, H., Berghuijs, H.N.C. & Athanasiadis, I.N.2021.CropGym: a Reinforcement Learning Environment for Crop Management. arXiv."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib59",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.agsy.2020.103016",
+      "article-title": "Machine learning for large-scale crop yield forecasting",
+      "volume": "187",
+      "author": "Paudel",
+      "year": "2021",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib60",
+      "doi-asserted-by": "crossref",
+      "first-page": "1627",
+      "DOI": "10.2135/cropsci1995.0011183X003500060018x",
+      "article-title": "Relationship between leaf photosynthesis and nitrogen content of field-grown rice in tropics",
+      "volume": "35",
+      "author": "Peng",
+      "year": "1995",
+      "journal-title": "Crop Sci."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib61",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.compag.2020.105942",
+      "article-title": "Introducing digital twins to agriculture",
+      "volume": "184",
+      "author": "Pylianidis",
+      "year": "2021",
+      "journal-title": "Comput. Electron. Agric."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib62",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.agsy.2019.102689",
+      "article-title": "Exploring nitrogen indicators of farm performance among farm types across several European case studies",
+      "volume": "177",
+      "author": "Quemada",
+      "year": "2020",
+      "journal-title": "Agric. Syst."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib63",
+      "series-title": "Experimental Design and Data Analysis for Biologists",
+      "author": "Quinn",
+      "year": "2006"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib64",
+      "article-title": "Reference manual of the FORTRAN utility library TTUTIL with applications",
+      "volume": "Vol. 20",
+      "author": "Rappoldt",
+      "year": "1989"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib65",
+      "first-page": "175",
+      "article-title": "Extension of the WOFOST soil water submodel: comparison with SWAP and technical documentation",
+      "volume": "Vol. 6",
+      "author": "Rappoldt",
+      "year": "2012"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.eja.2024.127099_bib66",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1088/1748-9326/10/4/045004",
+      "article-title": "Climate change impact and adaptation research requires integrated assessment and farming systems analysis: a case study in the Netherlands",
+      "volume": "10",
+      "author": "Reidsma",
+      "year": "2015",
+      "journal-title": "Environ. Res. Lett."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib67",
+      "unstructured": "Rietberg, P. I & Van der Burgt, G.J.H.M. (2012). Evaluation of the NDICEA model. Based on case studies in United Kingdom, Denmark, and Spain. 012\u2013036 LbP. Driebergen: Louis Bolk Instituut."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib68",
+      "article-title": "Cereal growth, development and yield",
+      "volume": "Vol. 7",
+      "author": "Ritchie",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib69",
+      "doi-asserted-by": "crossref",
+      "first-page": "109",
+      "DOI": "10.1016/j.eja.2018.09.003",
+      "article-title": "Cereal yield gaps across Europe",
+      "volume": "101",
+      "author": "Schils",
+      "year": "2018",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib70",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.scitotenv.2021.147427",
+      "article-title": "Reconciling food production and environmental boundaries for nitrogen in the European Union",
+      "volume": "786",
+      "author": "Schulte-Uebbing",
+      "year": "2021",
+      "journal-title": "Sci. Total Environ."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.eja.2024.127099_bib71",
+      "doi-asserted-by": "crossref",
+      "first-page": "542",
+      "DOI": "10.1111/j.1467-9353.2005.00263.x",
+      "article-title": "Efficient waste? Why farmers over-apply nutrients and the implications for policy design",
+      "volume": "27",
+      "author": "Sheriff",
+      "year": "2005",
+      "journal-title": "Rev. Agric. Econ."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eja.2024.127099_bib72",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.geoderma.2006.08.008",
+      "article-title": "Quantitative description of soil organic matter dynamics\u2014a review of approaches with reference to rice-based cropping systems",
+      "volume": "137",
+      "author": "Shibu",
+      "year": "2006",
+      "journal-title": "Geoderma"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.eja.2024.127099_bib73",
+      "doi-asserted-by": "crossref",
+      "first-page": "255",
+      "DOI": "10.1016/j.eja.2010.01.003",
+      "article-title": "LINTUL3, a simulation model for nitrogen-limited situations: Application to rice",
+      "volume": "32",
+      "author": "Shibu",
+      "year": "2010",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.eja.2024.127099_bib74",
+      "doi-asserted-by": "crossref",
+      "first-page": "794",
+      "DOI": "10.1017/S0021859621000150",
+      "article-title": "Grand challenges for the 21st century: what crop models can and can't (yet) do",
+      "volume": "158",
+      "author": "Silva",
+      "year": "2020",
+      "journal-title": "J. Agric. Sci."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib75",
+      "doi-asserted-by": "crossref",
+      "first-page": "223",
+      "DOI": "10.1016/j.eja.2016.06.017",
+      "article-title": "Explaining rice yields and yield gaps in Central Luzon, Philippines: an application of stochastic frontier analysis and crop modelling",
+      "volume": "82",
+      "author": "Silva",
+      "year": "2017",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib76",
+      "doi-asserted-by": "crossref",
+      "first-page": "78",
+      "DOI": "10.1016/j.agsy.2017.06.005",
+      "article-title": "Yields gaps in Dutch arable farming systems: Analysis at crop and crop rotation level",
+      "volume": "158",
+      "author": "Silva",
+      "year": "2017",
+      "journal-title": "Agricultural Systems"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib77",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.fcr.2020.107828",
+      "article-title": "Can big data explain yield variability and water productivity in intensive cropping systems?",
+      "volume": "255",
+      "author": "Silva",
+      "year": "2020",
+      "journal-title": "Field Crops Res."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib78",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.gfs.2021.100552",
+      "article-title": "How sustainable is sustainable intensification? Assessing yield gaps at field and farm level across the globe",
+      "volume": "30",
+      "author": "Silva",
+      "year": "2021",
+      "journal-title": "Glob. Food Secur."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib79",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.fcr.2021.108176",
+      "article-title": "Agronomic analysis of nitrogen performance indicators in intensive arable cropping systems: An appraisal of big data from commercial farms",
+      "volume": "269",
+      "author": "Silva",
+      "year": "2021",
+      "journal-title": "Field Crops Res."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eja.2024.127099_bib80",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.2135/cropsci1989.0011183X002900010023x",
+      "article-title": "Leaf nitrogen, photosynthesis, and crop radiation use efficiency: a review",
+      "volume": "29",
+      "author": "Sinclair",
+      "year": "1989",
+      "journal-title": "Crop Sci."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.eja.2024.127099_bib81",
+      "doi-asserted-by": "crossref",
+      "first-page": "471",
+      "DOI": "10.1017/S1742170515000381",
+      "article-title": "Predicting the effect of rotation design on N, P, K balances on organic farms using the NDICEA model",
+      "volume": "31",
+      "author": "Smith",
+      "year": "2016",
+      "journal-title": "Renew. Agric. Food Syst."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib82",
+      "article-title": "Modelling potential potato yields: accounting for experimental differences in modern cultivars",
+      "volume": "137",
+      "author": "Ten Den",
+      "year": "2022",
+      "journal-title": "Eur. J. Agron."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib83",
+      "series-title": "XVII. Congress of the European Society for Agronomy",
+      "first-page": "288",
+      "article-title": "Capturing cultivar differences in water-limited yield potential of potato in the Netherlands via experimentation and modelling",
+      "author": "Ten Den",
+      "year": "2022"
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.eja.2024.127099_bib84",
+      "doi-asserted-by": "crossref",
+      "first-page": "1018",
+      "DOI": "10.1111/geb.12351",
+      "article-title": "Simulation of the phenological development of wheat and maize at the global scale",
+      "volume": "24",
+      "author": "Van Bussel",
+      "year": "2015",
+      "journal-title": "Glob. Ecol. Biogeogr."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.eja.2024.127099_bib85",
+      "doi-asserted-by": "crossref",
+      "first-page": "275",
+      "DOI": "10.1007/s10705-006-9004-3",
+      "article-title": "The NDICEA model, a tool to improve nitrogen use efficiency in cropping systems",
+      "volume": "74",
+      "author": "Van der Burgt",
+      "year": "2006",
+      "journal-title": "Nutr. Cycl. Agroecosystems"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib86",
+      "unstructured": "Van Diepen, C.A., Rappoldt, C., Wolf, J. & Van Keulen, H.1988.CWFS Crop Growth Simulation Model Wofost Documentation Version 4.1; https://edepot.wur.nl/360520. In Staff working paperWageningen: CABO."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.eja.2024.127099_bib87",
+      "doi-asserted-by": "crossref",
+      "first-page": "16",
+      "DOI": "10.1111/j.1475-2743.1989.tb00755.x",
+      "article-title": "WOFOST: a simulation model of crop production",
+      "volume": "5",
+      "author": "Van Diepen",
+      "year": "1989",
+      "journal-title": "Soil Use Manag."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.eja.2024.127099_bib88",
+      "doi-asserted-by": "crossref",
+      "first-page": "892",
+      "DOI": "10.2136/sssaj1980.03615995004400050002x",
+      "article-title": "A closed-form equation for predicting the hydraulic conductivity of unsaturated soils",
+      "volume": "44",
+      "author": "Van Genuchten",
+      "year": "1980",
+      "journal-title": "Soil Sci. Soc. Am. J."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib89",
+      "unstructured": "Van Keulen, H. & Seligman, N.G. , 1987. Simulation of water use, nitrogen nutrition and growth of a wheat spring crop. Wageningen, The Netherlands: Pudoc Wageningen."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.eja.2024.127099_bib90",
+      "first-page": "221",
+      "article-title": "Modelling organic matter dynamics in different soils",
+      "volume": "38",
+      "author": "Verberne",
+      "year": "1990",
+      "journal-title": "Neth. J. Agric. Sci."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib91",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wang, D., Rianti, W., G\u00e1lvez, F., van der Putten, P.E.L., Struik, P.C. & Yin, X.2022. Estimating photosynthetic parameter values of rice, wheat, maize and sorghum to enable smart crop cultivation. Crop and Environment.",
+      "DOI": "10.1016/j.crope.2022.05.004"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib92",
+      "first-page": "159",
+      "article-title": "Chapter Three - Nitrate N loss by leaching and surface runoff in agricultural land: A global issue (a review)",
+      "volume": "Vol. 156",
+      "author": "Wang",
+      "year": "2019"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.eja.2024.127099_bib93",
+      "doi-asserted-by": "crossref",
+      "first-page": "283",
+      "DOI": "10.1007/BF01051134",
+      "article-title": "Simulation of nitrogen in soil and winter wheat crops: modelling nitrogen turnover through organic matter",
+      "volume": "27",
+      "author": "Whitmore",
+      "year": "1991",
+      "journal-title": "Fertil. Res."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib94",
+      "unstructured": "Wolf, J. , 2012.LINTUL4 and LINTUL4V: Simple generic model for simulation of crop growth under potential, water limited and nitrogen limited conditions Wageningen: Group Plant Production System, Wageningen UR."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib95",
+      "doi-asserted-by": "crossref",
+      "unstructured": "W\u00f6sten, J.H.M. & Nemes, A. , 2004.Pedotransfer functions for Europe. In Developments in Soil Science (Eds Pachepsky Y and R. WJ). Elsevier.",
+      "DOI": "10.1016/S0166-2481(04)30022-X"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.eja.2024.127099_bib96",
+      "doi-asserted-by": "crossref",
+      "first-page": "323",
+      "DOI": "10.1023/A:1026455227790",
+      "article-title": "Do farmers overuse nitrogen fertilizer to the detriment of the environment?",
+      "volume": "9",
+      "author": "Yadav",
+      "year": "1997",
+      "journal-title": "Environ. Resour. Econ."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.eja.2024.127099_bib97",
+      "doi-asserted-by": "crossref",
+      "first-page": "517",
+      "DOI": "10.1046/j.1365-2389.2000.00319.x",
+      "article-title": "A mono-component model of carbon mineralization with a dynamic rate constant",
+      "volume": "51",
+      "author": "Yang",
+      "year": "2000",
+      "journal-title": "Eur. J. Soil Sci."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib98",
+      "unstructured": "Yin, X., Verhagen, J., Jongschaap, R. & Schapendonk, A.H.C.M. , 2001.A model to simulate responses of the crop-soilsystem in relation to environmental change. Wageningen: Plant Research International B.V., Wageningen."
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib99",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.fcr.2020.107863",
+      "article-title": "Uncertainties in simulating N uptake, net N mineralization, soil mineral N and N leaching in European crop rotations using process-based models",
+      "volume": "255",
+      "author": "Yin",
+      "year": "2020",
+      "journal-title": "Field Crops Res."
+    },
+    {
+      "issue": "7580",
+      "key": "10.1016/j.eja.2024.127099_bib100",
+      "doi-asserted-by": "crossref",
+      "first-page": "51",
+      "DOI": "10.1038/nature15743",
+      "article-title": "Managing nitrogen for sustainable development",
+      "volume": "528",
+      "author": "Zhang",
+      "year": "2015",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.eja.2024.127099_bib101",
+      "unstructured": "Zheng, B., Chenu, K., Doherty, A. & Chapman, S. , 2014.The APSIM-Wheat Module; \u3008https://www.apsim.info/wp-content/uploads/2019/09/WheatDocumentation.pdf\u3009."
+    }
+  ],
+  "container-title": [
+    "European Journal of Agronomy"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1161030124000200?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1161030124000200?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        22
+      ]
+    ],
+    "date-time": "2025-10-22T05:41:23Z",
+    "timestamp": 1761111683000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1161030124000200"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3
+      ]
+    ]
+  },
+  "references-count": 101,
+  "alternative-id": [
+    "S1161030124000200"
+  ],
+  "URL": "https://doi.org/10.1016/j.eja.2024.127099",
+  "relation": {},
+  "ISSN": [
+    "1161-0301"
+  ],
+  "issn-type": [
+    {
+      "value": "1161-0301",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        3
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Expanding the WOFOST crop model to explore options for sustainable nitrogen management: A study for winter wheat in the Netherlands",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "European Journal of Agronomy",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.eja.2024.127099",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "\u00a9 2024 The Author(s). Published by Elsevier B.V.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "127099"
+}

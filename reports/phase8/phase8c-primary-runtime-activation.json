@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "target": "cache/phase5-regional-config/Wofost81_NWLP_MLWB_SNOMIN.conf",
+  "prior_primary_config_preserved": "cache/phase8c-primary-runtime-backup/Wofost81_NWLP_MLWB_SNOMIN.conf",
+  "prior_sha256": "9085067965595374d725a66c4447026c49e867be888ab299e5cc77beafd372de",
+  "active_sha256": "3f3c8df76c6b9e81acab9ef575d5f78f0cc18524051153c06c77dc51b3d3a370",
+  "native_equations_unchanged": true,
+  "original_permit_unchanged": true
+}

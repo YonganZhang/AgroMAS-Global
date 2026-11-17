@@ -1,0 +1,5 @@
+{"control": "Full-Telemetry-ExtraTrees", "radius": 5.830279263322524, "alpha": 0.1, "samples": 19770, "calibration_set_coverage": 0.9000505816894284, "full_branch_product": true}
+{"control": "Sensorless-ExtraTrees", "radius": -3.158877253305036, "alpha": 0.1, "samples": 19770, "calibration_set_coverage": 0.9000505816894284, "full_branch_product": true}
+{"control": "Full-Telemetry-Linear", "radius": -2.5528892562961687, "alpha": 0.1, "samples": 19770, "calibration_set_coverage": 0.9000505816894284, "full_branch_product": true}
+{"control": "Sensorless-Linear", "radius": -6.462172383156826, "alpha": 0.1, "samples": 19770, "calibration_set_coverage": 0.9000505816894284, "full_branch_product": true}
+{"control": "Sensorless-Weather", "radius": -8.468871734662429, "alpha": 0.1, "samples": 19770, "calibration_set_coverage": 0.9000505816894284, "full_branch_product": true}

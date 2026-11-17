@@ -1,0 +1,106 @@
+{
+  "world": [
+    "usa_kansas_wichita",
+    2019,
+    "idealized_mid",
+    "NASA"
+  ],
+  "native_simulations": 11,
+  "unique_executed_trajectories": 11,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        10.0,
+        60.0,
+        10.0
+      ],
+      "sha256": "63ec3c5172d13876cd2a7a1d4d37083fd03a97d083cf719ad956e28e578911a2"
+    },
+    {
+      "doses": [
+        0.0,
+        20.0,
+        60.0
+      ],
+      "sha256": "12f7f99c8bacca7d711b4852091deb96e6081eb86217c3a44d88ab3c18c22e73"
+    },
+    {
+      "doses": [
+        0.0,
+        20.0,
+        80.0
+      ],
+      "sha256": "c7fe7af3ddf1aef6917ee8ae954be581f3ea34028dea4ef875bac760e8f660ca"
+    },
+    {
+      "doses": [
+        0.0,
+        10.0,
+        60.0
+      ],
+      "sha256": "dd187c1e7a1869aa03d242a8ec4da82627f50c4d83abcde920fb63fdc122c00d"
+    },
+    {
+      "doses": [
+        10.0,
+        40.0,
+        20.0
+      ],
+      "sha256": "a7f2466e4deb5d40e3eb2ccb9a91b376f74ae6cc081a0380ae614555d765a202"
+    },
+    {
+      "doses": [
+        20.0,
+        60.0,
+        10.0
+      ],
+      "sha256": "0459d227e1cd773c9379053567686cbbb82d42b0ea5a320408b4beae25417e77"
+    },
+    {
+      "doses": [
+        20.0,
+        60.0,
+        0.0
+      ],
+      "sha256": "9f21b7483fbc3dc6a5d53c91bcd687e47de15ad890274304d2dee8c83b54e3e3"
+    },
+    {
+      "doses": [
+        0.0,
+        60.0,
+        40.0
+      ],
+      "sha256": "4208159337e9061bdde63a35a5316a78444458be2a38e4c8b25e43995159408a"
+    },
+    {
+      "doses": [
+        0.0,
+        40.0,
+        80.0
+      ],
+      "sha256": "392ac3a9decd5c0eb58f6f88fafb8f5a6fd0f3d56a873b8e531dbce6461ab7a6"
+    },
+    {
+      "doses": [
+        0.0,
+        40.0,
+        60.0
+      ],
+      "sha256": "0e189968e13654ab7087e7b51d10b57d567f040b52b3f48871d4e906c11bdf4c"
+    },
+    {
+      "doses": [
+        20.0,
+        60.0,
+        20.0
+      ],
+      "sha256": "1258b29ca9248bf2a81959468a35f47bbf67b57802f8c4f03c2bb83f6d214603"
+    }
+  ],
+  "complete_requested_paths": 11,
+  "cases_replayed": 79,
+  "public_prefix_nodes": 11,
+  "prefix_decisions_replayed": 259,
+  "worker": 4,
+  "cases": 90
+}

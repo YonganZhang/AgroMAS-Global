@@ -1,0 +1,185 @@
+{
+  "completed": 6,
+  "failed": 2,
+  "unstarted": 2009,
+  "total": 2017,
+  "cause": "LegacyV6Policy sent illegal candidate actions to protected legacy project_members; predict only legal rows and preserve original training placeholder statistics for masked actions",
+  "completed_results_untouched": true,
+  "automatic_retries": 0,
+  "complete_policy_scores_inspected": false,
+  "claims": [
+    {
+      "episode_id": "7b32cf0df485272c0f29",
+      "policy": "LegacyV6Full",
+      "seed": null,
+      "status": "failed",
+      "case": {
+        "region": "australia_wa_perth",
+        "year": 2015,
+        "role": "Held-Out",
+        "source": "NASA",
+        "cohort": "Former-Held-Out",
+        "cap": 40.0,
+        "price_multiplier": 1.0,
+        "subsidy": 0.0,
+        "tax": 0.0,
+        "benchmark": "P1",
+        "policy": "LegacyV6Full",
+        "track": "Full-Telemetry",
+        "episode_id": "7b32cf0df485272c0f29"
+      }
+    },
+    {
+      "episode_id": "7aa51f94344a9e20a2cc",
+      "policy": "SensorlessPPO",
+      "seed": 4,
+      "status": "completed",
+      "case": {
+        "region": "australia_wa_perth",
+        "year": 2015,
+        "role": "Held-Out",
+        "source": "NASA",
+        "cohort": "Former-Held-Out",
+        "cap": 40.0,
+        "price_multiplier": 1.0,
+        "subsidy": 0.0,
+        "tax": 0.0,
+        "benchmark": "P1",
+        "policy": "SensorlessPPO",
+        "track": "Sensorless",
+        "seed": 4,
+        "episode_id": "7aa51f94344a9e20a2cc"
+      }
+    },
+    {
+      "episode_id": "d4cf3b4ea1b4008e998d",
+      "policy": "DVS-N2",
+      "seed": null,
+      "status": "completed",
+      "case": {
+        "region": "australia_wa_perth",
+        "year": 2015,
+        "role": "Held-Out",
+        "source": "NASA",
+        "cohort": "Former-Held-Out",
+        "cap": 40.0,
+        "price_multiplier": 1.0,
+        "subsidy": 0.0,
+        "tax": 0.0,
+        "benchmark": "P1",
+        "policy": "DVS-N2",
+        "track": "Full-Telemetry",
+        "episode_id": "d4cf3b4ea1b4008e998d"
+      }
+    },
+    {
+      "episode_id": "1c837689d1302a709113",
+      "policy": "TreeMLP",
+      "seed": null,
+      "status": "completed",
+      "case": {
+        "region": "australia_wa_perth",
+        "year": 2015,
+        "role": "Held-Out",
+        "source": "NASA",
+        "cohort": "Former-Held-Out",
+        "cap": 40.0,
+        "price_multiplier": 1.0,
+        "subsidy": 0.0,
+        "tax": 0.0,
+        "benchmark": "P1",
+        "policy": "TreeMLP",
+        "track": "Sensorless",
+        "episode_id": "1c837689d1302a709113"
+      }
+    },
+    {
+      "episode_id": "6a803c766964009533af",
+      "policy": "LegacyV6PPO",
+      "seed": 4,
+      "status": "failed",
+      "case": {
+        "region": "australia_wa_perth",
+        "year": 2015,
+        "role": "Held-Out",
+        "source": "NASA",
+        "cohort": "Former-Held-Out",
+        "cap": 40.0,
+        "price_multiplier": 1.0,
+        "subsidy": 0.0,
+        "tax": 0.0,
+        "benchmark": "P1",
+        "policy": "LegacyV6PPO",
+        "track": "Full-Telemetry",
+        "seed": 4,
+        "episode_id": "6a803c766964009533af"
+      }
+    },
+    {
+      "episode_id": "5f760af2670fd6ff45c9",
+      "policy": "SensorlessPPO",
+      "seed": 17,
+      "status": "completed",
+      "case": {
+        "region": "australia_wa_perth",
+        "year": 2015,
+        "role": "Held-Out",
+        "source": "NASA",
+        "cohort": "Former-Held-Out",
+        "cap": 40.0,
+        "price_multiplier": 1.0,
+        "subsidy": 0.0,
+        "tax": 0.0,
+        "benchmark": "P1",
+        "policy": "SensorlessPPO",
+        "track": "Sensorless",
+        "seed": 17,
+        "episode_id": "5f760af2670fd6ff45c9"
+      }
+    },
+    {
+      "episode_id": "3dc74312a70f22feee58",
+      "policy": "LegacyV6PPO",
+      "seed": 17,
+      "status": "completed",
+      "case": {
+        "region": "australia_wa_perth",
+        "year": 2015,
+        "role": "Held-Out",
+        "source": "NASA",
+        "cohort": "Former-Held-Out",
+        "cap": 40.0,
+        "price_multiplier": 1.0,
+        "subsidy": 0.0,
+        "tax": 0.0,
+        "benchmark": "P1",
+        "policy": "LegacyV6PPO",
+        "track": "Full-Telemetry",
+        "seed": 17,
+        "episode_id": "3dc74312a70f22feee58"
+      }
+    },
+    {
+      "episode_id": "d8262802c3e600c3a42b",
+      "policy": "TreeMLP",
+      "seed": null,
+      "status": "completed",
+      "case": {
+        "region": "australia_wa_perth",
+        "year": 2015,
+        "role": "Held-Out",
+        "source": "NASA",
+        "cohort": "Former-Held-Out",
+        "cap": 40.0,
+        "price_multiplier": 1.0,
+        "subsidy": 0.0,
+        "tax": 0.0,
+        "benchmark": "P1",
+        "policy": "TreeMLP",
+        "track": "Full-Telemetry",
+        "episode_id": "d8262802c3e600c3a42b"
+      }
+    }
+  ],
+  "requires_user_exception": "two failed native seasons cannot resume from process memory; rerunning them needs explicit approval under single-pass rule"
+}

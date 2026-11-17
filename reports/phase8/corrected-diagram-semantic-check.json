@@ -1,0 +1,132 @@
+{
+  "scope": "Bounded semantic/source selfcheck, not empirical performance",
+  "agents": [
+    "clim",
+    "core",
+    "eco",
+    "econ"
+  ],
+  "agent_incoming_edges": [
+    {
+      "id": "reply_clim",
+      "source": "reply",
+      "target": "clim",
+      "label": "\u5929\u6c14\u60c5\u666f\u54cd\u5e94",
+      "kind": "pending",
+      "ports": [
+        0,
+        0.5,
+        0.5,
+        0
+      ],
+      "via": [
+        [
+          270,
+          900
+        ]
+      ]
+    },
+    {
+      "id": "reply_eco",
+      "source": "reply",
+      "target": "eco",
+      "label": "\u76c8\u4f59/\u635f\u5931\u5206\u5e03",
+      "kind": "pending",
+      "ports": [
+        0.35,
+        1,
+        0.5,
+        0
+      ]
+    },
+    {
+      "id": "reply_econ",
+      "source": "reply",
+      "target": "econ",
+      "label": "\u4ea7\u91cf/\u7c7d\u7c92N/NUE",
+      "kind": "pending",
+      "ports": [
+        1,
+        0.5,
+        0.5,
+        0
+      ],
+      "via": [
+        [
+          1310,
+          900
+        ]
+      ]
+    },
+    {
+      "id": "reply_core",
+      "source": "reply",
+      "target": "core",
+      "label": "\u519c\u827a\u54cd\u5e94\u4e0e\u9002\u7528\u57df",
+      "kind": "pending",
+      "ports": [
+        1,
+        0.3,
+        0.5,
+        0
+      ],
+      "via": [
+        [
+          1400,
+          880
+        ],
+        [
+          1830,
+          880
+        ]
+      ]
+    },
+    {
+      "id": "advice_core",
+      "source": "advice",
+      "target": "core",
+      "label": "\u4e09\u7aef\u5efa\u8bae\u6c47\u603b",
+      "kind": "pending",
+      "ports": [
+        1,
+        0.5,
+        0.25,
+        1
+      ],
+      "via": [
+        [
+          1725,
+          1370
+        ]
+      ]
+    },
+    {
+      "id": "feedback",
+      "source": "action",
+      "target": "core",
+      "label": "\u4e0b\u4e00\u9636\u6bb5\u53ef\u89c2\u6d4b\u524d\u7f00",
+      "kind": "pending",
+      "ports": [
+        1,
+        0.5,
+        1,
+        0.7
+      ],
+      "via": [
+        [
+          2230,
+          1600
+        ],
+        [
+          2230,
+          1174
+        ]
+      ]
+    }
+  ],
+  "raw_vector_inputs_to_agents": 0,
+  "only_DL_consumes_numeric_64D": true,
+  "offline_audit_separate": true,
+  "planned_stage_loop": true,
+  "PNG_personally_inspected_no_clipping": true
+}

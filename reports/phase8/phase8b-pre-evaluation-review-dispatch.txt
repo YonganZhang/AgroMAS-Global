@@ -1,0 +1,6 @@
+DISPATCHED: gemini=gemini-4-carbon-high (why: NORMAL); tier=gate
+DISPATCHED: gemini=gemini-4-carbon-high (planned; serving unverified) [STARTED] (why: NORMAL; Worker serving pending); tier=gate
+status: STARTED
+job_id: 20261116T003014__gemini__1437000
+result_path: /mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/_reports/_foreign_aid/20261116T003014__gemini__1437000/result.md
+status_path: /mnt/data/yongan-admin-2/projects/worktrees/agromas-phase8b/_reports/_foreign_aid/20261116T003014__gemini__1437000/status.md

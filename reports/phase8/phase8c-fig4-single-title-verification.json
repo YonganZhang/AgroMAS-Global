@@ -1,0 +1,52 @@
+{
+  "passed": true,
+  "center_titles": 0,
+  "left_panel_titles": 9,
+  "actual_pdf_diagnostic_title_occurrences": 3,
+  "all_titles": [
+    {
+      "center": "",
+      "left": "a  Historical"
+    },
+    {
+      "center": "",
+      "left": "b  +1.8\u00b0C / 450 ppm"
+    },
+    {
+      "center": "",
+      "left": "c  +3.5\u00b0C / 550 ppm"
+    },
+    {
+      "center": "",
+      "left": "d  Soft-Coupled \u2212 PPO (pp)"
+    },
+    {
+      "center": "",
+      "left": "e  Soft-Coupled \u2212 PPO (pp)"
+    },
+    {
+      "center": "",
+      "left": "f  Soft-Coupled \u2212 PPO (pp)"
+    },
+    {
+      "center": "",
+      "left": "g  Historical cap40 diagnostic"
+    },
+    {
+      "center": "",
+      "left": "h  Historical cap40 diagnostic"
+    },
+    {
+      "center": "",
+      "left": "i  Historical cap40 diagnostic"
+    },
+    {
+      "center": "",
+      "left": ""
+    },
+    {
+      "center": "",
+      "left": ""
+    }
+  ]
+}

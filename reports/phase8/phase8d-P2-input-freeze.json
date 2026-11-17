@@ -1,0 +1,20 @@
+{
+  "site_years": 44,
+  "rows": 34986,
+  "full_product_members": 480,
+  "outer_labels_not_used_for_preparation": true,
+  "files": {
+    "ExtraTrees-banks.npy": "48e1da023cbb626a9e7de25ffb530b94df02d5a75aac9eeccf044d6d49fa6bdc",
+    "x.npy": "1888ea6256e1a7adac98fe5d70fcf172bbb6a410f1062a431c5af48ef34cb9bd",
+    "y.npy": "82cfe0c5ad878a8a363bcc6162592bbed06922a70edd58194af36db2cb1b583c",
+    "Linear-points.npy": "f36c48fa79bbccea34cef48acf7d249530b232f0a29528bca11d39c3c6d6e1d8",
+    "metadata.joblib": "49c88873c3174797e2dc7955a5676750d9ba72c3cd3200a4131ee234643cd2e9",
+    "weights.npy": "273de108dd2f5a0263b9152f0c22022d49374e57d0d15b54b9a2aac6c78a1137",
+    "Linear-banks.npy": "887433cac8a0fd00b08abc508a10b3e7b52dd1c3c63ee0601017c5cb093243d1",
+    "MLP-points.npy": "58e24bc50c988bb71eef95d51c19b893603c66701d6398e40fd3587f390ce0d1",
+    "Weather-banks.npy": "420da9c58e92ac7997d499779dc851b18b5b82836559f9be39674a4d3bd59049",
+    "MLP-banks.npy": "a1b8b98ba58abc9b412d3d83e1ac09fe9cc4e066b4c51a6af4b3604d8317646a",
+    "ExtraTrees-points.npy": "65c4d11e6936a9608b3825d603888a348fc6fcd9516d4e0a2a53c2c756bcd5bf",
+    "Weather-points.npy": "ee3a4cf3c3d7984f922143112c79394f37d74741ed16774897e32e9244eab6f2"
+  }
+}

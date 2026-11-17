@@ -1,0 +1,5535 @@
+{
+  "scope": "25 Historical Dev farm-years;fixed predeclared policies,no retuning",
+  "records": [
+    {
+      "region": "netherlands_lelystad",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.7628650869546105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/ec2925eaa58012a57ccf.json",
+      "sha256": "b7e72830ddf146822a0ffec3ef8886465abc1847216247ffd2e175ea5a5e92d8"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.7628650869546105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/bf34d0502cafdded0648.json",
+      "sha256": "8612300f0b22f404d4ad77d2d562b877aedd0feca8cc061d52c9908376c80927"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.7628650869546105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/3a114c8d787680f879ed.json",
+      "sha256": "7749f839a0c98f75f15a8d53cd15997b17e24062eb748fd132789f1464daea91"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.7628650869546105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/80f958187a751c7766d6.json",
+      "sha256": "90e6fe10633716c380b33d3cb78ef0e39a81def1c6452055daa9fc96f9700378"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.7628650869546105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/9eec0f30be51922872ea.json",
+      "sha256": "f8685fc253641897b8d076ded011080533be1e28dfb9b5c45b320d9c631ec699"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.7628650869546105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/1b43ffe9fee92b89935a.json",
+      "sha256": "1a218ea8f6409d006c6e16d0a03c61c3ed0fa4058d55ac07e408a5d9dc927ddd"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.7628650869546105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/550bc8750f7212cfbb57.json",
+      "sha256": "de68c4c386ea2b0b06b3d8e97b6b2075fe9b71731d2d0568c2f1a9a927561c3a"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.7628650869546105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/785f061737b78e32c8b3.json",
+      "sha256": "14bd880138d8f0220b2af61d7683ab4de287c9fd60623c90d53a3841a04383cc"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.7628650869546105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/60d4d651d112b6f6e773.json",
+      "sha256": "7ade1c6f38dbdd679e75bd162198bdc961ebaf42df8279c238467bdc23fba49d"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.7628650869546105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/efb60085cedd40368e82.json",
+      "sha256": "46bdbafc481e77090ece0810ae39f89ffd46e06bc61efd6266d03a5acb1ce705"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.7628650869546105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/0e394003a48b7497c068.json",
+      "sha256": "b56c561d8a04d0a373a9ca28fc79fb53e444c712849b015e007c4b1828aa7288"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.7628650869546105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/7f203c505ae61e425d61.json",
+      "sha256": "019f48e0339e942d088efb82f2c62705d1dc512b5ec8b0b886a2a76c2cb08013"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9657546900457067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/62686e0633785bd3c407.json",
+      "sha256": "f530d3cf33ecc7c277bd7838edffa9a9074c38e199e365151288617550445ba6"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9657546900457067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/5540cf6852bb620aca18.json",
+      "sha256": "5d1da8041b0919cd3b18b9c269a1ed2845d0cf33c31688e0fe004e7b146ed26a"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9657546900457067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/939b8f921158adb1f19c.json",
+      "sha256": "f0c5491df97e1a5fb04c3c41f574cd2acaa239550f8f7912aa0076ddebae26fe"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9657546900457067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/a2d7769057a1a026e17c.json",
+      "sha256": "92bf9c4b783ae7db5e11beddebef09a33caff0a1e98c2a64060cb9147a00d43a"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9657546900457067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/76b8769efb0d8b77822f.json",
+      "sha256": "100f0087aba51675385ba8ec5ab782dcf1b808d40f9b57284873c78c5d23447b"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9657546900457067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/a14377e8c98545fba59b.json",
+      "sha256": "c5d531e8d9092cfa54dd077f307da98d5effed041e25762a84f4007943c1bd20"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9657546900457067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/190a26afaaf7d8a5941b.json",
+      "sha256": "dfc03dca1f79b78ce4710e56ae0a53ccba1129cd910ce138eb7835a414e0df00"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9657546900457067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/07827722220040fdc770.json",
+      "sha256": "97fec5ccbce0ef4d50395e38d02085da820e8c222f8dbbe028b9e6790e26b947"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9657546900457067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/2b6fe30d7490c714b44c.json",
+      "sha256": "149ec929f75b161b352686366278a8b9ab4c4431089e3ad3b31bfcee9bc80d1c"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9657546900457067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/e113209e5561d2e0fabb.json",
+      "sha256": "0fe2b3dd799b7ac88c31574c6f6db3ec0133024dc0e9b6d53583415daf390211"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9657546900457067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/b207cf12e81add191129.json",
+      "sha256": "bc3f482679f623208b3af4aed3af1d51c50bfa8a4b0e1acc8f59c584b8edb62a"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9657546900457067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/7065ef984e5061a4edcc.json",
+      "sha256": "dc3509c682ec4d061ea9451f54788330d452a856d81e6332c9041d29658d6559"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.799834066435873,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/30c78e3010eb1138c27a.json",
+      "sha256": "2090e48a5fe58b1d370d39fe936eae58af59ec40f98439b2d7e8c17cc007248e"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.799834066435873,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/0cfc1b629b9494a90484.json",
+      "sha256": "e119f2c28b750c33e548b86e70d395e969c3b0c5d280166eddc18c3ed9002678"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.799834066435873,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/0e13d3b0f727d2e5675a.json",
+      "sha256": "bb77b2517faa514be3aa59ac813459f3b15c494238e9c9ddcc35b93a693f7a2c"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.799834066435873,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/fd1da1e90a8d2094f9a5.json",
+      "sha256": "58e9664aaf8e9f7b40a05b63e8193d5c9603ef8ee0f0edbde0385ac3c63e7365"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.7767386877545119,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/503a1a94e4ffaa378b9f.json",
+      "sha256": "98ac1816cb2ded48ba2e47b3b89f20d9be03a2e0fb9fb6d3a53e193e3e0ad43b"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.7767386877545119,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/87615df8aeb3f5807282.json",
+      "sha256": "1b227372af547cb85e8dc28146dc962983c7bc2ab543d11189c7d7ce53f70590"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 200.0,
+      "NUE": 0.8635074147523086,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/060ddae54b255310e1d6.json",
+      "sha256": "892d1eb670e7a07b36307b31614ec89ba169d83521add2c57696569905d1420f"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.7943151464962872,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/c93927f3da12d3762b0d.json",
+      "sha256": "96fe294cfe480438f7762293ca22e078d9b9c4791ac75028c84d219c417984c9"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.799834066435873,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/e38b08ef3fa7ccd6b22e.json",
+      "sha256": "3f6d7ebf8a77c6beea0a45fb6136ff9bf943ed49ea97339c90940021970e337b"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 200.0,
+      "NUE": 0.8635074147523086,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/1b87db0975e377a30bab.json",
+      "sha256": "b34dd94e793233f843cc99ccf2d084c9b4a4433a5ffd38caa0480d42881b1d5a"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.7943151464962872,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/cbd03e9c62c60d0d49ba.json",
+      "sha256": "6f360bacf7e7359628573885c5b6e49d7b036b1a69773e7d6ee79de7a3ff5ff1"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.799834066435873,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/6d69b08129e8f04e685b.json",
+      "sha256": "a79859f44b774986035f61b190165db2604f74e0fb064f2ee363fe7490786e74"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.36479624045653064,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/6f6de595a69900b68f73.json",
+      "sha256": "d9b07783df279453d60bcd9134e76d642377ba1fc41d29cc73b6aeee087ae5c5"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.36479624045653064,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/ff1450fe0f1fb482cd5b.json",
+      "sha256": "155a2c63c8789da8cd052cab047da0624fbd2a1a9471037d3edc8f7e0a12b511"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.36479624045653064,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/9c9549d670e01bfa4c8f.json",
+      "sha256": "38e5340a8a2eea8adefe76e4e64fbe0cc0a71f393511d242fe01f1ca4a8a5db1"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.36479624045653064,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/929e49fb316f52aed503.json",
+      "sha256": "5f5df4adf572ef1781dd923301eeaf854f002d994325aa65f4b749826ae86ee3"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.36479624045653064,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/1ee61986bfa01a5924f3.json",
+      "sha256": "1f10763d8627f7d4c29ca8ae11bcc1849727646872ffb4e3a8fc113a74d99d79"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.36479624045653064,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/78938cc674758cb0cb0c.json",
+      "sha256": "9ad2efa3fcc549fa2c91ef604ad2c6a5a0c6966a1a62d5843aa889740b8b4185"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.36479624045653064,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/76c9832d1b24a6a741ce.json",
+      "sha256": "96c68187901662d866d7716ca7bd8ce9b4463ba93cce98556687fd916478c8d7"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.36479624045653064,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/6f5be25cc83f65435d98.json",
+      "sha256": "d567b3d1d4d86b58d1dad2cff646cb6721d029cd90958a2811243f5bf99975e3"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.36479624045653064,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/97ff453bb3e6f6f17a3f.json",
+      "sha256": "1d8643f31105fd607c973591726359c97434e293f9fe0583a6be056d10515b19"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.36479624045653064,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/1ddc6c35106a50bebf35.json",
+      "sha256": "c6e148c8a2fb2c103a7574e8fe49842dcad42d5754717bb288cb51609507025c"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.36479624045653064,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/553f9a8bff8ed4747d7f.json",
+      "sha256": "a542d1e8254b098e004edbd3f6c45360e57ad2a4f5df6ef26595109ad2da0e01"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.36479624045653064,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/3aef2a89f1dbb8975289.json",
+      "sha256": "ad692246545a434156ed27823fc30f62fe1dbd6aa603faedb1418ee0d4298b28"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 190.0,
+      "NUE": 0.9815200469630769,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/1044f37395c7532b11f5.json",
+      "sha256": "8022ecac0ff1dbc84924994a11c641f4a7c9b47f1aaea7ea8cea1822c2efe958"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 210.0,
+      "NUE": 0.8985646217119824,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/e5cc809acba22f56164f.json",
+      "sha256": "4b21712d9c1f762e54e7560cc40cd5ef06c6249b7e07adcf318870bbd9434948"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 210.0,
+      "NUE": 0.8985646217119824,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/2220af05b82e529cc432.json",
+      "sha256": "d2805afb55d48c502da07de981a228dd1a37b8004e82b6876900c78d04b9997a"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 190.0,
+      "NUE": 0.9815200469630769,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/b723564286356c4b6c08.json",
+      "sha256": "2cf11e1b94f317997eca6312778723e8a1c4cf91ccdd9c74c76f0e0cf561313d"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 210.0,
+      "NUE": 0.8985646217119824,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/c3c5bbb50f9d60c53f41.json",
+      "sha256": "213a62f7d8770bbb368ac9986f2b532e18a41816b5b8a337bc0da12c4676d38a"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 210.0,
+      "NUE": 0.8985646217119824,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/0955fbcfa72419f56cd4.json",
+      "sha256": "3fc8bcbf9c407fde92028d9aab9af03c52cf8522e7ebfab08f2c547a5f3abb27"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 190.0,
+      "NUE": 0.9815200469630769,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/4a63d4cfbed2fddca4a3.json",
+      "sha256": "9c23cb6f22b9d39796488b8eac51b8aa577e581bb04443bb3f30d545e56a095e"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 210.0,
+      "NUE": 0.8985646217119824,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/453b4870148a2ab1b21b.json",
+      "sha256": "7804bcd9d87c6fd88c8c29bd05a30abd7942271a016d0387751e5f1a588d084a"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 220.0,
+      "NUE": 0.8554765658730137,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/0c74e366b117961eb5cf.json",
+      "sha256": "f98f1b97d0b808bffdd14bed184d8aa0e974fc0bbcc09cb6b877229318f3ba7f"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 200.0,
+      "NUE": 0.9294146929723517,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/c5205250dbe78908ea59.json",
+      "sha256": "5f5b8c72a5e2b18a479dddee2afba1750357138eb2dd085de85285850b1c7431"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 200.0,
+      "NUE": 0.9247835765065002,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/7ffb78758488b0aecb40.json",
+      "sha256": "1f7b7ab6d2cc8b06801481b3c1b23b0d4250c93686a15ab9da5d4bcbe77e551a"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 220.0,
+      "NUE": 0.8554765658730137,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/370f4ab792ab451f9c8d.json",
+      "sha256": "01a9ae42c57e7e87f0f7cc60bd1ebe66914db2a58e581af895c657d4d21fcb1f"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3008251276634345,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/2c7d6084f524d1a2012d.json",
+      "sha256": "54bfdf4135e10658f6ac44d81c56936e1b4eb9ab8474f2c16fab31af3f32d385"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3008251276634345,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/1eccaf92aec9f37b9d51.json",
+      "sha256": "9685a8a95dac5998148be2f5a5cc6f0ddf6507eaf97702b1d587ee459d4fe264"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3008251276634345,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/7fd51bd4a0439ec6f0a4.json",
+      "sha256": "67b56191031105e98381a0c8133ca7c0cb8adfb1caf561f202258e9db471a074"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3008251276634345,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/836c4ce2d3b4c2131a12.json",
+      "sha256": "1f84a258869a7936f40bb2dff31056fde58f10585141298e3318edab8209fd6d"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3008251276634345,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/195db1ffb35f2959aeed.json",
+      "sha256": "51eefe0f851a42526c00b6a422de950bcb69d01c3639c4fea8f591173924b352"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3008251276634345,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/dd1703d50da649ac9190.json",
+      "sha256": "c92b743ec03dcf5bc3da9a8ea2415df15e0af4fe7c2b682bae5d3327119ae18e"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3008251276634345,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/75a9dda94f278d763f6e.json",
+      "sha256": "132de01950e2c03124af1424ab0ad34189d90b8e2f744dec68ac7cd90d58c8e8"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3008251276634345,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/534fd9f688707cfd8567.json",
+      "sha256": "7a4350cce72df6f118ec4a0c6fdbcaf141cf866368e2eee67db05aead0d39061"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3008251276634345,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/249229d8ef73306fa5de.json",
+      "sha256": "330b2a9fe631f9359b93b45640c4d684985aa2822e193e13d93729f5480b4f02"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3008251276634345,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/fcddacd5fe9326edea33.json",
+      "sha256": "c314dc5d77917d64b0287c34c87bf07d0ea4d4c89bcbb36bc88bec52b504954b"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3008251276634345,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/d18a260481468c5c4e27.json",
+      "sha256": "aed56d810f5058c34cd956dd5ce769345ee684f344c2a4fc84df52fb4c9f0bc3"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3008251276634345,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/bc6a6cfe28840a8df252.json",
+      "sha256": "00db0967f9ac71a2d8a951ea6837934246ebfa352603dda28d303cdc1e7203f8"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.45363060924867926,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/a9068ebf8c6da3014270.json",
+      "sha256": "26634fa70e9d961e919a7864ae39340de6575ac74cea5a45e2e22ec1b6a9fa44"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.45363060924867926,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/c6b280e2338f87e6bedb.json",
+      "sha256": "182a7a3c9b9b4de92c3488cbeb36f4e8ad9e195d6ffcb3a769d54dbe336328c3"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.45363060924867926,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/3febf46001827846ec1a.json",
+      "sha256": "2e945e0d8f5146a89d762b91a2c5d9f6584f15be55bc002662196e7e52f54c80"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.45363060924867926,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/42d1ab9b810e36ca8c24.json",
+      "sha256": "4fee8859eb226a0541833f6f166bcb3f040abf01ce240378a179d815471cb1cb"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.45363060924867926,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/1d8b5ecde4b4a8e5db65.json",
+      "sha256": "7d5b7236cc0142b9435c8b86445cf765b1a82521ee3e9d8129eb43f071dbadbc"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.45363060924867926,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/8804de712b62ddea6500.json",
+      "sha256": "98702f13532f6cddbc84ba75c4740acfacc9e1841be2ff455fad46f4948f2baf"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.45363060924867926,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/d022dd8db031680c06bb.json",
+      "sha256": "f8c48c70d13f81ace0689a91b07e1444bbf8f33ac35bb2d9116e0005c2a9aba9"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.45363060924867926,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/0da7edaef913496f13c4.json",
+      "sha256": "0e191ac217fc45d955165b3563f806ca02d2b6388e13912206474912e5fed343"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.45363060924867926,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/accb3d556f2f5c50b8c9.json",
+      "sha256": "90f9fe03ef014bfa44b51ece534fe6fb648830ab2af48959261c3721ce92a093"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.45363060924867926,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/3f11540ea7dc5c37dd2b.json",
+      "sha256": "19219f7c85107002036547cd4116e5c484875ef03765854ca203423f11d74fd5"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.45363060924867926,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/40441e3fb44b71c9610a.json",
+      "sha256": "8fb551c9ac2a4aa8a7ea0c8ebaa34815bf3eea25ed6e67caee31306dd2a5d957"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.45363060924867926,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/d72d298856b45c67fd70.json",
+      "sha256": "2a88a9a477fbb2f37f680c5c34299bcd506860a4560a13d6bcb6534246cb8b3a"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3540620109935653,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/aab52212352855da2375.json",
+      "sha256": "fe9cb551e06cbd885617c77efe5b85e0ff1b53776c6092b637a1ec33f56165be"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3540620109935653,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/70422d66402ae21069a9.json",
+      "sha256": "3e88e8df73d0d192ad8910cd812cd4d724f832bf587fee83f077294055faf7fc"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3540620109935653,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/f6d3b6c74a419a45ecc4.json",
+      "sha256": "5fc14ac1c636cd7c3b5153844181042d3ff448c4c5dce851cdd30e96eb4d35fd"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3540620109935653,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/6e58a35e0d3a6a87bc11.json",
+      "sha256": "9d7a5b7cbe303b4f4de540d9eb8a6038bea9ea1b219742963d4dc83ad694373b"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3540620109935653,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/a21bddd5a36a878b9e14.json",
+      "sha256": "33ca83aaf2434d23dfe44f74fd8c1c80310359407f11464bad70b8f46b3bde13"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3540620109935653,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/cbe6f053cd75080462d3.json",
+      "sha256": "b62f90c1ae6d0e8fe097eb8f9fa6cd507f4c06b452fc69a96554bd17cff5ab49"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3540620109935653,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/37bb807f4fc1f9bebcba.json",
+      "sha256": "21f332d60d4a22645ec6d7098295c24641d03a8963d9ceff28194afb71b3d07a"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3540620109935653,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/02f52e9cfc02306e2552.json",
+      "sha256": "3ffe1acabdb0750654e57825fd6e701bf0183457d829ad02d733071a790098bb"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3540620109935653,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/adc8b1fe3dac0a29a964.json",
+      "sha256": "c06bf600dee252bf66676907a78a6b238af1b1a5d75cf8bee7ab3546854039f8"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3540620109935653,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/cfd9581a86983b0b5f13.json",
+      "sha256": "5a8c8a21fc9198fe85c67b0a6aa811c3bf2e68a1f89596c6f1ccffedf5fb9425"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3540620109935653,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/62dfb22f8d06d3702b48.json",
+      "sha256": "9a076dbb7db6bc1ded0b6f8e7f774974c216dca6e67861562861b119e9d891d5"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.3540620109935653,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/b325a077aa412d7a6283.json",
+      "sha256": "ce3b619e14c381c5e03013cadbfe49be2702642e86554d01c6295c2f74751b3d"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.95993032986663,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/51c1e935c411e1e40ce6.json",
+      "sha256": "e530d20e0ecf7925935d6405176e43f9c05976a47a391fd3855c284fd0fb792e"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.95993032986663,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/7616462c554e4e406d99.json",
+      "sha256": "a712a0c7a92d52850f5c2470a492f7161809b55b3987dfd276c16d9b581a7793"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.95993032986663,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/aac989558f34e708e6d3.json",
+      "sha256": "2608da3c887b8dbe9459694b06af529958fdb33dbe54e1a771bc878f2dd5a4e5"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.95993032986663,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/7e8121c8d00ea5cd6f2a.json",
+      "sha256": "1cf5b821c09a4c0778bfbc41e68107d016fd7c7a750d3debbea066c1ce6ca2d6"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9479505838636045,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/5469c78fecc0cedcdcf3.json",
+      "sha256": "b1907a8301856d3a1b95e35fbbf1c0aaa79ebd1fa42826755edd7cb03098c91e"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9479505838636045,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/f786dfe009adea6ec256.json",
+      "sha256": "42360a6b3723e2c975a1fc0aa4476cd6d2a86afd50535be19e10f8896f4a5c8d"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9599653245448518,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/eb91ce54956e87f07af9.json",
+      "sha256": "d16ceb7de559cee30774ed8c14b08478620050d2b0b3c515f21c33e961b0ad2f"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9599653245448518,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/37d639f8bd342acf9f4e.json",
+      "sha256": "c6a2984a84ad7581c77209e30b53cd2ef06559f929a0169a80e70d1d1a8dab7a"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9599653245448518,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/44817e407b4bf740be86.json",
+      "sha256": "49f08eb44f0ba1c7200b9f9d1eab7e2af28f4f8ff56e83801680310bfa781584"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9579787056884902,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/ee39fafc9166c1657ebe.json",
+      "sha256": "e4a35f1dd4423833b5260ea6e281b2a608a87a34cc5ee1ceb1bf7646dd128bde"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9479505838636045,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/ef98530ba039f93a0556.json",
+      "sha256": "197c1c6661185ed58f615cf0d628c16105856a02066118414cecc216c4fa2255"
+    },
+    {
+      "region": "netherlands_lelystad",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 0.9479505838636045,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/8b996a225aa657e963d7.json",
+      "sha256": "808a088bf15ab77accc7209aa027ff6f107426f5aeece2719d79132182bc00da"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.29156565194689543,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/3c09e5ac4f92e5a48548.json",
+      "sha256": "be08e1bb06b906ead7bcca3787aa8b9e98eaebbb366ce5af09c8ed359e866c71"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.29156565194689543,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/882c901563897c9949cc.json",
+      "sha256": "12f397f9dc8228aab60e9acaba631f64c8c5dbeb75f34c66747c2cdddb3b3abe"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.29156565194689543,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/ded0eab4ba4084a16197.json",
+      "sha256": "dc6a25e595797b0d236eeb6049518085a53ca8453698c67285f4d77a5e9e0afd"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.29156565194689543,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/cb5238737363248590e8.json",
+      "sha256": "b7660d740e6be6f38c3708c5a89885710b958dacf219987cf634e689ed854e82"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.29156565194689543,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/03ac71091012160ec5e1.json",
+      "sha256": "eca9e44c2219d9b46530340c02accea201a427e74b2420e51a14b4103a1abbdc"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.29156565194689543,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/122c775db82eeb19e9b4.json",
+      "sha256": "f35859db5a38c03c1d3885a8c1eff83b1836b0bbda4afcae96363c80188b95b4"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.29156565194689543,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/5412715dbc05e44e6986.json",
+      "sha256": "48b429de4157b5271a94f72592ecb6d12412bd550a3d9acc1b1209dfaab5af6d"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.29156565194689543,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/33145532fad9e1a50a93.json",
+      "sha256": "cd7603e573bcbf7450a28098a16437a35852f30c7a7bc97e64abf733b6e4ecc3"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.29156565194689543,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/04bdd621aa86c41726f9.json",
+      "sha256": "5cddb74930cd581265a8cbaef0117d2712a5eb17f9cab31577bb8a2045297dc4"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.29156565194689543,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/b06752281c8025d4151b.json",
+      "sha256": "0720aee1ade9cd7280f4f42d5f35179821ea713cbe40edd80510ef2a2b7097f4"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.29156565194689543,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/bcc0f38939a53b0b201b.json",
+      "sha256": "9a2835ed7647d6cd2f007fcad7b012416043fd0a93467eb57997c3c1ce4a9730"
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 171.0,
+      "NUE": 0.29156565194689543,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/38be70868d24918acd76.json",
+      "sha256": "6be767dfa8b7eeef93272b13bafb1002edf8907d41e177ba3e6b3cea1904f0e8"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 60.0,
+      "NUE": 0.2486847679851489,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/56792c8cef456e5e249a.json",
+      "sha256": "043316d1ac396d745a83a037899358b6c519ac0d4ad678205d2bf84561cf7dab"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 60.0,
+      "NUE": 0.2486847679851489,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/f0bb798fa43cca4a3a0e.json",
+      "sha256": "2f89a5b6aba1c0da35ef4df36b71d3d29963b5c95db434a9e7953ea0cb8dc95e"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 70.0,
+      "NUE": 0.2148739631956058,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/8e79602a0548adf67954.json",
+      "sha256": "c703dd972be710160223bc162895b8982ad3d50583930ba03ab45e0e2d51bc46"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 60.0,
+      "NUE": 0.2486847679851489,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/243b44a825f0b5adc911.json",
+      "sha256": "b52e5a715e29a5d31a5a45e014cef24d9b9f285dc5f040dfe88015b9b15867af"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 60.0,
+      "NUE": 0.2486847679851489,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/8a256f4bee39efbbe763.json",
+      "sha256": "ddde5b0f29cf67db9b1fa88b631370b9492a2783127afcaf0ed099b1674a7c00"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 70.0,
+      "NUE": 0.2148739631956058,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/98622b2898009cb72ff3.json",
+      "sha256": "571907d8ca4438bfcf0441685f058988835dce73ee5f5f640152f3eb029ee31c"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 70.0,
+      "NUE": 0.2142878080104348,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/7b5bbcbb2ec403f6c6ef.json",
+      "sha256": "bb53e16fd6a82ce20763ba533a0d8125aa5061c598dffd8c9a7b661e0ab02705"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 70.0,
+      "NUE": 0.21271098583895842,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/0e5cc7af0cf9ad33008c.json",
+      "sha256": "16365160c6b2c811550012a3dd71157d2ed38466739fb5cf10d3566e031ae8bd"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 80.0,
+      "NUE": 0.187781634052016,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/b89ed087bb93e3e6c880.json",
+      "sha256": "4e102c38046ebdef4a6525ef91aa1db19762e7bb7507c0fde4051e539f0c0f20"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 70.0,
+      "NUE": 0.2137080335026588,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/cf554fe7537f32afd6b0.json",
+      "sha256": "e765b6a887f9a3d250e4bbfaf2db74295f68c4eea735b5da1680dc0e547caa72"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 70.0,
+      "NUE": 0.21271098583895842,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/e7ed2d219d44cd4b4cc7.json",
+      "sha256": "c35eda38b87c3740231eda09b4fa7c6050184df047c1246db580a95826ebe1a3"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 80.0,
+      "NUE": 0.187781634052016,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/f3c8bb198f46e762533e.json",
+      "sha256": "a24676656ebb5c87820c3dbc59d9c654ac698cb950be059e598b8202830ecc55"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 100.0,
+      "NUE": 0.6004233600472817,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/894c369a877a838d19a1.json",
+      "sha256": "0a28c42c82e6a191400d6d4bfd6654db3ae37e62eae898d5157e060233f3f2a7"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 120.0,
+      "NUE": 0.5031888078129041,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/baff4be5074f6e9f64cb.json",
+      "sha256": "469c1abcec36d699f9da495581706b3650edd8e6a0c8bfe2aeaf1a72e49988f2"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 120.0,
+      "NUE": 0.5031888078129041,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/ca37e8d2c5863fa4c009.json",
+      "sha256": "d0f9866f9fa68d152afcfb3d6c0d5d62d362a075618e99d33137acac823d8057"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 120.0,
+      "NUE": 0.5031888078129041,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/ce1b4cd867c456b60b8f.json",
+      "sha256": "e42a00e6a2bfcb9a75ee868ff0151ad588bff83c4224fd70c61d8cde64b78ed4"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 120.0,
+      "NUE": 0.5031888078129041,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/da43aab3a1e14564de22.json",
+      "sha256": "1e4eddca230e2f66073d3756e3bda29d6f8825ace66060bbc7016aa78423194e"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 120.0,
+      "NUE": 0.5031888078129041,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/5efe144f06db721c549a.json",
+      "sha256": "c095b09536fd586829dba300421eccd3a57a8a88cda409c960b6854849971bf3"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 110.0,
+      "NUE": 0.5433564335979092,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/50ec751fd514ca82d93f.json",
+      "sha256": "cc4a78e50a37ea03f025c0c20345f1e06854841faa8bdd5c89d1fd45050e7b1a"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 110.0,
+      "NUE": 0.5349776347206481,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/d1cf61086e34b42139aa.json",
+      "sha256": "2f64df5deddc2760f879b5d2b99a6a2320f46c219019e5588b5556ce4793e773"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 110.0,
+      "NUE": 0.5349997332948538,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/b1ca1b6317e2a7d08ce4.json",
+      "sha256": "891e8b12b58ff917ec86a31245cf532e85d461abf4975542f55c19e9274bb5a6"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 110.0,
+      "NUE": 0.5349776347206481,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/bc9af3313c9b3fdc6f98.json",
+      "sha256": "c75151aa6c80b3a0370cba6315660c68e101888cf6c808c92c04f242782320e8"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 100.0,
+      "NUE": 0.593021392548242,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/9485d7dd9c536130c626.json",
+      "sha256": "8bb3f51ffb403e190b456255332418640e493801fb8a9a76e385553929f142ac"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 120.0,
+      "NUE": 0.5005087124804669,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/3753f6d4bdeaafd8c450.json",
+      "sha256": "b3730412f4fceaa9658326faee5ccd28503a81debe38ceb27c2fa82fa3a52bd4"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": true,
+      "Executed_N": 60.0,
+      "NUE": 0.6842940890658665,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/86fc11221613d7b84b3c.json",
+      "sha256": "a1068be184dd7df654da159557448a9716ea5fef2e5bec2e2c536c33bd9ceb4c"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 70.0,
+      "NUE": 0.5926030400705242,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/fc909981b960fc2d3ed5.json",
+      "sha256": "06fc71e09825c7eac3a460f086e14254a426e71ca9ff73062154a408a15a77c1"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 70.0,
+      "NUE": 0.5926030400705242,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/394ee34cdac1fe132bf4.json",
+      "sha256": "add486ea1cf2a52ebe4f3f4e6085290afbf78e9e500e1e79204dc8f177a87dde"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 70.0,
+      "NUE": 0.5919217118376584,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/aa85c6bea7544116e430.json",
+      "sha256": "2492ccfb764b65616b7160494c6abda14d54f56be46a7afebf91a3447c1587d8"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 70.0,
+      "NUE": 0.5926030400705242,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/a5cfd3288faa28f4c9ad.json",
+      "sha256": "fecbed5ba5d7164ffd2bb173ad0328793ed364196b254471c2087fd08d02cee0"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 70.0,
+      "NUE": 0.5926030400705242,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/5c3cf28953bcd8573e01.json",
+      "sha256": "67e758e04558d02e16373daa4fb0d6ced2a79a72dea5ed7d11a4a0c58dc3ac5d"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 80.0,
+      "NUE": 0.5177517879494352,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/7d963468f72e40bd50e6.json",
+      "sha256": "0db29f73f65bd5670f3f5962407f4f55eee5f0ca4574ba426cc37d83aff62a60"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 80.0,
+      "NUE": 0.5177517879494352,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/e541f78aa51910e44256.json",
+      "sha256": "4c0891bc14afae7338c67bf7bd9ef77aeb9d46dde72c290f0a862054fb229953"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 80.0,
+      "NUE": 0.5210328840726695,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/5579dd4d6042ab4a9f6b.json",
+      "sha256": "25a5ff20b3c0596a826c07adb4442d860467a73ffcbcbd5ede9bf284bb1350b8"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 80.0,
+      "NUE": 0.5177517879494352,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/689b3248a98ebe99ff68.json",
+      "sha256": "18b09277ff26498f610453ac5e80eb8d4cebb896777be8b94cd032151845d64f"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 80.0,
+      "NUE": 0.5177517879494352,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/9198f8d4c447b448643e.json",
+      "sha256": "c8169633025cbebd9af81b8c9a3634a6f3086b4d8f18a6e6bc5e49a51ad8b06c"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 80.0,
+      "NUE": 0.5177517879494352,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/b98089c87d36e2a28636.json",
+      "sha256": "053a6cf7a62f9f0932eabd8aca226989dabdc71abca116438a81618a8ea20a1f"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 90.0,
+      "NUE": 0.6906383124310866,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/b7a1b018234d7bffc2e6.json",
+      "sha256": "aeb06811cf043d7969ada44cd2282dd196d8ecf844837aacdd80fccbca51bc93"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 80.0,
+      "NUE": 0.7713138469415136,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/8ff2c085fbfc4a24bf5a.json",
+      "sha256": "7e416d9050077f4cee1499ed5b4e0479885d70e766369a10ada9da2b53329668"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 80.0,
+      "NUE": 0.7721269529998592,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/3629b1d6c7a293085ee6.json",
+      "sha256": "f76ef59684df07f8d631c8027e8576ef27f7ff9129c95617340314eab1464ed2"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": true,
+      "Executed_N": 80.0,
+      "NUE": 0.7713138469415136,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/c0cc1d5d3d986483683d.json",
+      "sha256": "ba27b2ca7d1c0d8545868f8fe9ba0fa2f76c7763961c2a11cda0c6321812cccb"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 100.0,
+      "NUE": 0.6244813297733771,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/607ab7fe83b3cab89224.json",
+      "sha256": "a75fa1cc78c58b877c7c96132974b2fb52ce570f54f694d28d5227f42bc3d255"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 90.0,
+      "NUE": 0.6901951312122264,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/e85242c8765d7ff2d5b3.json",
+      "sha256": "4483ed13e9c21517dfbe9adb171bd2557a56287b361b4229880a4314d7d41b14"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 60.0,
+      "NUE": 1.0112872122588037,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/2b110b4e7fe7e2ea99ad.json",
+      "sha256": "9a9428e4a1bfe9eb2f44d46497bfdb3fb645292f2fe6f28d8f746bcaa9de2b90"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 70.0,
+      "NUE": 0.8574157152638366,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/55609bece2ee160c284f.json",
+      "sha256": "2f11abb4a799f62ab729e0d9641fb8aab5a8c020f0c555eb28ae0245dc04f636"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 70.0,
+      "NUE": 0.8676375844285367,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/ac81b3dd90d20c57239a.json",
+      "sha256": "a42e959e1086697f413249a31e03847dcd6726c0b80843f2c4a68398b6159504"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 60.0,
+      "NUE": 1.0112872122588037,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/844fb48f011247598bf9.json",
+      "sha256": "5be0e9bd5b2742a705ffd86a2d4a63c3d8015af4a47479202bbf1daddf70c2b0"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 60.0,
+      "NUE": 1.0112872122588037,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/9ef567c35b087f55e5ad.json",
+      "sha256": "379b88a65a1d27ad1ae9d01c7144dbf737f973c16030eda20e0d82d68af193a4"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 70.0,
+      "NUE": 0.8676375844285367,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/68d0e63e76a6dc823218.json",
+      "sha256": "0652c0bca59ab1cf663d59c4417553fd901ad10f39e226c831f5cf8cb04bf047"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1740026286067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/ac30dd31f5589015706b.json",
+      "sha256": "308c0cf7cc03d0b699ebe239fe3ea1fe4df26c8b242552082645abe359d948bc"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1740026286067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/860a48cbd15d75974ad6.json",
+      "sha256": "a014bc9931a4340f7a0f374d096970379bf9b710da62a41de396b61f0dfc6b52"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1740026286067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/3750905783bdd0ab1474.json",
+      "sha256": "4c8bdf28c6404025928a6ecdfa363504aac2aecd5132c87805e3c490be2ba9ee"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1740026286067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/63833a0ff07f0669b152.json",
+      "sha256": "8e7a536211ceaff048a76827375de16dd02d312869c51b0a5a3f06c734d3c464"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1740026286067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/35dc56296ab309befc11.json",
+      "sha256": "ff2ca06b0bd78e6d9379b48bdece8e0f1dcbe814e8d4114d539d9a5c5699ae4e"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1740026286067,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/c3a85fb8f7f5eb14327a.json",
+      "sha256": "1b0372e05aeb461824f836cefe29580880baa799faddb67300493b56a02fd7e7"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1862222765056105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/10857f07076afed8c2ef.json",
+      "sha256": "6f067e77c4b8f352c8c79b54d54cc912ebb7cf25d00835577579a6e55da5e92e"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1862222765056105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/75f2822499caa9b7130a.json",
+      "sha256": "4df8c9f64f72e0ade3ae841a73a50e20a77bf3e95fcae49ec3ddbe263ce75613"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1862222765056105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/4aa75d1d2893d47fb775.json",
+      "sha256": "af9d8f998ba8c5964a76bef8694659538347d31ca32939184fa40fbb6c4ca677"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1862222765056105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/e94fe421e377d495de35.json",
+      "sha256": "df1da21b3cec2928ac1adbc6382889a3b4299e3e52c9d091f860c3d3f6e859b1"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1862222765056105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/7148a15f758d21820c71.json",
+      "sha256": "8fa484c9280491011cb093101bca11997be060b5062d697a2d28b037dd200e38"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1862222765056105,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/04d3bb13c7401e300c1b.json",
+      "sha256": "9534036c19e907a10f6b3deeadbdcbc3441dbf9dc9f57806430426c844ba1574"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 60.0,
+      "NUE": 0.29017468821711917,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/475e929600aa105a7418.json",
+      "sha256": "4519978a04c4e0caafb33f67a6298c05bec7defb0fc96d2fe7082d5969fa0235"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 60.0,
+      "NUE": 0.29017468821711917,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/415a1316c2548893c572.json",
+      "sha256": "580d63556761b8c611927caa124dde13d7d50e4c19bdfc167898e16197b26ac6"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 60.0,
+      "NUE": 0.29017468821711917,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/823788056d51e3406f94.json",
+      "sha256": "495760d630ba710637c6cc82b8fd1864ee191ef25f333efb898f0acb2f85c8d5"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 80.0,
+      "NUE": 0.2208458030112856,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/54f9947e42838008cad5.json",
+      "sha256": "7e25249e2441726a114df41e693f736f48732f99ae49f64943b9653d126bdae3"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 80.0,
+      "NUE": 0.2208458030112856,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/de9189bb4034138e2864.json",
+      "sha256": "3c2d30343d04e708759971f517c9cd624f435809556bae45fc230c1f9abc3fd4"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 80.0,
+      "NUE": 0.2208458030112856,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/beaed5ad7ce09586692c.json",
+      "sha256": "65ac2771bc2e200fcbebd750c14660b633f65323a876d80b18221e2afbc37e24"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 70.0,
+      "NUE": 0.250695138799824,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/3b91b13a03a87d0da16d.json",
+      "sha256": "c664aa7773fe45b0cb21c4147994d0a0b7addb7d1594c27bda8369718548e8df"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 80.0,
+      "NUE": 0.2208458030112856,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/2a068b7b9789e53be98d.json",
+      "sha256": "f8252ac7e5c57b125c9e8769f0bc77196a888fd6a33db574c1e9b6383e9c184c"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 80.0,
+      "NUE": 0.2208458030112856,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/08459c8fcc45ca886840.json",
+      "sha256": "030acce6a4527acf7c49fe8dd62f2308118f090dc63d4ce7b8bc84937736f0e8"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 70.0,
+      "NUE": 0.250695138799824,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/d92695920c04e8ea33dd.json",
+      "sha256": "3921880b7f708e7319d834a796605fb3ae3954667357124f43e6a3293f4dc5bc"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 80.0,
+      "NUE": 0.2208458030112856,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/e894edbed5fc379068a1.json",
+      "sha256": "28250e5878b69061fbf736c7d0e1e562e7a54f19c587035cdc4176b135149267"
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 80.0,
+      "NUE": 0.2208458030112856,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/41d036ee3d4f04fbb0b9.json",
+      "sha256": "de1a48f8e52b951b8d29466ab9e9c5ff1a6d24e7d25031360bf128da4d781e34"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.3716734246596534,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/7fc2291ec1c3dfce6422.json",
+      "sha256": "3802cfe4883042103ee6020362cd40a5e6f5efd985a3ce5c95c09ae0d22fee25"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.3716734246596534,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/477578344398c098a3ee.json",
+      "sha256": "5b8daed283f6ef3037df1407d56d840aed4535b92523a989b25bc16a27a7684c"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.3716734246596534,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/c4fa302c35b787d68849.json",
+      "sha256": "d68e8d01819364c954ef4d367906e1d9a9ebdc1b4294d226adcb45a46227026a"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.3716734246596534,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/483f254f18a4d9e11ae7.json",
+      "sha256": "2db3e5cb73eee22637089179fc6896e82d2c7def15f59da9e28ffa163970a323"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.3716734246596534,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/190e3332b226566723ad.json",
+      "sha256": "7f832e390f32042083445f9978259d00f9a2cd9975dd19a0279c55ca50f0a4d8"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.3716734246596534,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/e323f28540ccffdaa644.json",
+      "sha256": "fe5cbb409958fb37e906dc11cde3f6110c56fe93741cd32e7e7e087765025ac8"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.3716734246596534,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/8899012bc06659d0c817.json",
+      "sha256": "3c88d8d2c56ea969f138fbd3c58ad583f3517b6999cd5aabce48fbe040e8bfd6"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.3716734246596534,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/5042d01f20763510104b.json",
+      "sha256": "3b50e158d45b0c777436a602dec1b6075361c6e2a567c5ddefb8b79ae62a3df7"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.3716734246596534,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/4b9d0049b8b521ec5f7a.json",
+      "sha256": "d8e84ca6d1c7f23ecfc1937274ae7cceeb6c5443ddfe1b30c74b29f53115de8e"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.3716734246596534,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/718e3c237460ef7986dc.json",
+      "sha256": "8967c9ba6ea320c45fec1aedf4754e44949955ba55e5a679209f7358bd931b34"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.3716734246596534,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/0ea9524b4f16a2632f38.json",
+      "sha256": "cb1b68ff679be987d3d861bd5afb2ae431005ddab29cf474774db5f16a1b885f"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.3716734246596534,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/22eae31c0e8981277f9f.json",
+      "sha256": "e59d0fe88259a2ce19344aa3d03ee92c3047c38dbbdbbea4670cd14fbf70870d"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.2261451037081978,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/422c2eb0d24d1e0036c9.json",
+      "sha256": "88195d6a7375b6c2876eadd66dfbabd9d62d5b887dae1380f45e80f1d825d67d"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.2261451037081978,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/95837b08ad8e360914f3.json",
+      "sha256": "5c76840a7309fa51294e7cd158a8e033fa44136d40cb55128bc6ac1b5a96a9e1"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.2261451037081978,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/77669becc4dd218548d6.json",
+      "sha256": "3ec148ab968022b05fc41333ca480f4dd54202ad29f6fdae8af6ecb2f28627d2"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.2261451037081978,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/3dff6c8efa1164583fce.json",
+      "sha256": "9a2908330ff3c4e8956f4f1595a54bb1a4a95fd8769727fed558e1727169358d"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.2261451037081978,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/3be2083b75381e1fc75b.json",
+      "sha256": "32f1095a684aae03d58ebf5b73110ee341ba6f04cae0aebf64503ff1a606c1e5"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.2261451037081978,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/bde89f6a759a66578bd7.json",
+      "sha256": "9dbb68415e770074c438c6abfbb5147ea5209cc0641cf7752850f5aac7de95a8"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.2261451037081978,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/2bd4b0defcbde0274e59.json",
+      "sha256": "30bac2f87d6b367d49294d8b2015dcc472b20e47280775d2faaec85baef21782"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.2261451037081978,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/b080bde84059317d275b.json",
+      "sha256": "b2474c7ce212a31f2ee31e30fddee016c09380372db136f2a5242eb32b507615"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.2261451037081978,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/ab72bd2af91d1a12305a.json",
+      "sha256": "1c30c39892519673598d7fcc42ca80a46626450e610c37a0fde1154b45c06523"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.2261451037081978,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/2a7982f19edfcee3c800.json",
+      "sha256": "209f28cf92059616c6ed73aaa82cf7c78b46b19cf4b5555a2ffed6e8e8bdd5f0"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.2261451037081978,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/e283ecbe6e3c21f008da.json",
+      "sha256": "1ec178818a6cce3b43f09a7cb3796323a7b407570f856e07ac86c185efeda6cb"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.2261451037081978,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/f99caaab26334c12dba9.json",
+      "sha256": "550c78eeb004245b58760784ca313d7921a092305f88a44f46f43ccdcab25696"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.4029316646747498,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/6ac973d0b4417fd11ed3.json",
+      "sha256": "f11a7a672312a5dcb18a894b34913ebf89753292fecae708db04b9facd93885c"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.4029316646747498,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/9f50078b2af76aa74115.json",
+      "sha256": "44ca340a85be2608db5b4bb37a6e38638c83d2d143ced4a063240a917b89febc"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.4029316646747498,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/c2dd056f459c85a2901f.json",
+      "sha256": "992bafd6a8837ed5f2e2836ae7bdc7ae824b9ca745cec6d9275e3b1c7e9d4a9b"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.4029316646747498,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/0906ef9180adf84884f4.json",
+      "sha256": "6b11de74018584fe675a191a299e1233b32a5a0f87616a82304c6b9164798af8"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.4029316646747498,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/18bf1fbf079900989263.json",
+      "sha256": "f1e124f0f619d23a4ff397bbec5d41c6a9c85f3bb8051e61b870143cb799c7bb"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.4029316646747498,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/9d389ff39874848cbf2c.json",
+      "sha256": "f555d34e0fabdd1ec4b17e44e8d89fef1f1077eb44e0d107ddb6ab679a300130"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.4029316646747498,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/50db3ce4567e5a0d3287.json",
+      "sha256": "f787e38bf7f594b1799ce9b54ad132999bc1efa71d23730cab8129c94cdde382"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.4029316646747498,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/ea6312c9dff665206431.json",
+      "sha256": "13739bc062f8dd7d075447ce8120456edad584cae5c7c4228c39a78ede0cc84d"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.4029316646747498,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/d8cedc1fee70288c5e1f.json",
+      "sha256": "5691928b6311c6868928585d7c8d2b0171ad5c6b5c4c2b12788b0eca487d00bd"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.4029316646747498,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/dc9bb0f2a2ee4dd1544d.json",
+      "sha256": "9d27fcd833a916d4c1f4065f96b012c1b96aa0178810aafc32f9a3b7dea1a546"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.4029316646747498,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/58ff16ea79b2f6d9abec.json",
+      "sha256": "b5c092ea9dfde826d394ad32c00d0b35e80de9225d7f645b90bd747ea4c76098"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.4029316646747498,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/aae5545a74a79d3d14fd.json",
+      "sha256": "725266f23392cb26eeb98f1179a7f77812135e10447faedf6b83dda4e1cd1b5d"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1875716057472168,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/b9b85680c19e31d66b36.json",
+      "sha256": "1a04b3cb0b9d5e1fc80042e76557bd5a798ceef1696aad7ee2ecd3b5dd68de97"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1875716057472168,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/02f402ccdfcf286965c1.json",
+      "sha256": "b6a9dfb9be58885127160c93e9575239d7f66331ab4d83ed0f26e4481577e712"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1875716057472168,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/02c287eb6932654328c7.json",
+      "sha256": "4be2d03cda6b33db1183ffb606d87d5cea8c2425f706f87029f76e01a99255bc"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1875716057472168,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/920b15e0fcdbf3f2046b.json",
+      "sha256": "19350aa8db28d338e9e9ac9115a6e786718eec2ff1e270190839ec7717ed1ffe"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1875716057472168,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/9bb61139c6f88cae7855.json",
+      "sha256": "09ab566b0b0eb7314eef71f820010b25be0ee5f188e5b7d282a0b79145a6821b"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1875716057472168,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/30f305ced94ddeb3437a.json",
+      "sha256": "ff21a830efaf16564388d318077b781737c093bbeaf140c0b0ddf4773e242a86"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1908839614128766,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/6638592d3f26dd992895.json",
+      "sha256": "81f868f53cae494d26282aa2994bafb2cb10f36b1636a3976d8feceeeb599333"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1908839614128766,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/91ec59850794de4ce7f4.json",
+      "sha256": "18786e7a1cb974e05d798bf409f3544f849a9422da75bef0a449a371ef042285"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1908839614128766,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/a1a10cfd45af173293da.json",
+      "sha256": "7acd745db87155285b03a60737641f23587a7c47fe9e58bb3e2ff4b370d3666d"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1908839614128766,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/82672298f3c3126c1e90.json",
+      "sha256": "ad75948a5e9bd1e405e84eda93b0dd986ec2da7fbaf5440fc55bfc8b38cd8a56"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1908839614128766,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/7851003cbd11858db098.json",
+      "sha256": "43abd0e8449f64d80bcb8189f1f146cdb812883469533c2536ec0a72ab55567c"
+    },
+    {
+      "region": "france_paris_beauce",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 220.0,
+      "NUE": 1.1908839614128766,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/e8bd6beb02d3f1bc20a2.json",
+      "sha256": "9a3b250823daf80ca093157b19ad87db2cd8e607cfd1085060664e9c8087f43e"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 180.0,
+      "NUE": 0.8529097340071031,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/2bbe7213746884a8bea1.json",
+      "sha256": "2e2ffe0388d2fc9c24a9bd1129da93c890ec3b0f9e6f14d20383d57edc8c913b"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 180.0,
+      "NUE": 0.8529097340071031,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/b60be3ab8a3b2c1e727e.json",
+      "sha256": "a5718864c0ff0d8209bcca53481872300f776e05dcbb902f28a451b0ebd5aba0"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 190.0,
+      "NUE": 0.8088317115777954,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/8dc8e2a7da696b892e9d.json",
+      "sha256": "e65aa2a370e82b9e064cc699afa0bbcf6418f172b6629ead62b7a3efc1d73883"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 180.0,
+      "NUE": 0.8529097340071031,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/d0629e1c1cbfe57c2836.json",
+      "sha256": "9f8e50111101398d1fad1554615d7dd17b228433b418417eddf3003690dece21"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 180.0,
+      "NUE": 0.8529097340071031,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/2258ce9eaef169d05868.json",
+      "sha256": "207a3bc873283d408e9a01abc801409a0b41678ed1fc80eb5d0d39ab0d89dd26"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2010,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 180.0,
+      "NUE": 0.8529097340071031,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/cd4e0f68b5de2a4303d3.json",
+      "sha256": "0a72a3510fd9b0d70d932999ec66149a223dc09a31a33dc455a1f7760e73c4fa"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 170.0,
+      "NUE": 0.9020687964858987,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/76c9721611e1c198de38.json",
+      "sha256": "82823c3c63195eccf5b34434b2195fcecea1d455dfc03cb7f3ccdef6e2a08254"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 180.0,
+      "NUE": 0.8529097340071031,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/6d75bd87a73b126d80af.json",
+      "sha256": "01bf34360aa04da8c87b32baef42d1ebe551d1f1d8368209d9681df497de46b0"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 190.0,
+      "NUE": 0.8088317115777954,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/4ff535be6c4ffe547d5a.json",
+      "sha256": "b4b85f2aa0ff38a57519e43b4867d89e6c9c09342cc4ec4b1bd17c354bb0cd2b"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 180.0,
+      "NUE": 0.8529097340071031,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/ebb795d9fedf002a9c45.json",
+      "sha256": "97abff64956842f6377237239b23130b5dc049508c771b1b7289122f1fbaf358"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 180.0,
+      "NUE": 0.8529097340071031,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/4629c51651be9b34e03b.json",
+      "sha256": "53570ba1e18031d9960c21cc7d43b25a1813bfe6fee08464d8cc8ff1b575217d"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2010,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 190.0,
+      "NUE": 0.8088317115777954,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/eae4901186447297ad08.json",
+      "sha256": "215bef8d9ab59c8278dea013a6878f61037ca03ef7c391bfa3963b1f5753e511"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": true,
+      "Executed_N": 160.0,
+      "NUE": 0.8770824647636133,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/1134ebfd154144a0dc8b.json",
+      "sha256": "2835a419d1498e819d4035a3bb701566d2b9b5629bf52ca458d019b2d11ae68a"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8265301613190246,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/1fc2b68e32c4c4fc11c5.json",
+      "sha256": "a7e3e9f0fb81c771a4bca425074c758148325ff1dc1f14ca66e6cde14000fbfc"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 180.0,
+      "NUE": 0.781487645715808,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/3d3f3b630ef722e00eb1.json",
+      "sha256": "17b8ba3da9c214540a96fe63d1973c28fdd2a46adbb94a91258289c1d785f330"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 170.0,
+      "NUE": 0.8265301613190246,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/91818c2314caf259c144.json",
+      "sha256": "2c0a05c7d3e306df54bf57ef3f61fb51ea8f5df673b9237208489a70b4316b5a"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8265301613190246,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/52c507a356f265de2ff1.json",
+      "sha256": "0bf2fd88a7a7e6bc3d1f8406bbfe0cf67c528476ab83b39627b9804cda4c1158"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2011,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8265301613190246,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/09ce8f0e28619b2029ef.json",
+      "sha256": "dfdf235a9d0478a1ec55fdda77440d4dd4c53e6c196f8e29c86f43bba33ee6c0"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": true,
+      "Executed_N": 160.0,
+      "NUE": 0.8770824647636133,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/969b6c42b9dd36e14a1d.json",
+      "sha256": "3f6a69d138537603f351db980331e7fece61d3aa21d745070672443be2477d64"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8265301613190246,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/adb28273e980ca8543ec.json",
+      "sha256": "992afe755635fb691e54a445650f60ce8dce7c19a58374a2f36006ea9fc80470"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 180.0,
+      "NUE": 0.781487645715808,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/b4ccb8f43f973c24d677.json",
+      "sha256": "7f786757b61d66468d6a08443bf44c8979f30fe8564570e2c9c493fd0be76c95"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 170.0,
+      "NUE": 0.8265301613190246,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/d6e17a9745dfbbf7cba9.json",
+      "sha256": "b537a5353b134216b676002a1e06a339ab7f05182b9199537d09bf8b57f9bcc5"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8265301613190246,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/c13fed8e1fce352a8b82.json",
+      "sha256": "b32404ddcfe915abf9566e475f3e3fd5711d18e0734e2eb52337c7cdd52b62c6"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2011,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 180.0,
+      "NUE": 0.781487645715808,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/f09f449dc86140f33f96.json",
+      "sha256": "cfbabc0425d8d7b3d306c29493c82dee477d87de3154883bb4b2fc734201bcbb"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 170.0,
+      "NUE": 0.8327392994786679,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/32b8ff7b172b07f16179.json",
+      "sha256": "a3885da1cba5adcc4ec691500e3e75b5f08419ac980161cac8717064135228ca"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8327392994786679,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/4a8e380b9086f2474ebc.json",
+      "sha256": "4442ab7eb84020e6b2187bce716947ade476ad67dde50bb6accc00348ea8789f"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8327392994786679,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/ddcccdd8c8f4561a0683.json",
+      "sha256": "64e28c76a9b8f6d3546f78e650b12128360d97bd1190e3a880ab63b0a79036bc"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 170.0,
+      "NUE": 0.8327392994786679,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/8b34da018951a33048ed.json",
+      "sha256": "1c3811bde8af448aeaa9a9126b0c1f61b4899365963d96c81ae9ba3d44b9886d"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8327392994786679,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/3b44e4f62faa1ad3f05e.json",
+      "sha256": "85ff79ee237ac2658e29b236bd975f549bc1ab89604cc6cf1e543abe6abff114"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2013,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8327392994786679,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/35cf814b3bc322ed8962.json",
+      "sha256": "3bdddf221a95fbfcc5e24120b11b14f11f7bb43a02fc22a6bdc6027aba3afd05"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 170.0,
+      "NUE": 0.8327392994786679,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/f6188c0815d05b196682.json",
+      "sha256": "8992aaaa5d3c38fe01d620e15ae7849362620b0801d3be257c414b084c5afbe8"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8327392994786679,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/21a1e784e6364ff0746d.json",
+      "sha256": "5d02f1db168063335056bb31ee00f6c5bc271ccf878c151dda94bf15aaf5355b"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8327392994786679,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/1e7c87abad68b384db7e.json",
+      "sha256": "5b209e081152d76114a7128edec0fdafca46e2023d9a1170be8c4ac58c245ce3"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 170.0,
+      "NUE": 0.8327392994786679,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/2dab0164313e4fc7fc19.json",
+      "sha256": "1f8ebe0e4faccc677edca3a3a13733bb4a587bcf25fa38799bd369ce39add846"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8327392994786679,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/46ea6317642333eb2004.json",
+      "sha256": "cbe3f2fa26a8d845d7fc4db8ce52edba80bf3c8f96ddbd5ef2d4ea02b48d4693"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2013,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8327392994786679,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/5d1331d7b2c3d3f9441c.json",
+      "sha256": "63967826917fd19f737338694d38b2b482974454c36b29df70b25426a24d6d9a"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": true,
+      "Executed_N": 180.0,
+      "NUE": 0.8806338133218231,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/1eb61f6dacafd4e5671a.json",
+      "sha256": "b834b59c518902b66d1dc315474d959060991868b8c24d9b54939ce76db997e2"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 190.0,
+      "NUE": 0.8351230219356824,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/6b7fe8f0c4391fccba1c.json",
+      "sha256": "0cee0bf3447d1a2407ebda43170b1ab87e1870d7d1f57140ddad912522862a5f"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 180.0,
+      "NUE": 0.8806338133218231,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/c9ebb4a5557f60c55e94.json",
+      "sha256": "a63d3160b9698f90c7639a95a58ec6f7ce94e6b0ce57ceeb2496d0954427f7c1"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": true,
+      "Executed_N": 180.0,
+      "NUE": 0.8806338133218231,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/79281c33610e12485d6d.json",
+      "sha256": "d7e2b28b7e4dfeb29ee75ab5d3f4acc3de4aff54238a2371d36cfe3c5f73c454"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 190.0,
+      "NUE": 0.8351230219356824,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/91290607a381d773dbf8.json",
+      "sha256": "019ae0cd9999f8ae921f32fadfa7230704033164d4db836b0162214492350a76"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2012,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 180.0,
+      "NUE": 0.8806338133218231,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/23c03261ecd87859a544.json",
+      "sha256": "aaa8c2a2cc5eb6b36dc16380a5a9f2e3fefefd7b90737cc34f3e46403c24be46"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 170.0,
+      "NUE": 0.9313908054441185,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/25d1c4c5db4076607697.json",
+      "sha256": "88a4372477c781896ee93dd1a4fb0fae763a187f5c5bf1d7facd44133cedb2f7"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 180.0,
+      "NUE": 0.8806338133218231,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/17ba95d9d540be4a0e8e.json",
+      "sha256": "dad2d8746dd46fb5b362d9eaa21bd17854d4d3e53ea4635dbe52a63ed003a807"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": false,
+      "Executed_N": 170.0,
+      "NUE": 0.9313908054441185,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/e325e545eeeaab1b54d5.json",
+      "sha256": "0e424d73f5f4e2790f5eb448ca681c362e99875ef6a9a846da02b6393a1aeb8c"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 170.0,
+      "NUE": 0.9313908054441185,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/8cb58a7f7ee752a152a6.json",
+      "sha256": "6f74361d51c1eb5f82c324a75a72cf50ecc9ac1eddca9ecf6b43b36c385df0b1"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 180.0,
+      "NUE": 0.8806338133218231,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/635cb17e4c1324dfc664.json",
+      "sha256": "be77f85ccc4025669f6daa3dbef2866569361b6c075e149a17f6d9ba895be987"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2012,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 190.0,
+      "NUE": 0.8351230219356824,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/135b3fd771501a37caed.json",
+      "sha256": "c33cd4537379d3b22befed4600f20eeca767e0bb5caf00f1de7147092f8abee7"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 170.0,
+      "NUE": 0.8135915760053488,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/0c8424223c20c507d5b5.json",
+      "sha256": "0c0a62c0b20f9b3fe3efba11f7c48f402517039789111d191ab88169023e6ba5"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8135915760053488,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/ddfd768f3d1681e52315.json",
+      "sha256": "67dbfbbb85b9c8c952f0b04e5ff4e8afa50f8c78629f74561e7f4cb773cc9e8a"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8135915760053488,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/dda4e7d54a5314945df6.json",
+      "sha256": "b6029a01b1d36939d9ebc8472a343725f29b4175c642834c5338828955011df3"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 170.0,
+      "NUE": 0.8135915760053488,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/bb94041b9f20d09c53d4.json",
+      "sha256": "54f68dbd17b75633deb2f9917d925fc586d4d1bd967f4a8ac2baf66009eef2fe"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8135915760053488,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/c9f42df8c838f44079c3.json",
+      "sha256": "3426568f175b0fe7381f95a7bab05498164f5de947a4908fe9cbb1bbaac4cffd"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2014,
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8135915760053488,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/16e9179aeb4b01fed3c3.json",
+      "sha256": "c9dc14aae8509ac5595ca9047cbf990dc7eddba9878ce3c9c13033d05880814b"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 170.0,
+      "NUE": 0.8133845282864527,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/92e41b467c1a93f75e95.json",
+      "sha256": "c0e0788e29b0f508396fe98ac541b0e0ef39795c497fbc37f195f7d6a778a9fd"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8135915760053488,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/d1337f991c0072c2c72d.json",
+      "sha256": "146bc30bd78ee23cf1dd6cb8226e70a86c38bc0217b25d356c289b50d0a6bab0"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8135915760053488,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/41c2c4158a1a1be2d9e0.json",
+      "sha256": "cdea0c1d7263b501740ff5e4d2e82c436724c6117d2ed067e0373f5eeb8707f7"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "joint": false,
+      "Executed_N": 170.0,
+      "NUE": 0.8135915760053488,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/ef1fde9115aa60f3f2e1.json",
+      "sha256": "aa0fdb1b8c2f73d4272132d610af53927b957739cc2813a426427a3561050756"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8135915760053488,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/e095fb7f952625902f50.json",
+      "sha256": "71e3e81180e2862e6b39b5907fada3905063c4f8a6d5905cba39cd1402ebcbe8"
+    },
+    {
+      "region": "australia_wa_perth",
+      "year": 2014,
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "joint": true,
+      "Executed_N": 170.0,
+      "NUE": 0.8135915760053488,
+      "mass_passed": true,
+      "path": "data/phase8d-dev-controls/f6044f080f7be274fc12.json",
+      "sha256": "eea2822d692cbd6ef1e12b9f7d6618c55e3f9b6197c494ab651169324fa81664"
+    }
+  ],
+  "summary": [
+    {
+      "region": "netherlands_lelystad",
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 214.0
+    },
+    {
+      "region": "netherlands_lelystad",
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 0.2,
+      "Executed_N": 218.0
+    },
+    {
+      "region": "netherlands_lelystad",
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.2,
+      "Executed_N": 218.0
+    },
+    {
+      "region": "netherlands_lelystad",
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 214.0
+    },
+    {
+      "region": "netherlands_lelystad",
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 0.2,
+      "Executed_N": 218.0
+    },
+    {
+      "region": "netherlands_lelystad",
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.2,
+      "Executed_N": 218.0
+    },
+    {
+      "region": "netherlands_lelystad",
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 210.0
+    },
+    {
+      "region": "netherlands_lelystad",
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 0.2,
+      "Executed_N": 218.0
+    },
+    {
+      "region": "netherlands_lelystad",
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.2,
+      "Executed_N": 220.0
+    },
+    {
+      "region": "netherlands_lelystad",
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 212.0
+    },
+    {
+      "region": "netherlands_lelystad",
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 216.0
+    },
+    {
+      "region": "netherlands_lelystad",
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.2,
+      "Executed_N": 220.0
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 171.0
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 171.0
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 171.0
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 171.0
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 171.0
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 171.0
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 171.0
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 171.0
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 171.0
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 171.0
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 171.0
+    },
+    {
+      "region": "china_ncp_luancheng",
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 171.0
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.2,
+      "Executed_N": 74.0
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 0.4,
+      "Executed_N": 78.0
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.4,
+      "Executed_N": 80.0
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.2,
+      "Executed_N": 82.0
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 0.2,
+      "Executed_N": 86.0
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.4,
+      "Executed_N": 86.0
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 78.0
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 0.2,
+      "Executed_N": 82.0
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.4,
+      "Executed_N": 84.0
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 78.0
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 78.0
+    },
+    {
+      "region": "usa_kansas_wichita",
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.2,
+      "Executed_N": 86.0
+    },
+    {
+      "region": "france_paris_beauce",
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 220.0
+    },
+    {
+      "region": "france_paris_beauce",
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 220.0
+    },
+    {
+      "region": "france_paris_beauce",
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 220.0
+    },
+    {
+      "region": "france_paris_beauce",
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 220.0
+    },
+    {
+      "region": "france_paris_beauce",
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 220.0
+    },
+    {
+      "region": "france_paris_beauce",
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 220.0
+    },
+    {
+      "region": "france_paris_beauce",
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 220.0
+    },
+    {
+      "region": "france_paris_beauce",
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 220.0
+    },
+    {
+      "region": "france_paris_beauce",
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 220.0
+    },
+    {
+      "region": "france_paris_beauce",
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 220.0
+    },
+    {
+      "region": "france_paris_beauce",
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 220.0
+    },
+    {
+      "region": "france_paris_beauce",
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 220.0
+    },
+    {
+      "region": "australia_wa_perth",
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.4,
+      "Executed_N": 172.0
+    },
+    {
+      "region": "australia_wa_perth",
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 1.0,
+      "Executed_N": 176.0
+    },
+    {
+      "region": "australia_wa_perth",
+      "track": "Full-Telemetry",
+      "mode": "soft",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.8,
+      "Executed_N": 178.0
+    },
+    {
+      "region": "australia_wa_perth",
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.2,
+      "Executed_N": 174.0
+    },
+    {
+      "region": "australia_wa_perth",
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 1.0,
+      "Executed_N": 176.0
+    },
+    {
+      "region": "australia_wa_perth",
+      "track": "Full-Telemetry",
+      "mode": "tree",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 1.0,
+      "Executed_N": 174.0
+    },
+    {
+      "region": "australia_wa_perth",
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.2,
+      "Executed_N": 168.0
+    },
+    {
+      "region": "australia_wa_perth",
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 1.0,
+      "Executed_N": 174.0
+    },
+    {
+      "region": "australia_wa_perth",
+      "track": "Sensorless",
+      "mode": "soft",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.6,
+      "Executed_N": 176.0
+    },
+    {
+      "region": "australia_wa_perth",
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 25.0,
+      "n": 5,
+      "joint": 0.0,
+      "Executed_N": 172.0
+    },
+    {
+      "region": "australia_wa_perth",
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 35.0,
+      "n": 5,
+      "joint": 1.0,
+      "Executed_N": 174.0
+    },
+    {
+      "region": "australia_wa_perth",
+      "track": "Sensorless",
+      "mode": "tree",
+      "cap": 40.0,
+      "n": 5,
+      "joint": 0.8,
+      "Executed_N": 180.0
+    }
+  ],
+  "gates": {
+    "Full-Telemetry-soft-AU_cap25_nonzero": true,
+    "Full-Telemetry-soft-NL_tight_caps_lower_N": false,
+    "Sensorless-soft-AU_cap25_nonzero": true,
+    "Sensorless-soft-NL_tight_caps_lower_N": true,
+    "soft-Full_strictly_higher_joint": true,
+    "Full-Telemetry-tree-AU_cap25_nonzero": true,
+    "Full-Telemetry-tree-NL_tight_caps_lower_N": false,
+    "Sensorless-tree-AU_cap25_nonzero": false,
+    "Sensorless-tree-NL_tight_caps_lower_N": true,
+    "tree-Full_strictly_higher_joint": true
+  },
+  "passed": false,
+  "all_mass_passed": true,
+  "world_receipts": [
+    {
+      "world": [
+        "netherlands_lelystad",
+        2011,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 1,
+      "unique_executed_trajectories": 1,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            100.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "1dcfaf5770e74a5f659804d7c41d4da51de253829a0066a826f76f05bf2eb525"
+        }
+      ],
+      "complete_requested_paths": 1,
+      "cases_replayed": 11,
+      "public_prefix_nodes": 3,
+      "prefix_decisions_replayed": 33
+    },
+    {
+      "world": [
+        "netherlands_lelystad",
+        2012,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 1,
+      "unique_executed_trajectories": 1,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            100.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "4e35931ed92568ecd7c5e9f1c660d11496fb9f8b744404a338457abbf8f7ab4b"
+        }
+      ],
+      "complete_requested_paths": 1,
+      "cases_replayed": 11,
+      "public_prefix_nodes": 3,
+      "prefix_decisions_replayed": 33
+    },
+    {
+      "world": [
+        "netherlands_lelystad",
+        2010,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 4,
+      "unique_executed_trajectories": 4,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            100.0,
+            20.0,
+            100.0
+          ],
+          "sha256": "0802b31863fd07ee55f41c296dbe514c1bf8e65544b79b19b703266339a39e13"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            100.0
+          ],
+          "sha256": "6e51485219f9766b5068a73d191065263d574af3ac707eb2a6a72f712b719a46"
+        },
+        {
+          "doses": [
+            80.0,
+            40.0,
+            80.0
+          ],
+          "sha256": "f9ac927dd929d536aadd9e7991536755478e2a8d32be2040e68ae8583640c7c8"
+        },
+        {
+          "doses": [
+            80.0,
+            40.0,
+            100.0
+          ],
+          "sha256": "e8a3be1e98035997c73843a40e59b4b2b94be1ca1d9ab9a210c6d8bb01d8800b"
+        }
+      ],
+      "complete_requested_paths": 4,
+      "cases_replayed": 8,
+      "public_prefix_nodes": 7,
+      "prefix_decisions_replayed": 29
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2010,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 1,
+      "unique_executed_trajectories": 1,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "sha256": "bdd70c83ffecde9299722a9d967b37e5dbe37e0968d8d5a5d7b66ea25e860f47"
+        }
+      ],
+      "complete_requested_paths": 1,
+      "cases_replayed": 11,
+      "public_prefix_nodes": 3,
+      "prefix_decisions_replayed": 33
+    },
+    {
+      "world": [
+        "netherlands_lelystad",
+        2013,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 5,
+      "unique_executed_trajectories": 5,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            100.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "769c3517ab6dcefb8a3f0a18b34e76cd8f22af94b70ec75a626566a79ef48527"
+        },
+        {
+          "doses": [
+            100.0,
+            10.0,
+            100.0
+          ],
+          "sha256": "375eb73950ba464848e07f46a277e766b27f3016b15151924ea017a623be341b"
+        },
+        {
+          "doses": [
+            100.0,
+            80.0,
+            40.0
+          ],
+          "sha256": "c72898a3e001c619a02966f697af3e12d8fcf014cc21e8dd289dc83db729681a"
+        },
+        {
+          "doses": [
+            100.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "92ca73efd9770a980eb4db8e92a9f09b1a33303aa8f11c48cfec83de4c3b3f07"
+        },
+        {
+          "doses": [
+            60.0,
+            60.0,
+            80.0
+          ],
+          "sha256": "91125dbf2db1919577c42235cdc81b0a6d4e211eac542ab91d14b2f1ce5f5281"
+        }
+      ],
+      "complete_requested_paths": 5,
+      "cases_replayed": 7,
+      "public_prefix_nodes": 6,
+      "prefix_decisions_replayed": 30
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2011,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 1,
+      "unique_executed_trajectories": 1,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "sha256": "82debdb6653bac50d84dadae83ba7ca8be6ae05b82be1874162176648d64e5af"
+        }
+      ],
+      "complete_requested_paths": 1,
+      "cases_replayed": 11,
+      "public_prefix_nodes": 3,
+      "prefix_decisions_replayed": 33
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2012,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 1,
+      "unique_executed_trajectories": 1,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "sha256": "ade390c89adaae9c4ac54f72b18832fb27343dc11f3b4855951762d8cbc7208f"
+        }
+      ],
+      "complete_requested_paths": 1,
+      "cases_replayed": 11,
+      "public_prefix_nodes": 3,
+      "prefix_decisions_replayed": 33
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2013,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 1,
+      "unique_executed_trajectories": 1,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "sha256": "39dfb387b10164feccf0ef92b308fc6993478ee01fea5b7bba5c6c1257a64b6c"
+        }
+      ],
+      "complete_requested_paths": 1,
+      "cases_replayed": 11,
+      "public_prefix_nodes": 3,
+      "prefix_decisions_replayed": 33
+    },
+    {
+      "world": [
+        "netherlands_lelystad",
+        2014,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 4,
+      "unique_executed_trajectories": 4,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            100.0,
+            80.0,
+            40.0
+          ],
+          "sha256": "95d9580ddb6acdd67cd4c76e623c4683ded3fad520ad9ac2aa7aae32eee659c9"
+        },
+        {
+          "doses": [
+            20.0,
+            100.0,
+            100.0
+          ],
+          "sha256": "02f5faf8f083376f3b3b1b4a4e93f2361e9da0b072d8d0a8650236ccb980db34"
+        },
+        {
+          "doses": [
+            100.0,
+            60.0,
+            60.0
+          ],
+          "sha256": "7f6753451998049acf799f15128b8eb3e53e4ffac45457769e048a3e4189622d"
+        },
+        {
+          "doses": [
+            80.0,
+            80.0,
+            60.0
+          ],
+          "sha256": "ccdf656cee91a3ad68e01a12dccb2583a8afecc10861f4e378970ade19761895"
+        }
+      ],
+      "complete_requested_paths": 4,
+      "cases_replayed": 8,
+      "public_prefix_nodes": 8,
+      "prefix_decisions_replayed": 28
+    },
+    {
+      "world": [
+        "china_ncp_luancheng",
+        2014,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 1,
+      "unique_executed_trajectories": 1,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "sha256": "7e25b40252798c9c4a218e7af15ffeb991d7d1ccd9314ea00de6d08ee8a8886e"
+        }
+      ],
+      "complete_requested_paths": 1,
+      "cases_replayed": 11,
+      "public_prefix_nodes": 3,
+      "prefix_decisions_replayed": 33
+    },
+    {
+      "world": [
+        "usa_kansas_wichita",
+        2011,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 6,
+      "unique_executed_trajectories": 6,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            60.0,
+            0.0,
+            0.0
+          ],
+          "sha256": "7d4b6347e9817bbdc3c59e5405576344d6bd4489acc9d90312b7cc5792278f66"
+        },
+        {
+          "doses": [
+            60.0,
+            10.0,
+            0.0
+          ],
+          "sha256": "dbdd5cdfc6b4f62c7d8954522bebb1fa2b3ed1ea979c0181330d68b4892554ad"
+        },
+        {
+          "doses": [
+            40.0,
+            10.0,
+            20.0
+          ],
+          "sha256": "c3bfc7bc8d54a662df4fe3cad490d4daf6066de82df0bbd5d394c29748a314bf"
+        },
+        {
+          "doses": [
+            0.0,
+            60.0,
+            10.0
+          ],
+          "sha256": "24414d95a5791c5def05336f57a3cafaa608472d9d5a4a5c902c9c2e934b4522"
+        },
+        {
+          "doses": [
+            10.0,
+            10.0,
+            60.0
+          ],
+          "sha256": "7dd665f117cb08db17326df390ed22500d64003adeb48ecd60a4691bddc59192"
+        },
+        {
+          "doses": [
+            20.0,
+            10.0,
+            40.0
+          ],
+          "sha256": "fff4efb45a8eaa62fa679fffa8a781c34b598c994cb5371863ee4d7a70b810ee"
+        }
+      ],
+      "complete_requested_paths": 6,
+      "cases_replayed": 6,
+      "public_prefix_nodes": 12,
+      "prefix_decisions_replayed": 24
+    },
+    {
+      "world": [
+        "usa_kansas_wichita",
+        2010,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 7,
+      "unique_executed_trajectories": 7,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            60.0,
+            20.0,
+            20.0
+          ],
+          "sha256": "0900039f2b605c0715b75ada338a88f7970fc29725b0d28634bcbfd35aecf29d"
+        },
+        {
+          "doses": [
+            60.0,
+            20.0,
+            40.0
+          ],
+          "sha256": "c0030ffda42109701949b78627275038c5e9808d796d9c022c1c3e4fe1812bf6"
+        },
+        {
+          "doses": [
+            40.0,
+            10.0,
+            60.0
+          ],
+          "sha256": "5838a06254154d266bc1c1e166dafa7bc4dbccf07779fa8bc0a02f0e8ff1e360"
+        },
+        {
+          "doses": [
+            10.0,
+            40.0,
+            60.0
+          ],
+          "sha256": "fd64e9d0dc1d483a1a4718547454d5605bd2524544e2d172d5ba22e5db9cb35b"
+        },
+        {
+          "doses": [
+            10.0,
+            60.0,
+            40.0
+          ],
+          "sha256": "8cb0851388eb80f22eadfe88974f7dac4ca395da61490b352129271cf4479882"
+        },
+        {
+          "doses": [
+            40.0,
+            0.0,
+            60.0
+          ],
+          "sha256": "00a222b0c4ea967e49fef2d53502cce2b9c8accbaf2236dbbd3d303086362e80"
+        },
+        {
+          "doses": [
+            40.0,
+            20.0,
+            60.0
+          ],
+          "sha256": "ba36bbae19549a641d359a105b207acaca5ec729e4007eb68b74b677867eef7a"
+        }
+      ],
+      "complete_requested_paths": 7,
+      "cases_replayed": 5,
+      "public_prefix_nodes": 10,
+      "prefix_decisions_replayed": 26
+    },
+    {
+      "world": [
+        "usa_kansas_wichita",
+        2013,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 6,
+      "unique_executed_trajectories": 6,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            60.0,
+            0.0,
+            0.0
+          ],
+          "sha256": "415deff374c5cb31859f2e527a95cdc81260b8890be46c381e90ded5ee8d3736"
+        },
+        {
+          "doses": [
+            60.0,
+            10.0,
+            0.0
+          ],
+          "sha256": "479287f0b8a4da5653132ad8ed098da16825e8ea402fb54619c42181f5d72c02"
+        },
+        {
+          "doses": [
+            60.0,
+            0.0,
+            10.0
+          ],
+          "sha256": "4f9ab69242ff0dfbb18461aa0f01f8c59be40d0da153242cc24e6fd387f1b294"
+        },
+        {
+          "doses": [
+            40.0,
+            40.0,
+            0.0
+          ],
+          "sha256": "0950ccfbe0d8c0e660a1987d681c7fd69d86340175a6e1f1632282980a87ea76"
+        },
+        {
+          "doses": [
+            40.0,
+            20.0,
+            20.0
+          ],
+          "sha256": "b05aebfe2cfbcac34c9db5845c848306717020671d50aa6601ed886bffdfcbae"
+        },
+        {
+          "doses": [
+            60.0,
+            0.0,
+            20.0
+          ],
+          "sha256": "96deb29f14185c9a167fb57ed61923b8284ce70888a6c6da03d7cb512c46b972"
+        }
+      ],
+      "complete_requested_paths": 6,
+      "cases_replayed": 6,
+      "public_prefix_nodes": 7,
+      "prefix_decisions_replayed": 29
+    },
+    {
+      "world": [
+        "usa_kansas_wichita",
+        2012,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 8,
+      "unique_executed_trajectories": 8,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            80.0,
+            0.0,
+            10.0
+          ],
+          "sha256": "439c769bc268d780e31341bfc083998f9f2a160041f5a3ad6e5fcbd67beb1be7"
+        },
+        {
+          "doses": [
+            60.0,
+            0.0,
+            20.0
+          ],
+          "sha256": "d17e34de6e9b61c87eb87d84ec7159c48ff617f75d4758b1d1a1277ea184be2b"
+        },
+        {
+          "doses": [
+            80.0,
+            0.0,
+            0.0
+          ],
+          "sha256": "a3a4ee05cb6817d78886a748bd3bf3c09f0569b2dabdcc6bbfce2acb1d31b3f9"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            10.0
+          ],
+          "sha256": "6ee08264ed9917676762ceaa59dfd83625e4ad717901162716e1efc691524693"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            0.0
+          ],
+          "sha256": "0f0a529a85763c13d6d8b226c1262525777e05bd0aa28474e55ee93349c9e34b"
+        },
+        {
+          "doses": [
+            60.0,
+            0.0,
+            0.0
+          ],
+          "sha256": "0c15d2802a8bd0a0ec145e304962f23ee262fc0461c95feb8e81a30d96415338"
+        },
+        {
+          "doses": [
+            10.0,
+            20.0,
+            40.0
+          ],
+          "sha256": "7d14737a2fe4ca210405eb9a5fa0ab0f9d10797db53502678a803fc72f6ea83f"
+        },
+        {
+          "doses": [
+            10.0,
+            40.0,
+            20.0
+          ],
+          "sha256": "8978e9d9995af35a5fb9fd2b7eb954e325e58dd722de7788dc33cc9e6e971139"
+        }
+      ],
+      "complete_requested_paths": 8,
+      "cases_replayed": 4,
+      "public_prefix_nodes": 9,
+      "prefix_decisions_replayed": 27
+    },
+    {
+      "world": [
+        "france_paris_beauce",
+        2010,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 2,
+      "unique_executed_trajectories": 2,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            20.0,
+            100.0,
+            100.0
+          ],
+          "sha256": "f4a68a631bce290c5736bdf93b5a5e64fe0f59330fadb7051562f4517a4d5354"
+        },
+        {
+          "doses": [
+            100.0,
+            20.0,
+            100.0
+          ],
+          "sha256": "0f5f32bb1e4508233d554d4e6441de2aa9427ccd7596e7dcab13c74bb186e8f3"
+        }
+      ],
+      "complete_requested_paths": 2,
+      "cases_replayed": 10,
+      "public_prefix_nodes": 5,
+      "prefix_decisions_replayed": 31
+    },
+    {
+      "world": [
+        "usa_kansas_wichita",
+        2014,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 3,
+      "unique_executed_trajectories": 3,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            60.0,
+            0.0,
+            0.0
+          ],
+          "sha256": "e778d23104a0f874fa12e17fe44fc64d685f32cce5d0b99cdbbcdb9704c3929f"
+        },
+        {
+          "doses": [
+            80.0,
+            0.0,
+            0.0
+          ],
+          "sha256": "4902616bccb5c3d20aaaba79aa28dbe9cbdc22b26e87631a64e6c330562b7cad"
+        },
+        {
+          "doses": [
+            60.0,
+            0.0,
+            10.0
+          ],
+          "sha256": "5272dc8fb5545d932793b3284b68c16582bd12c57cfe16349be58e4f02ad263b"
+        }
+      ],
+      "complete_requested_paths": 3,
+      "cases_replayed": 9,
+      "public_prefix_nodes": 5,
+      "prefix_decisions_replayed": 31
+    },
+    {
+      "world": [
+        "france_paris_beauce",
+        2012,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 1,
+      "unique_executed_trajectories": 1,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            20.0,
+            100.0,
+            100.0
+          ],
+          "sha256": "405844bdb9070606b0134aab4739dcd6f9423ff4858f51458c9ac10d88ae383b"
+        }
+      ],
+      "complete_requested_paths": 1,
+      "cases_replayed": 11,
+      "public_prefix_nodes": 3,
+      "prefix_decisions_replayed": 33
+    },
+    {
+      "world": [
+        "france_paris_beauce",
+        2011,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 1,
+      "unique_executed_trajectories": 1,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            20.0,
+            100.0,
+            100.0
+          ],
+          "sha256": "98072f57c3466ee0aeda1e9d41e0c55679733aba270e9c48fea5f2a8ce1d6128"
+        }
+      ],
+      "complete_requested_paths": 1,
+      "cases_replayed": 11,
+      "public_prefix_nodes": 3,
+      "prefix_decisions_replayed": 33
+    },
+    {
+      "world": [
+        "france_paris_beauce",
+        2014,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 1,
+      "unique_executed_trajectories": 1,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            20.0,
+            100.0,
+            100.0
+          ],
+          "sha256": "5e5f932eba8b08ea34d5e49c2f62256a40dc917c5dc2ae1e5e570a7cf8760003"
+        }
+      ],
+      "complete_requested_paths": 1,
+      "cases_replayed": 11,
+      "public_prefix_nodes": 3,
+      "prefix_decisions_replayed": 33
+    },
+    {
+      "world": [
+        "france_paris_beauce",
+        2013,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 2,
+      "unique_executed_trajectories": 2,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            20.0,
+            100.0,
+            100.0
+          ],
+          "sha256": "34587be4c3fead236f34466f134db7ed0f730b06764df40256e8dfaa8a87f3ee"
+        },
+        {
+          "doses": [
+            100.0,
+            20.0,
+            100.0
+          ],
+          "sha256": "9bfe1da9cb1a8b423c2c27ee04923ac6e1c3226d2a7948eb12934fbfa0fbc114"
+        }
+      ],
+      "complete_requested_paths": 2,
+      "cases_replayed": 10,
+      "public_prefix_nodes": 5,
+      "prefix_decisions_replayed": 31
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2010,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 7,
+      "unique_executed_trajectories": 7,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            60.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "d845e0fa885ebe34930e83ad8276feba1825e6d31f07c92abcc81051ba28b66e"
+        },
+        {
+          "doses": [
+            80.0,
+            100.0,
+            0.0
+          ],
+          "sha256": "64ae84ce27a617eaca5c29834ab16d14e2f76104e8b2523bf4355c327e25e51e"
+        },
+        {
+          "doses": [
+            80.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "429e063edc288901b2eb7858e1a7ebee8a4a2fda8815a7d838ed7bd4a84a59f3"
+        },
+        {
+          "doses": [
+            80.0,
+            0.0,
+            100.0
+          ],
+          "sha256": "81743cd9165a853a9e3bc1b9e39e61fd402084b70346e9f26a4f87b526099ede"
+        },
+        {
+          "doses": [
+            100.0,
+            60.0,
+            10.0
+          ],
+          "sha256": "35420432a88e118ed53db3557af36a2672064f81bfee5651b4bfeb75a38bbce9"
+        },
+        {
+          "doses": [
+            100.0,
+            60.0,
+            20.0
+          ],
+          "sha256": "9afc1a51dae1c383fe04d0e93215a1108e3961cc247861221501715406f3346c"
+        },
+        {
+          "doses": [
+            100.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "1f0a6f6599eda0463d74fa02d60a6939d89c35387e65d2d96951b22b7093cdee"
+        }
+      ],
+      "complete_requested_paths": 7,
+      "cases_replayed": 5,
+      "public_prefix_nodes": 9,
+      "prefix_decisions_replayed": 27
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2011,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 7,
+      "unique_executed_trajectories": 7,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            100.0,
+            20.0,
+            40.0
+          ],
+          "sha256": "c18f572f7314f43e26e77aac46e4655a2d73b4e6678744813e4a8ea8a0e6194f"
+        },
+        {
+          "doses": [
+            80.0,
+            80.0,
+            10.0
+          ],
+          "sha256": "4b8b04b511b04fa58f38311f1044207a7c219011752fa321ea1b20e1344910ac"
+        },
+        {
+          "doses": [
+            80.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "4ade04e121a1c905fa4b0de862067ccbd61025845c33b37ddfaa73e92d9c60a5"
+        },
+        {
+          "doses": [
+            100.0,
+            10.0,
+            60.0
+          ],
+          "sha256": "6fa7590e4619ba23df1b8e3fe69a5a9d80e5d89c4d579a833a959c5f636ec278"
+        },
+        {
+          "doses": [
+            100.0,
+            60.0,
+            10.0
+          ],
+          "sha256": "603b0c846c9ee37469ac802e281ae724f302b73c679e47fb0ae80429f3bc4512"
+        },
+        {
+          "doses": [
+            100.0,
+            60.0,
+            20.0
+          ],
+          "sha256": "69172828e1f1e2afeb3b1b2123777d53a1aa5efba764566b5367e9e87ae8223a"
+        },
+        {
+          "doses": [
+            60.0,
+            100.0,
+            10.0
+          ],
+          "sha256": "c5b6bc7dc72794fa63be90000ed3924968945bc290977e817d7533ac7802f7e4"
+        }
+      ],
+      "complete_requested_paths": 7,
+      "cases_replayed": 5,
+      "public_prefix_nodes": 9,
+      "prefix_decisions_replayed": 27
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2013,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 3,
+      "unique_executed_trajectories": 3,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            100.0,
+            60.0,
+            10.0
+          ],
+          "sha256": "2df48733f4d473b71b545b8c3bbc222c3ef362de23e6a227aeed77081d390060"
+        },
+        {
+          "doses": [
+            80.0,
+            80.0,
+            10.0
+          ],
+          "sha256": "82f6e3ecbeab370af1168a14f20a22a47bd31e40d632e73bfa32cd8198858b51"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "353a652ac3d09253b7fcdb9692f061e3f7e27819104e37c9dc4bbaf1442aa7f5"
+        }
+      ],
+      "complete_requested_paths": 3,
+      "cases_replayed": 9,
+      "public_prefix_nodes": 6,
+      "prefix_decisions_replayed": 30
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2012,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 7,
+      "unique_executed_trajectories": 7,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            60.0,
+            100.0,
+            20.0
+          ],
+          "sha256": "39d9519882c82a8e6faebf917f086c98ce69951b930fc0fec7b34cc7ccfdc983"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            100.0
+          ],
+          "sha256": "d22869b39641ab287ec6ae6b9e6db87fdcab97c9fb70b3970d0b557b010fc06d"
+        },
+        {
+          "doses": [
+            100.0,
+            80.0,
+            0.0
+          ],
+          "sha256": "4463bc6db310de7c0ce3951c81f386f0fafbc4807336626a46fd82740d1fda8d"
+        },
+        {
+          "doses": [
+            40.0,
+            100.0,
+            40.0
+          ],
+          "sha256": "cff92b2bd6c612f9641579f91e6ba01afd35c6345931b7ee7386fe1b915af949"
+        },
+        {
+          "doses": [
+            80.0,
+            80.0,
+            10.0
+          ],
+          "sha256": "5e74d7b878953b81611e2051c017c55788904eb6be793a2482ee4fcd5d6ec619"
+        },
+        {
+          "doses": [
+            80.0,
+            80.0,
+            20.0
+          ],
+          "sha256": "98c2618bd9c444ce85b6b57b814a9908223e1126543036b82197c533dc6372f8"
+        },
+        {
+          "doses": [
+            80.0,
+            10.0,
+            80.0
+          ],
+          "sha256": "49d255b8d88970407fe00090e27938dfb13dcd07bd2af4f0b2c8b31b1dac139d"
+        }
+      ],
+      "complete_requested_paths": 7,
+      "cases_replayed": 5,
+      "public_prefix_nodes": 10,
+      "prefix_decisions_replayed": 26
+    },
+    {
+      "world": [
+        "australia_wa_perth",
+        2014,
+        "Historical",
+        "NASA"
+      ],
+      "native_simulations": 3,
+      "unique_executed_trajectories": 3,
+      "executed_trajectory_sha256": [
+        {
+          "doses": [
+            100.0,
+            60.0,
+            10.0
+          ],
+          "sha256": "c12bac8cec8147a5de9d74b3612339a9145a9ebc44387c851bb5da535982474e"
+        },
+        {
+          "doses": [
+            100.0,
+            10.0,
+            60.0
+          ],
+          "sha256": "f4de75072eb78c12e1a79e042698e75c63f3c61b330bbb9b0663bed9663f5da8"
+        },
+        {
+          "doses": [
+            10.0,
+            100.0,
+            60.0
+          ],
+          "sha256": "64fe69c3ccb325738fc45dcc2e69a24b4a0c64d4a1ceaf4bc79d29fdfbd3553a"
+        }
+      ],
+      "complete_requested_paths": 3,
+      "cases_replayed": 9,
+      "public_prefix_nodes": 6,
+      "prefix_decisions_replayed": 30
+    }
+  ]
+}

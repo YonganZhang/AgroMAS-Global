@@ -1,0 +1,177 @@
+{
+  "english": [
+    "Five numerical specialists couple causal spatial response, climate, watershed surplus constraints and economics to three-stage agronomic control. Raw AlphaEarth features remain private, and the external WOFOST81-SNOMIN referee only audits executed actions. The frozen three-seed 36-D MLP has 13,155 parameters per seed; causal anomaly adaptation augments Static3 and falls back to it under OOD.",
+    "P1 farm-year nitrogen regimes, objective retention and price stress. a Six EUNEP input-output facets with KDE and52 farm-years per policy; DVS uses Full-Telemetry, all other facets Sensorless. The white target satisfies NUE0.50–0.90 and surplus0–40. b Eight-policy boxplots and jittered farm-year points; NUE display clips0.2–2.2, with archived equal-region mean11.56 and pooled median disclosed. c Region-equal objective-retention waterfall, Dev AU rescue and52-case paired tie strips; Holm p=1.00 does not establish superiority or equivalence. d Filled1x to open2x price arrows, marker area scaled with executed N; bare2x is not evaluated. Climate and economic settings are simulator interventions.",
+    "P2 transfer preserves distinct cohort, scheme and admission denominators. a Five-adapter LOYO filled rose/LORO open blue dumbbells for Former n40, with Public-Reused NL n4 blue diamonds; paired admission bubbles show predictive rows, world-equal prediction and pooled closed-loop decisions. b Separate LOYO and LORO regional curves and descriptive gain bands. c LOYO Former40 EUNEP phase space for Full64, Static3 and ExtraTrees64. d Frozen paired compliance-effect intervals with Holm p1.00 and four separate world/row Grain-N MSE comparisons. Retain negative LORO ExtraTrees contrast and predictive degradation; no prospective blind-test claim.",
+    "The complete180-cell stress surface retains90 canonical black outlines. a-c Joint compliance by climate; d-f Soft-minus-PPO differences. Columns are price1x subsidy0, price2x subsidy0 and price1x subsidy50, each with caps25,35,40,50. g Cap-dependent mean differences and45-cell-per-cap win/tie/loss counts. h Full five-region effects and all five leave-one-region-out sensitivities at five headline regimes. i Partial profit and published native N loss across actual subsidy levels; x marks no-economics at50 only. Shaded envelopes describe climate ranges. Idealized warming is not an operational forecast.",
+    "Execution evidence and soil diagnostics bound claims. a Selected N supply components (executed fertilizer and native soil-stock drawdown) versus selected fate components (grain N and published native N loss), with apparent versus stock-adjusted NUE. Components omit straw, roots and other boundary transfers and therefore are not a closed grain-only mass budget. Native results are SHA-verified, seeds averaged within farm-year and regions weighted equally. b Log daily residual gauges against N1e-10/C1e-9 tolerances over6104146 configuration-days;1886 native plus16382 exact replays, zero violations. c All50 TRAIN readouts, including6 negatives; black frame encloses30 required positive cells. d All50 latent/raw parity points with target and track legends. TRAIN associations are not causal identification; neural auxiliary training skipped."
+  ],
+  "chinese": [
+    "五个数值专职模块耦合因果空间响应、气候、流域氮盈余约束和经济政策，服务三阶段农艺控制；原始卫星向量保持私有，外部物理裁判只核算已执行动作。",
+    "P1展示同信息约束下的目标保持、区域异质性与土壤氮透支权衡；缺失的策略和信息组合不补值，历史参照不宣称胜过PPO。",
+    "P2分开原留出与荷兰公开复用、LOYO与LORO；先验接受率不等于预测改善，保留LORO预测误差劣势。",
+    "180格完整压力面保留不利单元，90格连续性单元用黑框标出；下排展示真实补贴曲线，理想化气候扰动不等于业务预报。",
+    "执行计数、配置逐日守恒及TRAIN物理解码共同限定结论；重复配置日不代表独立轨迹，解码相关不等于因果机制。"
+  ],
+  "scope": "Simulator-based adaptive benchmark reuse; P2 retrospective causal t-1;not prospective field assurance. Source cohorts/folds unpooled;intervals marginal;Holm family determined from phase8d-core-statistics.json. P2 anomaly OOD falls back to Static3, not zero total correction.",
+  "figure_details": {
+    "fig2-g1": {
+      "caption_notes": "Baja EUNEP safe corridor; violation distance is geometric, not a fitted utility. All52 historical Sensorless cases and5 centroids. Exclusive regime priority: compliant, then abstention, then mining, then surplus; two low-NUE-only US cases retained in a fifth category. Initial stocks are declared initialization metadata. Open-to-filled dumbbells show uncalibrated-to-calibrated widths and ExtraTrees-to-MLP regret. Regime counts [[7, 3, 1, 0, 0], [4, 4, 2, 0, 2], [1, 3, 1, 0, 0], [1, 0, 11, 0, 0], [0, 0, 0, 12, 0]]",
+      "source_sha256": {
+        "reports/phase8/phase8d-core-statistics.json": "d5f793084a1d9bc2e9c43d71ef486dffd855e1b0c189da53554d681b87838083",
+        "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+        "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e",
+        "reports/phase8/phase8d-180cell-stress-surface.csv": "8e6fbbbc0f37ab0aab806fcfb8c3002fe5c9744a57098c5360742f5c3d11827b",
+        "reports/phase8/phase8d-closeout-receipt.json": "1ba174ef6e9d42451d6dea49b977f8906be52aad61b9546b04a5c1fd2a068185",
+        "reports/phase8/phase8d-primary-verification.json": "6b8ca50ac3d376f206ab9a1bce61e0363e2731efeacbc93657abc65845d5ecdb",
+        "reports/phase8/phase8d-P2-predictive-cohort-strata.csv": "4ea7c3f0ad892378a113560ce785e23e3b9887095b8eb20e6d8874668b7c1612",
+        "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba",
+        "reports/phase8/phase8d-case-metrics-seed-averaged.csv": "c218ce40be31d28be4616353d060e29634111729275b7e6ec7fc4f0ba78643e9",
+        "reports/phase8/phase8d-G1-radius-interpretation.json": "9b564a1680d8726972134ee01c3a8bb62e35cca828607a5904efda3ee0037e7e",
+        "reports/phase8/phase8d-root-cause-verification.json": "0d4a216d0acd197c6cd3fc4a1b3e6a255416916e85c958d284f04be899ffb9a7"
+      },
+      "script": "g1"
+    },
+    "fig2-p1-regimes": {
+      "caption_notes": "Six Baja KDE phase spaces and eight-policy distributions; DVS uses Full-Telemetry only, all other policies Sensorless. Exactly52 farm-years each. NUE display clipped0.2–2.2 with archived mean and median disclosed. Waterfall increments derived from frozen region-equal rates; Dev rescue source frozen. Paired ties and Holm p preserve historical parity. Price arrows1x to2x; bubble area includes25-point visibility floor plus0.5 times executed N.",
+      "source_sha256": {
+        "reports/phase8/phase8d-core-statistics.json": "d5f793084a1d9bc2e9c43d71ef486dffd855e1b0c189da53554d681b87838083",
+        "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+        "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e",
+        "reports/phase8/phase8d-180cell-stress-surface.csv": "8e6fbbbc0f37ab0aab806fcfb8c3002fe5c9744a57098c5360742f5c3d11827b",
+        "reports/phase8/phase8d-closeout-receipt.json": "1ba174ef6e9d42451d6dea49b977f8906be52aad61b9546b04a5c1fd2a068185",
+        "reports/phase8/phase8d-primary-verification.json": "6b8ca50ac3d376f206ab9a1bce61e0363e2731efeacbc93657abc65845d5ecdb",
+        "reports/phase8/phase8d-P2-predictive-cohort-strata.csv": "4ea7c3f0ad892378a113560ce785e23e3b9887095b8eb20e6d8874668b7c1612",
+        "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba",
+        "reports/phase8/phase8d-case-metrics-seed-averaged.csv": "c218ce40be31d28be4616353d060e29634111729275b7e6ec7fc4f0ba78643e9",
+        "reports/phase8/phase8d-G1-radius-interpretation.json": "9b564a1680d8726972134ee01c3a8bb62e35cca828607a5904efda3ee0037e7e",
+        "reports/phase8/phase8d-root-cause-verification.json": "0d4a216d0acd197c6cd3fc4a1b3e6a255416916e85c958d284f04be899ffb9a7"
+      },
+      "script": "p1"
+    },
+    "figs2-g3-subsidy": {
+      "caption_notes": "Climate comparison preserves matched31 removal cases,28 ties. Eco cap25 Full and35/40 Sensorless explicitly separated; cap50 only Sensorless complete, all others Not evaluated. IQR pooled farm-year descriptive ranges; means region equal. Solid1x and hatched2x. Five actual subsidy levels both climates. Typology CI5000 resamples within region, equal-region mean, seed20261115; NUE bars clipped2 with exact means printed. CI {\"I. MLP\": [14.543181818181818, 36.54545454545455], \"ExtraTrees\": [8.787878787878785, 29.42424242424242], \"Weather\": [8.484848484848486, 29.21212121212121], \"Linear\": [5.151515151515151, 25.636363636363633], \"II. Soft-Coupled\": [14.543181818181818, 36.54545454545455], \"Tier2\": [11.272727272727275, 33.06060606060606], \"Open-loop\": [10.602272727272728, 30.87878787878788], \"Greedy\": [7.12121212121212, 27.545454545454547], \"Archived bare\": [0.0, 12.0]}",
+      "source_sha256": {
+        "reports/phase8/phase8d-core-statistics.json": "d5f793084a1d9bc2e9c43d71ef486dffd855e1b0c189da53554d681b87838083",
+        "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+        "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e",
+        "reports/phase8/phase8d-180cell-stress-surface.csv": "8e6fbbbc0f37ab0aab806fcfb8c3002fe5c9744a57098c5360742f5c3d11827b",
+        "reports/phase8/phase8d-closeout-receipt.json": "1ba174ef6e9d42451d6dea49b977f8906be52aad61b9546b04a5c1fd2a068185",
+        "reports/phase8/phase8d-primary-verification.json": "6b8ca50ac3d376f206ab9a1bce61e0363e2731efeacbc93657abc65845d5ecdb",
+        "reports/phase8/phase8d-P2-predictive-cohort-strata.csv": "4ea7c3f0ad892378a113560ce785e23e3b9887095b8eb20e6d8874668b7c1612",
+        "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba",
+        "reports/phase8/phase8d-case-metrics-seed-averaged.csv": "c218ce40be31d28be4616353d060e29634111729275b7e6ec7fc4f0ba78643e9",
+        "reports/phase8/phase8d-G1-radius-interpretation.json": "9b564a1680d8726972134ee01c3a8bb62e35cca828607a5904efda3ee0037e7e",
+        "reports/phase8/phase8d-root-cause-verification.json": "0d4a216d0acd197c6cd3fc4a1b3e6a255416916e85c958d284f04be899ffb9a7"
+      },
+      "script": "gaps"
+    },
+    "fig3-p2-transfer": {
+      "caption_notes": "All5 variants, both schemes;40 Former cases and4 Public NL cases remain distinct. Admission circles area proportional to rate; paired LOYO rose and LORO open blue in every row and denominator. Phase-space explicitly LOYO only. Effect CIs frozen equal-region bootstrap; all Holm1. World and pooled MSE separate, retained LORO ExtraTrees degradation.",
+      "source_sha256": {
+        "reports/phase8/phase8d-core-statistics.json": "d5f793084a1d9bc2e9c43d71ef486dffd855e1b0c189da53554d681b87838083",
+        "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+        "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e",
+        "reports/phase8/phase8d-180cell-stress-surface.csv": "8e6fbbbc0f37ab0aab806fcfb8c3002fe5c9744a57098c5360742f5c3d11827b",
+        "reports/phase8/phase8d-closeout-receipt.json": "1ba174ef6e9d42451d6dea49b977f8906be52aad61b9546b04a5c1fd2a068185",
+        "reports/phase8/phase8d-primary-verification.json": "6b8ca50ac3d376f206ab9a1bce61e0363e2731efeacbc93657abc65845d5ecdb",
+        "reports/phase8/phase8d-P2-predictive-cohort-strata.csv": "4ea7c3f0ad892378a113560ce785e23e3b9887095b8eb20e6d8874668b7c1612",
+        "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba",
+        "reports/phase8/phase8d-case-metrics-seed-averaged.csv": "c218ce40be31d28be4616353d060e29634111729275b7e6ec7fc4f0ba78643e9",
+        "reports/phase8/phase8d-G1-radius-interpretation.json": "9b564a1680d8726972134ee01c3a8bb62e35cca828607a5904efda3ee0037e7e",
+        "reports/phase8/phase8d-root-cause-verification.json": "0d4a216d0acd197c6cd3fc4a1b3e6a255416916e85c958d284f04be899ffb9a7"
+      },
+      "script": "p2"
+    },
+    "fig4-factorial-stress": {
+      "caption_notes": "Full180 cells and90 canonical outlines; contrast text computed per actual heatmap/stack color. Right colorbars. Cap W/T/L [[9, 20, 16], [12, 22, 11], [15, 23, 7], [4, 28, 13]]. Sensitivity full equal-five mean versus every single-region removal at five prespecified regimes. Subsidy envelopes are descriptive climate ranges; x no-economics at50 only.",
+      "source_sha256": {
+        "reports/phase8/phase8d-core-statistics.json": "d5f793084a1d9bc2e9c43d71ef486dffd855e1b0c189da53554d681b87838083",
+        "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+        "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e",
+        "reports/phase8/phase8d-180cell-stress-surface.csv": "8e6fbbbc0f37ab0aab806fcfb8c3002fe5c9744a57098c5360742f5c3d11827b",
+        "reports/phase8/phase8d-closeout-receipt.json": "1ba174ef6e9d42451d6dea49b977f8906be52aad61b9546b04a5c1fd2a068185",
+        "reports/phase8/phase8d-primary-verification.json": "6b8ca50ac3d376f206ab9a1bce61e0363e2731efeacbc93657abc65845d5ecdb",
+        "reports/phase8/phase8d-P2-predictive-cohort-strata.csv": "4ea7c3f0ad892378a113560ce785e23e3b9887095b8eb20e6d8874668b7c1612",
+        "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba",
+        "reports/phase8/phase8d-case-metrics-seed-averaged.csv": "c218ce40be31d28be4616353d060e29634111729275b7e6ec7fc4f0ba78643e9",
+        "reports/phase8/phase8d-G1-radius-interpretation.json": "9b564a1680d8726972134ee01c3a8bb62e35cca828607a5904efda3ee0037e7e",
+        "reports/phase8/phase8d-root-cause-verification.json": "0d4a216d0acd197c6cd3fc4a1b3e6a255416916e85c958d284f04be899ffb9a7"
+      },
+      "script": "stress"
+    },
+    "fig5-deployment-closure": {
+      "caption_notes": "Supply/fate components from SHA-verified sealed native results; seeds averaged per farm-year then equal regions. Selected grain/loss fate omits straw/root and other boundary transfers, so bars do not claim full closure. Budget metadata and every source digest in phase8d-cea-v5-stock-budget.json. Apparent NUE is primary; stock-adjusted diagnostic secondary. Daily tolerance gauges exact. All50 readouts including6 negative values;30 required positive cells framed. TRAIN readout, not causal proof; auxiliary training skipped.",
+      "source_sha256": {
+        "reports/phase8/phase8d-core-statistics.json": "d5f793084a1d9bc2e9c43d71ef486dffd855e1b0c189da53554d681b87838083",
+        "reports/phase8/phase8d-G1-verdict.json": "089c4e2a6b03414f925be2f89347cda4f2db18b96df626c5b47e64fa4ac95b6c",
+        "reports/phase8/phase8d-full-TRAIN-physical-decoding.json": "288b1a1b2ea1cbb07035a52cdb498f373197c419714c36c3b65d9c2cdf0f160e",
+        "reports/phase8/phase8d-180cell-stress-surface.csv": "8e6fbbbc0f37ab0aab806fcfb8c3002fe5c9744a57098c5360742f5c3d11827b",
+        "reports/phase8/phase8d-closeout-receipt.json": "1ba174ef6e9d42451d6dea49b977f8906be52aad61b9546b04a5c1fd2a068185",
+        "reports/phase8/phase8d-primary-verification.json": "6b8ca50ac3d376f206ab9a1bce61e0363e2731efeacbc93657abc65845d5ecdb",
+        "reports/phase8/phase8d-P2-predictive-cohort-strata.csv": "4ea7c3f0ad892378a113560ce785e23e3b9887095b8eb20e6d8874668b7c1612",
+        "manuscript/phase8/all-summary-groups.csv": "1c765fc85bdd6dfd41ba12c9c0eec62193364a6293c2b1220b8c68243f4aa5ba",
+        "reports/phase8/phase8d-case-metrics-seed-averaged.csv": "c218ce40be31d28be4616353d060e29634111729275b7e6ec7fc4f0ba78643e9",
+        "reports/phase8/phase8d-G1-radius-interpretation.json": "9b564a1680d8726972134ee01c3a8bb62e35cca828607a5904efda3ee0037e7e",
+        "reports/phase8/phase8d-root-cause-verification.json": "0d4a216d0acd197c6cd3fc4a1b3e6a255416916e85c958d284f04be899ffb9a7"
+      },
+      "script": "closure"
+    }
+  },
+  "supplement_captions": {
+    "fig2-g1": "Calibration connects EUNEP nitrogen-input/output geometry and five-region regimes to cross-year coverage, interval width, Brier skill and ranking regret. a52 Sensorless historical farm-years and region centroids over a geometric corridor-violation field; iso-surplus25/35/40/50. b Initialization metadata, exclusive outcome regimes and region-specific seasonal means. Classification priority is compliant, abstention, mining, surplus, then low NUE; two US low-NUE-only cases require the fifth category. c Macro/regional coverage with85–95 band and90 reference; separate uncalibrated-to-CQR width dumbbells. d Skill curves against climatology/ExtraTrees and regret dumbbells. No conditional coverage guarantee.",
+    "figs2-g3-subsidy": "Four coupling diagnostics: a cap40 climate trajectories and separate mid-warming cap25 point; matched31 climate-removal region-equal/pooled/AU dumbbells with28 ties. b Eco-removal comparison at cap25 Full, cap35/40 Sensorless with actual pooled S_N IQR and region-equal means. At50 only Sensorless complete34.4% exists; Full and remove-eco Not evaluated. c Solid1x versus hatched2x compliance and five-level subsidy curves, solid joint/dashed profit, for Historical and mid warming. d Nine-row two-group typology, within-region5000-resample equal-region bootstrap intervals (seed20261115), NUE mini-bars clipped2 with exact means and S_N values. DVS/Legacy use Full telemetry."
+  },
+  "redesign_scope": "CEA v5 quantitative figure assets, scripts and figure metadata only; all Fig1/raw/PPTX/manuscript/frozen sources unchanged. No simulations, subagents or external LLMs.",
+  "integration_status": {
+    "figure_batch_only": true,
+    "manuscript_caption_sync": "Intentionally deferred by task-02f07c9642c600fe.md until author selects upgraded figures. Existing md/tex/pdf remain byte-identical.",
+    "paper_builder": "Historical manuscript build script is not run in this round and still carries previous captions; update it together with manuscript captions in the separately authorized integration stage.",
+    "not_submission_ready": true
+  },
+  "P2_inference": {
+    "estimand": "NASA Former cohort equal-five-region compliance difference, seeds averaged within farm-year",
+    "interval": "marginal paired bootstrap CI",
+    "test": "pooled paired farm-year exact sign p, full 13,512-contrast Holm family, not a region-weighted test of the equal-region effect",
+    "Holm_p": {
+      "LORO": 1.0,
+      "LOYO": 1.0
+    }
+  },
+  "cea_v4": {
+    "scope": "Only image edits and frozen-data replotting; no PPTX or manuscript change.",
+    "plot_notes": {
+      "fig2-g1": "Natural Earth Robinson context and exact Europe inset. Initial-soil-N rounded callouts follow task-754910f37ddf0ccd.md declared initialization metadata, not soil observations. Interval widths read from phase8d-G1-radius-interpretation.json; target90 and sub-band AU remain visible. All BSS and regret labels derived from G1 verdict.",
+      "fig2-p1-regimes": "Historical NASA Former n52 equal-region means. Direct bar values are queried, not confidence intervals of policy means. Parity tie counts and Holm p from frozen paired contrasts; missing Full PPO and Sensorless DVS are absent. Dev rescue uses root-cause-verification.json frozen Dev section. Regional tags are descriptive, not superiority claims. Arrows connect 2x to1x, not causal fitted trajectories; price/track and bubble keys separate.",
+      "figs2-g3-subsidy": "a includes warming cap25 and cap35/40; delta references DVS at25 and PPO at40. Inset exact matched31 farm-year inner join; Complete19.39/29.03 versus no-climate17.58/25.81 regional/pooled. b cap50 Sensorless only34.4%; Full and no-eco not evaluated (leader confirmed OptionA); binding caps25–40 are evaluated. c all climates cap40, filled1x/translucent2x, subsidy labels actual0/50/100/150/200. d group brackets and NUE/S_N columns. DVS/Legacy Full telemetry, not information-matched claims.",
+      "fig3-p2-transfer": "All5 variants and4 cohort-scheme strata; Former40/PublicNL4 kept separate. Panel c predictive acceptance uses31110 predictive rows and world-equal weights; closed-loop ratio sums accepted/decisions in frozen case-metrics (120 decisions per scheme, LOYO93/120,LORO72/120), distinct denominators even when rates coincide. Forest contrasts use equal-region bootstrap CI and pooled-sign full-family Holm p, not superiority claims. Grain-N MSE exposes both world-equal and row-pooled errors and retained LORO degradation.",
+      "fig4-factorial-stress": "Rows a-c Historical, +1.8°C, +3.5°C; d-f matched differences. Columns within panels are price then subsidy then cap. x markers below show remove-econ at subsidy50 only, not a fitted fan. Complete frozen 180 cells retained. Colorbars centered on the outer plotting-column edges.",
+      "fig5-deployment-closure": "All50 frozen region-track-target readouts shown in10x5 heatmap, including6 negative native-loss values. Black rectangle frames30 required positive cells (min0.005571); exploratory20 mineral/loss cells retained. All50 points in scatter, both5-target shape and2-track color legends explicit. No causal identification, auxiliary neural training skipped. Daily residual tolerances and safety factors are exact maxima over6104146 configuration-day records, not independent trajectories."
+    },
+    "source_paths": [
+      "reports/phase8/phase8d-case-metrics-seed-averaged.csv",
+      "reports/phase8/phase8d-G1-radius-interpretation.json",
+      "reports/phase8/phase8d-root-cause-verification.json"
+    ],
+    "data_scope_exception": "Leader OptionA confirmed in continue-5c6220be8081cb09.md: Full cap50 and remove-eco cap50 not evaluated; only Sensorless complete34.4% exists.",
+    "annotation_authority": "task-754910f37ddf0ccd.md explicitly requests concise numeric plot annotations; caption guard max_words=18, no titles."
+  },
+  "cea_v5": {
+    "task": "task-0856f3b1eb7f7012.md",
+    "plot_notes": {
+      "fig2-g1": "Baja EUNEP safe corridor; violation distance is geometric, not a fitted utility. All52 historical Sensorless cases and5 centroids. Exclusive regime priority: compliant, then abstention, then mining, then surplus; two low-NUE-only US cases retained in a fifth category. Initial stocks are declared initialization metadata. Open-to-filled dumbbells show uncalibrated-to-calibrated widths and ExtraTrees-to-MLP regret. Regime counts [[7, 3, 1, 0, 0], [4, 4, 2, 0, 2], [1, 3, 1, 0, 0], [1, 0, 11, 0, 0], [0, 0, 0, 12, 0]]",
+      "fig2-p1-regimes": "Six Baja KDE phase spaces and eight-policy distributions; DVS uses Full-Telemetry only, all other policies Sensorless. Exactly52 farm-years each. NUE display clipped0.2–2.2 with archived mean and median disclosed. Waterfall increments derived from frozen region-equal rates; Dev rescue source frozen. Paired ties and Holm p preserve historical parity. Price arrows1x to2x; bubble area includes25-point visibility floor plus0.5 times executed N.",
+      "figs2-g3-subsidy": "Climate comparison preserves matched31 removal cases,28 ties. Eco cap25 Full and35/40 Sensorless explicitly separated; cap50 only Sensorless complete, all others Not evaluated. IQR pooled farm-year descriptive ranges; means region equal. Solid1x and hatched2x. Five actual subsidy levels both climates. Typology CI5000 resamples within region, equal-region mean, seed20261115; NUE bars clipped2 with exact means printed. CI {\"I. MLP\": [14.543181818181818, 36.54545454545455], \"ExtraTrees\": [8.787878787878785, 29.42424242424242], \"Weather\": [8.484848484848486, 29.21212121212121], \"Linear\": [5.151515151515151, 25.636363636363633], \"II. Soft-Coupled\": [14.543181818181818, 36.54545454545455], \"Tier2\": [11.272727272727275, 33.06060606060606], \"Open-loop\": [10.602272727272728, 30.87878787878788], \"Greedy\": [7.12121212121212, 27.545454545454547], \"Archived bare\": [0.0, 12.0]}",
+      "fig3-p2-transfer": "All5 variants, both schemes;40 Former cases and4 Public NL cases remain distinct. Admission circles area proportional to rate; paired LOYO rose and LORO open blue in every row and denominator. Phase-space explicitly LOYO only. Effect CIs frozen equal-region bootstrap; all Holm1. World and pooled MSE separate, retained LORO ExtraTrees degradation.",
+      "fig4-factorial-stress": "Full180 cells and90 canonical outlines; contrast text computed per actual heatmap/stack color. Right colorbars. Cap W/T/L [[9, 20, 16], [12, 22, 11], [15, 23, 7], [4, 28, 13]]. Sensitivity full equal-five mean versus every single-region removal at five prespecified regimes. Subsidy envelopes are descriptive climate ranges; x no-economics at50 only.",
+      "fig5-deployment-closure": "Supply/fate components from SHA-verified sealed native results; seeds averaged per farm-year then equal regions. Selected grain/loss fate omits straw/root and other boundary transfers, so bars do not claim full closure. Budget metadata and every source digest in phase8d-cea-v5-stock-budget.json. Apparent NUE is primary; stock-adjusted diagnostic secondary. Daily tolerance gauges exact. All50 readouts including6 negative values;30 required positive cells framed. TRAIN readout, not causal proof; auxiliary training skipped."
+    },
+    "deviations": [
+      "Two low-NUE-only US farm-years require a fifth exclusive G1 regime.",
+      "Archived bare2x absent: no invented price trajectory.",
+      "Soil-budget means queried from SHA-verified native results replace illustrative task values."
+    ],
+    "native_budget": "phase8d-cea-v5-stock-budget.json",
+    "review": "Leader performs cross-model/visual review after master merge; external calls prohibited in worker task."
+  }
+}

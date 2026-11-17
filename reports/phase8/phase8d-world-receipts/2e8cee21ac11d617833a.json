@@ -1,0 +1,117 @@
+{
+  "world": [
+    "usa_kansas_wichita",
+    2018,
+    "idealized_high",
+    "NASA"
+  ],
+  "native_simulations": 6,
+  "unique_native_executed_trajectories": 6,
+  "unique_executed_trajectories": 12,
+  "executed_trajectory_sha256": [
+    {
+      "doses": [
+        0.0,
+        10.0,
+        40.0
+      ],
+      "sha256": "cc92ee17207c924f02cf7dc52a685048a8c99396db1dd449b8c9c7fd1b732803"
+    },
+    {
+      "doses": [
+        10.0,
+        0.0,
+        0.0
+      ],
+      "sha256": "98a6e4dc1e21e1340c1f9a905e5f64a78654c8d0c68f21043afe949fb7008fb4"
+    },
+    {
+      "doses": [
+        0.0,
+        0.0,
+        40.0
+      ],
+      "sha256": "84ccb4df1932a9addcf1f4e26dd71f33b5e5a7dea289eba7dcfa0233ad5f8ab7"
+    },
+    {
+      "doses": [
+        0.0,
+        0.0,
+        60.0
+      ],
+      "sha256": "22b072f8ef2aa5ed5339ba71c1de54cddd47c2158b1fba9088a79771891e50cc"
+    },
+    {
+      "doses": [
+        60.0,
+        0.0,
+        0.0
+      ],
+      "sha256": "cd4e1b847a8c4ab045ca5854b5bd15b66ccffb299e2efc2846fd97fd8ffd2a7a"
+    },
+    {
+      "doses": [
+        40.0,
+        0.0,
+        20.0
+      ],
+      "sha256": "0ef603a7ef7c34dacbda909f7881abf0436d71df9d9b50c68bfcb61a43ec04bf"
+    },
+    {
+      "doses": [
+        80.0,
+        0.0,
+        0.0
+      ],
+      "sha256": "00b4eea861cc219cca4ef1684d7f1f97b2e6eff5f00ffebd0350b45465accc7b"
+    },
+    {
+      "doses": [
+        40.0,
+        0.0,
+        10.0
+      ],
+      "sha256": "d679e9eb84856ce58d083b4dab7db326cd74ab4fd9c01d83d8bb4dbb1787bcaa"
+    },
+    {
+      "doses": [
+        0.0,
+        0.0,
+        20.0
+      ],
+      "sha256": "84d57d57a597d1794d01b7568b85d76515c43ae0e98fd94e963746c380a81c84"
+    },
+    {
+      "doses": [
+        0.0,
+        40.0,
+        0.0
+      ],
+      "sha256": "8836a7623a94a3bdb5c16a4fc3aad5992681fafc5e9ed20700c14fe6e53c05bc"
+    },
+    {
+      "doses": [
+        20.0,
+        20.0,
+        10.0
+      ],
+      "sha256": "0b6f0a10b8f5a0e05070f24ad489f154908da9546a59781b4eea97da77eca188"
+    },
+    {
+      "doses": [
+        10.0,
+        20.0,
+        10.0
+      ],
+      "sha256": "0959e36aa55c9901a5f21dae31673245db6da5cf6e145a3db192a8220a8cb911"
+    }
+  ],
+  "complete_requested_paths": 12,
+  "cases_replayed": 84,
+  "public_prefix_nodes": 11,
+  "prefix_decisions_replayed": 259,
+  "archived_records_verified": 90,
+  "archived_requested_paths": 7,
+  "worker": 0,
+  "cases": 90
+}

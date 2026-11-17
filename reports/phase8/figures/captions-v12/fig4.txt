@@ -1,0 +1,2 @@
+Sensorless spatiotemporal transfer using causal satellite anomaly priors under temporal and cross-regional holdouts. Panels display a held-out surplus distributions and compliance shifts across five adapters, b grain nitrogen prediction error versus compliance trajectories with paired confidence intervals, c five-region efficiency-surplus shift vectors and d combined transfer ellipses.
+基于因果卫星距平先验的无传感器跨年与跨区迁移表现。图a为五种适配器盈余分布与达标哑铃迁移，图b为籽粒氮RMSE与达标二维泛化轨迹及置信区间，图c为五大产区二维迁移向量与准入率，图d为迁移椭圆对照。

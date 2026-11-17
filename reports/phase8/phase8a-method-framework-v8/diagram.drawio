@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile>
+  <diagram id="method" name="AgroMAS-Global目标架构：64维DL代理赋能四专职团队">
+    <mxGraphModel page="1" pageWidth="2690" pageHeight="1940" background="#ffffff">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="__title" value="AgroMAS-Global目标架构：64维DL代理赋能四专职团队" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=Noto Sans CJK SC;fontSize=32;fontColor=#183344;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="2330" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sat" value="已存AlphaEarth先验&#10;45站点年，64维只给DL" style="rounded=1;arcSize=10;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=12;fontFamily=Noto Sans CJK SC;fontSize=23;fontColor=#183344;strokeWidth=1.5;fillColor=#edf3f8;strokeColor=#9cb6c8;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="420" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="obs" value="已有可观测前缀&#10;天气、DVS、已施氮" style="rounded=1;arcSize=10;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=12;fontFamily=Noto Sans CJK SC;fontSize=23;fontColor=#183344;strokeWidth=1.5;fillColor=#edf3f8;strokeColor=#9cb6c8;" vertex="1" parent="1">
+          <mxGeometry x="780" y="160" width="420" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="book" value="原生WOFOST C/N真账&#10;343计划/季，只读" style="rounded=1;arcSize=10;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=12;fontFamily=Noto Sans CJK SC;fontSize=23;fontColor=#183344;strokeWidth=1.5;fillColor=#f1f3f5;strokeColor=#a6b1bb;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="160" width="420" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="index" value="层1 已核验输入与队列&#10;来源、时间、单位、掩码" style="rounded=1;arcSize=10;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=12;fontFamily=Noto Sans CJK SC;fontSize=23;fontColor=#183344;strokeWidth=1.5;fillColor=#edf3f8;strokeColor=#9cb6c8;" vertex="1" parent="1">
+          <mxGeometry x="780" y="350" width="420" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dl" value="层2 64维DL农田代理工具&#10;Q8.2待训练校准" style="rounded=1;arcSize=10;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=12;fontFamily=Noto Sans CJK SC;fontSize=23;fontColor=#183344;strokeWidth=1.5;fillColor=#fff4df;strokeColor=#cfaa65;" vertex="1" parent="1">
+          <mxGeometry x="620" y="640" width="500" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="audit" value="离线物理解释审计&#10;WOFOST机理对照，待验证" style="rounded=1;arcSize=10;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=12;fontFamily=Noto Sans CJK SC;fontSize=23;fontColor=#183344;strokeWidth=1.5;fillColor=#fff4df;strokeColor=#cfaa65;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="640" width="500" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="reply" value="结构化农艺与风险答复&#10;产量、籽粒N、盈余、NUE及分布" style="rounded=1;arcSize=10;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=12;fontFamily=Noto Sans CJK SC;fontSize=23;fontColor=#183344;strokeWidth=1.5;fillColor=#fff4df;strokeColor=#cfaa65;" vertex="1" parent="1">
+          <mxGeometry x="620" y="850" width="500" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="clim" value="层3 气象端&#10;ClimateForecastAgent" style="rounded=1;arcSize=10;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=12;fontFamily=Noto Sans CJK SC;fontSize=23;fontColor=#183344;strokeWidth=1.5;fillColor=#fff4df;strokeColor=#cfaa65;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1090" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eco" value="地理城市生态端&#10;UrbanEcoSafetyAgent" style="rounded=1;arcSize=10;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=12;fontFamily=Noto Sans CJK SC;fontSize=23;fontColor=#183344;strokeWidth=1.5;fillColor=#fff4df;strokeColor=#cfaa65;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1090" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="econ" value="社会经济政策端&#10;SocioEconomicPolicyAgent" style="rounded=1;arcSize=10;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=12;fontFamily=Noto Sans CJK SC;fontSize=23;fontColor=#183344;strokeWidth=1.5;fillColor=#fff4df;strokeColor=#cfaa65;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1090" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="core" value="核心农艺统筹端&#10;CoreAgronomicAgent" style="rounded=1;arcSize=10;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=12;fontFamily=Noto Sans CJK SC;fontSize=23;fontColor=#183344;strokeWidth=1.5;fillColor=#fff4df;strokeColor=#cfaa65;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1090" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="advice" value="三端结构化建议&#10;天气风险、生态可行域、经济排序" style="rounded=1;arcSize=10;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=12;fontFamily=Noto Sans CJK SC;fontSize=23;fontColor=#183344;strokeWidth=1.5;fillColor=#fff4df;strokeColor=#cfaa65;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1320" width="900" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="action" value="全季三阶段合法行动&#10;执行当前剂量，再查询" style="rounded=1;arcSize=10;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=12;fontFamily=Noto Sans CJK SC;fontSize=23;fontColor=#183344;strokeWidth=1.5;fillColor=#fff4df;strokeColor=#cfaa65;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1550" width="420" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="valid" value="荷兰CEA与全球五区评价&#10;联合达标、收益、施氮、C/N账" style="rounded=1;arcSize=10;html=0;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=12;fontFamily=Noto Sans CJK SC;fontSize=23;fontColor=#183344;strokeWidth=1.5;fillColor=#fff4df;strokeColor=#cfaa65;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1550" width="500" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sat_index" value="已有向量与来源索引" source="sat" target="index" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#708995;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="210" />
+              <mxPoint x="540" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="obs_index" value="已有前缀字段与单位" source="obs" target="index" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#708995;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="book_index" value="既有账簿与队列索引" source="book" target="index" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=0;exitY=0.5;entryX=1;entryY=0.5;strokeColor=#708995;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="210" />
+              <mxPoint x="1360" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="index_dl" value="64维、天气、DVS；标签仅折内离线" source="index" target="dl" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=0.35;exitY=1;entryX=0.35;entryY=0;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="book_audit" value="离线机理标签（非在线输入）" source="book" target="audit" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_audit" value="内部表示与预测（仅离线）" source="dl" target="audit" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=1;exitY=0.5;entryX=0;entryY=0.5;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="audit_dl" value="折内解释与校准诊断" source="audit" target="dl" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=0.6;exitY=0;entryX=0.8;entryY=0;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1800" y="560" />
+              <mxPoint x="1020" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dl_reply" value="工具响应：物理单位与校准信息" source="dl" target="reply" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="reply_clim" value="天气情景响应" source="reply" target="clim" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=0;exitY=0.5;entryX=0.5;entryY=0;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="reply_eco" value="盈余/损失分布" source="reply" target="eco" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=0.35;exitY=1;entryX=0.5;entryY=0;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="reply_econ" value="产量/籽粒N/NUE" source="reply" target="econ" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=1;exitY=0.5;entryX=0.5;entryY=0;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1310" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="reply_core" value="农艺响应与适用域" source="reply" target="core" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=1;exitY=0.3;entryX=0.5;entryY=0;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1400" y="880" />
+              <mxPoint x="1830" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clim_advice" value="气象建议" source="clim" target="advice" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=0.5;exitY=1;entryX=0;entryY=0.5;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eco_advice" value="生态可行域" source="eco" target="advice" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=0.5;exitY=1;entryX=0.2;entryY=0;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="econ_advice" value="经济与NUE排序" source="econ" target="advice" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=0.5;exitY=1;entryX=0.8;entryY=0;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="advice_core" value="三端建议汇总" source="advice" target="core" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=1;exitY=0.5;entryX=0.25;entryY=1;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1725" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="query" value="四端经Core调用：候选剂量序列" source="core" target="dl" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=1;exitY=0.3;entryX=0.2;entryY=0;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2160" y="1126" />
+              <mxPoint x="2160" y="500" />
+              <mxPoint x="720" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="core_action" value="预算合法当前剂量" source="core" target="action" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=0.75;exitY=1;entryX=0.75;entryY=0;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="feedback" value="下一阶段可观测前缀" source="action" target="core" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=1;exitY=0.5;entryX=1;entryY=0.7;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2230" y="1600" />
+              <mxPoint x="2230" y="1174" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="action_valid" value="行动与季节键（无隐藏真值）" source="action" target="valid" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=0;exitY=0.5;entryX=1;entryY=0.5;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="book_valid" value="只读真实季末账：仅评价" source="book" target="valid" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;strokeWidth=2;labelBackgroundColor=#ffffff;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#445665;exitX=1;exitY=0.5;entryX=0.5;entryY=1;strokeColor=#b07b25;dashed=1;dashPattern=6 5;endArrow=block;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2390" y="210" />
+              <mxPoint x="2390" y="1740" />
+              <mxPoint x="870" y="1740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__legend" value="实线：已有只读取数/来源核验；虚线：Phase8待实现验证。所有训练与在线控制效果尚未验证。" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#536575;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1820" width="2330" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="__caption" value="仅Q8.1设计；Q8.2–Q8.4待批准。64维只进入DL数值后端，任何智能体均不读取或筛选向量；离线物理审计不向在线调用泄漏标签。" style="text;html=0;whiteSpace=wrap;align=left;verticalAlign=middle;strokeColor=none;fillColor=none;fontFamily=Noto Sans CJK SC;fontSize=18;fontColor=#536575;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1870" width="2330" height="46" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
