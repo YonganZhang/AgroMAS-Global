@@ -200,27 +200,27 @@ def add_block(bid, zh_t, en_t, figs=None):
 # Title
 add_block(
     'title',
-    '# 耦合气候、流域、市场与卫星先验的冬小麦全季闭环精准氮肥调控',
-    '# Coupling climate, watershed, market and satellite priors for closed-loop winter wheat nitrogen management'
+    '# 耦合气候、流域、市场与卫星先验的小麦精准氮肥管理',
+    '# Coupling climate, watershed, market and satellite priors for precision wheat nitrogen management'
 )
 
-# Abstract (Five-Step S1-S5, ~235 EN words)
+# Abstract (Five-Step S1-S5, ~245 EN words)
 add_block('sec-abs', '## 摘要', '## Abstract')
 
 abs_en = (
-    'Synchronizing spring and reproductive nitrogen topdressing in winter wheat must sustain farm profitability and grain yield while keeping seasonal efficiency inside a safe bilateral corridor and curbing watershed nitrate surplus. '
+    'Synchronizing split nitrogen fertilization in global wheat production must sustain farm profitability and grain yield while keeping seasonal efficiency inside a safe bilateral corridor and curbing watershed nitrate surplus. '
     'Conventional process-based reinforcement learning and static split rules remain confined to stationary single-station fields with full in-situ sensors, leaving unresolved how coupled decision systems behave when climate warming, stringent nitrate caps, fertilizer price surges and unseen continental transfers act together. '
     'This work introduces AgroMAS-Global, a coupled five-specialist control framework unifying compact conformalized response surrogates, station-demeaned satellite anomaly priors and warming-de-shifted weather branching under non-anticipative three-stage planning verified by a mechanistic simulator. '
-    f'While matching full-budget reinforcement learning across mild historical years (46 of 52 seasons), continuous bilateral coupling elevates historical compliance 6.27-fold over profit-only relaxation to {100*soft["region_equal"]["joint"]:.2f} percent, breaks clear under multi-factor stress by leading matched reinforcement learning by 5.15 and 5.61 percentage points under 1.8 and 3.5 degrees Celsius warming along the 40 kg N ha$^{{-1}}$ cap and by 7.19 to 8.10 percentage points under doubled fertilizer prices, secures a 50.0 percent relative gain on the Wageningen benchmark (28.57 versus 19.05 percent), shrinks ensemble storage from 275.52 MB to 166.3 KB (over 1,690-fold reduction versus 64-tree ensembles with 36.2 percent fewer network weights than reinforcement learning and up to 49.4 percent less ranking regret), and lifts cross-continental sensorless prior gate admission from zero to 60.00 percent. '
-    'These advances demonstrate that coupled bilateral gradient retention and climate-adjusted planning prevent both high-price humus depletion and cap-induced deadlocks.'
+    f'While remaining statistically equivalent to full-budget reinforcement learning under benign historical baselines (25.06 versus 27.00 percent compliance, 46 of 52 seasons tied, mean difference minus 1.94 percentage points, Holm p equals 1.00) and averaging 0.58 percentage points globally across all 180 factorial stress cells (40 wins, 93 ties and 47 losses), continuous bilateral coupling prevents soil-mining collapse (6.27-fold compliance gain over profit-only relaxation), breaks ahead by 5.15 and 5.61 percentage points along the operational 40 kg N ha$^{{-1}}$ ceiling under 1.8 and 3.5 degrees Celsius warming (7.19 to 8.10 percentage points under doubled prices), edges matched reinforcement learning on a seven-season Wageningen cohort (28.57 versus 19.05 percent), reduces serialized model storage over 1,690-fold versus 64-tree ensembles (166.3 KB versus 275.52 MB) alongside 38.5 percent higher compliance and up to 49.4 percent lower regret, and raises cross-continental prior gate admission from zero to 60.00 percent. '
+    'These advances reveal how threshold-dependent coupling prevents both high-price humus depletion and cap-induced deadlocks.'
 )
 
 abs_zh = (
-    '冬小麦返青、拔节与孕穗三阶段精准追肥必须在稳固产量与农户收益的同时，将表观氮利用效率锁定在双侧安全区间并抑制流域硝态氮盈余超标。'
+    '全球小麦全季分期精准施氮必须在稳固产量与农户收益的同时，将表观氮利用效率锁定在双侧安全区间并抑制流域硝态氮盈余超标。'
     '现有过程强化学习与静态农艺分期规则高度依赖气候平稳与田间传感器完备的孤立试验田，未能揭示气候变暖、严格水源红线、高肥价冲击与无传感器跨洲迁移耦合作用时的调控失效与稳健机制。'
     '本研究提出AgroMAS-Global多系统耦合协同调控框架，将紧凑共形响应代理、站点去均值卫星距平先验与去升温偏移天气分支整合于三阶段非预知动态规划，并由独立机理引擎开展封闭检验。'
-    f'在温和历史年份与充分预算强化学习保持统计持平（52年中有46年一致）的基础上，连续双侧耦合使历史达标率较仅收益回退跃升6.27倍至{100*soft["region_equal"]["joint"]:.2f}%，并在多压力耦合下打破僵局，于每公顷40千克氮常规红线与1.8及3.5摄氏度升温下领先匹配强化学习5.15与5.61个百分点（双倍肥价下扩大至7.19至8.10个百分点），在瓦赫宁根公开基准相对领先50.0%（28.57%对比19.05%），同时将代理模型存储自275.52兆字节压缩至166.3千字节（较64棵极端随机树压缩逾1,690倍、单网络参数较强化学习减少36.2%且排序遗憾降低至多49.4%），并把跨洲先验门控准入率从零推升至60.00%。'
-    '结果表明，双侧走廊梯度耦合与去偏移分支前瞻可同步阻断高肥价土壤氮掠夺与严红线零施死锁。'
+    f'在温和历史基准上与充分预算强化学习保持统计等效（联合达标25.06%对比27.00%、52年中有46年一致、配对均值差负1.94个百分点、Holm校正p等于1.00）且180格全因子平均差为0.58个百分点（40胜、93平、47负）的前提下，连续双侧耦合彻底阻断仅收益回退诱发的土壤氮掠夺（达标率跃升6.27倍），在每公顷40千克氮常规红线叠加1.8及3.5摄氏度升温时反超匹配强化学习5.15与5.61个百分点（双倍肥价扩大至7.19至8.10个百分点），并在7季瓦赫宁根独立样本取得28.57%对比19.05%优势，同时较64棵极端随机树实现逾1,690倍存储压缩（166.3千字节对比275.52兆字节）并伴随38.5%相对达标提升与至多49.4%遗憾下降，跨洲先验门控准入率从零升至60.00%。'
+    '结果表明，红线阈值依赖的多系统耦合可同步防范高肥价地力透支与严红线无肥死锁。'
 )
 add_block('abs-body', abs_zh, abs_en)
 
@@ -364,13 +364,13 @@ add_block('intro-p4', p4_zh, p4_en)
 p5_en = (
     'To answer these questions, this study establishes AgroMAS-Global, a coupled five-specialist numerical architecture integrating spatial twin inference, de-shifted warming analogue forecasting, urban watershed safety screening, socio-economic corridor scoring and three-stage non-anticipative dynamic planning over an independent mechanistic crop-soil referee. '
     'Validation spans five global urban-breadbasket archetypes in Perth, Wichita, Lelystad, Beauce and Luancheng across historical baselines, temporal and cross-continental satellite holdouts, and a complete climate-cap-price-subsidy factorial surface. '
-    'Three primary contributions advance coupled agricultural control. First, continuous bilateral corridor retention combined with non-anticipative continuation outperforms profit-only relaxation by 6.27-fold historically, beats reinforcement learning on the independent Dutch benchmark by 50.0 percent relatively and leads decisively under 1.8 and 3.5 degrees Celsius warming and doubled fertilizer prices while shrinking serialized ensemble footprint over 1,690-fold versus tree ensembles. Second, conformalized zero-mean residual integration and station-demeaned satellite decomposition raise cross-continental prior gate admission from zero to 60.00 percent while transparently delineating out-of-region error bounds. Third, full factorial stress testing exposes cap-dependent warming crossovers, uncalibrated prior-subsidy misalignment and strict double-precision conservation integrity across over six million daily transitions. '
+    'Three primary contributions advance coupled agricultural control. First, continuous bilateral corridor retention combined with non-anticipative continuation remains equivalent to reinforcement learning across mild historical years while preventing profit-driven soil-mining collapse (6.27-fold compliance gain), leading under 1.8 and 3.5 degrees Celsius warming and doubled fertilizer prices at the 40 kg N ha$^{-1}$ cap, and cutting serialized ensemble storage over 1,690-fold versus 64-tree baselines with 38.5 percent higher compliance. Second, conformalized zero-mean residual integration and station-demeaned satellite decomposition raise cross-continental prior gate admission from zero to 60.00 percent while transparently delineating out-of-region error bounds. Third, full factorial stress testing exposes cap-dependent warming crossovers, uncalibrated prior-subsidy misalignment and strict double-precision accounting verification across over six million daily transitions. '
     'Section 2 formulates the methodology, Section 3 analyzes comparative, ablation and spatial transfer experiments, Section 4 investigates factorial stress regimes and mass closure, and Sections 5 and 6 synthesize mechanisms and conclusions.'
 )
 p5_zh = (
     '为此，本研究构建了AgroMAS-Global多系统耦合五专职数值协同架构，将空间孪生代理推理、去升温偏移天气类比预报、城市生态安全筛查、社会经济双侧走廊评分与三阶段非预知农艺规划严密耦合并由独立机理引擎封闭校验。'
     '研究基于澳大利亚珀斯、美国威奇托、荷兰莱利斯塔德、法国巴黎盆地与华北平原栾城五大全球城郊麦区，覆盖历史基准、跨年跨洲无传感器迁移及气候政策经济全因子压力场景开展系统实证。'
-    '本文凝练出三项核心学术贡献。其一，连续双侧走廊保留与三阶段非预知规划使历史联合达标率较仅收益回退提升6.27倍，在荷兰独立基准相对PPO取得50.0%优势并在1.8与3.5摄氏度升温及高肥价冲击下持续领先，同时代理序列化存储较集成树缩减逾1,690倍。其二，共形零均值联合残差与站点因果距平分离将跨洲先验门控准入从零拉升至60.00%，并诚实界定准入率与定量预测误差间的边界。其三，全因子压力曲面揭示了红线依赖型升温交叉律与先验补贴激励错位风险，并在逾六百万条日状态记录上通过严格双精度质量守恒检验。'
+    '本文凝练出三项核心学术贡献。其一，连续双侧走廊保留与三阶段非预知规划在温和历史年与强化学习保持等效并彻底遏制土壤透支塌缩（达标较仅收益回退提升6.27倍），在40千克红线叠加1.8与3.5摄氏度升温及高肥价下实现反超，同时代理序列化存储较集成树缩减逾1,690倍且达标高出38.5%。其二，共形零均值联合残差与站点因果距平分离将跨洲先验门控准入从零拉升至60.00%，并诚实界定准入率与定量预测误差间的边界。其三，全因子压力曲面揭示了红线依赖型升温交叉律与先验补贴激励错位风险，并在逾六百万条日状态记录上完成双精度账面核验。'
     '第2节阐述方法与校准协议，第3节展示数据、对比、消融与时空迁移结果，第4节剖析全因子压力与物理闭合检验，第5与第6节探讨科学机理与全文结论。'
 )
 add_block('intro-p5', p5_zh, p5_en)
@@ -394,11 +394,13 @@ add_block('m21-p1', m21_p1_zh, m21_p1_en)
 
 m21_p2_en = (
     'Total seasonal external input $I_N = \\sum_{t=1}^{3} u_t + N_{\\text{base}} + N_{\\text{seed}} + N_{\\text{dep}}$ accounts for topdressing, pre-sowing basal fertilizer, seed nitrogen and atmospheric wet deposition while excluding baseline soil organic nitrogen stocks, and grain removal is denoted $H_N$ [eunep2015]. '
-    'Bilateral EUNEP sustainability demands simultaneous satisfaction of $0.50 \\le \\text{NUE}_{\\text{app}} \\le 0.90$ and watershed-safe surplus $0 \\le S_N \\le S_{\\text{cap}}$ alongside partial profit $\\Pi$.'
+    'Because $H_N$ incorporates nitrogen mineralized from native soil organic matter whereas $I_N$ falls as low as 3.5 kg N ha$^{-1}$ of seed and deposition when synthetic fertilizer is withheld, unfertilized soil mining mathematically pushes apparent efficiency $\\text{NUE}_{\\text{app}} = H_N / I_N$ well above 1.0 alongside negative surplus $S_N < 0$. '
+    'Bilateral EUNEP sustainability therefore demands simultaneous satisfaction of $0.50 \\le \\text{NUE}_{\\text{app}} \\le 0.90$ and watershed-safe surplus $0 \\le S_N \\le S_{\\text{cap}}$ alongside partial profit $\\Pi$.'
 )
 m21_p2_zh = (
     '外源总投入 $I_N = \\sum_{t=1}^{3} u_t + N_{\\text{base}} + N_{\\text{seed}} + N_{\\text{dep}}$ 计入追肥、播前底肥、种子氮与湿沉降并剥离初始土壤氮库，收获籽粒氮移出记作 $H_N$ [eunep2015]。'
-    '双侧可持续管理目标要求表观利用效率 $0.50 \\le \\text{NUE}_{\\text{app}} \\le 0.90$ 与净盈余红线 $0 \\le S_N \\le S_{\\text{cap}}$ 同步达标，并与部分毛收益 $\\Pi$ 共同受物理系统约束。'
+    '由于籽粒吸收 $H_N$ 兼含土壤原生有机氮矿化贡献，一旦停施化肥使分母 $I_N$ 骤降至种子与沉降之和（仅约每公顷3.5千克），土壤氮透支便在数学上推动表观利用率 $\\text{NUE}_{\\text{app}} = H_N / I_N$ 远超 1.0 并伴随负盈余 $S_N < 0$。'
+    '正因如此，EUNEP双侧可持续管理目标要求表观利用效率 $0.50 \\le \\text{NUE}_{\\text{app}} \\le 0.90$ 与净盈余红线 $0 \\le S_N \\le S_{\\text{cap}}$ 同步达标，并与部分毛收益 $\\Pi$ 共同受物理系统约束。'
 )
 add_block('m21-p2', m21_p2_zh, m21_p2_en)
 
@@ -533,13 +535,13 @@ add_block('r31-p1', r31_p1_zh, r31_p1_en)
 r31_p2_en = (
     'Decomposing held-out seasons into five mutually exclusive EUNEP outcomes alongside regional agronomic indicators clarifies why a single static rule fails globally (Fig. 2b and c). '
     'Perth (17.4 t ha$^{-1}$ initial organic nitrogen) and Wichita (11.6 t ha$^{-1}$) occupy active fertilizer-responsive dryland corridors reaching 63.6 and 33.3 percent joint compliance, whereas maritime Lelystad achieves the highest grain yield (9.08 t ha$^{-1}$, 0.83 apparent efficiency) from modest organic pools (7.0 t ha$^{-1}$) yet hovers along the upper surplus ceiling (60.0 percent pure surplus exceedance, 20.0 percent compliance). '
-    'In contrast, Beauce sustains heavy mineralization from fertile stocks (13.15 t ha$^{-1}$), pushing 91.7 percent of seasons above 0.90 apparent efficiency into soil nitrogen mining despite producing 8.53 t ha$^{-1}$. Conversely, Luancheng starts with depleted soil humus (5.64 t ha$^{-1}$) paired with heavy pre-sowing basal nitrogen (171.0 kg N ha$^{-1}$), locking zero joint compliance into 83.3 percent dual surplus-plus-low-efficiency failure (mean efficiency 0.40, grain yield 3.43 t ha$^{-1}$). '
+    'In contrast, Beauce sustains heavy mineralization from fertile stocks (13.15 t ha$^{-1}$), pushing 91.7 percent of seasons above 0.90 apparent efficiency into soil nitrogen mining despite producing 8.53 t ha$^{-1}$. Conversely, Luancheng starts with lower organic reserves (5.64 t ha$^{-1}$) paired with heavy pre-sowing basal fertilizer plus deposition (174.50 kg N ha$^{-1}$ total input), whereas water-limited yields (3.43 t ha$^{-1}$) export only 69.79 kg N ha$^{-1}$ in grain, simultaneously depressing apparent efficiency to 0.40 (below the 0.50 floor) and stranding 104.71 kg N ha$^{-1}$ of excess surplus across 83.3 percent dual-failure seasons. '
     'Projecting regional 1-sigma covariance ellipses onto the bilateral input-removal plane (Fig. 2c) separates dryland compliance in Perth and Wichita, surplus-border concentration in Lelystad, upper soil mining in Beauce and lower-quadrant saturation in Luancheng.'
 )
 r31_p2_zh = (
     '结合五类互斥氮收支归属与产区基础农艺指标可以清晰阐明静态单点经验为何难以全球通用（图2b与c）。'
     '珀斯（初始有机氮每公顷17.4吨）与威奇托（每公顷11.6吨）处于积极追肥主导的较高达标带（联合达标63.6%与33.3%），而高产密集区荷兰莱利斯塔德依托每公顷7.0吨土壤库支撑每公顷9.08吨高产，紧贴盈余上限徘徊（60.0%纯超限、20.0%达标）。'
-    '反之，巴黎盆地凭借每公顷13.15吨肥沃土壤高矿化支撑8.53吨高产的同时，令91.7%年份表观效率跃过0.90上限陷入土壤透支。华北栾城则因初始土壤库较贫瘠（每公顷5.64吨）且播前底肥已高达每公顷171.0千克，测试期联合达标率为零（83.3%跌入高盈余叠加0.40低效率双违约）。图2c相平面一倍标准差椭圆直观勾勒出五大产区在双侧安全楔区内外的水肥物理位置分异。'
+    '反之，巴黎盆地凭借每公顷13.15吨肥沃土壤高矿化支撑8.53吨高产的同时，令91.7%年份表观效率跃过0.90上限陷入土壤透支。华北栾城则因播前基肥与湿沉降总投入已达每公顷174.50千克（初始土壤有机氮5.64吨），而水分限制产量（每公顷3.43吨）仅带走69.79千克籽粒氮，在算术上同步把表观效率拉低至0.40（低于0.50下限）并遗留104.71千克净盈余超限，导致83.3%测试年份双指标同时违约。图2c相平面一倍标准差椭圆直观勾勒出五大产区在双侧安全楔区内外的水肥物理位置分异。'
 )
 add_block('r31-p2', r31_p2_zh, r31_p2_en)
 
@@ -583,14 +585,14 @@ add_block('sec-r32', '### 3.2 实验设置与基线参数规模对比', '### 3.2
 r32_setup_en = (
     'To test whether lightweight domain-coupled intelligence matches or surpasses heavy tree ensembles and on-policy reinforcement learning without real-time field sensors, AgroMAS-Global (Soft-Coupled) is evaluated against three controller paradigms sharing identical 220 kg N ha$^{-1}$ budgets and legal action masks. '
     'First, reference sequential and agronomic policies encompass a matched sensorless proximal policy optimization agent (20,616 trainable weights across actor and critic) and the full-telemetry agronomic split rule DVS-N2 [baja2025, ppo2017]. '
-    'Second, surrogate baselines substitute 64-tree extremely randomized ensembles spanning 1,723,434 decision nodes (275.52 MB serialized storage per model), weather-only networks and linear regression baselines for the compact three-seed twin neural ensemble (13,155 weights and 55.4 KB per member, totaling 166.3 KB), delivering a 1,696-fold serialized storage reduction versus tree ensembles and 36.2 percent fewer trainable weights per network than reinforcement learning. '
+    'Second, surrogate baselines substitute 64-tree extremely randomized ensembles occupying 275.52 MB serialized storage per model (1,723,434 tree split nodes), weather-only networks and linear regression baselines for the compact three-seed twin neural ensemble (13,155 weights and 55.4 KB per checkpoint, totaling 166.3 KB), delivering a 1,696-fold serialized memory footprint reduction alongside 38.5 percent higher closed-loop compliance than tree ensembles, as well as 36.2 percent fewer trainable weights per network than the reinforcement learning policy (noting that neural parameters and tree split nodes are architectural counterparts rather than directly equivalent capacity metrics). '
     'Third, degraded planner variants isolate strict hard-tail pruning (Tier2-Composite), open-loop static scheduling, greedy single-step selection and profit-only bare relaxation. '
     'Statistical comparisons enforce identical seed averaging followed by full-family Holm-adjusted exact sign tests and equal-region bootstrap confidence intervals.'
 )
 r32_setup_zh = (
     '为公正比较轻量化多专职协同架构与重型树集成及在线强化学习在无传感器条件下的真实差距，所有对照基线均在相同的每公顷220千克总预算与合法动作掩码下同步考核。'
     '第一类主流参照包括同信息屏蔽传感器的匹配PPO智能体（含20,616个可训练权重）以及享有完整遥测信息的农艺分期规则DVS-N2 [baja2025, ppo2017]。'
-    '第二类替代代理基线把本文三随机种子冻结轻量神经网络集成（每成员13,155权重、磁盘仅55.4千字节，三成员合计166.3千字节）替换为含1,723,434个分裂节点的64棵极端随机树集成（单模型序列化达275.52兆字节）、纯气象代理及线性模型，突显本文逾1,696倍的磁盘模型压缩与较PPO轻量化36.2%的神经网络参数优势。'
+    '第二类替代代理基线把本文三随机种子冻结轻量神经网络集成（每成员13,155权重、磁盘仅55.4千字节，三成员合计166.3千字节）替换为单模型序列化达275.52兆字节（含1,723,434个分裂节点）的64棵极端随机树集成、纯气象代理及线性模型。神经网络与树节点属于不同模型范式而非可直接折算的容量指标，但在真实部署存储上本文实现逾1,696倍压缩的同时仍比树代理闭环达标高出38.5%，单网络可训练权重亦较PPO减少36.2%。'
     '第三类退化规划变体涵盖硬截断复合筛选、开环计划、单步贪心与仅保留收益的裸回退机制。所有检验均在农场年内部聚合多种子均值后开展统一Holm校正符号检验。'
 )
 add_block('r32-setup', r32_setup_zh, r32_setup_en)
@@ -599,16 +601,16 @@ add_block('r32-setup', r32_setup_zh, r32_setup_en)
 add_block('sec-r33', '### 3.3 多策略综合对比实验与季内物理机制解析', '### 3.3 Comparative Experiments')
 
 r33_comp1_en = (
-    'Across mild historical baselines, multi-specialist coupling matches heavy reference controllers while decisively outperforming alternative surrogates, degraded planners and profit-only relaxation (Table 2 and Fig. 3). '
-    f'Under these stationary historical conditions, sensorless Soft-Coupled control ({100*soft["region_equal"]["joint"]:.2f} percent) ties full-budget matched sensorless PPO ({100*ppo["region_equal"]["joint"]:.2f} percent) in 46 of 52 farm-years (Holm p equals {ppo_vs["Holm_sign_p_full_family"]:.2f}) and full-telemetry DVS-N2 ({100*dvs["region_equal"]["joint"]:.2f} percent) in 47 of 52 seasons, confirming stationary parity prior to coupled climate-economic stress, while attaining a 50.0 percent relative edge across seven seasons on the independent Wageningen benchmark (28.57 percent and 1457.25 EUR ha$^{{-1}}$ versus 19.05 percent and 1446.51 EUR ha$^{{-1}}$ for PPO, and zero compliance for DVS-N2). '
-    f'Crucially, compared with profit-only bare relaxation ({100*bare["region_equal"]["joint"]:.2f} percent), Soft-Coupled planning multiplies equal-region compliance by 6.27 times. Although profit-only fallback records a higher nominal partial profit (976.33 versus 887.77 EUR ha$^{{-1}}$), standard farm-gate accounting charges 1.5 EUR per kg for purchased fertilizer while valuing depleted native soil nitrogen at zero, allowing bare relaxation to inflate short-term income by drawing down soil humus (apparent NUE 11.56, mean surplus minus 33.78 kg N ha$^{{-1}}$). '
-    f'Under identical sensorless inputs, Soft-Coupled planning also achieves relative compliance gains of 38.5 percent over ExtraTrees ({100*et_soft["region_equal"]["joint"]:.2f} percent), 39.8 percent over weather-only surrogates ({100*weath_soft["region_equal"]["joint"]:.2f} percent), 73.4 percent over linear models ({100*lin_soft["region_equal"]["joint"]:.2f} percent), 25.9 percent over open-loop schedules ({100*open_lp["region_equal"]["joint"]:.2f} percent) and 52.6 percent over greedy single-step policies ({100*greedy["region_equal"]["joint"]:.2f} percent).'
+    'Across mild historical baselines, multi-specialist coupling matches full-budget reference controllers in overall frequency while preventing uncoupled soil-mining collapses and outperforming alternative surrogates and degraded planners (Table 2 and Fig. 3). '
+    f'Under these stationary historical conditions, sensorless Soft-Coupled control ({100*soft["region_equal"]["joint"]:.2f} percent) remains statistically indistinguishable from matched sensorless PPO ({100*ppo["region_equal"]["joint"]:.2f} percent, paired difference minus 1.94 percentage points, 95 percent interval minus 8.55 to 4.09 percentage points, 46 of 52 farm-years tied, Holm p equals {ppo_vs["Holm_sign_p_full_family"]:.2f}) and full-telemetry DVS-N2 ({100*dvs["region_equal"]["joint"]:.2f} percent, 47 of 52 tied), confirming parity under benign stationary weather prior to stress differentiation. On the small-sample seven-season single-site Wageningen benchmark (where statistical power is inherently constrained by n equals 7), Soft-Coupled attains 28.57 percent compliance and 1457.25 EUR ha$^{{-1}}$ versus 19.05 percent and 1446.51 EUR ha$^{{-1}}$ for PPO and zero percent for DVS-N2. '
+    f'Crucially, compared with profit-only bare relaxation ({100*bare["region_equal"]["joint"]:.2f} percent), Soft-Coupled multiplies equal-region compliance 6.27-fold. While bare fallback, open-loop scheduling and weather-only control report mean apparent NUE values exceeding 1.0 (11.56, 1.68 and 1.31, Table 2), this occurs mathematically because EUNEP apparent NUE divides grain nitrogen harvested partly from mineralized native soil humus by minimal external inputs ($I_N$), producing inflated nominal partial profit ({bare["region_equal"]["partial_profit"]:.2f} versus {soft["region_equal"]["partial_profit"]:.2f} EUR ha$^{{-1}}$ under bare fallback) strictly through unpriced soil nitrogen mining ($S_N$ minus 33.78 kg N ha$^{{-1}}$). '
+    f'Under identical sensorless inputs, Soft-Coupled also achieves relative compliance gains of 38.5 percent over ExtraTrees ({100*et_soft["region_equal"]["joint"]:.2f} percent), 39.8 percent over weather-only surrogates ({100*weath_soft["region_equal"]["joint"]:.2f} percent), 73.4 percent over linear models ({100*lin_soft["region_equal"]["joint"]:.2f} percent), 25.9 percent over open-loop schedules ({100*open_lp["region_equal"]["joint"]:.2f} percent) and 52.6 percent over greedy single-step policies ({100*greedy["region_equal"]["joint"]:.2f} percent).'
 )
 r33_comp1_zh = (
-    '在温和历史单点基准上，多专职耦合架构与重型参照策略保持统计等效，同时全面超越简化代理、退化规划及仅收益回退（表2与图3）。'
-    f'平顺历史条件下无传感器软耦合（{100*soft["region_equal"]["joint"]:.2f}%）与同信息PPO（{100*ppo["region_equal"]["joint"]:.2f}%）及完整遥测农艺规则（{100*dvs["region_equal"]["joint"]:.2f}%）在52个农场年中分别有46年与47年决策一致，确证其在非胁迫稳态下的基准可靠性，并在独立7季荷兰瓦赫宁根公开基准相对PPO率先拉出50.0%领先优势（28.57%对比19.05%，静态DVS-N2为零达标）。'
-    f'尤为关键的是，软耦合联合达标率较仅收益裸回退（{100*bare["region_equal"]["joint"]:.2f}%）跃升6.27倍。后者虽靠停施呈现每公顷976.33欧元的账面高收益（对比软耦合887.77欧元），但这纯属标准部分利润核算只计购肥成本而对消耗土壤有机氮库免费计价所致（表观NUE飙至11.56、净盈余跌至负33.78千克）。'
-    f'在严格同等无传感器条件下，软耦合亦相对极端随机树（{100*et_soft["region_equal"]["joint"]:.2f}%）、纯气象（{100*weath_soft["region_equal"]["joint"]:.2f}%）、线性（{100*lin_soft["region_equal"]["joint"]:.2f}%）、开环（{100*open_lp["region_equal"]["joint"]:.2f}%）与单步贪心（{100*greedy["region_equal"]["joint"]:.2f}%）稳定取得25.9%至73.4%相对增益。'
+    '在温和历史单点基准上，多专职耦合架构与充分预算参照策略保持整体统计等效，同时彻底阻断无护栏土壤透支并显著领先替代代理与退化规划（表2与图3）。'
+    f'平顺历史条件下无传感器软耦合（{100*soft["region_equal"]["joint"]:.2f}%）与同信息PPO（{100*ppo["region_equal"]["joint"]:.2f}%，配对差负1.94个百分点，95%区间负8.55至4.09个百分点，52年中有46年一致，Holm校正p等于{ppo_vs["Holm_sign_p_full_family"]:.2f}）及完整遥测DVS-N2（{100*dvs["region_equal"]["joint"]:.2f}%，47年一致）处于统计等效区间，在独立小样本7季瓦赫宁根基准（受限于n=7检验功效）取得28.57%（收益1457.25欧元）对比PPO的19.05%（1446.51欧元）及DVS-N2的零达标。'
+    f'尤为关键的是，软耦合联合达标率较仅收益裸回退（{100*bare["region_equal"]["joint"]:.2f}%）跃升6.27倍。表2中仅收益回退（11.56）、开环（1.68）与纯气象（1.31）的表观NUE均高于1.0，这正源自EUNEP分母仅计入极低外源投入而籽粒移出兼含原生土壤矿化氮的物理机制，导致裸回退靠未计价土壤腐殖质矿化掠夺（净盈余负33.78千克）虚增每公顷{bare["region_equal"]["partial_profit"]:.2f}欧元的账面部分收益（对比软耦合{soft["region_equal"]["partial_profit"]:.2f}欧元）。'
+    f'同等无传感器条件下，软耦合相对极端随机树、纯气象、线性、开环与单步贪心分别取得25.9%至73.4%的相对达标率优势。'
 )
 add_block('r33-p1', r33_comp1_zh, r33_comp1_en)
 
@@ -794,14 +796,14 @@ d51_p1_en = (
     'This investigation demonstrates that encoding climate de-shifting, distributional quantile integration and bilateral corridor geometry inside collaborative specialists eliminates the need for oversized black-box networks or real-time field sensors. '
     'Integrating candidate schedules across complete weather-by-residual distributions rather than deterministic point predictions enables the eco-safety and economic specialists to weigh rare spring nitrate leaching storms directly against dryland organic nitrogen depletion across both semi-arid and maritime wheats. '
     'Equally important, decomposing external climate risks, watershed caps and bilateral incentives into explicit numerical operators liberates each surrogate neural network from memorizing non-stationary regime shifts through parameter inflation, allowing every ensemble member to maintain only 13,155 weights (55.4 KB per checkpoint and 166.3 KB across three members). '
-    'Compared with 64-tree ensembles occupying 275.52 MB per serialized instance (1,723,434 decision nodes), this structured surrogate reduces serialized memory footprint over 1,690-fold while boosting historical compliance from 18.09 to 25.06 percent, lowering calibrated profit ranking regret by 40.8 to 49.4 percent and surpassing a 20,616-parameter reinforcement learning agent across coupled warming and price-shock stressors with 36.2 percent fewer weights per network. '
+    'Compared with 64-tree ensembles occupying 275.52 MB per serialized instance (1,723,434 decision nodes), this structured neural surrogate shrinks serialized deployment memory footprint over 1,690-fold while raising historical compliance by 38.5 percent relatively (25.06 versus 18.09 percent) and lowering calibrated profit ranking regret by 40.8 to 49.4 percent, while surpassing a 20,616-parameter reinforcement learning agent across warming and price-shock stressors along the standard 40 kg N ha$^{-1}$ ceiling with 36.2 percent fewer trainable weights per network. '
     'Because bilateral efficiency-surplus geometry and seasonal split staging characterize cereals and row crops broadly, embedding physical conservation inside compact structured planners offers direct methodological value across maize, rice and broader watershed agricultural systems.'
 )
 d51_p1_zh = (
     '本研究从机制上阐明，在协同决策内部显式嵌入去偏移气象分支、联合分位残差积分与双侧养分走廊几何边界，能够以极轻量结构取代庞杂黑箱与昂贵田间传感器。'
     '生态安全与经济模块在完整气候分枝与零均值残差乘积分布上共同权衡，从而摆脱单点确定性预测在旱作矿化爆发与湿季强降水淋洗下的尾部误判。'
     '更为关键的是，将外生气象风险、水源红线与经济走廊显式拆分为专职数值算子，使响应代理网络无需靠参数膨胀去硬吃非平稳环境漂移，每个成员得以维持仅13,155个权重的高度精简结构（单成员55.4千字节、三成员合计仅166.3千字节）。'
-    '相较占用275.52兆字节存储（含1,723,434个分裂节点）的64棵极端随机树基线，本文代理实现了逾1,696倍磁盘空间压缩，同时把历史联合达标率由18.09%抬升至25.06%、决策排序遗憾压降40.8%至49.4%，并在单网络权重较20,616参数强化学习减少36.2%的前提下于升温与高肥价压力区持续领跑。由于双侧收支几何与分期施氮动力学同样主导玉米、水稻等大田谷物，这种物理与政策同构的轻量化协作架构具备广阔的跨作物迁移价值。'
+    '相较占用275.52兆字节存储的64棵极端随机树基线，本文代理将实际部署磁盘内存缩减逾1,690倍，同时历史闭环达标相对树模型提升38.5%（25.06%对比18.09%）、决策排序遗憾压降40.8%至49.4%，并在单网络可训练权重较20,616参数强化学习减少36.2%的前提下于40千克红线升温与高肥价压力区持续领跑。由于双侧收支几何与分期施氮动力学同样主导玉米、水稻等大田谷物，这种物理与政策同构的轻量化协作架构具备广阔的跨作物迁移价值。'
 )
 add_block('d51-p1', d51_p1_zh, d51_p1_en)
 
@@ -828,7 +830,7 @@ d53_p1_en = (
     'Important physical assumptions bound these findings and explain remaining cross-regime trade-offs. '
     'First, even compliant seasonal controls extract approximately 221 to 224 kg N ha$^{-1}$ from baseline soil organic nitrogen within an isolated reset winter wheat season, confirming that short-term apparent corridor compliance cannot substitute for multi-year crop-rotation stock stewardship. '
     'Second, lifting closed-loop cross-continental anomaly admission under frozen causal linear adapters leaves out-of-region grain nitrogen squared error marginally above static soil Ridge models (517.65 versus 505.15 kg$^2$ ha$^{-2}$), demonstrating that out-of-distribution gate passage does not automatically lower prediction error without regional fine-tuning. Simultaneously, 90 percent macro conformal coverage coexists with conditional undercoverage of 75.19 percent in semi-arid Western Australia, capping direct dryland deployment until region-stratified conformal recalibration is applied. '
-    'Third, benchmark experiments rely on historical climate analogues and idealized warming shifts over representative regional profiles rather than operational synoptic weather forecasts, within-field textural transects or whole-farm machinery cost ledgers. Daily carbon-nitrogen balance verification confirms numerical accounting integrity within the simulator-controller pipeline rather than replacing empirical lysimeter observations. '
+    'Third, benchmark experiments rely on historical climate analogues, idealized warming shifts and complete annual prior-year satellite composites over representative regional profiles rather than operational synoptic weather forecasts, cloud-gapped near-real-time imagery, within-field textural transects or whole-farm machinery cost ledgers. Daily carbon-nitrogen balance verification confirms numerical accounting integrity within the simulator-controller pipeline rather than replacing empirical lysimeter observations. '
     'Finally, uncalibrated ecological subsidies tied directly to prior compliance probabilities risk incentivizing borderline surplus dosing without reducing deep nitrate leaching. '
     'Future work will pursue three concrete extensions, including within-region multi-texture soil and lysimeter groundwater nitrate monitoring transects, region-conditional conformal recalibration and subsidy coupling to calibrated lower bounds, and multi-season prospective field trials driven by operational numerical weather ensembles.'
 )
@@ -836,7 +838,7 @@ d53_p1_zh = (
     '若干物理设定与建模边界客观刻画了本研究结论的适用外延及残余权衡。'
     '首先，即便在满足EUNEP双侧达标要求的控制轨迹下，单季重置小麦模拟仍会动用约每公顷221至224千克初始土壤有机氮（对应扣除库存后的全口径NUE约0.35），提示表观投入产出达标绝不能替代多年连续轮作下的长周期土壤肥力平衡核算。'
     '其次，冻结参数版因果空间适配器虽将跨洲先验门控准入率提升至60.00%至72.02%，但跨洲籽粒氮均方误差（517.65）尚未优于物理土壤基线（505.15），证实先验准入并不等同于无需微调即可降低定量误差。同期开发集90%宏平均覆盖率在半干旱西澳存在75.19%的条件覆盖不足，提示旱作实际推广前必须执行区域条件共形再校准。'
-    '再次，基准测试依赖区域代表性土壤剖面与类比增温气象逼近，逐日碳氮收支验证衡量的是仿真与控制闭环的数值无损计算完整性，尚不能取代原位渗漏池与多质地地下水实测。'
+    '再次，基准测试依赖区域代表性土壤剖面、完整前一年卫星年度合成表征与类比增温气象逼近，尚未完整纳入真实业务集合天气预报误差、实时光学卫星云层遮挡与延迟、百米级田块质地空间变异与农机作业全成本核算。逐日碳氮收支验证衡量的是仿真与控制闭环的数值无损计算完整性，尚不能取代原位渗漏池与多质地地下水实测。'
     '此外，补贴试验提示未来政策激励必须绑定共形安全下界以根除边界投机。后续研究将围绕产区内多质地水土渗漏断面实测、区域条件共形再校准及接入业务数值天气预报的多作季前瞻田间示范三大方向扎实推进。'
 )
 add_block('d53-p1', d53_p1_zh, d53_p1_en)
@@ -845,14 +847,14 @@ add_block('d53-p1', d53_p1_zh, d53_p1_en)
 add_block('sec-conc', '## 6 结论', '## 6 Conclusions')
 
 conc_en = (
-    'Coupling compact conformalized surrogates, warming-de-shifted analogue weather ensembles, watershed surplus safeguards, bilateral socio-economic corridor scoring and three-stage non-anticipative dynamic planning inside AgroMAS-Global advances sequential winter wheat fertilization from isolated stationary stations to resilient multi-continental management. '
-    f'Across five contrasting archetypes, objective-preserving soft coupling maintains statistical equivalence with full-budget reinforcement learning across mild historical years (46 of 52 seasons) while elevating compliance 6.27-fold over profit-only relaxation to {100*soft["region_equal"]["joint"]:.2f} percent, achieves a 50.0 percent relative gain on the independent Wageningen benchmark (28.57 versus 19.05 percent), breaks clear under coupled warming stress by leading matched reinforcement learning by 5.15 and 5.61 percentage points at the operational 40 kg N ha$^{{-1}}$ ceiling (expanding to 7.19 to 8.10 percentage points under doubled fertilizer prices), compresses ensemble storage over 1,690-fold from 275.52 MB to 166.3 KB with up to 49.4 percent less ranking regret, and lifts cross-continental sensorless prior gate admission from zero to 60.00 percent. '
-    'Finally, full factorial testing quantifies both a 100 EUR ha$^{{-1}}$ moderate-warming subsidy inflection and uncalibrated prior-incentive misalignment, alongside single-season soil drawdown diagnostics and double-precision mass accounting integrity across six million daily transitions for upcoming multi-season field validation.'
+    'Coupling compact conformalized surrogates, warming-de-shifted analogue weather ensembles, watershed surplus safeguards, bilateral socio-economic corridor scoring and three-stage non-anticipative dynamic planning inside AgroMAS-Global advances sequential wheat fertilization from isolated stationary stations to resilient multi-continental management. '
+    f'Across five contrasting archetypes, objective-preserving soft coupling maintains statistical parity with full-budget reinforcement learning across mild historical years (46 of 52 seasons tied, mean difference minus 1.94 percentage points, Holm p equals 1.00) and averages a narrow 0.58 percentage-point margin across all 180 factorial stress cells (40 wins, 93 ties and 47 losses), yet prevents soil-mining collapses (6.27-fold compliance gain over profit-only relaxation to {100*soft["region_equal"]["joint"]:.2f} percent), edges matched reinforcement learning across seven Wageningen seasons (28.57 versus 19.05 percent), leads by 5.15 and 5.61 percentage points under 1.8 and 3.5 degrees Celsius warming along the operational 40 kg N ha$^{{-1}}$ ceiling (7.19 to 8.10 percentage points under doubled fertilizer prices), compresses ensemble storage over 1,690-fold versus tree baselines (166.3 KB versus 275.52 MB) alongside 38.5 percent higher compliance and up to 49.4 percent less regret, and lifts cross-continental sensorless prior gate admission from zero to 60.00 percent. '
+    'Finally, full factorial testing quantifies both a 100 EUR ha$^{{-1}}$ moderate-warming subsidy inflection and uncalibrated prior-incentive misalignment, alongside single-season soil drawdown diagnostics and double-precision accounting verification across six million daily transitions for upcoming multi-season field validation.'
 )
 conc_zh = (
-    '通过将紧凑共形响应代理、去升温偏移天气类比集合、流域氮盈余红线、社会经济双侧走廊与三阶段非预知动态规划解耦耦合于AgroMAS-Global，本研究推动冬小麦精准施氮从理想平稳单田走向多洲际高压协同调控。'
-    f'跨越五大典型麦区的系统评估证明，连续目标保持型软耦合在温和历史年份与充分预算强化学习高度持平（52年中有46年一致）且较仅收益回退提升6.27倍至{100*soft["region_equal"]["joint"]:.2f}%，在瓦赫宁根独立基准相对PPO实现50.0%领先（28.57%对比19.05%），并在1.8与3.5摄氏度升温及主流红线下领先匹配PPO达5.15与5.61个百分点（肥价翻倍下扩大至7.19至8.10个百分点），以逾1,690倍存储压缩（275.52兆字节降至166.3千字节）将选优遗憾削减至多49.4%，同时把跨洲无传感器先验准入率由零拉升至60.00%。'
-    '同期完成的全口径土壤氮动用拆解、适度升温每公顷100欧元补贴拐点与激励错位边界分析，以及逾六百万条日步长双精度质量核算检验，为后续多年多季田间实证提供了严谨基准。'
+    '通过将紧凑共形响应代理、去升温偏移天气类比集合、流域氮盈余红线、社会经济双侧走廊与三阶段非预知动态规划解耦耦合于AgroMAS-Global，本研究推动小麦精准施氮从理想平稳单田走向多洲际高压协同调控。'
+    f'跨越五大典型麦区的系统评估证明，连续目标保持型软耦合在温和历史年份与充分预算强化学习统计等效（52年中有46年一致、均值差负1.94个百分点、Holm校正p等于1.00）且180格全因子平均净差为0.58个百分点（40胜、93平、47负），但在关键压力带发挥决定性防塌缩效用，较仅收益回退提升6.27倍至{100*soft["region_equal"]["joint"]:.2f}%，在7季瓦赫宁根基准取得28.57%对比19.05%优势，在1.8与3.5摄氏度升温及每公顷40千克氮主流红线下净胜PPO达5.15与5.61个百分点（肥价翻倍扩至7.19至8.10个百分点），以逾1,690倍存储压缩（166.3千字节对比275.52兆字节）取得高出树基线38.5%的达标表现并削减至多49.4%遗憾，同时把跨洲无传感器先验准入率由零拉升至60.00%。'
+    '同期完成的全口径土壤氮动用拆解、适度升温每公顷100欧元补贴拐点与激励错位边界分析，以及逾六百万条日步长双精度质量账面核验，为后续多年多季田间实证提供了严谨基准。'
 )
 add_block('conc-body', conc_zh, conc_en)
 

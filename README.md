@@ -1,11 +1,11 @@
 # AgroMAS-Global
 
-**Coupling climate, watershed, market and satellite priors for closed-loop winter wheat nitrogen management**  
-**耦合气候、流域、市场与卫星先验的冬小麦全季闭环精准氮肥调控**
+**Coupling climate, watershed, market and satellite priors for precision wheat nitrogen management**  
+**耦合气候、流域、市场与卫星先验的小麦精准氮肥管理**
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
-`AgroMAS-Global` is a five-specialist numerical collaborative control framework for seasonal winter wheat topdressing across heterogeneous climate warming trajectories, urban drinking-water watershed nitrate surplus ceilings, fertilizer price shocks, green policy subsidies, and sensorless cross-continental transfers, independently evaluated over the mechanistic **WOFOST81-SNOMIN** (`pcse`) crop–soil simulator.
+`AgroMAS-Global` is a five-specialist numerical collaborative control framework for seasonal wheat nitrogen fertilization across heterogeneous climate warming trajectories, urban drinking-water watershed nitrate surplus ceilings, fertilizer price shocks, green policy subsidies, and sensorless cross-continental transfers, independently evaluated over the mechanistic **WOFOST81-SNOMIN** (`pcse`) crop–soil simulator.
 
 ---
 
